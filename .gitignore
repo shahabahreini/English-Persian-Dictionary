@@ -1,0 +1,12 @@
+.DS_Store
+._*
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# pipeline working directory and third-party reference data (see pipeline/README.md)
+work/
+pipeline/ref/
+pipeline/unpacked/
+*.mobi.orig

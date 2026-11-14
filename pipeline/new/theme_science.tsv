@@ -1,0 +1,2147 @@
+coronavirus	medicine	کروناویروس، ویروس کرونا
+covid-19	medicine	Coronavirus Disease 2019؛ کووید ۱۹، بیماری کرونا
+covid	medicine	کووید، کرونا
+long covid	medicine	کووید طولانی، کرونای طولانی‌مدت (ماندگاری علائم پس از بهبود)
+sars	medicine	Severe Acute Respiratory Syndrome؛ سارس، سندرم حاد تنفسی شدید
+sars-cov-2	medicine	ویروس سارس-کوو ۲ (عامل بیماری کووید ۱۹)
+mers	medicine	Middle East Respiratory Syndrome؛ مرس، سندرم تنفسی خاورمیانه
+pandemic	medicine	همه‌گیری جهانی، پاندمی، دنیاگیری
+epidemic	medicine	همه‌گیری، اپیدمی
+endemic	medicine	بومی، اندمیک (بیماری همیشه‌حاضر در یک منطقه)
+outbreak	medicine	شیوع، طغیان (بیماری)
+lockdown	medicine	قرنطینه سراسری، تعطیلی سراسری، لاک‌داون
+quarantine	medicine	قرنطینه؛ قرنطینه کردن
+self-isolation	medicine	خودقرنطینگی، قرنطینه خانگی، جداسازی خودخواسته
+self-quarantine	medicine	خودقرنطینگی، قرنطینه خانگی
+social distancing	medicine	فاصله‌گذاری اجتماعی
+physical distancing	medicine	فاصله‌گذاری فیزیکی
+herd immunity	medicine	ایمنی جمعی، ایمنی گله‌ای
+booster	medicine	دوز یادآور، دوز تقویتی (واکسن)
+booster shot	medicine	دوز یادآور، واکسن یادآور
+booster dose	medicine	دوز یادآور، دوز تقویتی
+variant	medicine	سویه، واریانت، گونه جهش‌یافته (ویروس)
+strain	medicine	سویه (ویروس یا باکتری)؛ کشیدگی (عضله)
+mutation	biology	جهش، جهش ژنتیکی
+mutant	biology	جهش‌یافته
+contact tracing	medicine	ردیابی تماس‌ها، ردگیری افراد در تماس با بیمار
+super-spreader	medicine	اَبَرناقل، اَبَرپخش‌کننده
+superspreader	medicine	اَبَرناقل، اَبَرپخش‌کننده
+asymptomatic	medicine	بی‌علامت، بدون علامت
+symptomatic	medicine	علامت‌دار، دارای علائم بیماری
+presymptomatic	medicine	پیش‌علامتی، در مرحله پیش از بروز علائم
+incubation period	medicine	دوره نهفتگی، دوره کمون
+community transmission	medicine	انتقال در سطح جامعه، سرایت اجتماعی
+transmissibility	medicine	سرایت‌پذیری، قابلیت انتقال
+reproduction number	medicine	عدد تکثیر، عدد سرایت (میانگین افرادی که هر بیمار مبتلا می‌کند)
+r number	medicine	عدد آر، عدد سرایت (بیماری همه‌گیر)
+flatten the curve	medicine	هموار کردن منحنی (کُند کردن سرعت شیوع بیماری)
+case fatality rate	medicine	نرخ کشندگی بیماری، میزان مرگ در مبتلایان
+mortality rate	medicine	نرخ مرگ‌ومیر، میزان مرگ‌ومیر
+excess mortality	medicine	مرگ‌ومیر مازاد، مرگ‌های اضافه
+morbidity	medicine	ابتلا، بیماری‌زایی، میزان ابتلا
+comorbidity	medicine	بیماری همراه، هم‌ابتلایی، بیماری زمینه‌ای
+underlying condition	medicine	بیماری زمینه‌ای
+pre-existing condition	medicine	بیماری زمینه‌ای، بیماری از پیش موجود
+immunocompromised	medicine	دچار نقص ایمنی، دارای ضعف سیستم ایمنی
+immunosuppressed	medicine	دچار سرکوب ایمنی، دارای ایمنی سرکوب‌شده
+ppe	medicine	Personal Protective Equipment؛ تجهیزات حفاظت فردی
+personal protective equipment	medicine	تجهیزات حفاظت فردی
+face mask	medicine	ماسک صورت، ماسک
+n95	medicine	ماسک اِن۹۵ (ماسک تنفسی با قدرت پالایش بالا)
+respirator	medicine	ماسک تنفسی، رسپیراتور؛ دستگاه تنفس مصنوعی
+ventilator	medicine	دستگاه تنفس مصنوعی، ونتیلاتور
+intubation	medicine	لوله‌گذاری (در نای)، انتوباسیون
+hand sanitizer	medicine	ضدعفونی‌کننده دست، ژل ضدعفونی
+sanitizer	medicine	ماده ضدعفونی‌کننده
+rapid test	medicine	آزمایش سریع، تست سریع
+antigen test	medicine	تست آنتی‌ژن، آزمایش پادگن
+antibody test	medicine	آزمایش پادتن، تست آنتی‌بادی
+swab	medicine	سواب، گوش‌پاک‌کنِ نمونه‌برداری؛ نمونه‌برداری با سواب
+false positive	medicine	مثبت کاذب
+false negative	medicine	منفی کاذب
+vaccine	medicine	واکسن، مایه
+vaccination	medicine	واکسیناسیون، واکسن زدن، مایه‌کوبی
+vaccinate	medicine	واکسینه کردن، واکسن زدن، مایه‌کوبی کردن
+immunization	medicine	ایمن‌سازی، واکسیناسیون
+mrna vaccine	medicine	واکسن ام‌آر‌ان‌ای، واکسن آران‌ای پیام‌رسان
+vaccine hesitancy	medicine	تردید نسبت به واکسن، واکسن‌هراسی
+anti-vaxxer	slang	(عامیانه) مخالف واکسن، واکسن‌ستیز
+adjuvant	medicine	ادجوانت، یاور (ماده تقویت‌کننده پاسخ ایمنی واکسن)؛ (درمان) کمکی
+efficacy	medicine	اثربخشی، کارایی (دارو یا واکسن)
+side effect	medicine	عارضه جانبی، اثر جانبی
+adverse effect	medicine	عارضه ناخواسته، اثر نامطلوب
+adverse event	medicine	رویداد نامطلوب، عارضه ناخواسته
+zoonosis	medicine	بیماری مشترک انسان و دام، زئونوز
+zoonotic	medicine	مشترک بین انسان و حیوان، زئونوتیک
+spillover	medicine	سرریز (انتقال عامل بیماری‌زا از حیوان به انسان)
+pathogen	medicine	عامل بیماری‌زا، بیماری‌زا، پاتوژن
+virus	medicine	ویروس
+viral	medicine	ویروسی
+viral load	medicine	بار ویروسی، میزان ویروس در بدن
+virology	medicine	ویروس‌شناسی
+virologist	medicine	ویروس‌شناس
+epidemiology	medicine	همه‌گیرشناسی، اپیدمیولوژی
+epidemiologist	medicine	همه‌گیرشناس، اپیدمیولوژیست
+public health	medicine	بهداشت عمومی، سلامت همگانی
+ebola	medicine	ابولا (بیماری ویروسی کشنده همراه با خونریزی)
+zika	medicine	زیکا (ویروس منتقل‌شونده از پشه)
+dengue	medicine	تب دِنگی، تب استخوان‌شکن
+swine flu	medicine	آنفلوآنزای خوکی
+bird flu	medicine	آنفلوآنزای پرندگان، آنفلوآنزای مرغی
+avian influenza	medicine	آنفلوآنزای پرندگان
+h1n1	medicine	اچ‌وان‌ان‌وان (ویروس آنفلوآنزای خوکی)
+influenza	medicine	آنفلوآنزا
+monkeypox	medicine	آبله میمونی
+mpox	medicine	ام‌پاکس، آبله میمونی
+norovirus	medicine	نوروویروس (عامل اسهال و استفراغ ویروسی)
+rotavirus	medicine	روتاویروس
+hiv	medicine	Human Immunodeficiency Virus؛ اچ‌آی‌وی، ویروس نقص ایمنی انسان
+aids	medicine	Acquired Immune Deficiency Syndrome؛ ایدز، سندرم نقص ایمنی اکتسابی
+hiv-positive	medicine	اچ‌آی‌وی مثبت، آلوده به ویروس ایدز
+antiretroviral	medicine	ضدرتروویروسی (داروی مهار اچ‌آی‌وی)
+retrovirus	medicine	رتروویروس، پس‌ویروس
+hpv	medicine	Human Papillomavirus؛ اچ‌پی‌وی، ویروس پاپیلومای انسانی، ویروس زگیل تناسلی
+hepatitis b	medicine	هپاتیت ب
+hepatitis c	medicine	هپاتیت سی
+herpes	medicine	تبخال، هرپس
+sti	medicine	Sexually Transmitted Infection؛ عفونت آمیزشی، عفونت منتقل‌شونده از راه جنسی
+std	medicine	Sexually Transmitted Disease؛ بیماری آمیزشی، بیماری مقاربتی
+chlamydia	medicine	کلامیدیا (عفونت آمیزشی باکتریایی)
+mrsa	medicine	Methicillin-Resistant Staphylococcus Aureus؛ استافیلوکوک طلایی مقاوم به متی‌سیلین
+superbug	medicine	اَبَرمیکروب، میکروب مقاوم به دارو
+antibiotic resistance	medicine	مقاومت آنتی‌بیوتیکی، مقاومت به آنتی‌بیوتیک
+antimicrobial resistance	medicine	مقاومت ضدمیکروبی، مقاومت میکروبی
+drug-resistant	medicine	مقاوم به دارو
+sepsis	medicine	سپسیس، عفونت خون، گندخونی
+septic shock	medicine	شوک عفونی، شوک سپتیک
+legionnaires' disease	medicine	بیماری لژیونر (نوعی ذات‌الریه باکتریایی)
+lyme disease	medicine	بیماری لایم (عفونت منتقل‌شونده از کنه)
+salmonella	medicine	سالمونلا (باکتری عامل مسمومیت غذایی)
+e. coli	medicine	ای‌کولای، اشریشیا کلی (باکتری روده)
+listeria	medicine	لیستریا (باکتری عامل مسمومیت غذایی)
+prion	medicine	پریون (پروتئین عفونت‌زای عامل بیماری‌های مغزی)
+mad cow disease	medicine	بیماری جنون گاوی
+bse	medicine	Bovine Spongiform Encephalopathy؛ جنون گاوی، انسفالوپاتی اسفنجی‌شکل گاوی
+alzheimer's disease	medicine	بیماری آلزایمر
+alzheimer's	medicine	آلزایمر، فراموشی پیری
+dementia	medicine	زوال عقل، دمانس
+parkinson's disease	medicine	بیماری پارکینسون
+parkinson's	medicine	پارکینسون
+multiple sclerosis	medicine	ام‌اس، مولتیپل اسکلروزیس، تصلب چندگانه
+ms	medicine	Multiple Sclerosis؛ ام‌اس، تصلب چندگانه
+als	medicine	Amyotrophic Lateral Sclerosis؛ ای‌ال‌اس، اسکلروز جانبی آمیوتروفیک
+motor neurone disease	medicine	بیماری نورون حرکتی
+huntington's disease	medicine	بیماری هانتینگتون
+cystic fibrosis	medicine	فیبروز کیستیک، سیستیک فیبروزیس
+sickle cell anaemia	medicine	کم‌خونی داسی‌شکل
+sickle cell anemia	medicine	کم‌خونی داسی‌شکل
+thalassemia	medicine	تالاسمی
+thalassaemia	medicine	تالاسمی
+hemophilia	medicine	هموفیلی
+down syndrome	medicine	سندرم داون، نشانگان داون
+down's syndrome	medicine	سندرم داون
+cerebral palsy	medicine	فلج مغزی
+muscular dystrophy	medicine	دیستروفی عضلانی، تحلیل عضلانی
+spina bifida	medicine	اسپینا بیفیدا، مهره‌شکاف
+type 1 diabetes	medicine	دیابت نوع یک
+type 2 diabetes	medicine	دیابت نوع دو
+prediabetes	medicine	پیش‌دیابت
+gestational diabetes	medicine	دیابت بارداری
+insulin resistance	medicine	مقاومت به انسولین
+metabolic syndrome	medicine	سندرم متابولیک
+hypoglycemia	medicine	افت قند خون، هیپوگلیسمی
+hyperglycemia	medicine	افزایش قند خون، هیپرگلیسمی
+blood sugar	medicine	قند خون
+blood glucose	medicine	قند خون، گلوکز خون
+obesity	medicine	چاقی، چاقی مفرط
+obese	medicine	چاق، مبتلا به چاقی مفرط
+overweight	medicine	دارای اضافه‌وزن؛ اضافه‌وزن
+bmi	medicine	Body Mass Index؛ شاخص توده بدنی
+body mass index	medicine	شاخص توده بدنی
+hypertension	medicine	فشار خون بالا، پرفشاری خون
+hypotension	medicine	فشار خون پایین، کم‌فشاری خون
+cardiovascular	medicine	قلبی-عروقی
+cardiovascular disease	medicine	بیماری قلبی-عروقی
+coronary artery disease	medicine	بیماری عروق کرونر، بیماری سرخرگ‌های اکلیلی
+heart attack	medicine	حمله قلبی، سکته قلبی
+myocardial infarction	medicine	سکته قلبی، انفارکتوس میوکارد
+cardiac arrest	medicine	ایست قلبی
+heart failure	medicine	نارسایی قلبی
+arrhythmia	medicine	آریتمی، بی‌نظمی ضربان قلب
+atrial fibrillation	medicine	فیبریلاسیون دهلیزی
+atherosclerosis	medicine	تصلب شرایین، آترواسکلروز
+aneurysm	medicine	آنوریسم، برآمدگی دیواره رگ
+stroke	medicine	سکته مغزی
+embolism	medicine	آمبولی، انسداد رگ با لخته
+thrombosis	medicine	ترومبوز، لخته شدن خون در رگ
+dvt	medicine	Deep Vein Thrombosis؛ ترومبوز ورید عمقی
+deep vein thrombosis	medicine	ترومبوز ورید عمقی، لخته در سیاهرگ‌های عمقی
+blood clot	medicine	لخته خون
+cholesterol	medicine	کلسترول
+ldl	medicine	Low-Density Lipoprotein؛ ال‌دی‌ال، کلسترول بد
+hdl	medicine	High-Density Lipoprotein؛ اچ‌دی‌ال، کلسترول خوب
+triglyceride	medicine	تری‌گلیسرید
+cancer	medicine	سرطان
+tumor	medicine	تومور، توده، غده
+tumour	medicine	تومور، توده، غده
+benign	medicine	خوش‌خیم
+malignant	medicine	بدخیم
+metastasis	medicine	متاستاز، دست‌اندازی سرطان
+metastasize	medicine	متاستاز دادن، پخش شدن (سرطان)
+carcinoma	medicine	کارسینوم (سرطان بافت پوششی)
+sarcoma	medicine	سارکوم (سرطان بافت همبند)
+lymphoma	medicine	لنفوم، سرطان غدد لنفاوی
+leukemia	medicine	لوسمی، سرطان خون
+leukaemia	medicine	لوسمی، سرطان خون
+melanoma	medicine	ملانوم (سرطان بدخیم پوست)
+myeloma	medicine	میلوم (سرطان مغز استخوان)
+glioblastoma	medicine	گلیوبلاستوما (تومور بدخیم مغزی)
+breast cancer	medicine	سرطان پستان، سرطان سینه
+prostate cancer	medicine	سرطان پروستات
+lung cancer	medicine	سرطان ریه
+colorectal cancer	medicine	سرطان روده بزرگ، سرطان کولورکتال
+cervical cancer	medicine	سرطان دهانه رحم
+carcinogen	medicine	ماده سرطان‌زا
+carcinogenic	medicine	سرطان‌زا
+oncology	medicine	سرطان‌شناسی، آنکولوژی
+oncologist	medicine	متخصص سرطان، آنکولوژیست
+oncogene	biology	آنکوژن، ژن سرطان‌زا
+remission	medicine	فروکش بیماری، بهبود نسبی، خاموشی بیماری
+relapse	medicine	عود (بیماری)؛ عود کردن
+chemotherapy	medicine	شیمی‌درمانی
+chemo	medicine	(محاوره‌ای) شیمی‌درمانی
+radiotherapy	medicine	پرتودرمانی، رادیوتراپی
+radiation therapy	medicine	پرتودرمانی
+immunotherapy	medicine	ایمنی‌درمانی، ایمونوتراپی
+targeted therapy	medicine	درمان هدفمند
+hormone therapy	medicine	هورمون‌درمانی
+palliative care	medicine	مراقبت تسکینی
+hospice	medicine	آسایشگاه بیماران لاعلاج، مرکز مراقبت پایان عمر
+biopsy	medicine	نمونه‌برداری بافتی، بیوپسی، بافت‌برداری
+mammogram	medicine	ماموگرافی، تصویر پرتونگاری پستان
+mammography	medicine	ماموگرافی، پستان‌نگاری
+mastectomy	medicine	ماستکتومی، برداشتن پستان
+pap smear	medicine	پاپ‌اسمیر (آزمایش غربالگری سرطان دهانه رحم)
+screening	medicine	غربالگری
+tumor marker	medicine	نشانگر تومور، تومور مارکر
+asthma	medicine	آسم، تنگی نفس
+copd	medicine	Chronic Obstructive Pulmonary Disease؛ بیماری مزمن انسدادی ریه
+emphysema	medicine	آمفیزم (ریه)
+pneumonia	medicine	ذات‌الریه، سینه‌پهلو، پنومونی
+pulmonary	medicine	ریوی
+sleep apnea	medicine	آپنه خواب، وقفه تنفسی در خواب
+sleep apnoea	medicine	آپنه خواب، وقفه تنفسی در خواب
+allergy	medicine	حساسیت، آلرژی
+allergen	medicine	حساسیت‌زا، آلرژن
+allergic	medicine	حساسیتی، آلرژیک؛ دارای حساسیت
+anaphylaxis	medicine	آنافیلاکسی، واکنش حساسیتی شدید
+anaphylactic shock	medicine	شوک آنافیلاکتیک
+hay fever	medicine	تب یونجه، حساسیت فصلی
+eczema	medicine	اگزما
+psoriasis	medicine	پسوریازیس، صدفک
+autoimmune	medicine	خودایمنی
+autoimmune disease	medicine	بیماری خودایمنی
+lupus	medicine	لوپوس
+rheumatoid arthritis	medicine	آرتریت روماتوئید، روماتیسم مفصلی
+osteoarthritis	medicine	آرتروز، استئوآرتریت
+osteoporosis	medicine	پوکی استخوان
+fibromyalgia	medicine	فیبرومیالژیا (درد مزمن عضلانی-اسکلتی)
+chronic fatigue syndrome	medicine	سندرم خستگی مزمن
+celiac disease	medicine	بیماری سلیاک
+coeliac disease	medicine	بیماری سلیاک
+crohn's disease	medicine	بیماری کرون
+ulcerative colitis	medicine	کولیت اولسراتیو، کولیت زخمی
+ibs	medicine	Irritable Bowel Syndrome؛ سندرم روده تحریک‌پذیر
+irritable bowel syndrome	medicine	سندرم روده تحریک‌پذیر
+acid reflux	medicine	رفلاکس معده، برگشت اسید معده
+gerd	medicine	Gastroesophageal Reflux Disease؛ بیماری رفلاکس معده به مری
+lactose intolerance	medicine	عدم تحمل لاکتوز
+gluten intolerance	medicine	عدم تحمل گلوتن
+cirrhosis	medicine	سیروز کبدی، تشمع کبد
+fatty liver	medicine	کبد چرب
+kidney failure	medicine	نارسایی کلیه
+dialysis	medicine	دیالیز
+migraine	medicine	میگرن
+epilepsy	medicine	صرع
+seizure	medicine	تشنج، حمله صرع
+concussion	medicine	ضربه مغزی (خفیف)، تکان مغزی
+coma	medicine	کما، اغما
+vegetative state	medicine	زندگی نباتی، حالت نباتی
+brain death	medicine	مرگ مغزی
+tinnitus	medicine	وزوز گوش
+vertigo	medicine	سرگیجه (دورانی)
+glaucoma	medicine	آب‌سیاه، گلوکوم
+cataract	medicine	آب‌مروارید
+macular degeneration	medicine	تباهی لکه زرد، دژنراسیون ماکولا
+endometriosis	medicine	اندومتریوز
+pcos	medicine	Polycystic Ovary Syndrome؛ سندرم تخمدان پلی‌کیستیک
+polycystic ovary syndrome	medicine	سندرم تخمدان پلی‌کیستیک، تنبلی تخمدان
+menopause	medicine	یائسگی
+perimenopause	medicine	پیش‌یائسگی، دوره گذار به یائسگی
+pms	medicine	Premenstrual Syndrome؛ سندرم پیش از قاعدگی
+infertility	medicine	ناباروری، نازایی
+ivf	medicine	In Vitro Fertilization؛ آی‌وی‌اف، لقاح آزمایشگاهی
+in vitro fertilization	medicine	لقاح آزمایشگاهی، لقاح خارج رحمی
+surrogacy	medicine	رحم جایگزین، رحم اجاره‌ای
+surrogate mother	medicine	مادر جایگزین، مادر میانجی
+embryo transfer	medicine	انتقال جنین
+miscarriage	medicine	سقط خودبه‌خودی، سقط جنین
+preeclampsia	medicine	پره‌اکلامپسی، مسمومیت بارداری
+c-section	medicine	سزارین
+cesarean section	medicine	سزارین، رستم‌زایی
+epidural	medicine	بی‌حسی اپیدورال (بی‌حسی از راه نخاع)
+ultrasound	medicine	سونوگرافی، فراصوت
+amniocentesis	medicine	آمنیوسنتز (نمونه‌برداری از مایع دور جنین)
+premature baby	medicine	نوزاد نارس
+neonatal	medicine	نوزادی، مربوط به نوزادان
+sids	medicine	Sudden Infant Death Syndrome؛ سندرم مرگ ناگهانی نوزاد
+contraceptive	medicine	ضدبارداری؛ وسیله پیشگیری از بارداری
+contraception	medicine	پیشگیری از بارداری
+iud	medicine	Intrauterine Device؛ آی‌یودی، دستگاه درون‌رحمی
+morning-after pill	medicine	قرص اورژانسی ضدبارداری
+vasectomy	medicine	وازکتومی، بستن لوله‌های مردانه
+erectile dysfunction	medicine	اختلال نعوظ، ناتوانی جنسی
+testosterone	biology	تستوسترون
+estrogen	biology	استروژن
+oestrogen	biology	استروژن
+progesterone	biology	پروژسترون
+mri	medicine	Magnetic Resonance Imaging؛ ام‌آرآی، تصویربرداری تشدید مغناطیسی
+magnetic resonance imaging	medicine	تصویربرداری تشدید مغناطیسی، ام‌آرآی
+fmri	medicine	Functional Magnetic Resonance Imaging؛ اف‌ام‌آرآی، تصویربرداری تشدید مغناطیسی کارکردی
+ct scan	medicine	سی‌تی‌اسکن، مقطع‌نگاری رایانه‌ای
+cat scan	medicine	سی‌تی‌اسکن، مقطع‌نگاری رایانه‌ای
+computed tomography	medicine	مقطع‌نگاری رایانه‌ای، توموگرافی کامپیوتری
+tomography	medicine	مقطع‌نگاری، توموگرافی
+pet scan	medicine	پت‌اسکن، مقطع‌نگاری با گسیل پوزیترون
+ecg	medicine	Electrocardiogram؛ نوار قلب، الکتروکاردیوگرام
+ekg	medicine	Electrocardiogram؛ نوار قلب
+electrocardiogram	medicine	نوار قلب، الکتروکاردیوگرام
+eeg	medicine	Electroencephalogram؛ نوار مغز، الکتروانسفالوگرام
+echocardiogram	medicine	اکوکاردیوگرام، اکوی قلب
+angiography	medicine	آنژیوگرافی، رگ‌نگاری
+angiogram	medicine	آنژیوگرام، تصویر رگ‌نگاری
+angioplasty	medicine	آنژیوپلاستی، بالون زدن رگ
+stent	medicine	استنت، فنر (رگ)
+bypass surgery	medicine	جراحی بای‌پس، جراحی کنارگذر (قلب)
+pacemaker	medicine	ضربان‌ساز قلب، پیس‌میکر، باتری قلب
+defibrillator	medicine	دستگاه شوک قلبی، دفیبریلاتور
+cpr	medicine	Cardiopulmonary Resuscitation؛ احیای قلبی-ریوی
+resuscitation	medicine	احیا، بازگرداندن به زندگی
+endoscopy	medicine	آندوسکوپی، درون‌بینی
+endoscope	medicine	آندوسکوپ، درون‌بین
+colonoscopy	medicine	کولونوسکوپی
+laparoscopy	medicine	لاپاروسکوپی، جراحی بسته شکم
+laparoscopic	medicine	لاپاروسکوپیک، به روش لاپاروسکوپی
+keyhole surgery	medicine	جراحی بسته، جراحی با حداقل برش
+minimally invasive	medicine	کم‌تهاجمی، با کمترین تهاجم
+invasive	medicine	تهاجمی (روش درمانی)؛ مهاجم
+non-invasive	medicine	غیرتهاجمی
+robotic surgery	medicine	جراحی رباتیک
+laser surgery	medicine	جراحی لیزری
+lasik	medicine	لیزیک (جراحی لیزری اصلاح دید)
+transplant	medicine	پیوند (عضو)؛ پیوند زدن
+organ transplant	medicine	پیوند عضو
+organ donor	medicine	اهداکننده عضو
+bone marrow transplant	medicine	پیوند مغز استخوان
+graft	medicine	پیوند (بافت)، گرافت
+rejection	medicine	پس‌زدن (عضو پیوندی)
+immunosuppressant	medicine	داروی سرکوب‌کننده ایمنی
+prosthesis	medicine	پروتز، اندام مصنوعی
+prosthetic	medicine	مصنوعی، پروتزی؛ اندام مصنوعی
+implant	medicine	کاشتینه، ایمپلنت؛ کاشتن (در بدن)
+cochlear implant	medicine	کاشت حلزون (شنوایی)
+dental implant	medicine	ایمپلنت دندان، کاشت دندان
+hip replacement	medicine	تعویض مفصل ران
+knee replacement	medicine	تعویض مفصل زانو
+cosmetic surgery	medicine	جراحی زیبایی
+plastic surgery	medicine	جراحی پلاستیک، جراحی ترمیمی و زیبایی
+liposuction	medicine	لیپوساکشن، برداشتن چربی با مکش
+botox	medicine	بوتاکس (تزریق سم بوتولینوم برای رفع چروک)
+rhinoplasty	medicine	جراحی بینی، رینوپلاستی
+facelift	medicine	جراحی کشیدن پوست صورت، لیفت صورت
+bariatric surgery	medicine	جراحی چاقی، جراحی لاغری
+gastric bypass	medicine	بای‌پس معده
+anesthesia	medicine	بیهوشی، بی‌حسی
+anaesthesia	medicine	بیهوشی، بی‌حسی
+general anesthesia	medicine	بیهوشی عمومی
+local anesthetic	medicine	بی‌حسی موضعی، داروی بی‌حسی موضعی
+anesthesiologist	medicine	متخصص بیهوشی
+sedation	medicine	آرام‌بخشی، تسکین (با دارو)
+sedative	medicine	آرام‌بخش، مسکن
+icu	medicine	Intensive Care Unit؛ آی‌سی‌یو، بخش مراقبت‌های ویژه
+intensive care	medicine	مراقبت‌های ویژه
+intensive care unit	medicine	بخش مراقبت‌های ویژه، آی‌سی‌یو
+ccu	medicine	Coronary Care Unit؛ سی‌سی‌یو، بخش مراقبت‌های ویژه قلبی
+er	medicine	Emergency Room؛ اورژانس، بخش فوریت‌ها
+emergency room	medicine	اورژانس، بخش فوریت‌های پزشکی
+a&e	medicine	Accident and Emergency؛ اورژانس (در بریتانیا)
+triage	medicine	تریاژ، اولویت‌بندی بیماران
+paramedic	medicine	امدادگر اورژانس، پیراپزشک، تکنیسین فوریت‌های پزشکی
+outpatient	medicine	بیمار سرپایی
+inpatient	medicine	بیمار بستری
+gp	medicine	General Practitioner؛ پزشک عمومی
+general practitioner	medicine	پزشک عمومی
+primary care	medicine	مراقبت‌های اولیه پزشکی
+telemedicine	medicine	پزشکی از راه دور، دورپزشکی
+telehealth	medicine	سلامت از راه دور، خدمات درمانی از راه دور
+e-health	medicine	سلامت الکترونیک
+electronic health record	medicine	پرونده الکترونیک سلامت
+second opinion	medicine	نظر پزشک دوم، مشورت با پزشک دیگر
+informed consent	medicine	رضایت آگاهانه
+bioethics	medicine	اخلاق زیستی
+medical ethics	medicine	اخلاق پزشکی
+euthanasia	medicine	اُتانازی، مرگ آسان، به‌مرگی
+assisted suicide	medicine	خودکشی با کمک پزشک، خودکشی مساعدت‌شده
+do not resuscitate	medicine	دستور عدم احیا
+living will	medicine	وصیت‌نامه درمانی (دستور پیشاپیش بیمار درباره درمان‌های پایان عمر)
+diagnosis	medicine	تشخیص (بیماری)
+prognosis	medicine	پیش‌آگهی (بیماری)
+misdiagnosis	medicine	تشخیص نادرست
+differential diagnosis	medicine	تشخیص افتراقی
+syndrome	medicine	سندرم، نشانگان
+chronic	medicine	مزمن
+acute	medicine	حاد
+idiopathic	medicine	ایدیوپاتیک، با علت ناشناخته
+congenital	medicine	مادرزادی
+hereditary	medicine	ارثی، موروثی
+inflammation	medicine	التهاب
+anti-inflammatory	medicine	ضدالتهاب
+inflammatory	medicine	التهابی
+immune system	medicine	دستگاه ایمنی، سیستم ایمنی
+immune response	medicine	پاسخ ایمنی
+immunity	medicine	ایمنی، مصونیت
+antibody	medicine	پادتن، آنتی‌بادی
+antigen	medicine	پادگن، آنتی‌ژن
+monoclonal antibody	medicine	پادتن تک‌دودمانی، آنتی‌بادی مونوکلونال
+t cell	medicine	سلول تی، لنفوسیت تی
+b cell	medicine	سلول بی، لنفوسیت بی
+white blood cell	medicine	گلبول سفید، گویچه سفید
+red blood cell	medicine	گلبول قرمز، گویچه سرخ
+platelet	medicine	پلاکت، گرده خون
+hemoglobin	medicine	هموگلوبین
+haemoglobin	medicine	هموگلوبین
+plasma	medicine	پلاسما، خوناب
+cytokine	medicine	سیتوکین
+cytokine storm	medicine	طوفان سیتوکین (واکنش شدید و مهارنشده دستگاه ایمنی)
+interferon	medicine	اینترفرون
+histamine	medicine	هیستامین
+antihistamine	medicine	آنتی‌هیستامین، داروی ضدحساسیت
+blood test	medicine	آزمایش خون
+blood pressure	medicine	فشار خون
+blood transfusion	medicine	انتقال خون، تزریق خون
+blood type	medicine	گروه خونی
+heart rate	medicine	ضربان قلب
+vital signs	medicine	علائم حیاتی
+oxygen saturation	medicine	اشباع اکسیژن خون
+pulse oximeter	medicine	پالس اکسی‌متر، اکسیژن‌سنج انگشتی
+glucometer	medicine	دستگاه تست قند خون، گلوکومتر
+insulin pump	medicine	پمپ انسولین
+inhaler	medicine	اسپری تنفسی، افشانه استنشاقی
+nebulizer	medicine	نبولایزر، دستگاه بخور دارو
+catheter	medicine	سوند، کاتتر
+iv	medicine	Intravenous؛ وریدی، سرم
+intravenous	medicine	درون‌وریدی، داخل سیاهرگی
+drip	medicine	سرم (تزریق قطره‌ای وریدی)
+injection	medicine	تزریق، آمپول
+syringe	medicine	سرنگ
+placebo	medicine	دارونما
+placebo effect	medicine	اثر دارونما
+nocebo	medicine	نوسیبو، اثر دارونمای منفی
+clinical trial	medicine	کارآزمایی بالینی
+randomized controlled trial	medicine	کارآزمایی تصادفی‌سازی‌شده کنترل‌دار
+double-blind	medicine	دوسوکور (آزمایشی که نه بیمار و نه پژوهشگر از نوع درمان آگاه‌اند)
+control group	medicine	گروه شاهد، گروه کنترل
+cohort study	medicine	مطالعه هم‌گروهی، مطالعه کوهورت
+case study	medicine	مطالعه موردی، موردپژوهی
+meta-analysis	math	فراتحلیل، متاآنالیز
+systematic review	medicine	مرور نظام‌مند
+peer review	general	داوری همتا، همتاداوری (مقاله علمی)
+peer-reviewed	general	داوری‌شده، دارای داوری همتا
+evidence-based medicine	medicine	پزشکی مبتنی بر شواهد
+evidence-based	medicine	مبتنی بر شواهد، شواهدمحور
+precision medicine	medicine	پزشکی دقیق
+personalized medicine	medicine	پزشکی شخصی‌سازی‌شده، پزشکی فردمحور
+regenerative medicine	medicine	پزشکی بازساختی، پزشکی ترمیمی
+alternative medicine	medicine	طب جایگزین، پزشکی جایگزین
+complementary medicine	medicine	طب مکمل
+holistic	medicine	کل‌نگر، جامع‌نگر
+homeopathy	medicine	هومیوپاتی، همسان‌درمانی
+acupuncture	medicine	طب سوزنی
+chiropractic	medicine	کایروپراکتیک (درمان با دست‌کاری ستون مهره‌ها)
+osteopathy	medicine	استئوپاتی
+naturopathy	medicine	طبیعت‌درمانی
+aromatherapy	medicine	رایحه‌درمانی
+physiotherapy	medicine	فیزیوتراپی
+physical therapy	medicine	فیزیوتراپی، درمان فیزیکی
+occupational therapy	medicine	کاردرمانی
+speech therapy	medicine	گفتاردرمانی
+rehab	medicine	بازپروری، توان‌بخشی؛ ترک اعتیاد
+rehabilitation	medicine	توان‌بخشی، بازتوانی
+drug	medicine	دارو؛ ماده مخدر
+medication	medicine	دارو، دارودرمانی
+prescription	medicine	نسخه (پزشک)
+over-the-counter	medicine	بدون نسخه (دارو)
+otc	medicine	Over-The-Counter؛ داروی بدون نسخه
+generic drug	medicine	داروی ژنریک
+dosage	medicine	مقدار مصرف (دارو)، دوز
+dose	medicine	دوز، مقدار مصرف، نوبت دارو
+overdose	medicine	مصرف بیش از حد (دارو یا مواد)، اُوردوز
+pharmaceutical	medicine	دارویی؛ فراورده دارویی
+big pharma	business	غول‌های داروسازی، شرکت‌های بزرگ داروسازی
+pharmacology	medicine	داروشناسی، فارماکولوژی
+antibiotic	medicine	آنتی‌بیوتیک، پادزی
+antiviral	medicine	ضدویروس، داروی ضدویروسی
+antifungal	medicine	ضدقارچ
+antibacterial	medicine	ضدباکتری
+antiseptic	medicine	ضدعفونی‌کننده، گندزدا
+penicillin	medicine	پنی‌سیلین
+painkiller	medicine	مسکن، داروی ضددرد
+analgesic	medicine	ضددرد، مسکن
+opioid	medicine	شبه‌افیونی، اپیوئید (مسکن مخدر)
+opiate	medicine	افیونی، داروی تریاکی
+morphine	medicine	مورفین
+fentanyl	medicine	فنتانیل (مسکن مخدر صنعتی بسیار قوی)
+methadone	medicine	متادون
+naloxone	medicine	نالوکسان (پادزهر مسمومیت با مواد افیونی)
+ibuprofen	medicine	ایبوپروفن
+paracetamol	medicine	پاراستامول، استامینوفن
+acetaminophen	medicine	استامینوفن
+aspirin	medicine	آسپرین
+nsaid	medicine	Non-Steroidal Anti-Inflammatory Drug؛ داروی ضدالتهاب غیراستروئیدی
+steroid	medicine	استروئید
+corticosteroid	medicine	کورتیکواستروئید، کورتون
+cortisone	medicine	کورتیزون، کورتون
+anabolic steroid	medicine	استروئید آنابولیک (داروی عضله‌ساز)
+statin	medicine	استاتین (داروی کاهنده کلسترول)
+beta blocker	medicine	بتابلاکر، مسدودکننده بتا
+blood thinner	medicine	داروی رقیق‌کننده خون
+anticoagulant	medicine	ضدانعقاد، داروی ضد لخته
+diuretic	medicine	مُدِر، ادرارآور
+insulin	medicine	انسولین
+antidepressant	medicine	داروی ضدافسردگی
+ssri	medicine	Selective Serotonin Reuptake Inhibitor؛ مهارکننده انتخابی بازجذب سروتونین
+antipsychotic	medicine	داروی ضدروان‌پریشی
+tranquilizer	medicine	آرام‌بخش
+benzodiazepine	medicine	بنزودیازپین (دسته‌ای از داروهای آرام‌بخش)
+sleeping pill	medicine	قرص خواب
+stimulant	medicine	محرک، داروی محرک
+amphetamine	medicine	آمفتامین
+methamphetamine	medicine	مت‌آمفتامین، شیشه
+ketamine	medicine	کتامین
+psychedelic	medicine	روان‌گردان، توهم‌زا
+hallucinogen	medicine	ماده توهم‌زا
+lsd	medicine	Lysergic Acid Diethylamide؛ ال‌اس‌دی (ماده توهم‌زا)
+psilocybin	medicine	سیلوسایبین (ماده روان‌گردان قارچ‌های توهم‌زا)
+mdma	medicine	ام‌دی‌ام‌ای، اکستازی (ماده روان‌گردان)
+ecstasy	medicine	اکستازی، قرص اکس
+cannabis	medicine	شاهدانه، حشیش، ماری‌جوانا
+marijuana	medicine	ماری‌جوانا، علف
+medical marijuana	medicine	ماری‌جوانای پزشکی
+cbd	medicine	Cannabidiol؛ کانابیدیول (ماده غیرروان‌گردان شاهدانه)
+thc	medicine	Tetrahydrocannabinol؛ تتراهیدروکانابینول (ماده روان‌گردان اصلی شاهدانه)
+cocaine	medicine	کوکائین
+crack	medicine	کراک (کوکائین بلوری)
+heroin	medicine	هروئین
+nicotine	medicine	نیکوتین
+e-cigarette	general	سیگار الکترونیکی
+vaping	general	کشیدن سیگار الکترونیکی، ویپ کشیدن
+vape	general	ویپ، سیگار الکترونیکی؛ ویپ کشیدن
+passive smoking	medicine	استعمال دخانیات تحمیلی، دود دست‌دوم
+second-hand smoke	medicine	دود دست‌دوم، دود تحمیلی سیگار
+addiction	medicine	اعتیاد
+substance abuse	medicine	سوءمصرف مواد
+withdrawal	medicine	ترک (مواد)، محرومیت
+withdrawal symptoms	medicine	علائم ترک، نشانه‌های محرومیت
+detox	medicine	سم‌زدایی
+detoxification	medicine	سم‌زدایی
+harm reduction	medicine	کاهش آسیب
+binge drinking	medicine	باده‌نوشی افراطی، پرنوشی یکباره
+alcoholism	medicine	الکلیسم، اعتیاد به الکل
+tolerance	medicine	تحمل (کاهش اثر دارو بر اثر مصرف مکرر)
+contraindication	medicine	مورد منع مصرف
+drug interaction	medicine	تداخل دارویی
+gene therapy	medicine	ژن‌درمانی
+stem cell therapy	medicine	سلول‌درمانی، درمان با سلول‌های بنیادی
+cell therapy	medicine	سلول‌درمانی
+biologic	medicine	داروی زیستی، بیولوژیک
+biosimilar	medicine	زیست‌همسان، بیوسیمیلار
+biomarker	medicine	نشانگر زیستی، بیومارکر
+nanomedicine	medicine	نانوپزشکی
+pathology	medicine	آسیب‌شناسی، پاتولوژی
+radiology	medicine	پرتوشناسی، رادیولوژی
+cardiology	medicine	قلب‌شناسی، کاردیولوژی
+neurology	medicine	عصب‌شناسی، نورولوژی، مغز و اعصاب
+gastroenterology	medicine	گوارش‌شناسی
+endocrinology	medicine	غددشناسی، اندوکرینولوژی
+dermatology	medicine	پوست‌شناسی، درماتولوژی
+geriatrics	medicine	طب سالمندان
+pediatrics	medicine	طب کودکان، پزشکی اطفال
+orthopedics	medicine	ارتوپدی، استخوان‌پزشکی
+urology	medicine	اورولوژی، میزراه‌شناسی
+gynecology	medicine	زنان‌پزشکی، بیماری‌های زنان
+obstetrics	medicine	مامایی، زایمان‌شناسی
+hematology	medicine	خون‌شناسی، هماتولوژی
+immunology	medicine	ایمنی‌شناسی، ایمونولوژی
+toxicology	medicine	سم‌شناسی
+forensic medicine	medicine	پزشکی قانونی
+autopsy	medicine	کالبدگشایی، کالبدشکافی
+post-mortem	medicine	کالبدگشایی؛ پس از مرگ
+hygiene	medicine	بهداشت
+sanitation	medicine	بهداشت محیط، بهسازی
+life expectancy	medicine	امید به زندگی
+infant mortality	medicine	مرگ‌ومیر نوزادان
+risk factor	medicine	عامل خطر
+prevalence	medicine	شیوع (بیماری)
+incidence	medicine	بروز (موارد جدید بیماری)
+sedentary	medicine	کم‌تحرک، بی‌تحرک
+sedentary lifestyle	medicine	زندگی کم‌تحرک
+jet lag	medicine	پرواززدگی، جت‌لگ
+circadian rhythm	biology	ریتم شبانه‌روزی، چرخه شبانه‌روزی
+body clock	biology	ساعت بدن، ساعت زیستی
+melatonin	biology	ملاتونین
+insomnia	medicine	بی‌خوابی
+rem sleep	biology	خواب رِم، خواب با حرکات سریع چشم
+deep sleep	biology	خواب عمیق
+sleep deprivation	medicine	محرومیت از خواب، کم‌خوابی
+dehydration	medicine	کم‌آبی بدن
+heatstroke	medicine	گرمازدگی
+hypothermia	medicine	هیپوترمی، افت دمای بدن
+frostbite	medicine	سرمازدگی (اندام)
+sunburn	medicine	آفتاب‌سوختگی
+sunscreen	medicine	کرم ضدآفتاب
+spf	medicine	Sun Protection Factor؛ ضریب محافظت در برابر آفتاب
+mental health	psychology	سلامت روان، بهداشت روانی
+mental illness	psychology	بیماری روانی، اختلال روانی
+mental disorder	psychology	اختلال روانی
+well-being	psychology	بهزیستی، سلامت و رفاه
+wellbeing	psychology	بهزیستی، سلامت و رفاه
+wellness	medicine	تندرستی، سلامت (جسمی و روانی)، سبک زندگی سالم
+burnout	psychology	فرسودگی شغلی، فرسودگی روانی
+stress	psychology	استرس، فشار روانی، تنیدگی
+stressor	psychology	عامل استرس‌زا، تنش‌زا
+anxiety	psychology	اضطراب، دلهره
+anxiety disorder	psychology	اختلال اضطرابی
+generalized anxiety disorder	psychology	اختلال اضطراب فراگیر
+social anxiety	psychology	اضطراب اجتماعی
+panic attack	psychology	حمله پانیک، حمله وحشت‌زدگی
+panic disorder	psychology	اختلال پانیک، اختلال هراس
+phobia	psychology	فوبیا، هراس، ترس بیمارگونه
+agoraphobia	psychology	گذرهراسی، هراس از مکان‌های باز و شلوغ
+claustrophobia	psychology	تنگناهراسی، ترس از فضای بسته
+depression	psychology	افسردگی
+clinical depression	psychology	افسردگی بالینی
+major depressive disorder	psychology	اختلال افسردگی اساسی
+postnatal depression	psychology	افسردگی پس از زایمان
+postpartum depression	psychology	افسردگی پس از زایمان
+seasonal affective disorder	psychology	اختلال عاطفی فصلی، افسردگی فصلی
+bipolar disorder	psychology	اختلال دوقطبی
+bipolar	psychology	دوقطبی، مبتلا به اختلال دوقطبی
+mania	psychology	شیدایی، مانیا
+manic	psychology	شیدا، مانیک
+mood swing	psychology	نوسان خلقی، تغییر ناگهانی خلق
+mood disorder	psychology	اختلال خلقی
+ptsd	psychology	Post-Traumatic Stress Disorder؛ اختلال استرس پس از سانحه
+post-traumatic stress disorder	psychology	اختلال استرس پس از سانحه، اختلال تنش‌زای پس از رخداد
+trauma	psychology	تروما، آسیب روانی، روان‌زخم؛ (پزشکی) ضربه، آسیب جسمی
+traumatic	psychology	آسیب‌زا، تروماتیک
+traumatize	psychology	دچار آسیب روانی کردن
+flashback	psychology	فلش‌بک، بازگشت ناگهانی خاطره آسیب‌زا
+trigger	psychology	ماشه، محرک (آنچه خاطره یا واکنش آسیب‌زا را برمی‌انگیزد)؛ برانگیختن
+trigger warning	psychology	هشدار محتوای آزارنده
+adhd	psychology	Attention Deficit Hyperactivity Disorder؛ اختلال کم‌توجهی-بیش‌فعالی، بیش‌فعالی
+add	psychology	Attention Deficit Disorder؛ اختلال کم‌توجهی
+attention deficit hyperactivity disorder	psychology	اختلال کم‌توجهی-بیش‌فعالی
+hyperactivity	psychology	بیش‌فعالی
+hyperactive	psychology	بیش‌فعال
+attention span	psychology	دامنه توجه، مدت تمرکز
+autism	psychology	اوتیسم، درخودماندگی
+autistic	psychology	اوتیستیک، دارای اوتیسم
+autism spectrum disorder	psychology	اختلال طیف اوتیسم
+asd	psychology	Autism Spectrum Disorder؛ اختلال طیف اوتیسم
+asperger's syndrome	psychology	سندرم آسپرگر
+on the spectrum	psychology	در طیف اوتیسم
+neurodiversity	psychology	تنوع عصبی، گوناگونی عصب‌شناختی
+neurodivergent	psychology	دارای تفاوت عصب‌شناختی، عصب‌متفاوت
+neurotypical	psychology	دارای رشد عصبی متعارف، عصب‌متعارف
+dyslexia	psychology	خوانش‌پریشی، نارساخوانی، دیسلکسی
+dyslexic	psychology	نارساخوان، خوانش‌پریش
+dyscalculia	psychology	حساب‌پریشی، ناتوانی در یادگیری ریاضی
+dyspraxia	psychology	کنش‌پریشی، دیسپراکسی (اختلال هماهنگی حرکتی)
+learning disability	psychology	ناتوانی یادگیری، اختلال یادگیری
+special needs	psychology	نیازهای ویژه
+ocd	psychology	Obsessive-Compulsive Disorder؛ اختلال وسواس فکری-عملی، وسواس
+obsessive-compulsive disorder	psychology	اختلال وسواس فکری-عملی
+obsession	psychology	وسواس فکری، دل‌مشغولی
+compulsion	psychology	وسواس عملی، اجبار
+schizophrenia	psychology	اسکیزوفرنی، روان‌گسیختگی
+schizophrenic	psychology	اسکیزوفرنیک، مبتلا به اسکیزوفرنی
+psychosis	psychology	روان‌پریشی، سایکوز
+psychotic	psychology	روان‌پریش، سایکوتیک
+delusion	psychology	هذیان، توهم فکری
+hallucination	psychology	توهم (حسی)
+paranoia	psychology	پارانویا، بدگمانی بیمارگونه
+personality disorder	psychology	اختلال شخصیت
+borderline personality disorder	psychology	اختلال شخصیت مرزی
+narcissistic personality disorder	psychology	اختلال شخصیت خودشیفته
+narcissism	psychology	خودشیفتگی، نارسیسیسم
+narcissist	psychology	خودشیفته
+psychopath	psychology	سایکوپات، جامعه‌ستیز، روان‌آزار
+psychopathy	psychology	سایکوپاتی، جامعه‌ستیزی
+sociopath	psychology	جامعه‌ستیز، سوسیوپات
+antisocial personality disorder	psychology	اختلال شخصیت ضداجتماعی
+eating disorder	psychology	اختلال خوردن
+anorexia	psychology	بی‌اشتهایی عصبی، آنورکسیا
+anorexia nervosa	psychology	بی‌اشتهایی عصبی
+bulimia	psychology	پرخوری عصبی، بولیمیا
+binge eating	psychology	پرخوری افراطی
+body image	psychology	تصویر بدنی، تصور از بدن خود
+body dysmorphia	psychology	بدریخت‌انگاری بدن
+self-harm	psychology	خودآزاری، آسیب به خود
+suicidal	psychology	مایل به خودکشی، دارای افکار خودکشی
+suicidal ideation	psychology	افکار خودکشی
+gender dysphoria	psychology	ملال جنسیتی، نارضایتی جنسیتی
+dissociation	psychology	گسست، تجزیه (روانی)
+dissociative identity disorder	psychology	اختلال هویت تجزیه‌ای، اختلال چندشخصیتی
+hoarding	psychology	احتکار وسواسی، انباشتگری بیمارگونه
+impostor syndrome	psychology	سندرم ایمپاستر، نشانگان خودویرانگرپنداری، احساس شیادی
+imposter syndrome	psychology	سندرم ایمپاستر، احساس شیادی
+stockholm syndrome	psychology	سندرم استکهلم (دلبستگی گروگان به گروگان‌گیر)
+gaslighting	psychology	گس‌لایتینگ، دست‌کاری روانی (واداشتن فرد به تردید در ادراک و عقل خود)
+gaslight	psychology	با دست‌کاری روانی به تردید در عقل خود واداشتن
+codependency	psychology	هم‌وابستگی
+toxic relationship	psychology	رابطه سمی، رابطه ناسالم
+emotional abuse	psychology	آزار عاطفی، سوءرفتار عاطفی
+passive-aggressive	psychology	منفعل-پرخاشگر
+coping mechanism	psychology	سازوکار مقابله‌ای، راهکار کنار آمدن
+defense mechanism	psychology	سازوکار دفاعی، مکانیسم دفاعی
+resilience	psychology	تاب‌آوری
+self-esteem	psychology	عزت نفس
+self-care	psychology	مراقبت از خود، خودمراقبتی
+self-awareness	psychology	خودآگاهی
+self-actualization	psychology	خودشکوفایی
+self-efficacy	psychology	خودکارآمدی
+empathy	psychology	همدلی
+emotional intelligence	psychology	هوش هیجانی، هوش عاطفی
+eq	psychology	Emotional Quotient؛ بهره هیجانی، هوش هیجانی
+iq	psychology	Intelligence Quotient؛ بهره هوشی، ضریب هوشی
+mindfulness	psychology	ذهن‌آگاهی، حضور ذهن
+meditation	psychology	مراقبه، مدیتیشن
+psychotherapy	psychology	روان‌درمانی
+psychotherapist	psychology	روان‌درمانگر
+therapist	psychology	درمانگر، روان‌درمانگر
+counseling	psychology	مشاوره (روان‌شناختی)
+counselling	psychology	مشاوره (روان‌شناختی)
+counselor	psychology	مشاور
+cbt	psychology	Cognitive Behavioral Therapy؛ درمان شناختی-رفتاری
+cognitive behavioral therapy	psychology	درمان شناختی-رفتاری
+cognitive behavioural therapy	psychology	درمان شناختی-رفتاری
+talk therapy	psychology	گفتاردرمانی روانی، روان‌درمانی گفت‌وگومحور
+group therapy	psychology	گروه‌درمانی
+family therapy	psychology	خانواده‌درمانی
+couples therapy	psychology	زوج‌درمانی
+art therapy	psychology	هنردرمانی
+exposure therapy	psychology	مواجهه‌درمانی
+electroconvulsive therapy	psychology	درمان با شوک الکتریکی، الکتروشوک‌درمانی
+psychoanalysis	psychology	روان‌کاوی
+psychiatry	psychology	روان‌پزشکی
+psychiatrist	psychology	روان‌پزشک
+clinical psychology	psychology	روان‌شناسی بالینی
+cognitive psychology	psychology	روان‌شناسی شناختی
+behavioral psychology	psychology	روان‌شناسی رفتاری
+positive psychology	psychology	روان‌شناسی مثبت‌گرا
+evolutionary psychology	psychology	روان‌شناسی تکاملی
+developmental psychology	psychology	روان‌شناسی رشد
+social psychology	psychology	روان‌شناسی اجتماعی
+behavioral economics	business	اقتصاد رفتاری
+cognition	psychology	شناخت
+cognitive	psychology	شناختی
+cognitive bias	psychology	سوگیری شناختی
+confirmation bias	psychology	سوگیری تأییدی
+hindsight bias	psychology	سوگیری پس‌نگری
+anchoring	psychology	لنگر انداختن ذهنی، اثر لنگر
+availability heuristic	psychology	میانبر ذهنی در دسترس بودن
+heuristic	psychology	میانبر ذهنی، روش اکتشافی، هیوریستیک
+cognitive dissonance	psychology	ناهماهنگی شناختی
+dunning-kruger effect	psychology	اثر دانینگ-کروگر (توهم دانایی در افراد کم‌مهارت)
+halo effect	psychology	اثر هاله‌ای
+bystander effect	psychology	اثر تماشاگر
+groupthink	psychology	گروه‌اندیشی، تفکر گروهی
+herd mentality	psychology	ذهنیت گله‌ای، رفتار گله‌وار
+sunk cost fallacy	psychology	مغالطه هزینه ازدست‌رفته
+loss aversion	psychology	زیان‌گریزی
+nudge	psychology	تلنگر، سُقلمه (هدایت نرم رفتار)
+priming	psychology	آماده‌سازی ذهنی، پیش‌آماده‌سازی
+conditioning	psychology	شرطی‌سازی
+reinforcement	psychology	تقویت
+instant gratification	psychology	لذت آنی، ارضای فوری
+delayed gratification	psychology	به تأخیر انداختن لذت، ارضای معوق
+procrastination	psychology	اهمال‌کاری، تعلل
+growth mindset	psychology	ذهنیت رشد
+fixed mindset	psychology	ذهنیت ثابت
+mindset	psychology	ذهنیت، طرز فکر
+flow	psychology	غرقگی، حالت شناوری (تمرکز کامل در کار)
+introvert	psychology	درون‌گرا
+extrovert	psychology	برون‌گرا
+ambivert	psychology	میان‌گرا
+attachment theory	psychology	نظریه دلبستگی
+attachment style	psychology	سبک دلبستگی
+learned helplessness	psychology	درماندگی آموخته‌شده
+subconscious	psychology	نیمه‌هشیار، ناخودآگاه
+unconscious bias	psychology	سوگیری ناخودآگاه
+implicit bias	psychology	سوگیری پنهان، سوگیری ضمنی
+working memory	psychology	حافظه کاری، حافظه فعال
+short-term memory	psychology	حافظه کوتاه‌مدت
+long-term memory	psychology	حافظه بلندمدت
+false memory	psychology	خاطره کاذب، حافظه دروغین
+amnesia	psychology	یادزدودگی، فراموشی
+body language	psychology	زبان بدن
+midlife crisis	psychology	بحران میان‌سالی
+fomo	slang	Fear Of Missing Out؛ (عامیانه) ترس از جا ماندن، فومو
+compassion fatigue	psychology	فرسودگی ناشی از شفقت، خستگی همدردی
+grief counseling	psychology	مشاوره سوگ
+bereavement	psychology	سوگ، داغ‌دیدگی
+nutrition	food	تغذیه
+nutrient	food	ماده مغذی
+nutritionist	food	متخصص تغذیه
+dietitian	food	کارشناس تغذیه، رژیم‌درمانگر
+calorie	food	کالری
+macronutrient	food	درشت‌مغذی
+micronutrient	food	ریزمغذی
+carbohydrate	food	کربوهیدرات، قند
+carb	food	(محاوره‌ای) کربوهیدرات
+protein	biology	پروتئین
+saturated fat	food	چربی اشباع
+unsaturated fat	food	چربی غیراشباع
+trans fat	food	چربی ترانس
+omega-3	food	امگا ۳
+fatty acid	chemistry	اسید چرب
+dietary fiber	food	فیبر غذایی، الیاف خوراکی
+fibre	food	فیبر، الیاف خوراکی
+antioxidant	food	پاداکسنده، آنتی‌اکسیدان
+free radical	chemistry	رادیکال آزاد
+vitamin	food	ویتامین
+vitamin d	food	ویتامین د
+supplement	food	مکمل (غذایی)
+dietary supplement	food	مکمل غذایی
+multivitamin	food	مولتی‌ویتامین
+probiotic	food	پروبیوتیک، زیست‌یار
+prebiotic	food	پری‌بیوتیک
+superfood	food	ابرغذا، غذای فوق‌مغذی
+processed food	food	غذای فراوری‌شده
+ultra-processed food	food	غذای فوق‌فراوری‌شده
+junk food	food	هله‌هوله، غذای بی‌ارزش
+fast food	food	فست‌فود، غذای فوری
+whole grain	food	غلات کامل
+wholegrain	food	غلات کامل، سبوس‌دار
+gluten	food	گلوتن
+gluten-free	food	بدون گلوتن
+lactose	food	لاکتوز، قند شیر
+lactose-free	food	بدون لاکتوز
+sugar-free	food	بدون قند
+low-fat	food	کم‌چرب
+low-carb	food	کم‌کربوهیدرات
+high-protein	food	پرپروتئین
+sweetener	food	شیرین‌کننده
+artificial sweetener	food	شیرین‌کننده مصنوعی
+aspartame	food	آسپارتام
+stevia	food	استویا
+high-fructose corn syrup	food	شربت ذرت پرفروکتوز
+additive	food	افزودنی
+preservative	food	نگه‌دارنده، ماده نگه‌دارنده
+msg	food	Monosodium Glutamate؛ مونوسدیم گلوتامات (چاشنی طعم‌دهنده)
+glycemic index	food	شاخص قند خون، نمایه گلیسمی
+vegan	food	وگان، گیاه‌خوار مطلق
+veganism	food	وگانیسم، گیاه‌خواری مطلق
+vegetarian	food	گیاه‌خوار
+vegetarianism	food	گیاه‌خواری
+pescatarian	food	گیاه‌خوارِ ماهی‌خور
+flexitarian	food	گیاه‌خوار منعطف (کسی که گاهی گوشت می‌خورد)
+plant-based	food	گیاهی، بر پایه گیاه
+keto	food	کتو، رژیم کتوژنیک
+ketogenic diet	food	رژیم کتوژنیک
+ketosis	medicine	کتوز
+paleo diet	food	رژیم پالئو، رژیم غارنشینی
+mediterranean diet	food	رژیم مدیترانه‌ای
+intermittent fasting	food	روزه‌داری متناوب، فستینگ
+detox diet	food	رژیم سم‌زدایی
+crash diet	food	رژیم سخت و سریع
+yo-yo dieting	food	رژیم یویویی
+organic	food	ارگانیک، زیستی
+organic food	food	غذای ارگانیک
+free-range	food	آزادپرورده، پرورش‌یافته در فضای باز
+gmo	biology	Genetically Modified Organism؛ جاندار تراریخته، محصول تراریخته
+gm food	food	غذای تراریخته
+genetically modified	biology	تراریخته، اصلاح ژنتیکی‌شده
+malnutrition	medicine	سوءتغذیه
+metabolism	biology	سوخت‌وساز، متابولیسم
+metabolic rate	biology	نرخ سوخت‌وساز
+body fat	medicine	چربی بدن
+visceral fat	medicine	چربی احشایی
+cellulite	medicine	سلولیت
+fitness	sports	آمادگی جسمانی، تناسب اندام
+workout	sports	تمرین ورزشی، نرمش
+cardio	sports	تمرین هوازی، کاردیو
+aerobic exercise	sports	ورزش هوازی
+aerobics	sports	ایروبیک
+anaerobic	biology	بی‌هوازی
+strength training	sports	تمرین قدرتی
+weight training	sports	تمرین با وزنه
+resistance training	sports	تمرین مقاومتی
+hiit	sports	High-Intensity Interval Training؛ تمرین تناوبی پرشدت
+interval training	sports	تمرین تناوبی، تمرین اینتروال
+crossfit	sports	کراس‌فیت
+pilates	sports	پیلاتس
+yoga	sports	یوگا
+zumba	sports	زومبا
+spinning	sports	اسپینینگ (دوچرخه‌سواری ثابت گروهی)
+treadmill	sports	تردمیل
+personal trainer	sports	مربی خصوصی
+bodybuilding	sports	بدن‌سازی، پرورش اندام
+core	sports	عضلات مرکزی بدن
+abs	sports	عضلات شکم
+six-pack	slang	(عامیانه) شکم شش‌تکه، سیکس‌پک
+warm-up	sports	گرم کردن (بدن)
+cool-down	sports	سرد کردن (بدن پس از تمرین)
+stretching	sports	حرکات کششی
+push-up	sports	شنا (روی زمین)
+sit-up	sports	درازنشست
+squat	sports	اسکات
+plank	sports	پلانک
+jogging	sports	دویدن آهسته
+endorphin	biology	اندورفین
+lactic acid	biology	اسید لاکتیک
+doping	sports	دوپینگ
+performance-enhancing drug	sports	داروی نیروزا، داروی افزایش‌دهنده کارایی
+protein shake	food	شیک پروتئین
+energy drink	food	نوشیدنی انرژی‌زا
+sports drink	food	نوشیدنی ورزشی
+electrolyte	medicine	الکترولیت
+step count	sports	شمار گام‌ها
+fitness tracker	sports	دستبند سلامتی، ردیاب تناسب اندام
+anti-aging	medicine	ضدپیری
+longevity	medicine	طول عمر، دیرزیستی
+dna	biology	Deoxyribonucleic Acid؛ دی‌ان‌ای، دنا
+rna	biology	Ribonucleic Acid؛ آران‌ای، رنا
+mrna	biology	Messenger RNA؛ آران‌ای پیام‌رسان، رنای پیک
+messenger rna	biology	آران‌ای پیام‌رسان، رنای پیک
+trna	biology	Transfer RNA؛ آران‌ای ناقل
+double helix	biology	مارپیچ دوگانه (ساختار دی‌ان‌ای)
+gene	biology	ژن
+genetic	biology	ژنتیکی، ژنی
+genetics	biology	ژنتیک، ژن‌شناسی
+geneticist	biology	متخصص ژنتیک
+genome	biology	ژنوم، ژنگان
+genomics	biology	ژنومیک، ژنگان‌شناسی
+human genome project	biology	پروژه ژنوم انسان
+genotype	biology	ژنوتیپ، ژن‌نمود
+phenotype	biology	فنوتیپ، رخ‌نمود
+allele	biology	آلل، دگره
+chromosome	biology	کروموزوم، فام‌تن
+x chromosome	biology	کروموزوم ایکس
+y chromosome	biology	کروموزوم ایگرگ
+nucleotide	biology	نوکلئوتید
+base pair	biology	جفت‌باز
+amino acid	biology	اسید آمینه، آمینواسید
+enzyme	biology	آنزیم، زی‌مایه
+hormone	biology	هورمون
+receptor	biology	گیرنده
+peptide	biology	پپتید
+collagen	biology	کلاژن
+keratin	biology	کراتین
+ribosome	biology	ریبوزوم، رِناتَن
+mitochondria	biology	میتوکندری‌ها، راکیزه‌ها
+mitochondrion	biology	میتوکندری، راکیزه
+mitochondrial dna	biology	دی‌ان‌ای میتوکندریایی
+nucleus	biology	هسته
+cytoplasm	biology	سیتوپلاسم، میان‌یاخته
+cell membrane	biology	غشای سلولی
+organelle	biology	اندامک
+cell division	biology	تقسیم سلولی
+mitosis	biology	میتوز، رشتمان
+meiosis	biology	میوز، کاستمان
+apoptosis	biology	آپوپتوز، مرگ برنامه‌ریزی‌شده سلول
+telomere	biology	تلومر (بخش انتهایی کروموزوم)
+transcription	biology	رونویسی (از دی‌ان‌ای به آران‌ای)
+translation	biology	ترجمه (ساخت پروتئین از روی آران‌ای)
+gene expression	biology	بیان ژن
+protein folding	biology	تاخوردگی پروتئین
+dna sequencing	biology	توالی‌یابی دی‌ان‌ای
+sequencing	biology	توالی‌یابی
+gene sequencing	biology	توالی‌یابی ژن
+genetic code	biology	رمز ژنتیکی، کد ژنتیکی
+genetic engineering	biology	مهندسی ژنتیک
+gene editing	biology	ویرایش ژن
+genome editing	biology	ویرایش ژنوم
+crispr	biology	کریسپر (فناوری ویرایش ژن)
+gene splicing	biology	پیرایش ژن، برش و پیوند ژن
+recombinant dna	biology	دی‌ان‌ای نوترکیب
+transgenic	biology	تراریخته، تراژن
+gene pool	biology	خزانه ژنی
+genetic drift	biology	رانش ژنتیکی
+gene flow	biology	شارش ژن، جریان ژنی
+genetic testing	medicine	آزمایش ژنتیک
+genetic screening	medicine	غربالگری ژنتیکی
+genetic counseling	medicine	مشاوره ژنتیک
+genetic disorder	medicine	اختلال ژنتیکی، بیماری ژنتیکی
+dna test	biology	آزمایش دی‌ان‌ای
+dna fingerprinting	biology	انگشت‌نگاری ژنتیکی
+dna profiling	biology	تعیین هویت ژنتیکی
+paternity test	medicine	آزمایش تعیین ابوّت
+pcr	biology	Polymerase Chain Reaction؛ پی‌سی‌آر، واکنش زنجیره‌ای پلیمراز
+polymerase chain reaction	biology	واکنش زنجیره‌ای پلیمراز
+pcr test	medicine	تست پی‌سی‌آر
+polymerase	biology	پلیمراز، بَسپاراز
+epigenetics	biology	اپی‌ژنتیک، فراژن‌شناسی
+epigenetic	biology	اپی‌ژنتیکی
+epigenome	biology	اپی‌ژنوم
+methylation	biology	متیل‌دار شدن، متیلاسیون
+microbiome	biology	میکروبیوم، زیست‌بوم میکروبی (بدن)
+gut microbiome	biology	میکروبیوم روده
+microbiota	biology	میکروبیوتا، ریززیستگان
+gut flora	biology	فلور روده، باکتری‌های روده
+gut bacteria	biology	باکتری‌های روده
+microbe	biology	میکروب، ریزاندامگان
+microorganism	biology	ریزاندامگان، میکروارگانیسم، ریزجاندار
+bacteria	biology	باکتری‌ها
+bacterium	biology	باکتری
+archaea	biology	آرکی‌ها، باستانیان (ریزجانداران تک‌سلولی)
+bacteriophage	biology	باکتریوفاژ، باکتری‌خوار
+stem cell	biology	سلول بنیادی، یاخته بنیادی
+embryonic stem cell	biology	سلول بنیادی جنینی
+induced pluripotent stem cell	biology	سلول بنیادی پرتوان القایی
+pluripotent	biology	پرتوان (سلول)
+cloning	biology	شبیه‌سازی، همسانه‌سازی، کلون‌سازی
+clone	biology	کلون، همسانه؛ شبیه‌سازی کردن
+therapeutic cloning	biology	شبیه‌سازی درمانی
+embryo	biology	رویان، جنین
+zygote	biology	تخم، زیگوت
+gamete	biology	گامت، سلول جنسی
+fetus	biology	جنین
+foetus	biology	جنین
+organoid	biology	ارگانوئید، اندام‌واره
+tissue engineering	biology	مهندسی بافت
+bioprinting	biology	چاپ زیستی
+biotechnology	biology	زیست‌فناوری، بیوتکنولوژی
+biotech	biology	زیست‌فناوری، بیوتک
+bioinformatics	biology	بیوانفورماتیک، زیست‌داده‌ورزی
+synthetic biology	biology	زیست‌شناسی مصنوعی
+molecular biology	biology	زیست‌شناسی مولکولی
+cell biology	biology	زیست‌شناسی سلولی
+microbiology	biology	میکروب‌شناسی، ریززیست‌شناسی
+biochemistry	biology	زیست‌شیمی، بیوشیمی
+biophysics	biology	زیست‌فیزیک، بیوفیزیک
+proteomics	biology	پروتئومیک، پروتگان‌شناسی
+proteome	biology	پروتئوم، پروتگان
+bioengineering	biology	مهندسی زیستی
+biomedical	medicine	زیست‌پزشکی
+biomedical engineering	medicine	مهندسی پزشکی، مهندسی زیست‌پزشکی
+bionic	medicine	بیونیک، زیست‌الکترونیکی
+biosensor	biology	زیست‌حسگر
+bioreactor	biology	زیست‌واکنشگاه، بیوراکتور
+in vitro	biology	در شرایط آزمایشگاهی، برون‌تنی
+in vivo	biology	درون‌تنی، در بدن موجود زنده
+lab-grown meat	food	گوشت آزمایشگاهی، گوشت کشت‌شده
+cultured meat	food	گوشت کشت‌شده
+designer baby	biology	نوزاد سفارشی (با ژن‌های دست‌چین‌شده)
+eugenics	biology	به‌نژادی، اصلاح نژاد
+bioweapon	military	سلاح زیستی، جنگ‌افزار میکروبی
+bioterrorism	military	بیوتروریسم، تروریسم زیستی
+biosafety	biology	ایمنی زیستی
+biosecurity	biology	امنیت زیستی
+biohazard	biology	خطر زیستی
+neuroscience	biology	علوم اعصاب، عصب‌پژوهی
+neuroscientist	biology	پژوهشگر علوم اعصاب، عصب‌پژوه
+neuron	biology	نورون، سلول عصبی، عصب‌یاخته
+neurone	biology	نورون، سلول عصبی
+synapse	biology	سیناپس، همایه
+neurotransmitter	biology	ناقل عصبی، انتقال‌دهنده عصبی
+dopamine	biology	دوپامین
+serotonin	biology	سروتونین
+oxytocin	biology	اکسی‌توسین
+adrenaline	biology	آدرنالین
+cortisol	biology	کورتیزول
+noradrenaline	biology	نورآدرنالین
+axon	biology	آکسون، آسه
+dendrite	biology	دندریت، دارینه
+myelin	biology	میلین، غلاف میلین
+glia	biology	سلول‌های گلیال، یاخته‌های پشتیبان عصبی
+grey matter	anatomy	ماده خاکستری (مغز)
+white matter	anatomy	ماده سفید (مغز)
+cerebral cortex	anatomy	قشر مغز، قشر مخ
+cortex	anatomy	قشر (مغز)
+prefrontal cortex	anatomy	قشر پیش‌پیشانی
+frontal lobe	anatomy	لوب پیشانی، قطعه پیشانی
+temporal lobe	anatomy	لوب گیجگاهی
+hippocampus	anatomy	هیپوکامپ، اسبک مغز
+amygdala	anatomy	آمیگدال، بادامه
+hypothalamus	anatomy	هیپوتالاموس، زیرنهنج
+thalamus	anatomy	تالاموس، نهنج
+cerebellum	anatomy	مخچه
+brainstem	anatomy	ساقه مغز
+hemisphere	anatomy	نیمکره (مغز)
+corpus callosum	anatomy	جسم پینه‌ای
+central nervous system	anatomy	دستگاه عصبی مرکزی
+peripheral nervous system	anatomy	دستگاه عصبی محیطی
+blood-brain barrier	anatomy	سد خونی-مغزی
+neuroplasticity	biology	انعطاف‌پذیری عصبی، نوروپلاستیسیتی
+brain plasticity	biology	انعطاف‌پذیری مغز، شکل‌پذیری مغز
+neurogenesis	biology	نورون‌زایی، عصب‌زایی
+mirror neuron	biology	نورون آینه‌ای
+neural pathway	biology	مسیر عصبی
+neurodegenerative	medicine	تحلیل‌برنده عصبی، مخرب دستگاه عصبی
+cognitive science	psychology	علوم شناختی
+consciousness	psychology	هشیاری، آگاهی
+brain scan	medicine	اسکن مغز
+brain imaging	medicine	تصویربرداری مغزی
+neuroimaging	medicine	تصویربرداری عصبی
+brain-computer interface	computing	رابط مغز و رایانه
+deep brain stimulation	medicine	تحریک عمقی مغز
+optogenetics	biology	اپتوژنتیک، نورژنتیک
+connectome	biology	کانکتوم، نقشه اتصالات عصبی مغز
+ecology	biology	بوم‌شناسی، اکولوژی
+ecologist	biology	بوم‌شناس
+ecological	biology	بوم‌شناختی، زیست‌محیطی
+ecosystem	biology	زیست‌بوم، اکوسیستم، بوم‌سازگان
+biome	biology	زیست‌بوم کلان، بیوم
+biosphere	biology	زیست‌کره، بیوسفر
+habitat	biology	زیستگاه
+niche	biology	کُنام، آشیان بوم‌شناختی
+food chain	biology	زنجیره غذایی
+food web	biology	شبکه غذایی
+apex predator	zoology	شکارچی رأس هرم، شکارگر رأس
+keystone species	biology	گونه شاخص، گونه کلیدی
+invasive species	biology	گونه مهاجم
+endangered species	biology	گونه در خطر انقراض
+critically endangered	biology	در معرض خطر بحرانی انقراض
+extinct	biology	منقرض، نابودشده
+extinction	biology	انقراض
+mass extinction	biology	انقراض دسته‌جمعی، انقراض گروهی
+sixth extinction	biology	انقراض ششم
+indigenous species	biology	گونه بومی
+native species	biology	گونه بومی
+symbiosis	biology	هم‌زیستی
+symbiotic	biology	هم‌زیست، هم‌زیستانه
+parasite	biology	انگل
+pollinator	biology	گرده‌افشان
+pollination	botany	گرده‌افشانی
+photosynthesis	botany	فتوسنتز، نورساخت
+chlorophyll	botany	سبزینه، کلروفیل
+phytoplankton	biology	فیتوپلانکتون، گیاه‌پلانکتون
+plankton	biology	پلانکتون
+algae	biology	جلبک‌ها
+algal bloom	biology	شکوفایی جلبکی
+coral reef	biology	آبسنگ مرجانی، صخره مرجانی
+coral bleaching	biology	سفیدشدگی مرجان‌ها
+mangrove	botany	حرا، مانگرو (درخت و جنگل جزرومدی)
+wetland	geography	تالاب
+rainforest	geography	جنگل بارانی
+permafrost	geography	خاک همیشه‌یخ‌زده، یخ‌بستر دائمی
+tundra	geography	توندرا
+savanna	geography	ساوانا، علفزار گرمسیری
+carrying capacity	biology	ظرفیت برد (زیست‌بوم)، گنجایش زیستی
+population dynamics	biology	پویایی جمعیت
+rewilding	biology	بازوحشی‌سازی، احیای حیات وحش
+conservation	biology	حفاظت (از طبیعت)، پاسداشت محیط زیست
+conservationist	biology	هوادار حفاظت از طبیعت
+wildlife	zoology	حیات وحش
+biodiversity	biology	تنوع زیستی
+biodiversity loss	biology	از دست رفتن تنوع زیستی
+monoculture	botany	تک‌کشتی
+evolution	biology	تکامل، فرگشت
+evolutionary	biology	تکاملی، فرگشتی
+evolutionary biology	biology	زیست‌شناسی تکاملی
+natural selection	biology	انتخاب طبیعی، گزینش طبیعی
+sexual selection	biology	انتخاب جنسی
+survival of the fittest	biology	بقای اصلح
+adaptation	biology	سازگاری، سازش
+speciation	biology	گونه‌زایی
+common ancestor	biology	نیای مشترک
+phylogenetic	biology	تبارزایشی، فیلوژنتیک
+phylogeny	biology	تبارزایی، فیلوژنی
+taxonomy	biology	رده‌بندی، آرایه‌شناسی
+species	biology	گونه
+genus	biology	سرده، جنس
+hominid	biology	انسان‌سان، هومینید
+hominin	biology	انسان‌تبار، هومینین
+homo sapiens	biology	انسان خردمند، هومو ساپینس
+neanderthal	biology	نئاندرتال
+primate	zoology	نخستی، پریمات
+fossil record	biology	سنگواره‌نگاشت، پیشینه فسیلی
+missing link	biology	حلقه گمشده
+darwinism	biology	داروینیسم
+creationism	religion	آفرینش‌گرایی
+intelligent design	religion	طراحی هوشمند
+selfish gene	biology	ژن خودخواه
+meme	biology	میم (واحد انتقال فرهنگی)
+coevolution	biology	هم‌فرگشتی، تکامل هم‌زمان
+convergent evolution	biology	تکامل همگرا
+abiogenesis	biology	حیات‌زایی (پیدایش حیات از ماده بی‌جان)
+prokaryote	biology	پروکاریوت، پیش‌هسته‌ای
+eukaryote	biology	یوکاریوت، هوهسته‌ای
+multicellular	biology	پرسلولی، پریاخته
+unicellular	biology	تک‌سلولی، تک‌یاخته
+extremophile	biology	سخت‌زی، اکستریموفیل (جاندار شرایط سخت)
+tardigrade	zoology	خرس آبی، تاردیگراد
+pheromone	biology	فرومون
+bioluminescence	biology	زیست‌تابی، نورتابی زیستی
+biomimicry	biology	زیست‌تقلید، الگوبرداری از طبیعت
+hibernation	zoology	زمستان‌خوابی
+migration	zoology	کوچ، مهاجرت (جانوران)
+echolocation	zoology	پژواک‌یابی
+homeostasis	biology	هم‌ایستایی، هومئوستاز
+endocrine system	anatomy	دستگاه درون‌ریز، غدد درون‌ریز
+lymphatic system	anatomy	دستگاه لنفاوی
+thyroid	anatomy	تیروئید، غده تیروئید
+pancreas	anatomy	لوزالمعده، پانکراس
+prostate	anatomy	پروستات
+cervix	anatomy	دهانه رحم، گردن رحم
+uterus	anatomy	رحم، زهدان
+ovary	anatomy	تخمدان
+placenta	anatomy	جفت
+umbilical cord	anatomy	بند ناف
+bone marrow	anatomy	مغز استخوان
+spinal cord	anatomy	نخاع
+cartilage	anatomy	غضروف
+ligament	anatomy	رباط
+tendon	anatomy	زردپی، تاندون
+retina	anatomy	شبکیه
+cornea	anatomy	قرنیه
+aorta	anatomy	آئورت، بزرگ‌سرخرگ
+coronary artery	anatomy	سرخرگ اکلیلی، رگ کرونر
+capillary	anatomy	مویرگ
+lymph node	anatomy	گره لنفاوی، غده لنفاوی
+adrenal gland	anatomy	غده فوق‌کلیوی
+pituitary gland	anatomy	غده هیپوفیز
+quark	physics	کوارک
+lepton	physics	لپتون
+hadron	physics	هادرون
+baryon	physics	باریون
+meson	physics	مزون
+boson	physics	بوزون
+fermion	physics	فرمیون
+gluon	physics	گلوئون
+photon	physics	فوتون
+neutrino	physics	نوترینو
+muon	physics	میوئون
+positron	physics	پوزیترون
+antiparticle	physics	پادذره
+antimatter	physics	پادماده
+antiproton	physics	پادپروتون
+higgs boson	physics	بوزون هیگز
+higgs field	physics	میدان هیگز
+god particle	physics	ذره خدا (لقب عامیانه بوزون هیگز)
+graviton	physics	گراویتون (ذره فرضی حامل گرانش)
+elementary particle	physics	ذره بنیادی
+subatomic particle	physics	ذره زیراتمی
+subatomic	physics	زیراتمی
+particle physics	physics	فیزیک ذرات
+standard model	physics	مدل استاندارد (فیزیک ذرات)
+supersymmetry	physics	ابرتقارن
+string theory	physics	نظریه ریسمان
+superstring	physics	ابرریسمان
+m-theory	physics	نظریه ام
+theory of everything	physics	نظریه همه‌چیز
+grand unified theory	physics	نظریه وحدت بزرگ
+quantum gravity	physics	گرانش کوانتومی
+loop quantum gravity	physics	گرانش کوانتومی حلقه
+quantum	physics	کوانتوم؛ کوانتومی
+quantum mechanics	physics	مکانیک کوانتومی
+quantum physics	physics	فیزیک کوانتومی
+quantum theory	physics	نظریه کوانتوم
+quantum field theory	physics	نظریه میدان‌های کوانتومی
+quantum electrodynamics	physics	الکترودینامیک کوانتومی
+quantum chromodynamics	physics	کرومودینامیک کوانتومی
+quantum entanglement	physics	درهم‌تنیدگی کوانتومی
+entanglement	physics	درهم‌تنیدگی
+superposition	physics	برهم‌نهی
+quantum superposition	physics	برهم‌نهی کوانتومی
+wave function	physics	تابع موج
+wave-particle duality	physics	دوگانگی موج و ذره
+uncertainty principle	physics	اصل عدم قطعیت
+quantum tunneling	physics	تونل‌زنی کوانتومی
+quantum leap	physics	جهش کوانتومی؛ (مجازی) جهش بزرگ
+quantum computing	computing	رایانش کوانتومی
+quantum computer	computing	رایانه کوانتومی
+qubit	computing	کیوبیت، بیت کوانتومی
+quantum supremacy	computing	برتری کوانتومی
+quantum cryptography	computing	رمزنگاری کوانتومی
+quantum teleportation	physics	دورنوردی کوانتومی، تله‌پورت کوانتومی
+quantum dot	physics	نقطه کوانتومی
+decoherence	physics	ناهمدوسی
+schrodinger's cat	physics	گربه شرودینگر
+observer effect	physics	اثر ناظر
+spin	physics	اسپین (ذره)
+planck constant	physics	ثابت پلانک
+planck length	physics	طول پلانک
+relativity	physics	نسبیت
+general relativity	physics	نسبیت عام
+special relativity	physics	نسبیت خاص
+spacetime	physics	فضازمان
+space-time	physics	فضازمان
+time dilation	physics	اتساع زمان
+speed of light	physics	سرعت نور
+light speed	physics	سرعت نور
+gravitational wave	physics	موج گرانشی
+gravitational lensing	astronomy	همگرایی گرانشی، عدسی گرانشی
+gravitational field	physics	میدان گرانشی
+gravity	physics	گرانش، جاذبه
+microgravity	physics	ریزگرانش، بی‌وزنی
+zero gravity	physics	بی‌وزنی، گرانش صفر
+singularity	physics	تکینگی
+event horizon	astronomy	افق رویداد
+black hole	astronomy	سیاه‌چاله
+supermassive black hole	astronomy	سیاه‌چاله کلان‌جرم
+white hole	astronomy	سفیدچاله
+wormhole	astronomy	کرم‌چاله
+hawking radiation	physics	تابش هاوکینگ
+dark matter	astronomy	ماده تاریک
+dark energy	astronomy	انرژی تاریک
+big bang	astronomy	مه‌بانگ، انفجار بزرگ
+big crunch	astronomy	رُمبش بزرگ، مه‌رُمب
+cosmic inflation	astronomy	تورم کیهانی
+cosmic microwave background	astronomy	تابش زمینه کیهانی
+cosmology	astronomy	کیهان‌شناسی
+cosmologist	astronomy	کیهان‌شناس
+cosmos	astronomy	کیهان
+multiverse	astronomy	چندجهانی
+parallel universe	astronomy	جهان موازی
+observable universe	astronomy	جهان قابل مشاهده
+expanding universe	astronomy	جهان در حال انبساط
+redshift	astronomy	انتقال به سرخ، سرخ‌گرایی
+blueshift	astronomy	انتقال به آبی، آبی‌گرایی
+doppler effect	physics	اثر دوپلر
+anthropic principle	astronomy	اصل انسان‌محوری
+astrophysics	astronomy	اخترفیزیک
+astrophysicist	astronomy	اخترفیزیک‌دان
+astrobiology	astronomy	اخترزیست‌شناسی
+exoplanet	astronomy	سیاره فراخورشیدی
+extrasolar planet	astronomy	سیاره فراخورشیدی
+habitable zone	astronomy	کمربند حیات، منطقه زیست‌پذیر
+goldilocks zone	astronomy	کمربند حیات، منطقه زیست‌پذیر
+exomoon	astronomy	قمر فراخورشیدی
+dwarf planet	astronomy	سیاره کوتوله
+gas giant	astronomy	غول گازی
+ice giant	astronomy	غول یخی
+super-earth	astronomy	اَبَرزمین
+kuiper belt	astronomy	کمربند کویپر
+oort cloud	astronomy	ابر اورت
+asteroid belt	astronomy	کمربند سیارک‌ها
+asteroid	astronomy	سیارک
+meteoroid	astronomy	شهاب‌واره
+near-earth object	astronomy	جرم نزدیک‌زمین
+comet	astronomy	دنباله‌دار
+pulsar	astronomy	تپ‌اختر
+quasar	astronomy	اختروش، کوازار
+neutron star	astronomy	ستاره نوترونی
+magnetar	astronomy	مگنتار، ستاره مغناطیسی
+supernova	astronomy	ابرنواختر
+nova	astronomy	نواختر
+red giant	astronomy	غول سرخ
+white dwarf	astronomy	کوتوله سفید
+brown dwarf	astronomy	کوتوله قهوه‌ای
+red dwarf	astronomy	کوتوله سرخ
+nebula	astronomy	سحابی
+galaxy	astronomy	کهکشان
+milky way	astronomy	راه شیری، کهکشان راه شیری
+andromeda	astronomy	آندرومدا، کهکشان زن برزنجیر
+galaxy cluster	astronomy	خوشه کهکشانی
+star cluster	astronomy	خوشه ستاره‌ای
+binary star	astronomy	ستاره دوتایی
+light year	astronomy	سال نوری
+light-year	astronomy	سال نوری
+parsec	astronomy	پارسک
+astronomical unit	astronomy	واحد نجومی
+solar system	astronomy	منظومه شمسی، سامانه خورشیدی
+solar wind	astronomy	باد خورشیدی
+solar flare	astronomy	شراره خورشیدی
+sunspot	astronomy	لکه خورشیدی
+coronal mass ejection	astronomy	فوران تاج خورشیدی
+heliosphere	astronomy	هلیوسفر، خورشیدکره
+magnetosphere	astronomy	مغناط‌کره، مگنتوسفر
+aurora	astronomy	شفق قطبی
+solar eclipse	astronomy	خورشیدگرفتگی، کسوف
+lunar eclipse	astronomy	ماه‌گرفتگی، خسوف
+supermoon	astronomy	ابرماه
+space probe	astronomy	کاوشگر فضایی
+probe	astronomy	کاوشگر
+rover	astronomy	مریخ‌نورد، کاوشگر سطح‌نورد
+lander	astronomy	سطح‌نشین، فرودگر
+orbiter	astronomy	مدارگرد
+space station	astronomy	ایستگاه فضایی
+iss	astronomy	International Space Station؛ ایستگاه فضایی بین‌المللی
+space shuttle	astronomy	شاتل فضایی
+space telescope	astronomy	تلسکوپ فضایی
+radio telescope	astronomy	تلسکوپ رادیویی
+observatory	astronomy	رصدخانه
+spacewalk	astronomy	راهپیمایی فضایی
+astronaut	astronomy	فضانورد
+cosmonaut	astronomy	فضانورد (روس)، کیهان‌نورد
+space tourism	astronomy	گردشگری فضایی
+space debris	astronomy	زباله فضایی
+space junk	astronomy	زباله فضایی
+low earth orbit	astronomy	مدار نزدیک زمین، مدار پایینی زمین
+geostationary orbit	astronomy	مدار زمین‌ایستا
+geostationary	astronomy	زمین‌ایستا، زمین‌آهنگ
+escape velocity	physics	سرعت گریز
+payload	astronomy	محموله (فضاپیما یا موشک)
+reusable rocket	astronomy	موشک چندبارمصرف
+launch vehicle	astronomy	موشک حامل، پرتابگر
+terraforming	astronomy	زمین‌سان‌سازی
+seti	astronomy	Search for Extraterrestrial Intelligence؛ جست‌وجوی هوش فرازمینی
+extraterrestrial	astronomy	فرازمینی
+nasa	astronomy	National Aeronautics and Space Administration؛ ناسا، سازمان ملی هوانوردی و فضایی آمریکا
+esa	astronomy	European Space Agency؛ آژانس فضایی اروپا
+cern	physics	سِرن، سازمان اروپایی پژوهش‌های هسته‌ای
+large hadron collider	physics	برخورددهنده بزرگ هادرونی
+lhc	physics	Large Hadron Collider؛ برخورددهنده بزرگ هادرونی
+particle accelerator	physics	شتاب‌دهنده ذرات
+collider	physics	برخورددهنده
+synchrotron	physics	سنکروترون
+cyclotron	physics	سیکلوترون
+nuclear fusion	physics	هم‌جوشی هسته‌ای، گداخت هسته‌ای
+nuclear fission	physics	شکافت هسته‌ای
+cold fusion	physics	هم‌جوشی سرد
+fusion reactor	physics	رآکتور هم‌جوشی
+tokamak	physics	توکامک
+chain reaction	physics	واکنش زنجیره‌ای
+half-life	physics	نیمه‌عمر
+radioactive decay	physics	واپاشی پرتوزا
+radioactivity	physics	پرتوزایی، رادیواکتیویته
+ionizing radiation	physics	پرتو یون‌ساز، تابش یونیزه‌کننده
+gamma ray	physics	پرتو گاما
+x-ray	physics	پرتو ایکس، اشعه ایکس
+ultraviolet	physics	فرابنفش
+infrared	physics	فروسرخ، مادون قرمز
+microwave	physics	ریزموج، مایکروویو
+electromagnetic spectrum	physics	طیف الکترومغناطیسی
+electromagnetic radiation	physics	تابش الکترومغناطیسی
+wavelength	physics	طول موج
+frequency	physics	بسامد، فرکانس
+terahertz	physics	تراهرتز
+laser	physics	لیزر
+maser	physics	میزر
+hologram	physics	هولوگرام، تمام‌نگاره
+holography	physics	هولوگرافی، تمام‌نگاری
+photonics	physics	فوتونیک، نورشناخت
+fiber optics	physics	فیبر نوری، تارهای نوری
+optical fiber	physics	فیبر نوری، تار نوری
+superconductor	physics	ابررسانا
+superconductivity	physics	ابررسانایی
+room-temperature superconductor	physics	ابررسانای دمای اتاق
+superfluid	physics	ابرشاره
+semiconductor	electronics	نیم‌رسانا، نیمه‌هادی
+bose-einstein condensate	physics	چگالیده بوز-اینشتین
+plasma physics	physics	فیزیک پلاسما
+condensed matter	physics	ماده چگال
+absolute zero	physics	صفر مطلق
+entropy	physics	آنتروپی، درگاشت
+thermodynamics	physics	ترمودینامیک، گرماپویایی
+chaos theory	math	نظریه آشوب
+butterfly effect	math	اثر پروانه‌ای
+nonlinear	math	غیرخطی
+complex system	math	سامانه پیچیده
+emergence	physics	ظهور، پدیدارشدگی (ویژگی‌های نوپدید)
+kinetic energy	physics	انرژی جنبشی
+potential energy	physics	انرژی پتانسیل
+momentum	physics	تکانه، اندازه حرکت
+angular momentum	physics	تکانه زاویه‌ای
+inertia	physics	لختی، اینرسی
+torque	physics	گشتاور
+velocity	physics	سرعت (برداری)
+acceleration	physics	شتاب
+centrifugal force	physics	نیروی گریز از مرکز
+resonance	physics	تشدید، رزونانس
+interference	physics	تداخل
+diffraction	physics	پراش
+refraction	physics	شکست (نور)
+polarization	physics	قطبش
+nanometer	physics	نانومتر
+nanosecond	physics	نانوثانیه
+femtosecond	physics	فمتوثانیه
+picosecond	physics	پیکوثانیه
+attosecond	physics	آتوثانیه
+electronvolt	physics	الکترون‌ولت
+kelvin	physics	کلوین
+joule	physics	ژول
+tesla	physics	تسلا (یکای چگالی شار مغناطیسی)
+sievert	physics	سیورت (یکای دُز پرتو)
+becquerel	physics	بکرل (یکای پرتوزایی)
+atomic clock	physics	ساعت اتمی
+electron microscope	physics	میکروسکوپ الکترونی
+scanning tunneling microscope	physics	میکروسکوپ تونلی روبشی
+spectroscopy	physics	طیف‌نگاری، طیف‌بینی
+spectrometer	physics	طیف‌سنج
+mass spectrometry	chemistry	طیف‌سنجی جرمی
+interferometer	physics	تداخل‌سنج
+nuclear magnetic resonance	physics	تشدید مغناطیسی هسته‌ای
+metamaterial	physics	فراماده
+piezoelectric	physics	پیزوالکتریک، فشاربرقی
+photovoltaic	physics	فتوولتاییک، نوربرقی
+thermoelectric	physics	ترموالکتریک، گرمابرقی
+spintronics	electronics	اسپینترونیک
+graphene	chemistry	گرافین، گرافن
+nanotube	chemistry	نانولوله
+carbon nanotube	chemistry	نانولوله کربنی
+fullerene	chemistry	فولرن
+buckyball	chemistry	باکی‌بال (مولکول کروی کربن ۶۰)
+nanoparticle	chemistry	نانوذره
+nanomaterial	chemistry	نانوماده
+nanotechnology	engineering	فناوری نانو، نانوفناوری
+nanotech	engineering	فناوری نانو
+nanoscale	physics	نانومقیاس، در مقیاس نانو
+nanowire	chemistry	نانوسیم
+nanobot	engineering	نانوربات
+carbon fiber	chemistry	الیاف کربن، فیبر کربن
+carbon fibre	chemistry	الیاف کربن، فیبر کربن
+composite	engineering	ماده مرکب، کامپوزیت
+composite material	engineering	ماده مرکب، کامپوزیت
+aerogel	chemistry	هواژل، آئروژل
+kevlar	chemistry	کولار (الیاف مصنوعی بسیار مقاوم)
+teflon	chemistry	تفلون
+polymer	chemistry	بسپار، پلیمر
+monomer	chemistry	تک‌پار، مونومر
+copolymer	chemistry	هم‌بسپار، کوپلیمر
+polymerization	chemistry	بسپارش، پلیمری‌شدن
+biopolymer	chemistry	زیست‌بسپار، بیوپلیمر
+polyethylene	chemistry	پلی‌اتیلن
+polypropylene	chemistry	پلی‌پروپیلن
+polystyrene	chemistry	پلی‌استایرن
+styrofoam	chemistry	یونولیت، فوم پلی‌استایرن
+polyester	chemistry	پلی‌استر
+polyurethane	chemistry	پلی‌اورتان
+polycarbonate	chemistry	پلی‌کربنات
+pvc	chemistry	Polyvinyl Chloride؛ پی‌وی‌سی، پلی‌وینیل کلرید
+pet	chemistry	Polyethylene Terephthalate؛ پلی‌اتیلن ترفتالات، پت (پلاستیک بطری)
+acrylic	chemistry	اکریلیک
+silicone	chemistry	سیلیکون (بسپار)
+silicon	chemistry	سیلیسیم، سیلیکون (عنصر)
+epoxy	chemistry	اپوکسی
+resin	chemistry	رزین
+thermoplastic	chemistry	گرمانرم، ترموپلاستیک
+elastomer	chemistry	کشپار، الاستومر
+bioplastic	chemistry	زیست‌پلاستیک، پلاستیک زیستی
+bpa	chemistry	Bisphenol A؛ بیسفنول آ (ماده شیمیایی پلاستیک‌ها)
+phthalate	chemistry	فتالات
+pfas	chemistry	Per- and Polyfluoroalkyl Substances؛ مواد پرفلوئوروآلکیل، «مواد شیمیایی ابدی»
+forever chemicals	chemistry	مواد شیمیایی ابدی (آلاینده‌های تجزیه‌ناپذیر)
+alloy	chemistry	آلیاژ، همبسته
+shape-memory alloy	engineering	آلیاژ حافظه‌دار
+titanium	chemistry	تیتانیوم
+lithium	chemistry	لیتیم
+cobalt	chemistry	کبالت
+rare earth	chemistry	عنصر خاکی کمیاب
+rare earth element	chemistry	عنصر خاکی کمیاب
+plutonium	chemistry	پلوتونیم
+uranium	chemistry	اورانیم
+enriched uranium	physics	اورانیم غنی‌شده
+depleted uranium	physics	اورانیم ضعیف‌شده
+isotope	chemistry	ایزوتوپ
+radioisotope	chemistry	رادیوایزوتوپ، ایزوتوپ پرتوزا
+deuterium	chemistry	دوتریم
+tritium	chemistry	تریتیم
+heavy water	chemistry	آب سنگین
+carbon dating	chemistry	تاریخ‌گذاری کربنی، سال‌یابی با کربن ۱۴
+radiocarbon dating	chemistry	سال‌یابی رادیوکربن
+ion	chemistry	یون
+cation	chemistry	کاتیون
+anion	chemistry	آنیون
+molecule	chemistry	مولکول
+compound	chemistry	ترکیب (شیمیایی)
+covalent bond	chemistry	پیوند کووالانسی
+hydrogen bond	chemistry	پیوند هیدروژنی
+catalyst	chemistry	کاتالیزگر، کاتالیزور
+catalysis	chemistry	کاتالیز
+catalytic converter	engineering	مبدل کاتالیزوری
+oxidation	chemistry	اکسایش، اکسیداسیون
+redox	chemistry	اکسایش-کاهش
+electrolysis	chemistry	برق‌کافت، الکترولیز
+ph	chemistry	پی‌اچ (شاخص اسیدی یا بازی بودن)
+solvent	chemistry	حلال
+reagent	chemistry	واکنشگر، معرف
+organic chemistry	chemistry	شیمی آلی
+inorganic chemistry	chemistry	شیمی معدنی
+green chemistry	chemistry	شیمی سبز
+petrochemical	chemistry	پتروشیمیایی؛ فراورده پتروشیمی
+hydrocarbon	chemistry	هیدروکربن
+methane	chemistry	متان
+ethanol	chemistry	اتانول
+methanol	chemistry	متانول
+ammonia	chemistry	آمونیاک
+carbon dioxide	chemistry	دی‌اکسید کربن، کربن دی‌اکسید
+co2	chemistry	Carbon Dioxide؛ دی‌اکسید کربن
+carbon monoxide	chemistry	مونوکسید کربن
+nitrogen oxide	chemistry	اکسید نیتروژن
+nitrous oxide	chemistry	اکسید نیتروژن (I)، گاز خنده
+sulfur dioxide	chemistry	دی‌اکسید گوگرد
+ozone	chemistry	اُزون
+cfc	chemistry	Chlorofluorocarbon؛ کلروفلوئوروکربن (گاز مخرب لایه ازون)
+chlorofluorocarbon	chemistry	کلروفلوئوروکربن
+hydrogen peroxide	chemistry	آب‌اکسیژنه، پراکسید هیدروژن
+formaldehyde	chemistry	فرمالدهید
+dioxin	chemistry	دیوکسین
+asbestos	chemistry	آزبست، پنبه نسوز
+heavy metal	chemistry	فلز سنگین
+mercury	chemistry	جیوه
+arsenic	chemistry	آرسنیک
+cyanide	chemistry	سیانید
+pesticide	chemistry	آفت‌کش
+herbicide	chemistry	علف‌کش
+insecticide	chemistry	حشره‌کش
+fungicide	chemistry	قارچ‌کش
+ddt	chemistry	Dichlorodiphenyltrichloroethane؛ دِ.دِ.تِ (حشره‌کش)
+fertilizer	chemistry	کود (شیمیایی)
+toxin	biology	سم (زیستی)، زهرابه، توکسین
+toxic	chemistry	سمی
+toxicity	chemistry	سمیت
+neurotoxin	biology	سم عصبی، نوروتوکسین
+nerve agent	military	عامل اعصاب (جنگ‌افزار شیمیایی)
+sarin	military	سارین (گاز اعصاب)
+liquid crystal	chemistry	بلور مایع
+lcd	electronics	Liquid Crystal Display؛ نمایشگر بلور مایع
+led	electronics	Light-Emitting Diode؛ ال‌ای‌دی، دیود نورافشان
+oled	electronics	Organic Light-Emitting Diode؛ اولد، دیود نورافشان آلی
+solar cell	engineering	سلول خورشیدی
+fuel cell	engineering	پیل سوختی
+lithium-ion battery	engineering	باتری لیتیم-یون
+solid-state battery	engineering	باتری حالت جامد
+3d printing	engineering	چاپ سه‌بعدی
+additive manufacturing	engineering	ساخت افزایشی
+smart material	engineering	ماده هوشمند
+biomaterial	engineering	زیست‌ماده
+biodegradable	chemistry	زیست‌تخریب‌پذیر، زیست‌تجزیه‌پذیر
+earth science	geography	علوم زمین
+geology	geography	زمین‌شناسی
+geophysics	geography	ژئوفیزیک، زمین‌فیزیک
+geochemistry	geography	ژئوشیمی، زمین‌شیمی
+plate tectonics	geography	زمین‌ساخت صفحه‌ای، تکتونیک صفحه‌ای
+tectonic plate	geography	صفحه زمین‌ساختی
+tectonic	geography	زمین‌ساختی، تکتونیکی
+continental drift	geography	رانش قاره‌ای، جابه‌جایی قاره‌ها
+fault line	geography	خط گسل
+fault	geography	گسل
+subduction	geography	فرورانش
+seismic	geography	لرزه‌ای
+seismology	geography	زلزله‌شناسی، لرزه‌شناسی
+seismologist	geography	زلزله‌شناس
+seismograph	geography	لرزه‌نگار
+epicenter	geography	رومرکز، کانون سطحی زلزله
+epicentre	geography	رومرکز، کانون سطحی زلزله
+aftershock	geography	پس‌لرزه
+magnitude	geography	بزرگی (زلزله)
+richter scale	geography	مقیاس ریشتر
+tsunami	geography	سونامی، آبتاز
+magma	geography	ماگما، گدازه درونی
+lava	geography	گدازه
+supervolcano	geography	ابرآتشفشان
+caldera	geography	کالدرا، دهانه فروریخته آتشفشان
+mantle	geography	گوشته (زمین)
+crust	geography	پوسته (زمین)
+lithosphere	geography	سنگ‌کره، لیتوسفر
+hydrosphere	geography	آب‌کره
+atmosphere	geography	جو، هواکره، اتمسفر
+troposphere	geography	وردسپهر، تروپوسفر
+stratosphere	geography	پوشن‌سپهر، استراتوسفر
+ionosphere	geography	یون‌کره، یونوسفر
+ozone layer	geography	لایه اُزون
+ozone hole	geography	حفره لایه اُزون
+jet stream	geography	رودباد، جت‌استریم
+el nino	geography	ال‌نینو (گرم شدن دوره‌ای آب‌های اقیانوس آرام)
+la nina	geography	لانینا
+gulf stream	geography	گلف‌استریم، جریان خلیج
+ocean current	geography	جریان اقیانوسی
+monsoon	geography	مونسون، باد موسمی
+hurricane	geography	توفند، هاریکن
+cyclone	geography	چرخند، توفان حاره‌ای
+typhoon	geography	تایفون، توفان حاره‌ای
+tornado	geography	پیچند، تورنادو
+storm surge	geography	خیزاب توفان
+flash flood	geography	سیلاب ناگهانی
+landslide	geography	زمین‌لغزش، رانش زمین
+mudslide	geography	گل‌رود، رانش گل
+avalanche	geography	بهمن
+sinkhole	geography	فروچاله
+erosion	geography	فرسایش
+sediment	geography	رسوب
+aquifer	geography	آبخوان، سفره آب زیرزمینی
+groundwater	geography	آب زیرزمینی
+water table	geography	سطح ایستابی، سطح آب زیرزمینی
+watershed	geography	حوضه آبخیز
+glacier	geography	یخچال طبیعی، یخ‌رود
+ice sheet	geography	صفحه یخی، یخسار
+ice cap	geography	کلاهک یخی
+ice age	geography	عصر یخبندان
+iceberg	geography	کوه یخ
+sea ice	geography	یخ دریا
+anthropocene	geography	آنتروپوسن، دوران انسان (عصر زمین‌شناختی کنونی)
+holocene	geography	هولوسن
+pleistocene	geography	پلیستوسن
+jurassic	geography	ژوراسیک
+cretaceous	geography	کرتاسه
+cambrian	geography	کامبرین
+paleontology	biology	دیرینه‌شناسی
+paleontologist	biology	دیرینه‌شناس
+meteorology	geography	هواشناسی
+meteorologist	geography	هواشناس
+climatology	geography	اقلیم‌شناسی
+climatologist	geography	اقلیم‌شناس
+oceanography	geography	اقیانوس‌شناسی
+hydrology	geography	آب‌شناسی، هیدرولوژی
+remote sensing	geography	سنجش از دور
+gis	geography	Geographic Information System؛ سامانه اطلاعات جغرافیایی
+gps	geography	Global Positioning System؛ جی‌پی‌اس، سامانه موقعیت‌یاب جهانی
+satellite imagery	geography	تصاویر ماهواره‌ای
+lidar	engineering	لایدار (نورسنجی و فاصله‌یابی لیزری)
+sonar	engineering	سونار، ردیاب صوتی
+radar	engineering	رادار
+fracking	engineering	شکست هیدرولیکی (برای استخراج نفت و گاز شیل)
+hydraulic fracturing	engineering	شکست هیدرولیکی
+shale gas	engineering	گاز شیل
+shale oil	engineering	نفت شیل
+tar sands	engineering	ماسه‌های نفتی، ماسه‌های قیری
+natural gas	engineering	گاز طبیعی
+lng	engineering	Liquefied Natural Gas؛ گاز طبیعی مایع‌شده
+offshore drilling	engineering	حفاری فراساحلی
+deep-sea mining	engineering	معدن‌کاری در بستر دریا
+climate change	geography	تغییر اقلیم، تغییرات آب‌وهوایی
+global warming	geography	گرمایش جهانی، گرم شدن زمین
+global heating	geography	گرمایش جهانی
+climate crisis	geography	بحران اقلیمی
+climate emergency	geography	وضعیت اضطراری اقلیمی
+climate	geography	اقلیم، آب‌وهوا
+climate action	politics	اقدام اقلیمی
+climate denial	politics	انکار تغییرات اقلیمی
+climate denier	politics	منکر تغییرات اقلیمی
+climate skeptic	politics	شکاک به تغییرات اقلیمی
+climate refugee	politics	پناهجوی اقلیمی، آواره آب‌وهوایی
+climate justice	politics	عدالت اقلیمی
+climate model	geography	مدل اقلیمی
+climate adaptation	geography	سازگاری با تغییر اقلیم
+climate mitigation	geography	کاهش آثار تغییر اقلیم، تعدیل تغییرات اقلیمی
+climate neutral	geography	بی‌اثر بر اقلیم، اقلیم‌خنثی
+climate anxiety	psychology	اضطراب اقلیمی
+eco-anxiety	psychology	اضطراب زیست‌محیطی
+tipping point	geography	نقطه بی‌بازگشت، نقطه عطف بحرانی
+feedback loop	general	حلقه بازخورد
+greenhouse effect	geography	اثر گلخانه‌ای
+greenhouse gas	geography	گاز گلخانه‌ای
+ghg	geography	Greenhouse Gas؛ گاز گلخانه‌ای
+emission	geography	انتشار (گاز)، گسیل؛ آلاینده منتشرشده
+emissions	geography	گازهای منتشرشده، آلاینده‌های خروجی، میزان انتشار
+carbon emissions	geography	انتشار کربن
+carbon footprint	geography	ردپای کربن
+ecological footprint	geography	ردپای بوم‌شناختی
+water footprint	geography	ردپای آب
+carbon neutral	geography	کربن‌خنثی، بی‌اثر کربنی
+carbon neutrality	geography	کربن‌خنثایی، بی‌اثری کربنی
+carbon negative	geography	کربن‌منفی
+net zero	geography	انتشار خالص صفر، کربن صفر خالص
+net-zero	geography	انتشار خالص صفر
+zero emission	geography	بدون آلایندگی، انتشار صفر
+zero-carbon	geography	بدون کربن
+low-carbon	geography	کم‌کربن
+decarbonization	geography	کربن‌زدایی
+decarbonize	geography	کربن‌زدایی کردن
+carbon capture	engineering	جذب کربن، به دام انداختن کربن
+carbon capture and storage	engineering	جذب و ذخیره‌سازی کربن
+ccs	engineering	Carbon Capture and Storage؛ جذب و ذخیره‌سازی کربن
+carbon sequestration	geography	ترسیب کربن
+carbon sink	geography	چاهک کربن، مخزن جذب کربن
+carbon offset	business	جبران کربن، خنثی‌سازی کربن
+carbon credit	business	اعتبار کربن
+carbon trading	business	تجارت کربن
+emissions trading	business	تجارت مجوز انتشار
+cap and trade	business	سقف‌گذاری و مبادله (مجوزهای انتشار)
+carbon tax	business	مالیات کربن
+carbon budget	geography	بودجه کربن
+carbon cycle	geography	چرخه کربن
+carbon pricing	business	قیمت‌گذاری کربن
+fossil fuel	geography	سوخت فسیلی
+phase-out	geography	کنارگذاری تدریجی
+kyoto protocol	politics	پیمان کیوتو
+paris agreement	politics	توافق پاریس، توافق‌نامه اقلیمی پاریس
+ipcc	politics	Intergovernmental Panel on Climate Change؛ هیئت بین‌دولتی تغییر اقلیم
+cop	politics	Conference of the Parties؛ کنفرانس اعضا (نشست سالانه اقلیمی سازمان ملل)
+unfccc	politics	United Nations Framework Convention on Climate Change؛ کنوانسیون چارچوب سازمان ملل درباره تغییر اقلیم
+sea level rise	geography	بالا آمدن سطح دریا، افزایش تراز آب دریاها
+sea level	geography	سطح دریا، تراز دریا
+ocean acidification	geography	اسیدی شدن اقیانوس‌ها
+ice melt	geography	ذوب یخ‌ها
+polar ice cap	geography	کلاهک یخی قطبی
+heatwave	geography	موج گرما
+heat wave	geography	موج گرما
+heat dome	geography	گنبد گرمایی
+extreme weather	geography	رویدادهای حدی آب‌وهوایی، آب‌وهوای شدید
+drought	geography	خشک‌سالی
+megadrought	geography	ابرخشک‌سالی
+wildfire	geography	آتش‌سوزی جنگلی، آتش‌سوزی طبیعی
+bushfire	geography	آتش‌سوزی بوته‌زار
+desertification	geography	بیابان‌زایی
+deforestation	geography	جنگل‌زدایی
+reforestation	geography	بازجنگل‌کاری، احیای جنگل
+afforestation	geography	جنگل‌کاری
+land degradation	geography	تخریب زمین، فرسودگی خاک
+soil erosion	geography	فرسایش خاک
+water scarcity	geography	کم‌آبی، کمبود آب
+water stress	geography	تنش آبی
+water crisis	geography	بحران آب
+land subsidence	geography	فرونشست زمین
+dust storm	geography	توفان گردوغبار، ریزگرد
+urban heat island	geography	جزیره گرمایی شهری
+temperature inversion	geography	وارونگی دما
+environment	geography	محیط زیست
+environmental	geography	زیست‌محیطی
+environmentalist	politics	هوادار محیط زیست، کنشگر محیط زیست
+environmentalism	politics	محیط‌زیست‌گرایی
+environmentally friendly	geography	دوستدار محیط زیست، سازگار با محیط زیست
+eco-friendly	geography	دوستدار محیط زیست، سازگار با محیط زیست
+green	geography	سبز، سازگار با محیط زیست
+greenwashing	business	سبزشویی، سبزنمایی (تظاهر به دوستداری محیط زیست)
+green energy	engineering	انرژی سبز
+green economy	business	اقتصاد سبز
+green new deal	politics	پیمان نوین سبز
+green technology	engineering	فناوری سبز
+green building	architecture	ساختمان سبز
+clean energy	engineering	انرژی پاک
+clean tech	engineering	فناوری پاک
+renewable	engineering	تجدیدپذیر
+renewable energy	engineering	انرژی تجدیدپذیر
+renewables	engineering	انرژی‌های تجدیدپذیر
+non-renewable	engineering	تجدیدناپذیر
+solar power	engineering	انرژی خورشیدی، برق خورشیدی
+solar energy	engineering	انرژی خورشیدی
+solar panel	engineering	پنل خورشیدی، صفحه خورشیدی
+solar farm	engineering	مزرعه خورشیدی، نیروگاه خورشیدی
+wind power	engineering	انرژی بادی، برق بادی
+wind turbine	engineering	توربین بادی
+wind farm	engineering	مزرعه بادی، نیروگاه بادی
+offshore wind	engineering	انرژی بادی فراساحلی
+hydropower	engineering	برق‌آبی، انرژی آبی
+hydroelectric	engineering	برق‌آبی
+geothermal	engineering	زمین‌گرمایی
+geothermal energy	engineering	انرژی زمین‌گرمایی
+tidal power	engineering	انرژی جزرومدی
+wave power	engineering	انرژی امواج
+biomass	engineering	زیست‌توده
+biofuel	engineering	سوخت زیستی، زیست‌سوخت
+biogas	engineering	زیست‌گاز، بیوگاز
+biodiesel	engineering	بیودیزل، زیست‌دیزل
+bioethanol	engineering	بیواتانول، زیست‌اتانول
+hydrogen fuel	engineering	سوخت هیدروژنی
+green hydrogen	engineering	هیدروژن سبز
+nuclear power	engineering	انرژی هسته‌ای، برق هسته‌ای
+nuclear waste	engineering	پسماند هسته‌ای، زباله اتمی
+meltdown	engineering	ذوب قلب رآکتور
+energy efficiency	engineering	بهره‌وری انرژی، بازده انرژی
+energy-efficient	engineering	کم‌مصرف، بهینه در مصرف انرژی
+energy transition	engineering	گذار انرژی
+energy storage	engineering	ذخیره‌سازی انرژی
+smart grid	engineering	شبکه هوشمند برق
+power grid	engineering	شبکه برق
+off-grid	engineering	مستقل از شبکه برق، خارج از شبکه
+heat pump	engineering	پمپ حرارتی، تلمبه گرمایی
+insulation	engineering	عایق‌کاری، عایق‌بندی
+electric vehicle	engineering	خودروی برقی
+ev	engineering	Electric Vehicle؛ خودروی برقی
+electric car	engineering	خودروی برقی
+hybrid car	engineering	خودروی دوگانه‌سوز برقی، خودروی هیبریدی
+hybrid	engineering	هیبریدی، دونیرویی
+plug-in hybrid	engineering	هیبرید شارژی، هیبریدی پلاگین
+charging station	engineering	ایستگاه شارژ
+carpooling	general	هم‌پیمایی، استفاده اشتراکی از خودرو
+car sharing	general	اشتراک خودرو
+sustainability	geography	پایداری، پایندگی (زیست‌محیطی)
+sustainable	geography	پایدار
+sustainable development	geography	توسعه پایدار
+sustainable development goals	politics	اهداف توسعه پایدار
+sdg	politics	Sustainable Development Goal؛ هدف توسعه پایدار
+circular economy	business	اقتصاد چرخشی
+esg	business	Environmental, Social and Governance؛ معیارهای زیست‌محیطی، اجتماعی و حکمرانی
+degrowth	business	رشدزدایی، کاهش رشد اقتصادی
+recycling	geography	بازیافت
+recycle	geography	بازیافت کردن
+recyclable	geography	بازیافت‌پذیر، قابل بازیافت
+upcycling	geography	بازآفرینی، بازیافت ارتقایی
+upcycle	geography	بازآفرینی کردن (تبدیل دورریز به کالای باارزش‌تر)
+composting	geography	کمپوست‌سازی، تولید کود گیاهی
+compost	geography	کمپوست، کود گیاهی
+zero waste	geography	پسماند صفر، بدون زباله
+waste management	geography	مدیریت پسماند
+landfill	geography	محل دفن زباله، خاک‌چال
+incinerator	engineering	زباله‌سوز
+e-waste	geography	زباله الکترونیکی، پسماند الکترونیکی
+hazardous waste	geography	پسماند خطرناک
+toxic waste	geography	زباله سمی، پسماند سمی
+single-use plastic	geography	پلاستیک یک‌بارمصرف
+single-use	geography	یک‌بارمصرف
+disposable	geography	یک‌بارمصرف، دورانداختنی
+reusable	geography	چندبارمصرف، قابل استفاده مجدد
+microplastic	geography	ریزپلاستیک، میکروپلاستیک
+microplastics	geography	ریزپلاستیک‌ها، میکروپلاستیک‌ها
+nanoplastic	geography	نانوپلاستیک
+plastic pollution	geography	آلودگی پلاستیکی
+microbead	geography	ریزدانه پلاستیکی
+pollution	geography	آلودگی
+pollutant	geography	آلاینده
+air pollution	geography	آلودگی هوا
+air quality	geography	کیفیت هوا
+air quality index	geography	شاخص کیفیت هوا
+aqi	geography	Air Quality Index؛ شاخص کیفیت هوا
+particulate matter	geography	ذرات معلق
+pm2.5	geography	ذرات معلق کوچک‌تر از ۲٫۵ میکرون
+smog	geography	مه‌دود
+acid rain	geography	باران اسیدی
+water pollution	geography	آلودگی آب
+noise pollution	geography	آلودگی صوتی
+light pollution	geography	آلودگی نوری
+oil spill	geography	نشت نفت، لکه نفتی
+contamination	geography	آلودگی، آلایش
+contaminant	geography	آلاینده
+runoff	geography	رواناب
+eutrophication	biology	پرغذایی (آب)، یوتریفیکاسیون
+dead zone	geography	منطقه مرده (آب‌های بی‌اکسیژن)
+overfishing	geography	صید بی‌رویه
+bycatch	geography	صید ضمنی، صید ناخواسته
+poaching	law	شکار غیرمجاز
+overgrazing	geography	چرای بی‌رویه
+overpopulation	geography	ازدیاد جمعیت، بیش‌جمعیتی
+overconsumption	geography	مصرف بی‌رویه
+habitat loss	biology	از بین رفتن زیستگاه
+habitat destruction	biology	تخریب زیستگاه
+wildlife corridor	biology	دالان حیات وحش
+nature reserve	geography	منطقه حفاظت‌شده، ذخیره‌گاه طبیعی
+protected area	geography	منطقه حفاظت‌شده
+national park	geography	پارک ملی، بوستان ملی
+biosphere reserve	geography	ذخیره‌گاه زیست‌کره
+ecotourism	geography	بوم‌گردی، طبیعت‌گردی
+eco-tourism	geography	بوم‌گردی، طبیعت‌گردی
+organic farming	botany	کشاورزی ارگانیک، کشت زیستی
+sustainable agriculture	botany	کشاورزی پایدار
+regenerative agriculture	botany	کشاورزی احیاکننده
+permaculture	botany	پرماکالچر، کشت پایدار
+agroforestry	botany	جنگل‌زراعی، زراعت جنگلی
+vertical farming	botany	کشاورزی عمودی
+hydroponics	botany	آب‌کشت، هیدروپونیک
+aquaculture	biology	آبزی‌پروری
+factory farming	general	دامداری صنعتی
+food security	politics	امنیت غذایی
+food waste	geography	دورریز غذا، ضایعات غذایی
+food miles	geography	مسافت حمل غذا (از تولید تا مصرف)
+locavore	food	محلی‌خور (کسی که غذای تولید محل را می‌خورد)
+fair trade	business	تجارت منصفانه
+drip irrigation	botany	آبیاری قطره‌ای
+desalination	engineering	نمک‌زدایی، شیرین‌سازی آب
+wastewater	engineering	فاضلاب، پساب
+greywater	engineering	آب خاکستری
+rainwater harvesting	engineering	جمع‌آوری آب باران
+geoengineering	engineering	مهندسی اقلیم، ژئومهندسی
+cloud seeding	geography	بارورسازی ابرها
+environmental impact assessment	geography	ارزیابی اثرات زیست‌محیطی
+life cycle assessment	engineering	ارزیابی چرخه عمر
+ecocide	law	بوم‌کشی، نابودی گسترده محیط زیست
+tree hugger	slang	(عامیانه، تحقیرآمیز) هوادار افراطی محیط زیست
+algorithm	math	الگوریتم، خوارزمی
+statistics	math	آمار
+statistical	math	آماری
+statistician	math	آماردان، آمارشناس
+probability	math	احتمال
+probability distribution	math	توزیع احتمال
+probability theory	math	نظریه احتمال
+random variable	math	متغیر تصادفی
+randomness	math	تصادفی بودن، بخت‌آوردی
+random	math	تصادفی
+random sample	math	نمونه تصادفی
+randomization	math	تصادفی‌سازی
+stochastic	math	تصادفی، کاتوره‌ای، استوکاستیک
+deterministic	math	قطعی، تعیّنی
+mean	math	میانگین
+average	math	میانگین، متوسط
+median	math	میانه
+mode	math	نما، مُد
+standard deviation	math	انحراف معیار
+variance	math	واریانس، پراش
+normal distribution	math	توزیع نرمال، توزیع بهنجار
+bell curve	math	منحنی زنگوله‌ای
+gaussian	math	گاوسی
+distribution	math	توزیع
+skewed	math	چوله، نامتقارن
+outlier	math	داده پرت، برون‌هشته
+percentile	math	صدک
+quartile	math	چارک
+correlation	math	همبستگی
+correlation coefficient	math	ضریب همبستگی
+causation	math	علیّت، رابطه علت و معلولی
+causality	math	علیّت
+regression	math	رگرسیون، وایازش
+linear regression	math	رگرسیون خطی
+logistic regression	math	رگرسیون لجستیک
+regression to the mean	math	بازگشت به میانگین
+statistical significance	math	معناداری آماری
+statistically significant	math	از نظر آماری معنادار
+p-value	math	مقدار پی، مقدار احتمال
+confidence interval	math	بازه اطمینان، فاصله اطمینان
+margin of error	math	حاشیه خطا
+null hypothesis	math	فرض صفر، فرض پوچ
+hypothesis testing	math	آزمون فرض
+sample size	math	حجم نمونه، اندازه نمونه
+sampling	math	نمونه‌گیری
+sampling bias	math	سوگیری نمونه‌گیری
+selection bias	math	سوگیری انتخاب
+survivorship bias	math	سوگیری بقا
+bias	math	سوگیری، اریبی
+confounding variable	math	متغیر مخدوش‌کننده
+confounder	math	عامل مخدوش‌کننده
+dependent variable	math	متغیر وابسته
+independent variable	math	متغیر مستقل
+variable	math	متغیر
+parameter	math	پارامتر، پراسنجه
+dataset	math	مجموعه داده، دادگان
+data set	math	مجموعه داده، دادگان
+data point	math	نقطه داده، داده
+raw data	math	داده خام
+big data	computing	کلان‌داده، داده‌های بزرگ
+data science	computing	علم داده
+data scientist	computing	دانشمند داده، متخصص علم داده
+data analysis	math	تحلیل داده، داده‌کاوی
+data mining	computing	داده‌کاوی
+data visualization	computing	مصورسازی داده
+data-driven	general	داده‌محور، مبتنی بر داده
+quantitative	math	کمّی
+qualitative	math	کیفی
+empirical	general	تجربی
+anecdotal evidence	general	شواهد حکایتی، شواهد غیرعلمی
+bayesian	math	بیزی
+bayes' theorem	math	قضیه بیز
+prior	math	احتمال پیشین
+posterior	math	احتمال پسین
+conditional probability	math	احتمال شرطی
+expected value	math	امید ریاضی، مقدار مورد انتظار
+law of large numbers	math	قانون اعداد بزرگ
+central limit theorem	math	قضیه حد مرکزی
+monte carlo method	math	روش مونت‌کارلو
+monte carlo simulation	math	شبیه‌سازی مونت‌کارلو
+markov chain	math	زنجیره مارکوف
+random walk	math	گام تصادفی، ولگشت
+time series	math	سری زمانی
+extrapolation	math	برون‌یابی
+interpolation	math	درون‌یابی
+forecast	math	پیش‌بینی
+predictive model	math	مدل پیش‌بین
+modelling	math	مدل‌سازی
+modeling	math	مدل‌سازی
+mathematical model	math	مدل ریاضی
+simulation	math	شبیه‌سازی
+optimization	math	بهینه‌سازی
+linear programming	math	برنامه‌ریزی خطی
+game theory	math	نظریه بازی‌ها
+zero-sum game	math	بازی مجموع‌صفر
+nash equilibrium	math	تعادل نش
+prisoner's dilemma	math	دوراهی زندانی، معمای زندانی
+decision theory	math	نظریه تصمیم
+information theory	math	نظریه اطلاعات
+graph theory	math	نظریه گراف
+set theory	math	نظریه مجموعه‌ها
+number theory	math	نظریه اعداد
+group theory	math	نظریه گروه‌ها
+category theory	math	نظریه رسته‌ها
+topology	math	توپولوژی، همبندی‌شناسی
+manifold	math	خمینه
+fractal	math	فراکتال، برخال
+mandelbrot set	math	مجموعه مندلبرو
+fibonacci sequence	math	دنباله فیبوناچی
+golden ratio	math	نسبت طلایی
+prime number	math	عدد اول
+irrational number	math	عدد گنگ
+complex number	math	عدد مختلط
+imaginary number	math	عدد موهومی
+real number	math	عدد حقیقی
+integer	math	عدد صحیح
+infinity	math	بی‌نهایت
+infinitesimal	math	بی‌نهایت‌کوچک
+exponential	math	نمایی
+exponential growth	math	رشد نمایی
+logarithm	math	لگاریتم
+logarithmic	math	لگاریتمی
+logarithmic scale	math	مقیاس لگاریتمی
+order of magnitude	math	مرتبه بزرگی
+factorial	math	فاکتوریل
+permutation	math	جایگشت
+combination	math	ترکیب
+combinatorics	math	ترکیبیات
+matrix	math	ماتریس
+vector	math	بردار
+tensor	math	تانسور
+scalar	math	نرده‌ای، اسکالر
+eigenvalue	math	مقدار ویژه
+eigenvector	math	بردار ویژه
+determinant	math	دترمینان
+linear algebra	math	جبر خطی
+calculus	math	حسابان، حساب دیفرانسیل و انتگرال
+derivative	math	مشتق
+integral	math	انتگرال
+differential equation	math	معادله دیفرانسیل
+partial differential equation	math	معادله دیفرانسیل با مشتقات جزئی
+gradient	math	گرادیان، شیب
+function	math	تابع
+polynomial	math	چندجمله‌ای
+quadratic	math	درجه دوم
+coefficient	math	ضریب
+asymptote	math	مجانب
+convergence	math	همگرایی
+divergence	math	واگرایی
+limit	math	حد
+theorem	math	قضیه
+lemma	math	لم، پیش‌قضیه
+conjecture	math	حدس
+axiom	math	اصل موضوع، بُنداشت
+proof	math	اثبات، برهان
+corollary	math	نتیجه (قضیه)
+riemann hypothesis	math	فرضیه ریمان
+fermat's last theorem	math	قضیه آخر فرما
+incompleteness theorem	math	قضیه ناتمامیت
+boolean algebra	math	جبر بولی
+binary	math	دودویی
+hexadecimal	math	شانزده‌شانزدهی، مبنای شانزده
+modular arithmetic	math	حساب پیمانه‌ای
+cryptography	math	رمزنگاری
+discrete mathematics	math	ریاضیات گسسته
+applied mathematics	math	ریاضیات کاربردی
+pure mathematics	math	ریاضیات محض
+euclidean	math	اقلیدسی
+non-euclidean geometry	math	هندسه نااقلیدسی
+dimension	math	بُعد
+hypercube	math	ابرمکعب
+symmetry	math	تقارن
+fourier transform	math	تبدیل فوریه
+power law	math	قانون توانی
+pareto principle	math	اصل پارتو، قانون ۸۰/۲۰
+long tail	math	دُم دراز (توزیع)
+black swan	math	قوی سیاه (رویداد نادر و پیش‌بینی‌ناپذیر با پیامد عظیم)
+risk assessment	math	ارزیابی خطر، سنجش ریسک
+relative risk	math	خطر نسبی
+absolute risk	math	خطر مطلق
+odds ratio	math	نسبت شانس
+base rate	math	نرخ پایه
+sensitivity	medicine	حساسیت (توان آزمایش در تشخیص موارد مثبت واقعی)
+specificity	medicine	ویژگی (توان آزمایش در تشخیص موارد منفی واقعی)
+reproducibility	general	تکرارپذیری، بازتولیدپذیری
+replication crisis	general	بحران تکرارپذیری (پژوهش‌های علمی)
+scientific method	general	روش علمی
+hypothesis	general	فرضیه
+falsifiable	general	ابطال‌پذیر
+falsifiability	general	ابطال‌پذیری
+paradigm shift	general	تغییر پارادایم، دگرگونی الگوواره
+pseudoscience	general	شبه‌علم
+citizen science	general	علم شهروندی
+interdisciplinary	general	میان‌رشته‌ای
+stem	abbr	Science, Technology, Engineering and Mathematics؛ علوم، فناوری، مهندسی و ریاضیات
+r&d	business	Research and Development؛ تحقیق و توسعه
+proof of concept	general	اثبات مفهوم، اثبات امکان‌پذیری
+breakthrough	general	دستاورد بزرگ، پیشرفت چشمگیر (علمی)
+state of the art	general	پیشرفته‌ترین، آخرین دستاورد فن
+cutting-edge	general	پیشرو، در لبه فناوری
+preprint	general	پیش‌انتشار (مقاله علمیِ پیش از داوری)
+impact factor	general	ضریب تأثیر (نشریه علمی)
+citation	general	ارجاع، استناد
+open access	general	دسترسی آزاد (به مقالات علمی)
+nobel prize	general	جایزه نوبل
+nobel laureate	general	برنده جایزه نوبل

@@ -1,0 +1,170 @@
+<title>English–Persian Dictionary v3.0</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Vazirmatn:wght@400;500;600&display=swap">
+<style>
+/* Layout: one reading column; figures strip up top, then sections table, then a searchable ledger of every changed entry. */
+:root{
+  --bg:#f5f8f9; --surface:#ffffff; --ink:#14212b; --muted:#586a77; --line:#d7dfe4;
+  --accent:#0b7f86; --accent-soft:#e0f1f2; --lapis:#27459a;
+  --new:#17794a; --new-bg:#e1f3e9; --rew:#27459a; --rew-bg:#e4e9f8; --imp:#8a5a00; --imp-bg:#f8eed6; --spl:#7a3fa0; --spl-bg:#f1e6f7;
+  --display:"Newsreader",Georgia,"Times New Roman",serif;
+  --body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --fa:"Vazirmatn","Noto Naskh Arabic",Tahoma,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#0e161b; --surface:#162129; --ink:#e7eef2; --muted:#94a6b2; --line:#283843;
+  --accent:#56c5cb; --accent-soft:#12343a; --lapis:#9db3f5;
+  --new:#6fd39d; --new-bg:#143524; --rew:#9db3f5; --rew-bg:#1c2a52; --imp:#e6bd63; --imp-bg:#3a2d0f; --spl:#cf9eea; --spl-bg:#33204a;
+  color-scheme:dark } }
+:root[data-theme="dark"]{
+  --bg:#0e161b; --surface:#162129; --ink:#e7eef2; --muted:#94a6b2; --line:#283843;
+  --accent:#56c5cb; --accent-soft:#12343a; --lapis:#9db3f5;
+  --new:#6fd39d; --new-bg:#143524; --rew:#9db3f5; --rew-bg:#1c2a52; --imp:#e6bd63; --imp-bg:#3a2d0f; --spl:#cf9eea; --spl-bg:#33204a;
+  color-scheme:dark }
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.55}
+.wrap{max-width:1040px;margin:0 auto;padding-block:36px 72px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:52px}
+h1{font-family:var(--display);font-weight:600;font-size:clamp(2rem,5vw,3rem);line-height:1.08;margin:0;text-wrap:balance;letter-spacing:-.01em}
+h2{font-family:var(--display);font-weight:600;font-size:1.6rem;line-height:1.2;margin:0 0 6px;text-wrap:balance}
+h3{font-size:1rem;font-weight:600;margin:0}
+p{margin:0;max-width:68ch}
+.lede{color:var(--muted);font-size:1.06rem;margin-top:12px}
+.fa{font-family:var(--fa);direction:rtl;unicode-bidi:isolate;text-align:right;line-height:1.9}
+.eyebrow{font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;color:var(--accent);font-weight:600;margin-bottom:10px}
+.hw{font-family:var(--display);font-weight:600;font-size:1.12rem}
+code,.mono{font-family:var(--mono);font-size:.86em}
+section{display:flex;flex-direction:column;gap:18px;min-width:0}
+.sub{color:var(--muted)}
+
+.figs{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:0;border-top:2px solid var(--ink);border-bottom:1px solid var(--line);margin-top:28px}
+.fig{padding:16px 16px 16px 0;display:flex;flex-direction:column;gap:2px;min-width:0}
+.fig b{font-family:var(--display);font-weight:600;font-size:1.9rem;line-height:1.1;font-variant-numeric:tabular-nums}
+.fig span{color:var(--muted);font-size:.86rem}
+
+.changes{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px}
+.chg{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:16px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.chg .n{font-variant-numeric:tabular-nums;color:var(--accent);font-weight:600;font-size:.9rem}
+.chg p{color:var(--muted);font-size:.93rem}
+.ba{display:grid;grid-template-columns:auto 1fr;gap:4px 10px;align-items:baseline;border-top:1px dashed var(--line);padding-top:8px;margin-top:auto}
+.ba .k{font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.ba .v{min-width:0;overflow-wrap:anywhere;font-size:.95rem}
+.ba .v.old{color:var(--muted)}
+
+.scroll{overflow-x:auto;border:1px solid var(--line);border-radius:6px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:.94rem}
+th,td{padding:9px 14px;text-align:left;border-bottom:1px solid var(--line);white-space:nowrap}
+th{font-size:.74rem;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);font-weight:600;background:var(--bg)}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+tr:last-child td{border-bottom:0}
+td .fa{font-size:.95rem}
+.plus{color:var(--new);font-weight:600}
+td.wrapc{white-space:normal;min-width:220px}
+
+.tools{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.tools input,.tools select{font:inherit;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:9px 12px;min-width:0}
+.tools input{flex:1 1 220px}
+.tools input:focus-visible,.tools select:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.count{color:var(--muted);font-size:.9rem;font-variant-numeric:tabular-nums}
+.ledger{display:flex;flex-direction:column;border:1px solid var(--line);border-radius:6px;background:var(--surface)}
+.row{display:grid;grid-template-columns:minmax(150px,240px) 1fr;gap:6px 20px;padding:12px 16px;border-bottom:1px solid var(--line);min-width:0}
+.row:last-child{border-bottom:0}
+.row .l{display:flex;flex-direction:column;gap:6px;min-width:0;overflow-wrap:anywhere}
+.row .r{min-width:0;display:flex;flex-direction:column;gap:4px}
+.row .was{font-size:.84rem;color:var(--muted)}
+.row .was s{text-decoration-color:var(--spl)}
+.chips{display:flex;flex-wrap:wrap;gap:5px}
+.chip{font-size:.7rem;font-weight:600;letter-spacing:.04em;padding:2px 7px;border-radius:999px;white-space:nowrap}
+.c-n{color:var(--new);background:var(--new-bg)} .c-r{color:var(--rew);background:var(--rew-bg)} .c-i{color:var(--imp);background:var(--imp-bg)} .c-s{color:var(--spl);background:var(--spl-bg)}
+.c-d{color:var(--muted);border:1px solid var(--line);font-weight:500}
+.old{color:var(--muted);font-size:.88rem}
+.old::before{content:"v2.4  ";font-family:var(--body);font-size:.68rem;letter-spacing:.06em;color:var(--muted);direction:ltr;unicode-bidi:isolate;float:left;margin-top:5px}
+button.more{font:inherit;font-weight:600;color:var(--accent);background:var(--accent-soft);border:0;border-radius:6px;padding:10px 16px;cursor:pointer;align-self:flex-start}
+.note{border-left:3px solid var(--imp);padding:4px 0 4px 14px;color:var(--muted);font-size:.95rem}
+ul.plain{margin:0;padding-left:1.1em;display:flex;flex-direction:column;gap:6px;max-width:72ch}
+@media (max-width:600px){ .row{grid-template-columns:1fr} th,td{padding:8px 10px} }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Revision report · v2.4 → v3.0</div>
+    <h1>English–Persian Dictionary v3.0</h1>
+    <p class="lede">What changed between H. Yazdani's v2.4, as published by <a href="https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary">hossein1376</a>, and this revision: how many entries each subject section holds, which entries are new or rewritten, and which build to copy to which e-reader.</p>
+    <div class="figs" id="figs"></div>
+  </header>
+
+  <section>
+    <div><h2>What was repaired or added</h2><p class="sub">Every v2.4 entry went through the same pipeline. Counts are entries affected.</p></div>
+    <div class="changes" id="changes"></div>
+  </section>
+
+  <section>
+    <div><h2>Entries by section</h2><p class="sub">Sections are the subject labels that open an entry, such as <span class="fa">[مهندسی]</span>. An entry with senses in several sections is counted in each. Sections with no v2.4 count are new in v3.0.</p></div>
+    <div class="scroll"><table id="sect"><thead><tr><th>Section</th><th>Label in dictionary</th><th class="num">v2.4</th><th class="num">v3.0</th><th class="num">New entries</th><th class="num">Rewritten or extended</th></tr></thead><tbody></tbody></table></div>
+  </section>
+
+  <section>
+    <div><h2>Every new, rewritten and corrected entry</h2><p class="sub">Search by English headword or Persian text. Entries that only had their spelling conventions normalised are not listed here; the full line-by-line record is in <code>changelog.tsv</code>.</p></div>
+    <div class="tools">
+      <input id="q" type="search" placeholder="Search headword or Persian text" aria-label="Search entries">
+      <select id="ft" aria-label="Kind of change"><option value="">All changes</option><option value="n">New entries</option><option value="r">Rewritten definitions</option><option value="i">Sense added or cross-reference filled</option><option value="s">Headword spelling corrected</option></select>
+      <select id="fd" aria-label="Section"><option value="">All sections</option></select>
+      <span class="count" id="cnt"></span>
+    </div>
+    <div class="ledger" id="ledger"></div>
+    <button class="more" id="more" type="button">Show 100 more</button>
+  </section>
+
+  <section>
+    <div><h2>Which file goes on which device</h2><p class="sub">No single file renders Persian correctly on every e-reader generation, because older Kindle dictionary pop-ups lay words out left to right. v3.0 ships one build per rendering behaviour.</p></div>
+    <div class="scroll"><table><thead><tr><th>Device or app</th><th>Build</th><th>Notes</th></tr></thead><tbody id="compat"></tbody></table></div>
+    <div id="compatnote"></div>
+  </section>
+
+  <section>
+    <div><h2>Limits worth knowing</h2></div>
+    <ul class="plain" id="limits"></ul>
+  </section>
+</div>
+
+<script>
+/*DATA*/
+const f=n=>n.toLocaleString('en-US');
+const el=(t,c,h)=>{const e=document.createElement(t);if(c)e.className=c;if(h!=null)e.innerHTML=h;return e};
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+// figures
+[[f(SUM.n30),'entries in v3.0 (v2.4 had '+f(SUM.n24)+')'],[f(SUM.new),'new entries'],[f(SUM.rew),'core definitions rewritten'],[f(SUM.spell),'misspelled headwords corrected'],[f(SUM.norm),'entries with orthography repaired'],[f(SUM.alts),'inflected forms now searchable']]
+ .forEach(([b,s])=>{const d=el('div','fig');d.append(el('b',null,b),el('span',null,s));document.getElementById('figs').append(d)});
+// change cards
+EX.forEach(x=>{const c=el('div','chg');c.append(el('h3',null,esc(x.t)));if(x.n!=null)c.append(el('div','n',f(x.n)+' '+esc(x.u)));c.append(el('p',null,esc(x.p)));
+  const ba=el('div','ba');ba.append(el('span','k','v2.4'),el('span','v old '+(x.fa?'fa':''),esc(x.b)),el('span','k','v3.0'),el('span','v '+(x.fa?'fa':''),esc(x.a)));c.append(ba);document.getElementById('changes').append(c)});
+// sections
+const tb=document.querySelector('#sect tbody');
+ROWS.filter(r=>r.tot).forEach(r=>{const tr=el('tr');tr.innerHTML='<td>'+esc(r.en)+'</td><td><span class="fa">'+esc(r.fa)+'</span></td><td class="num">'+(r.old?f(r.old):'—')+'</td><td class="num">'+f(r.tot)+'</td><td class="num plus">'+(r.new?'+'+f(r.new):'')+'</td><td class="num">'+(r.upd?f(r.upd):'')+'</td>';tb.append(tr)});
+// ledger
+const LAB={n:'New',r:'Rewritten',i:'Extended',s:'Spelling'};
+const fd=document.getElementById('fd');DOMS.forEach((d,i)=>{const o=el('option',null,esc(d[0]));o.value=i;fd.append(o)});
+let shown=100,res=[];
+function run(){const q=document.getElementById('q').value.trim().toLowerCase(),t=document.getElementById('ft').value,d=fd.value;
+  res=UPD.filter(r=>(!t||r[1]===t)&&(d===''||r[2].includes(+d))&&(!q||r[0].includes(q)||r[3].includes(q)||(r[4]||'').includes(q)));
+  if(q)res.sort((a,b)=>(a[0].startsWith(q)?0:1)-(b[0].startsWith(q)?0:1)||a[0].length-b[0].length);
+  shown=100;draw()}
+function draw(){const L=document.getElementById('ledger');L.textContent='';
+  res.slice(0,shown).forEach(r=>{const row=el('div','row'),l=el('div','l'),rr=el('div','r');
+    l.append(el('span','hw',esc(r[0])));
+    if(r[1]==='s')l.append(el('span','was','was <s>'+esc(r[4])+'</s>'));
+    const ch=el('div','chips');ch.append(el('span','chip c-'+r[1],LAB[r[1]]));r[2].forEach(i=>{if(DOMS[i][0]!=='General')ch.append(el('span','chip c-d',esc(DOMS[i][0])))});l.append(ch);
+    rr.append(el('div','fa',esc(r[3])));
+    if(r[1]!=='s'&&r[4])rr.append(el('div','fa old',esc(r[4])));
+    row.append(l,rr);L.append(row)});
+  if(!res.length)L.append(el('div','row','<span class="sub">No entries match. Clear the search or pick another section.</span>'));
+  document.getElementById('cnt').textContent=f(res.length)+' of '+f(UPD.length)+' entries';
+  document.getElementById('more').hidden=shown>=res.length}
+['q','ft','fd'].forEach(i=>document.getElementById(i).addEventListener('input',run));
+document.getElementById('more').addEventListener('click',()=>{shown+=100;draw()});
+run();
+// compat + limits
+COMPAT.forEach(r=>{const tr=el('tr');tr.innerHTML='<td class="wrapc">'+esc(r[0])+'</td><td><code>'+esc(r[1])+'</code></td><td class="wrapc">'+esc(r[2])+'</td>';document.getElementById('compat').append(tr)});
+if(COMPATNOTE)document.getElementById('compatnote').append(el('p','note',esc(COMPATNOTE)));
+LIMITS.forEach(t=>document.getElementById('limits').append(el('li',null,esc(t))));
+</script>

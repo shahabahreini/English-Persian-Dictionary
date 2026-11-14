@@ -1,0 +1,2131 @@
+internet	computing	اینترنت، شبکهٔ جهانی
+web	computing	وب، شبکهٔ جهانی وب، تار جهان‌گستر
+world wide web	computing	وب جهان‌گستر، تار جهان‌گستر، شبکهٔ جهانی وب
+www	computing	World Wide Web؛ وب جهان‌گستر، تار جهان‌گستر
+website	computing	وب‌سایت، وبگاه، تارنما، سایت
+web page	computing	صفحهٔ وب، صفحهٔ اینترنتی
+webpage	computing	صفحهٔ وب، صفحهٔ اینترنتی
+homepage	computing	صفحهٔ اصلی، صفحهٔ خانگی، صفحهٔ نخست (وب‌سایت)
+home page	computing	صفحهٔ اصلی، صفحهٔ خانگی
+site	computing	سایت، وب‌سایت، وبگاه
+online	computing	آنلاین، برخط، متصل به اینترنت
+offline	computing	آفلاین، برون‌خط، بدون اتصال به اینترنت
+email	computing	ایمیل، رایانامه، پست الکترونیکی؛ ایمیل فرستادن
+e-mail	computing	ایمیل، رایانامه، پست الکترونیکی
+inbox	computing	صندوق ورودی، صندوق دریافت (ایمیل)
+outbox	computing	صندوق خروجی، صندوق ارسال (ایمیل)
+spam	computing	هرزنامه، اسپم، ایمیل ناخواسته؛ هرزنامه فرستادن
+spammer	computing	هرزنامه‌فرست، اسپمر
+attachment	computing	پیوست، ضمیمه (فایل همراه ایمیل)
+email address	computing	نشانی ایمیل، آدرس ایمیل، نشانی رایانامه
+mailing list	computing	فهرست پستی، فهرست ایمیل، گروه پست الکترونیکی
+newsletter	computing	خبرنامه (ایمیلی)
+browser	computing	مرورگر، مرورگر وب
+web browser	computing	مرورگر وب، مرورگر اینترنت
+browse	computing	مرور کردن، گشت‌زدن در وب، وب‌گردی کردن
+browsing	computing	مرور، وب‌گردی، گشت‌وگذار در اینترنت
+surf	computing	وب‌گردی کردن، در اینترنت گشتن
+tab	computing	زبانه، تب (در مرورگر یا برنامه)
+bookmark	computing	نشانک، بوکمارک؛ نشانک‌گذاری کردن
+address bar	computing	نوار نشانی، نوار آدرس (مرورگر)
+url	computing	Uniform Resource Locator؛ نشانی اینترنتی، نشانی وب، یوآرال
+link	computing	پیوند، لینک؛ پیوند دادن، لینک کردن
+hyperlink	computing	اَبَرپیوند، هایپرلینک، پیوند
+hypertext	computing	اَبَرمتن، فرامتن، هایپرتکست
+html	computing	HyperText Markup Language؛ اچ‌تی‌ام‌ال، زبان نشانه‌گذاری اَبَرمتن
+css	computing	Cascading Style Sheets؛ سی‌اس‌اس، شیوه‌نامه‌های آبشاری
+javascript	computing	جاوااسکریپت (زبان برنامه‌نویسی وب)
+http	computing	HyperText Transfer Protocol؛ اچ‌تی‌تی‌پی، پروتکل انتقال اَبَرمتن
+https	computing	HyperText Transfer Protocol Secure؛ اچ‌تی‌تی‌پی‌اس، پروتکل امن انتقال اَبَرمتن
+ftp	computing	File Transfer Protocol؛ اف‌تی‌پی، پروتکل انتقال فایل
+domain	computing	دامنه، دامین (نام اینترنتی)
+domain name	computing	نام دامنه، نام دامین
+subdomain	computing	زیردامنه، ساب‌دامین
+dns	computing	Domain Name System؛ دی‌ان‌اس، سامانهٔ نام دامنه
+ip address	computing	نشانی آی‌پی، آدرس آی‌پی
+ip	computing	Internet Protocol؛ آی‌پی، پروتکل اینترنت
+tcp	computing	Transmission Control Protocol؛ تی‌سی‌پی، پروتکل کنترل انتقال
+tcp/ip	computing	Transmission Control Protocol/Internet Protocol؛ تی‌سی‌پی/آی‌پی، مجموعه‌پروتکل اینترنت
+udp	computing	User Datagram Protocol؛ یودی‌پی، پروتکل داده‌نگار کاربر
+isp	computing	Internet Service Provider؛ آی‌اس‌پی، رسا، شرکت ارائه‌دهندهٔ خدمات اینترنت
+host	computing	میزبان، هاست؛ میزبانی کردن
+hosting	computing	میزبانی، هاستینگ، میزبانی وب
+web hosting	computing	میزبانی وب، هاستینگ
+server	computing	سرور، کارساز، سرویس‌دهنده
+web server	computing	سرور وب، وب‌سرور، کارساز وب
+client	computing	کلاینت، کارخواه، سرویس‌گیرنده، مشتری
+client-server	computing	کلاینت–سرور، کارخواه–کارساز، مشتری–خدمتگزار
+download	computing	دانلود، بارگیری، پایین‌گذاری؛ دانلود کردن
+upload	computing	آپلود، بارگذاری، بالاگذاری؛ آپلود کردن
+downloadable	computing	قابل دانلود، قابل بارگیری
+streaming	computing	پخش جریانی، استریم، پخش برخط
+stream	computing	استریم، جریان داده، پخش جریانی؛ استریم کردن، به‌صورت برخط پخش کردن
+live stream	computing	پخش زنده (اینترنتی)، لایو استریم
+livestream	computing	پخش زندهٔ اینترنتی، لایو؛ زنده پخش کردن
+streamer	computing	استریمر، پخش‌کنندهٔ زنده (اینترنتی)
+podcast	computing	پادکست؛ پادکست ساختن
+podcaster	computing	پادکستر، پادکست‌ساز
+webcast	computing	پخش اینترنتی، وب‌کست
+webinar	computing	وبینار، هم‌اندیشی برخط، سمینار اینترنتی
+webcam	computing	وب‌کم، دوربین وب
+video call	computing	تماس تصویری، تماس ویدیویی
+videoconference	computing	ویدیوکنفرانس، هم‌رسانش تصویری، کنفرانس ویدیویی
+video conferencing	computing	ویدیوکنفرانس، برگزاری نشست تصویری
+voip	computing	Voice over Internet Protocol؛ ویپ، صدا روی پروتکل اینترنت، تلفن اینترنتی
+search engine	computing	موتور جستجو، جستجوگر
+search	computing	جستجو، جست‌وجو؛ جستجو کردن
+google	computing	گوگل کردن، در اینترنت جستجو کردن
+query	computing	پرس‌وجو، کوئری، درخواست (از پایگاه داده یا موتور جستجو)
+keyword	computing	کلیدواژه، واژهٔ کلیدی
+search result	computing	نتیجهٔ جستجو
+seo	computing	Search Engine Optimization؛ سئو، بهینه‌سازی برای موتورهای جستجو
+crawler	computing	خزنده، خزشگر (برنامهٔ پیمایندهٔ وب)
+web crawler	computing	خزندهٔ وب، خزشگر وب
+crawl	computing	خزیدن، خزش کردن (پیمایش خودکار صفحات وب)
+scraping	computing	خراش داده، استخراج خودکار داده از وب، اسکرپینگ
+web scraping	computing	استخراج داده از وب، وب‌اسکرپینگ
+index	computing	نمایه، شاخص، ایندکس؛ نمایه‌سازی کردن
+indexing	computing	نمایه‌سازی، ایندکس‌گذاری
+portal	computing	درگاه، پورتال (وب‌سایت جامع)
+web portal	computing	درگاه وب، پورتال
+forum	computing	انجمن، تالار گفتگو، فروم (اینترنتی)
+message board	computing	تالار گفتگو، انجمن اینترنتی
+chat	computing	گپ، چت، گفتگوی برخط؛ چت کردن
+chat room	computing	اتاق گفتگو، چت‌روم، گپ‌سرا
+chatroom	computing	اتاق گفتگو، چت‌روم
+instant messaging	computing	پیام‌رسانی فوری، پیام‌رسانی آنی
+instant message	computing	پیام فوری، پیام آنی
+messenger	computing	پیام‌رسان (برنامهٔ گفتگوی اینترنتی)
+messaging app	computing	برنامهٔ پیام‌رسان، پیام‌رسان
+blog	computing	وبلاگ، بلاگ، تارنگار؛ وبلاگ نوشتن
+blogger	computing	وبلاگ‌نویس، بلاگر
+blogging	computing	وبلاگ‌نویسی
+blogosphere	computing	وبلاگستان، فضای وبلاگ‌ها
+weblog	computing	وبلاگ، تارنگار
+vlog	computing	ولاگ، وبلاگ ویدیویی؛ ولاگ ساختن
+vlogger	computing	ولاگر، ولاگ‌ساز
+microblog	computing	ریزوبلاگ، میکروبلاگ
+wiki	computing	ویکی (وب‌سایت قابل ویرایش گروهی)
+rss	computing	Really Simple Syndication؛ آراس‌اس، خوراک خبری
+feed	computing	خوراک، فید (فهرست پیوسته‌به‌روز مطالب)
+news feed	computing	خوراک خبری، فید خبری
+newsfeed	computing	خوراک خبری، فید خبری
+timeline	computing	خط زمان، تایم‌لاین (فهرست زمانی مطالب در شبکهٔ اجتماعی)
+social media	computing	رسانه‌های اجتماعی، شبکه‌های اجتماعی
+social network	computing	شبکهٔ اجتماعی
+social networking	computing	شبکه‌سازی اجتماعی، فعالیت در شبکه‌های اجتماعی
+platform	computing	سکو، پلتفرم، بستر
+post	computing	پست، فرسته، مطلب (در شبکهٔ اجتماعی یا انجمن)؛ پست گذاشتن، منتشر کردن
+repost	computing	بازنشر، بازفرست؛ دوباره منتشر کردن
+share	computing	هم‌رسانی، اشتراک‌گذاری؛ به اشتراک گذاشتن
+like	computing	پسند، لایک؛ پسندیدن، لایک کردن
+dislike	computing	نپسندیدن، دیس‌لایک
+follow	computing	دنبال کردن، فالو کردن
+follower	computing	دنبال‌کننده، فالوئر
+unfollow	computing	لغو دنبال‌کردن، آنفالو کردن
+following	computing	دنبال‌شوندگان، فالووینگ (حساب‌هایی که کاربر دنبال می‌کند)
+friend	computing	به فهرست دوستان افزودن (در شبکهٔ اجتماعی)
+unfriend	computing	از فهرست دوستان حذف کردن، آنفرند کردن
+block	computing	مسدود کردن، بلاک کردن (کاربر)
+mute	computing	بی‌صدا کردن، میوت کردن (پنهان کردن مطالب یک کاربر بدون مسدودسازی)
+comment	computing	نظر، دیدگاه، کامنت؛ نظر گذاشتن
+reply	computing	پاسخ، ریپلای؛ پاسخ دادن
+mention	computing	اشاره، منشن؛ نام کسی را (با @) ذکر کردن
+tag	computing	برچسب، تگ؛ برچسب زدن، تگ کردن
+hashtag	computing	هشتگ، برچسب (#)
+tweet	computing	توییت؛ توییت کردن
+retweet	computing	بازتوییت، ریتوییت؛ بازتوییت کردن
+thread	computing	رشته، ریسه، ترد (رشته‌پیام‌های پیوسته)؛ ریسه، نخ (واحد اجرای هم‌روند در برنامه)
+wall	computing	دیوار (صفحهٔ نمایش مطالب کاربر در شبکهٔ اجتماعی)
+profile	computing	نمایه، پروفایل، مشخصات کاربری
+profile picture	computing	عکس پروفایل، تصویر نمایه
+avatar	computing	آواتار، چهرک، نمایهٔ تصویری کاربر
+bio	computing	زندگی‌نامهٔ کوتاه، بیو (معرفی کوتاه در پروفایل)
+handle	computing	شناسه، نام کاربری (در شبکهٔ اجتماعی)؛ دستگیره، هندل (ارجاع به یک منبع در برنامه‌نویسی)
+username	computing	نام کاربری، شناسهٔ کاربری
+status	computing	وضعیت، استاتوس (پیام وضعیت کاربر)
+story	computing	استوری، داستان (مطلب کوتاه‌مدت در شبکهٔ اجتماعی)
+reel	computing	ریل، ویدیوی کوتاه (در شبکهٔ اجتماعی)
+direct message	computing	پیام مستقیم، پیام خصوصی، دایرکت
+dm	computing	Direct Message؛ پیام مستقیم، دایرکت؛ دایرکت دادن
+group chat	computing	گفتگوی گروهی، چت گروهی
+channel	computing	کانال (در پیام‌رسان یا سکوی ویدیو)
+subscribe	computing	مشترک شدن، عضو شدن، سابسکرایب کردن
+subscriber	computing	مشترک، عضو، دنبال‌کنندهٔ کانال
+unsubscribe	computing	لغو اشتراک کردن، لغو عضویت کردن
+subscription	computing	اشتراک، حق عضویت
+notification	computing	اعلان، آگاه‌سازی، نوتیفیکیشن
+push notification	computing	اعلان فشاری، اعلان فوری، پوش نوتیفیکیشن
+alert	computing	هشدار، اعلان
+influencer	computing	اینفلوئنسر، تأثیرگذار (در شبکه‌های اجتماعی)، چهرهٔ اثرگذار
+content creator	computing	تولیدکنندهٔ محتوا، محتواساز
+creator	computing	سازنده، تولیدکنندهٔ محتوا
+content	computing	محتوا
+user-generated content	computing	محتوای کاربرساخته، محتوای تولیدشده به‌دست کاربران
+viral	computing	ویروسی، وایرال، همه‌گیر (دربارهٔ محتوای پرانتشار)
+go viral	computing	وایرال شدن، ویروسی شدن، به‌سرعت دست‌به‌دست شدن
+meme	computing	میم (تصویر یا متن طنز پرانتشار در اینترنت)
+gif	computing	Graphics Interchange Format؛ گیف، تصویر متحرک کوتاه
+emoji	computing	ایموجی، شکلک
+emoticon	computing	شکلک، صورتک
+sticker	computing	استیکر، برچسب (تصویری در پیام‌رسان)
+selfie	general	سلفی، خودعکس
+filter	computing	فیلتر، پالایه (جلوهٔ تصویری یا ابزار پالایش)؛ پالایش کردن، فیلتر کردن
+trending	computing	پرطرفدار، داغ، ترند (موضوع پربحث روز)
+trend	computing	ترند، موضوع داغ؛ ترند شدن
+clickbait	computing	کلیک‌طعمه، تیتر فریبنده، طعمهٔ کلیک
+troll	computing	ترول، اوباش مجازی، آزارگر اینترنتی؛ ترول کردن، با نوشته‌های تحریک‌آمیز آزار دادن
+trolling	computing	ترول‌بازی، آزار و تحریک اینترنتی
+flame	slang	(عامیانه) پیام تند و توهین‌آمیز اینترنتی؛ در اینترنت به کسی تاختن
+flame war	slang	(عامیانه) جنگ لفظی اینترنتی، دعوای تند برخط
+lurker	slang	(عامیانه) خوانندهٔ خاموش، کاربر ناظرِ بی‌مشارکت
+lurk	slang	(عامیانه) بی‌مشارکت نظاره کردن (در انجمن یا گروه اینترنتی)
+netizen	computing	شهروند اینترنت، کاربر فعال اینترنت
+newbie	slang	(عامیانه) تازه‌وارد، تازه‌کار
+noob	slang	(عامیانه) تازه‌کار، ناشی، نوب
+cyberbullying	computing	زورگویی سایبری، قلدری اینترنتی، آزار مجازی
+doxxing	computing	داکسینگ، افشای اطلاعات شخصی کسی در اینترنت
+doxing	computing	داکسینگ، افشای اطلاعات شخصی کسی در اینترنت
+dox	computing	اطلاعات شخصی کسی را در اینترنت فاش کردن
+catfishing	slang	(عامیانه) فریب با هویت جعلی اینترنتی، جعل هویت عاشقانه در فضای مجازی
+catfish	slang	(عامیانه) کسی که با هویت جعلی برخط دیگران را می‌فریبد؛ با هویت جعلی فریفتن
+ghosting	slang	(عامیانه) قطع ناگهانی و بی‌توضیح ارتباط، گوست کردن
+ghost	slang	(عامیانه) بی‌خبر ارتباط را قطع کردن، گوست کردن
+sexting	slang	(عامیانه) ارسال پیام یا تصویر جنسی با تلفن همراه
+cancel culture	general	فرهنگ طرد، فرهنگ کنسل (تحریم جمعی افراد در فضای مجازی)
+echo chamber	general	اتاق پژواک (محیطی که فقط دیدگاه‌های همسو در آن بازتاب می‌یابد)
+filter bubble	computing	حباب فیلتر، حباب پالایه (محدودشدن کاربر به محتوای همسو با سلیقه‌اش)
+fake news	general	اخبار جعلی، خبر دروغ
+misinformation	general	اطلاعات نادرست، کژآگاهی
+disinformation	general	اطلاعات گمراه‌کننده، دروغ‌پراکنی عمدی
+deepfake	computing	دیپ‌فیک، جعل عمیق (تصویر یا صدای جعلی ساختهٔ هوش مصنوعی)
+bot	computing	بات، ربات نرم‌افزاری، روبات اینترنتی
+chatbot	computing	چت‌بات، ربات گفتگو، بات گفتگو
+astroturfing	politics	جنبش‌نمایی جعلی، مردمی‌نمایی ساختگی (وانمود کردن پشتیبانی خودجوش)
+sock puppet	slang	(عامیانه) حساب جعلی، هویت ساختگی اینترنتی
+shadow ban	computing	مسدودسازی پنهان، شدوبن (محدود کردن دیده‌شدن کاربر بدون اطلاع او)
+moderator	computing	ناظر، مدیر انجمن، مدیر گفتگو
+moderation	computing	نظارت بر محتوا، مدیریت محتوا
+content moderation	computing	نظارت بر محتوا، پایش محتوا
+admin	computing	مدیر، ادمین، سرپرست
+webmaster	computing	مدیر وب‌سایت، وب‌مستر
+faq	abbr	Frequently Asked Questions؛ پرسش‌های متداول، پرسش‌های پرتکرار
+lol	slang	laughing out loud؛ (عامیانه) قاه‌قاه خندیدم، خیلی خنده‌دار بود
+omg	slang	oh my God؛ (عامیانه) وای خدای من
+brb	slang	be right back؛ (عامیانه) الان برمی‌گردم
+btw	slang	by the way؛ (عامیانه) راستی، ضمناً
+imo	slang	in my opinion؛ (عامیانه) به نظر من
+fyi	abbr	for your information؛ جهت اطلاع، محض اطلاع
+asap	abbr	as soon as possible؛ هرچه زودتر، در اولین فرصت
+tl;dr	slang	too long; didn't read؛ (عامیانه) خلاصهٔ مطلب، طولانی بود نخواندم
+irl	slang	in real life؛ (عامیانه) در دنیای واقعی، بیرون از فضای مجازی
+afk	slang	away from keyboard؛ (عامیانه) پای سیستم نیستم
+fomo	slang	fear of missing out؛ (عامیانه) ترس از جا ماندن، هراس از دست دادن
+nsfw	slang	not safe for work؛ (عامیانه) نامناسب برای محیط کار، محتوای غیرمجاز برای جمع
+spoiler	general	اسپویل، لودهندهٔ داستان (فاش‌کنندهٔ پایان فیلم یا کتاب)
+unboxing	general	جعبه‌گشایی، آنباکسینگ
+binge-watch	general	پشت‌سرهم تماشا کردن (چند قسمت سریال)
+crowdsourcing	business	جمع‌سپاری
+crowdfunding	business	تأمین مالی جمعی، سرمایه‌گذاری جمعی
+gig economy	business	اقتصاد گیگ، اقتصاد کارهای موقت و پروژه‌ای
+sharing economy	business	اقتصاد اشتراکی، اقتصاد هم‌رسانی
+ride-hailing	business	تاکسی اینترنتی، درخواست اینترنتی خودرو
+ride-sharing	business	هم‌سفری، سفر اشتراکی
+telecommuting	business	دورکاری
+remote work	business	دورکاری، کار از راه دور
+digital nomad	general	کوچ‌گرد دیجیتال، دورکارِ همیشه‌درسفر
+cyberspace	computing	فضای سایبری، فضای مجازی
+cyber	computing	سایبری، مجازی، رایانه‌ای
+virtual	computing	مجازی
+digital	computing	دیجیتال، رقمی، رقومی
+digitize	computing	دیجیتالی کردن، رقمی کردن
+digitization	computing	دیجیتالی‌سازی، رقمی‌سازی
+digitalization	computing	دیجیتالی شدن، دیجیتال‌سازی
+digital divide	general	شکاف دیجیتال
+digital native	general	بومی دیجیتال (کسی که با فناوری دیجیتال بزرگ شده است)
+dark web	computing	وب تاریک، دارک‌وب
+deep web	computing	وب عمیق، وب پنهان
+intranet	computing	اینترانت، شبکهٔ داخلی
+extranet	computing	اکسترانت، شبکهٔ برون‌سازمانی
+net neutrality	computing	بی‌طرفی شبکه، بی‌طرفی اینترنت
+broadband	computing	پهن‌باند، باند پهن، اینترنت پرسرعت
+bandwidth	computing	پهنای باند
+dial-up	computing	شماره‌گیری، دایال‌آپ (اینترنت تلفنی)
+dsl	computing	Digital Subscriber Line؛ دی‌اس‌ال، خط مشترک دیجیتال
+adsl	computing	Asymmetric Digital Subscriber Line؛ ای‌دی‌اس‌ال، خط مشترک دیجیتال نامتقارن
+fiber optic	electronics	فیبر نوری، تار نوری
+wi-fi	computing	وای‌فای، شبکهٔ بی‌سیم
+wifi	computing	وای‌فای، شبکهٔ بی‌سیم
+hotspot	computing	هات‌اسپات، نقطهٔ اتصال، نقطهٔ دسترسی بی‌سیم
+router	computing	روتر، مسیریاب
+modem	computing	مودم
+wireless	electronics	بی‌سیم، وایرلس
+bluetooth	electronics	بلوتوث
+software	computing	نرم‌افزار
+hardware	computing	سخت‌افزار
+firmware	computing	میان‌افزار، سفت‌افزار، فرم‌ور
+middleware	computing	میان‌افزار، نرم‌افزار واسط
+freeware	computing	نرم‌افزار رایگان
+shareware	computing	نرم‌افزار آزمایشی، اشتراک‌افزار
+malware	computing	بدافزار
+spyware	computing	جاسوس‌افزار
+adware	computing	تبلیغ‌افزار، آگهی‌افزار
+ransomware	computing	باج‌افزار
+bloatware	computing	نرم‌افزار حجیم و زائد، بلوت‌ور (برنامه‌های پیش‌نصب ناخواسته)
+vaporware	computing	بخارافزار (محصولی که اعلام می‌شود ولی عرضه نمی‌شود)
+app	computing	اپ، اپلیکیشن، برنامه، کاره
+application	computing	برنامهٔ کاربردی، اپلیکیشن، نرم‌افزار کاربردی
+mobile app	computing	اپلیکیشن موبایل، برنامهٔ تلفن همراه
+web app	computing	برنامهٔ وب، وب‌اپلیکیشن
+web application	computing	برنامهٔ کاربردی وب، وب‌اپلیکیشن
+desktop	computing	میزکار، دسکتاپ؛ رایانهٔ رومیزی
+program	computing	برنامه؛ برنامه‌نویسی کردن
+programming	computing	برنامه‌نویسی
+programmer	computing	برنامه‌نویس
+developer	computing	توسعه‌دهنده، برنامه‌نویس
+software engineer	computing	مهندس نرم‌افزار
+software engineering	computing	مهندسی نرم‌افزار
+software development	computing	توسعهٔ نرم‌افزار
+coding	computing	کدنویسی، برنامه‌نویسی
+code	computing	کد، رمزینه؛ کد نوشتن، برنامه نوشتن
+coder	computing	کدنویس، برنامه‌نویس
+source code	computing	کد منبع، کد مبدأ، متن برنامه
+open source	computing	متن‌باز، منبع‌باز، اوپن‌سورس
+open-source	computing	متن‌باز، منبع‌باز
+closed source	computing	متن‌بسته، منبع‌بسته
+proprietary software	computing	نرم‌افزار انحصاری، نرم‌افزار مالکیتی
+free software	computing	نرم‌افزار آزاد
+license	computing	پروانه، مجوز، لایسنس (نرم‌افزار)
+copyleft	law	کپی‌لفت (پروانه‌ای که آزادی بازنشر اثر و مشتقاتش را تضمین می‌کند)
+creative commons	law	کریتیو کامنز، پروانه‌های همگانی خلاقانه
+algorithm	computing	الگوریتم، خوارزمی
+data structure	computing	ساختمان داده، ساختار داده
+array	computing	آرایه
+list	computing	فهرست، لیست
+linked list	computing	فهرست پیوندی، لیست پیوندی
+stack	computing	پشته، استک؛ مجموعهٔ فناوری‌های به‌کاررفته در یک سامانه
+queue	computing	صف
+heap	computing	هرم، هیپ؛ حافظهٔ پویا
+hash	computing	هش، درهم‌ساز؛ درهم‌سازی کردن
+hash table	computing	جدول درهم‌سازی، جدول هش
+hash function	computing	تابع درهم‌ساز، تابع هش
+hashing	computing	درهم‌سازی، هش کردن
+tree	computing	درخت (ساختمان دادهٔ سلسله‌مراتبی)
+binary tree	computing	درخت دودویی
+graph	computing	گراف
+node	computing	گره، نود
+pointer	computing	اشاره‌گر
+variable	computing	متغیر
+constant	computing	ثابت
+function	computing	تابع
+method	computing	متد، روش (تابع عضو کلاس)
+class	computing	کلاس، رده
+object	computing	شیء
+object-oriented	computing	شیءگرا
+object-oriented programming	computing	برنامه‌نویسی شیءگرا
+oop	computing	Object-Oriented Programming؛ برنامه‌نویسی شیءگرا
+functional programming	computing	برنامه‌نویسی تابعی
+inheritance	computing	وراثت، ارث‌بری
+polymorphism	computing	چندریختی
+encapsulation	computing	کپسوله‌سازی، دربرگیری
+abstraction	computing	انتزاع، تجرید
+interface	computing	رابط، واسط، میانا
+instance	computing	نمونه (شیء ساخته‌شده از کلاس؛ یک نسخهٔ در حال اجرای سرور یا برنامه)
+constructor	computing	سازنده (متد ایجاد شیء)
+parameter	computing	پارامتر، فراسنج
+argument	computing	آرگومان، نشانوند
+return value	computing	مقدار بازگشتی
+loop	computing	حلقه
+iteration	computing	تکرار، دور (حلقه)
+recursion	computing	بازگشت، فراخوانی بازگشتی
+recursive	computing	بازگشتی
+conditional	computing	شرطی، دستور شرطی
+boolean	computing	بولی، منطقی (مقدار درست یا نادرست)
+integer	computing	عدد صحیح
+floating point	computing	ممیز شناور
+string	computing	رشته (دنباله‌ای از نویسه‌ها)
+character	computing	نویسه، کاراکتر
+null	computing	تهی، پوچ، نال
+data type	computing	نوع داده، گونهٔ داده
+syntax	computing	نحو، دستور زبان (برنامه‌نویسی)
+semantics	computing	معناشناسی (زبان برنامه‌نویسی)
+compiler	computing	کامپایلر، همگردان، مترجم
+compile	computing	کامپایل کردن، همگردانی کردن
+interpreter	computing	مفسر
+runtime	computing	زمان اجرا؛ محیط اجرا
+compile time	computing	زمان کامپایل
+script	computing	اسکریپت، دست‌نوشته (برنامهٔ کوتاه تفسیری)
+scripting language	computing	زبان اسکریپت‌نویسی
+programming language	computing	زبان برنامه‌نویسی
+markup language	computing	زبان نشانه‌گذاری
+pseudocode	computing	شبه‌کد
+bytecode	computing	بایت‌کد
+machine code	computing	کد ماشین
+assembly language	computing	زبان اسمبلی
+high-level language	computing	زبان سطح بالا
+low-level	computing	سطح پایین (نزدیک به سخت‌افزار)
+library	computing	کتابخانه (مجموعه کدهای آمادهٔ قابل استفادهٔ مجدد)
+framework	computing	چارچوب، فریم‌ورک
+package	computing	بسته، پکیج (نرم‌افزاری)
+package manager	computing	مدیر بسته، برنامهٔ مدیریت بسته‌ها
+module	computing	ماژول، پیمانه
+plugin	computing	افزونه، پلاگین
+plug-in	computing	افزونه، پلاگین
+add-on	computing	افزونه، افزایه
+extension	computing	افزونه (مرورگر)؛ پسوند (فایل)
+dependency	computing	وابستگی (بستهٔ نرم‌افزاری موردنیاز)
+api	computing	Application Programming Interface؛ ای‌پی‌آی، رابط برنامه‌نویسی کاربردی
+sdk	computing	Software Development Kit؛ اس‌دی‌کی، بستهٔ توسعهٔ نرم‌افزار
+ide	computing	Integrated Development Environment؛ آی‌دی‌ای، محیط یکپارچهٔ توسعه
+gui	computing	Graphical User Interface؛ رابط کاربری گرافیکی، واسط گرافیکی کاربر
+cli	computing	Command-Line Interface؛ رابط خط فرمان
+command line	computing	خط فرمان
+terminal	computing	پایانه، ترمینال
+console	computing	کنسول، پیشانه؛ دستگاه بازی
+shell	computing	پوسته، شل (مفسر فرمان سیستم‌عامل)
+prompt	computing	اعلان (خط فرمان)؛ پرامپت، دستور، درخواست متنی (به مدل هوش مصنوعی)
+command	computing	فرمان، دستور
+editor	computing	ویرایشگر
+text editor	computing	ویرایشگر متن
+debug	computing	اشکال‌زدایی کردن، دیباگ کردن، عیب‌یابی کردن
+debugging	computing	اشکال‌زدایی، دیباگ، عیب‌یابی
+debugger	computing	اشکال‌زدا، دیباگر
+bug	computing	باگ، اشکال، ایراد نرم‌افزاری
+buggy	computing	پرباگ، پراشکال
+glitch	computing	نقص جزئی، اختلال گذرا، گلیچ
+crash	computing	ازکارافتادن ناگهانی، کرش؛ کرش کردن، ازکار افتادن
+freeze	computing	هنگ کردن، قفل شدن (رایانه یا برنامه)
+hang	computing	هنگ کردن، قفل کردن
+error	computing	خطا
+error message	computing	پیام خطا
+exception	computing	استثنا (خطای زمان اجرا)
+stack trace	computing	ردّ پشته، ردگیری پشته
+memory leak	computing	نشت حافظه
+stack overflow	computing	سرریز پشته
+buffer overflow	computing	سرریز بافر، سرریز میانگیر
+deadlock	computing	بن‌بست
+race condition	computing	وضعیت رقابتی، شرایط مسابقه
+patch	computing	وصله، پچ؛ وصله کردن
+hotfix	computing	وصلهٔ فوری، هات‌فیکس
+fix	computing	رفع اشکال؛ اصلاح کردن
+workaround	computing	راه‌حل موقت، راه دررو، ترفند دورزدن مشکل
+update	computing	به‌روزرسانی، آپدیت؛ به‌روز کردن
+upgrade	computing	ارتقا، آپگرید؛ ارتقا دادن
+downgrade	computing	بازگشت به نسخهٔ قدیمی‌تر، تنزل نسخه
+release	computing	انتشار، نسخه؛ منتشر کردن
+version	computing	نسخه، ویرایش
+beta	computing	بتا، نسخهٔ آزمایشی
+alpha	computing	آلفا، نسخهٔ آزمایشی اولیه
+beta test	computing	آزمون بتا، آزمایش نسخهٔ بتا
+beta tester	computing	آزمایندهٔ نسخهٔ بتا
+changelog	computing	فهرست تغییرات، سیاههٔ تغییرات
+roadmap	business	نقشهٔ راه
+legacy	computing	قدیمی، موروثی، منسوخ‌شونده (سامانه یا کد)
+legacy system	computing	سامانهٔ قدیمی، سیستم موروثی
+deprecated	computing	منسوخ، ازرده‌خارج (قابلیتی که استفاده از آن دیگر توصیه نمی‌شود)
+backward compatibility	computing	سازگاری عقب‌رو، سازگاری با نسخه‌های پیشین
+backward compatible	computing	سازگار با نسخه‌های پیشین، عقب‌سازگار
+cross-platform	computing	چندسکویی، میان‌سکویی
+portability	computing	قابلیت حمل، انتقال‌پذیری
+scalability	computing	مقیاس‌پذیری
+scalable	computing	مقیاس‌پذیر
+scale	computing	مقیاس دادن، گسترش دادن (ظرفیت سامانه)
+refactor	computing	بازسازی کردن کد، ریفکتور کردن
+refactoring	computing	بازآرایی کد، بازسازی کد، ریفکتورینگ
+technical debt	computing	بدهی فنی
+spaghetti code	computing	کد اسپاگتی، کد درهم‌برهم
+boilerplate	computing	کد قالبی، کد تکراری آماده
+code review	computing	بازبینی کد، مرور کد
+pair programming	computing	برنامه‌نویسی دونفره
+version control	computing	کنترل نسخه، مهار نسخه
+repository	computing	مخزن، ریپازیتوری (کد)
+repo	computing	مخزن، ریپو
+commit	computing	کامیت، ثبت تغییرات؛ ثبت کردن
+branch	computing	شاخه، برنچ
+merge	computing	ادغام، مرج؛ ادغام کردن
+pull request	computing	درخواست ادغام، پول ریکوئست
+fork	computing	انشعاب، فورک؛ انشعاب گرفتن
+clone	computing	همسانه، کلون؛ کپی کامل گرفتن (از مخزن)
+diff	computing	تفاوت، دیف (مقایسهٔ دو نسخه)
+rollback	computing	بازگردانی، عقب‌گرد (به وضعیت پیشین)
+build	computing	ساخت، بیلد (تبدیل کد به برنامهٔ قابل اجرا)؛ نسخهٔ ساخته‌شده
+deploy	computing	مستقر کردن، دیپلوی کردن
+deployment	computing	استقرار، دیپلوی
+devops	computing	دِواپس (تلفیق توسعه و عملیات نرم‌افزار)
+continuous integration	computing	یکپارچه‌سازی مداوم
+continuous delivery	computing	تحویل مداوم
+continuous deployment	computing	استقرار مداوم
+ci/cd	computing	Continuous Integration/Continuous Delivery؛ یکپارچه‌سازی و تحویل مداوم
+pipeline	computing	خط لوله، پایپ‌لاین (زنجیرهٔ مراحل پردازش)
+automation	computing	خودکارسازی، اتوماسیون
+orchestration	computing	هماهنگ‌سازی، ارکستراسیون (مدیریت خودکار سرویس‌ها)
+container	computing	کانتینر، محفظه (محیط اجرای منزوی نرم‌افزار)
+containerization	computing	کانتینرسازی
+virtual machine	computing	ماشین مجازی
+vm	computing	Virtual Machine؛ ماشین مجازی
+virtualization	computing	مجازی‌سازی
+hypervisor	computing	هایپروایزر، ناظر ماشین مجازی
+sandbox	computing	جعبهٔ شنی، سندباکس (محیط منزوی آزمایش)
+emulator	computing	شبیه‌ساز، مقلد، امولاتور
+simulator	computing	شبیه‌ساز
+environment	computing	محیط (اجرا یا توسعه)
+production	computing	محیط عملیاتی، پروداکشن
+staging	computing	محیط پیش‌عملیاتی، استیجینگ
+microservice	computing	ریزسرویس، میکروسرویس
+microservices	computing	ریزسرویس‌ها، معماری میکروسرویس
+monolith	computing	یکپارچه، مونولیت (نرم‌افزار تک‌تکه)
+serverless	computing	بی‌سرور، سرورلس
+backend	computing	بک‌اند، پشت‌صحنه، سمت سرور
+back end	computing	بک‌اند، سمت سرور
+frontend	computing	فرانت‌اند، سمت کاربر
+front end	computing	فرانت‌اند، سمت کاربر
+full stack	computing	فول‌استک (مسلط به فرانت‌اند و بک‌اند)
+full-stack	computing	فول‌استک
+server-side	computing	سمت سرور
+client-side	computing	سمت کاربر، سمت کلاینت
+endpoint	computing	نقطهٔ پایانی، اندپوینت
+request	computing	درخواست
+response	computing	پاسخ
+rest	computing	Representational State Transfer؛ رِست (سبک معماری سرویس‌های وب)
+json	computing	JavaScript Object Notation؛ جی‌سان (قالب تبادل داده)
+xml	computing	Extensible Markup Language؛ اکس‌ام‌ال، زبان نشانه‌گذاری گسترش‌پذیر
+yaml	computing	یامل (قالب متنی پیکربندی و داده)
+csv	computing	Comma-Separated Values؛ سی‌اس‌وی، مقادیر جداشده با ویرگول
+markdown	computing	مارک‌داون (زبان سادهٔ نشانه‌گذاری متن)
+regex	computing	regular expression؛ عبارت باقاعده، رجکس
+regular expression	computing	عبارت باقاعده، عبارت منظم
+parse	computing	تجزیه کردن، پارس کردن
+parser	computing	تجزیه‌گر، پارسر
+serialization	computing	سریال‌سازی، پیاپی‌سازی
+encoding	computing	کدگذاری، رمزینه‌گذاری
+decoding	computing	کدگشایی
+unicode	computing	یونی‌کد
+ascii	computing	American Standard Code for Information Interchange؛ اَسکی
+utf-8	computing	یوتی‌اف-۸ (شیوهٔ کدگذاری یونی‌کد)
+callback	computing	فراخوان بازگشتی، کال‌بک
+asynchronous	computing	ناهمگام، غیرهمزمان
+synchronous	computing	همگام، همزمان
+async	computing	ناهمگام، غیرهمزمان
+concurrency	computing	هم‌روندی
+parallelism	computing	موازی‌سازی، توازی
+parallel computing	computing	رایانش موازی، پردازش موازی
+multithreading	computing	چندریسمانی، چندنخی
+multitasking	computing	چندوظیفگی، چندکارگی
+process	computing	پردازه، فرایند
+event	computing	رویداد
+event-driven	computing	رویدادمحور
+listener	computing	شنونده (تابع منتظر رویداد)
+garbage collection	computing	زباله‌روبی، بازیافت حافظه
+cache	computing	حافظهٔ نهان، کش؛ در حافظهٔ نهان نگه داشتن
+caching	computing	نهان‌سازی، کش کردن
+buffer	computing	میانگیر، بافر
+buffering	computing	میانگیری، بافر شدن
+latency	computing	تأخیر، دیرکرد
+throughput	computing	گذردهی، توان عملیاتی
+load balancing	computing	توزیع بار، متعادل‌سازی بار
+load balancer	computing	متعادل‌کنندهٔ بار، توزیع‌کنندهٔ بار
+uptime	computing	زمان کارکرد، مدت دردسترس‌بودن
+downtime	computing	زمان ازکارافتادگی، مدت قطعی
+outage	computing	قطعی، ازکارافتادگی (سرویس)
+failover	computing	جایگزینی خودکار در خرابی، فِیل‌اُوِر
+redundancy	computing	افزونگی
+fault tolerance	computing	تحمل‌پذیری خطا، تحمل خرابی
+high availability	computing	دسترس‌پذیری بالا
+log	computing	لاگ، گزارش رویداد، سیاهه؛ ثبت کردن
+logging	computing	ثبت رویدادها، لاگ‌گیری
+monitoring	computing	پایش، نظارت
+benchmark	computing	محک، بنچمارک، آزمون سنجش کارایی
+profiling	computing	نمایه‌سازی کارایی، پروفایلینگ
+optimization	computing	بهینه‌سازی
+unit test	computing	آزمون واحد، تست واحد
+unit testing	computing	آزمون واحد
+integration test	computing	آزمون یکپارچگی
+regression test	computing	آزمون رگرسیون، آزمون پسرفت
+test case	computing	مورد آزمون
+test-driven development	computing	توسعهٔ آزمون‌محور
+quality assurance	computing	تضمین کیفیت
+qa	abbr	Quality Assurance؛ تضمین کیفیت
+agile	computing	چابک، اجایل (روش توسعهٔ نرم‌افزار)
+scrum	computing	اسکرام (چارچوب مدیریت چابک پروژه)
+sprint	computing	اسپرینت، دور کاری کوتاه (در اسکرام)
+kanban	business	کانبان (روش بصری مدیریت جریان کار)
+waterfall	computing	مدل آبشاری (توسعهٔ نرم‌افزار)
+backlog	computing	بک‌لاگ، فهرست کارهای انباشته
+stand-up	business	جلسهٔ ایستادهٔ روزانه، استندآپ
+user story	computing	داستان کاربر
+use case	computing	مورد کاربرد، مورد استفاده
+requirement	computing	نیازمندی
+specification	computing	مشخصات، ویژگی‌نامه
+documentation	computing	مستندات، مستندسازی
+readme	computing	فایل راهنما، مرا بخوان
+tutorial	computing	آموزش گام‌به‌گام، خودآموز
+design pattern	computing	الگوی طراحی
+architecture	computing	معماری (نرم‌افزار یا سامانه)
+low-code	computing	کم‌کد (توسعه با کدنویسی اندک)
+no-code	computing	بی‌کد (توسعه بدون کدنویسی)
+hackathon	computing	هکاتون، ماراتن برنامه‌نویسی
+hello world	computing	سلام دنیا (نخستین برنامهٔ آزمایشی)
+executable	computing	اجرایی، فایل اجرایی
+binary	computing	دودویی، باینری؛ فایل اجرایی
+installer	computing	نصب‌کننده، برنامهٔ نصب
+install	computing	نصب کردن
+uninstall	computing	حذف نصب کردن، برنامه را پاک کردن
+setup	computing	راه‌اندازی، نصب
+configuration	computing	پیکربندی
+config	computing	پیکربندی، تنظیمات
+configure	computing	پیکربندی کردن
+settings	computing	تنظیمات
+default	computing	پیش‌فرض
+wizard	computing	راهنمای گام‌به‌گام، ویزارد
+macro	computing	ماکرو، درشت‌دستور
+template	computing	الگو، قالب
+snippet	computing	تکه‌کد، قطعه‌کد
+operating system	computing	سیستم‌عامل، سامانهٔ عامل
+os	computing	Operating System؛ سیستم‌عامل
+kernel	computing	هسته، کرنل (سیستم‌عامل)
+driver	computing	راه‌انداز، درایور
+device driver	computing	راه‌انداز دستگاه، درایور
+boot	computing	راه‌اندازی، بوت؛ بالا آمدن، بوت شدن (رایانه)
+reboot	computing	راه‌اندازی مجدد، ریبوت؛ دوباره راه‌اندازی کردن
+restart	computing	راه‌اندازی مجدد، ری‌استارت
+shutdown	computing	خاموش‌سازی، خاموش شدن
+shut down	computing	خاموش کردن
+startup	computing	راه‌اندازی، آغاز به کار؛ استارتاپ، شرکت نوپا
+bootloader	computing	بوت‌لودر، بارکنندهٔ راه‌انداز
+bios	computing	Basic Input/Output System؛ بایوس، سامانهٔ ورودی/خروجی پایه
+uefi	computing	Unified Extensible Firmware Interface؛ یوای‌اف‌آی، رابط میان‌افزار توسعه‌پذیر یکپارچه
+linux	computing	لینوکس (سیستم‌عامل متن‌باز)
+unix	computing	یونیکس (خانواده‌ای از سیستم‌عامل‌ها)
+file	computing	فایل، پرونده
+folder	computing	پوشه
+directory	computing	پوشه، دایرکتوری، شاخه
+file system	computing	سیستم فایل، سامانهٔ پرونده
+path	computing	مسیر (فایل)
+root	computing	ریشه؛ کاربر ریشه، روت (با بالاترین سطح دسترسی)
+superuser	computing	ابرکاربر، کاربر ریشه
+administrator	computing	مدیر سیستم، سرپرست
+sysadmin	computing	system administrator؛ مدیر سیستم
+permission	computing	مجوز، اجازهٔ دسترسی
+privilege	computing	امتیاز دسترسی، سطح دسترسی
+user	computing	کاربر
+end user	computing	کاربر نهایی
+user account	computing	حساب کاربری
+account	computing	حساب، حساب کاربری
+login	computing	ورود (به سیستم)، لاگین
+log in	computing	وارد شدن (به حساب کاربری)
+logout	computing	خروج (از سیستم)
+log out	computing	خارج شدن (از حساب کاربری)
+sign in	computing	وارد شدن، ورود به حساب
+sign up	computing	ثبت‌نام کردن، نام‌نویسی کردن
+sign out	computing	خارج شدن از حساب
+password	computing	گذرواژه، رمز عبور، پسورد
+passcode	computing	رمز عبور عددی، گذرکد
+passphrase	computing	گذرعبارت، عبارت عبور
+pin	computing	Personal Identification Number؛ پین، شمارهٔ شناسایی شخصی، رمز عددی؛ سنجاق کردن (ثابت نگه‌داشتن مطلب یا برنامه در بالای صفحه)
+session	computing	نشست، جلسه (دورهٔ اتصال کاربر)
+window	computing	پنجره
+icon	computing	نقشک، آیکون، نشانه
+cursor	computing	مکان‌نما، نشانگر
+menu	computing	منو، فهرست گزینه‌ها
+dropdown	computing	فهرست کشویی، منوی بازشو
+toolbar	computing	نوار ابزار
+taskbar	computing	نوار وظیفه
+sidebar	computing	نوار کناری
+status bar	computing	نوار وضعیت
+scroll bar	computing	نوار پیمایش، نوار لغزش
+scroll	computing	پیمایش کردن، اسکرول کردن، لغزاندن صفحه
+click	computing	کلیک؛ کلیک کردن، تقه زدن
+double-click	computing	دوبار کلیک کردن، دوکلیک
+right-click	computing	راست‌کلیک کردن، کلیک راست
+drag and drop	computing	کشیدن و رها کردن، بکش‌ورهاکن
+copy and paste	computing	رونوشت و چسباندن، کپی و پیست
+paste	computing	چسباندن، پیست کردن
+cut	computing	برش، بریدن (برای انتقال)
+undo	computing	واگرد، لغو آخرین عمل
+redo	computing	ازنو، انجام دوباره
+clipboard	computing	بریده‌دان، تخته‌برگه، کلیپ‌بورد
+shortcut	computing	میان‌بر
+keyboard shortcut	computing	میان‌بر صفحه‌کلید
+hotkey	computing	کلید میان‌بر
+screenshot	computing	نماگرفت، اسکرین‌شات، عکس صفحه
+screen capture	computing	تصویربرداری از صفحه
+screensaver	computing	محافظ صفحه‌نمایش
+wallpaper	computing	کاغذدیواری، تصویر زمینه
+pop-up	computing	پنجرهٔ بازشو، پاپ‌آپ
+popup	computing	پنجرهٔ بازشو، پاپ‌آپ
+dialog box	computing	کادر محاوره، پنجرهٔ گفتگو
+button	computing	دکمه
+checkbox	computing	چهارگوش گزینش، چک‌باکس
+text box	computing	کادر متن، جعبهٔ متن
+widget	computing	ابزارک، ویجت
+thumbnail	computing	تصویر بندانگشتی، تصویرک
+pixel	computing	پیکسل، تصویردانه
+resolution	computing	وضوح، تفکیک‌پذیری، رزولوشن
+font	computing	قلم، فونت
+typeface	computing	قلم، نوع حروف
+zoom	computing	بزرگ‌نمایی، زوم؛ بزرگ یا کوچک کردن نما
+drag	computing	کشیدن (با ماوس یا انگشت)
+swipe	computing	کشیدن انگشت روی صفحه، سوایپ کردن
+tap	computing	ضربه زدن، لمس کوتاه (صفحهٔ لمسی)
+pinch	computing	نیشگون (حرکت دوانگشتی برای کوچک‌نمایی)
+gesture	computing	حرکت لمسی، ژست (فرمان با حرکت دست یا انگشت)
+touchscreen	electronics	صفحهٔ لمسی، نمایشگر لمسی
+touch screen	electronics	صفحهٔ لمسی، نمایشگر لمسی
+touchpad	computing	صفحهٔ لمسی، تاچ‌پد
+trackpad	computing	صفحهٔ لمسی، ترک‌پد
+mouse	computing	ماوس، موشی، موشواره
+keyboard	computing	صفحه‌کلید، کیبورد
+stylus	computing	قلم لمسی، قلم نوری
+user interface	computing	رابط کاربری، واسط کاربر
+ui	computing	User Interface؛ رابط کاربری
+user experience	computing	تجربهٔ کاربری
+ux	computing	User Experience؛ تجربهٔ کاربری
+usability	computing	کاربردپذیری، سهولت استفاده
+user-friendly	computing	کاربرپسند
+accessibility	computing	دسترس‌پذیری (برای افراد دارای معلولیت)
+wireframe	computing	طرح سیمی، وایرفریم (طرح اولیهٔ چیدمان صفحه)
+mockup	computing	ماکت، پیش‌نمونهٔ دیداری، موکاپ
+prototype	computing	نمونهٔ اولیه، پیش‌نمونه
+responsive design	computing	طراحی واکنش‌گرا
+responsive	computing	واکنش‌گرا (سازگار با اندازه‌های مختلف صفحه)
+dark mode	computing	حالت تاریک، پوستهٔ تیره
+landing page	computing	صفحهٔ فرود، لندینگ‌پیج
+call to action	business	فراخوان به اقدام، دعوت به عمل
+onboarding	business	آشناسازی، راه‌اندازی کاربر یا کارمند تازه
+layout	computing	چیدمان، صفحه‌آرایی
+navigation	computing	ناوبری، پیمایش (در سایت یا برنامه)
+breadcrumb	computing	ردپا، مسیر راهنما (نمایش مسیر صفحه)
+dashboard	computing	داشبورد، پیشخوان
+theme	computing	پوسته، تم، زمینه
+skin	computing	پوسته (ظاهر قابل تعویض برنامه)
+database	computing	پایگاه داده، دادگان، دیتابیس
+relational database	computing	پایگاه دادهٔ رابطه‌ای
+sql	computing	Structured Query Language؛ اس‌کیوال، زبان پرس‌وجوی ساخت‌یافته
+nosql	computing	نواس‌کیوال (پایگاه دادهٔ غیررابطه‌ای)
+dbms	computing	Database Management System؛ سامانهٔ مدیریت پایگاه داده
+table	computing	جدول
+row	computing	سطر، ردیف
+column	computing	ستون
+record	computing	رکورد، پیشینه
+field	computing	فیلد، میدان، خانه
+primary key	computing	کلید اصلی
+foreign key	computing	کلید خارجی
+schema	computing	شِما، طرح‌واره (ساختار پایگاه داده)
+transaction	computing	تراکنش
+join	computing	پیوند (جدول‌ها)، الحاق
+stored procedure	computing	رویهٔ ذخیره‌شده
+normalization	computing	نرمال‌سازی، بهنجارسازی
+replication	computing	تکثیر، همتاسازی (داده)
+sharding	computing	قطعه‌بندی، شاردینگ (تقسیم افقی پایگاه داده)
+data warehouse	computing	انبار داده
+data lake	computing	دریاچهٔ داده
+data center	computing	مرکز داده، دیتاسنتر
+datacenter	computing	مرکز داده، دیتاسنتر
+data	computing	داده، داده‌ها
+metadata	computing	فراداده، متادیتا
+dataset	computing	مجموعه‌داده، دیتاست
+big data	computing	کلان‌داده، داده‌های بزرگ
+data mining	computing	داده‌کاوی
+data science	computing	علم داده، دانش داده
+data scientist	computing	دانشمند داده، متخصص علم داده
+data analysis	computing	تحلیل داده، داده‌کاوی
+data analytics	computing	تحلیل داده، داده‌پژوهی
+analytics	computing	تحلیل داده‌ها، تحلیلگری
+data visualization	computing	مصورسازی داده، دیداری‌سازی داده
+business intelligence	business	هوش تجاری
+data entry	computing	ورود داده، داده‌آمایی
+data breach	computing	نشت داده، رخنهٔ داده
+data leak	computing	نشت داده، نشت اطلاعات
+data privacy	law	حریم خصوصی داده‌ها
+data protection	law	حفاظت از داده‌ها
+gdpr	law	General Data Protection Regulation؛ مقررات عمومی حفاظت از داده (اتحادیهٔ اروپا)
+personal data	law	داده‌های شخصی
+backup	computing	نسخهٔ پشتیبان، پشتیبان؛ پشتیبان‌گیری
+back up	computing	پشتیبان گرفتن، نسخهٔ پشتیبان تهیه کردن
+restore	computing	بازیابی کردن، بازگرداندن (از پشتیبان)
+recovery	computing	بازیابی
+archive	computing	بایگانی، آرشیو؛ بایگانی کردن
+compression	computing	فشرده‌سازی
+compress	computing	فشرده کردن
+zip	computing	زیپ، فشرده کردن (فایل)
+unzip	computing	از حالت فشرده خارج کردن، باز کردن فایل زیپ
+file format	computing	قالب فایل، فرمت فایل
+pdf	computing	Portable Document Format؛ پی‌دی‌اف، قالب سند قابل حمل
+jpeg	computing	Joint Photographic Experts Group؛ جی‌پگ (قالب تصویر فشرده)
+png	computing	Portable Network Graphics؛ پی‌ان‌جی (قالب تصویر)
+mp3	computing	ام‌پی‌تری (قالب فشردهٔ صوت)
+mp4	computing	ام‌پی‌فور (قالب ویدیو)
+codec	computing	کدک، رمزگذار–رمزگشا (صوت و تصویر)
+bitrate	computing	نرخ بیت، بیت‌ریت
+bit	computing	بیت، ذره (کوچک‌ترین واحد اطلاعات)
+byte	computing	بایت
+kilobyte	computing	کیلوبایت
+megabyte	computing	مگابایت
+gigabyte	computing	گیگابایت
+terabyte	computing	ترابایت
+petabyte	computing	پتابایت
+megabit	computing	مگابیت
+mbps	computing	megabits per second؛ مگابیت بر ثانیه
+storage	computing	ذخیره‌سازی، فضای ذخیره، انباره
+memory	computing	حافظه
+ram	computing	Random-Access Memory؛ رم، حافظهٔ دسترسی تصادفی
+rom	computing	Read-Only Memory؛ رام، حافظهٔ فقط‌خواندنی
+hard drive	computing	هارد، دیسک سخت، دیسک‌ران سخت
+hard disk	computing	دیسک سخت، هارد دیسک
+hdd	computing	Hard Disk Drive؛ دیسک سخت، هارد دیسک
+ssd	computing	Solid-State Drive؛ اس‌اس‌دی، حافظهٔ حالت جامد
+solid-state drive	computing	درایو حالت جامد، اس‌اس‌دی
+flash drive	computing	فلش، حافظهٔ فلش، فلش‌مموری
+flash memory	computing	حافظهٔ فلش
+usb flash drive	computing	فلش‌مموری، حافظهٔ فلش یواس‌بی
+thumb drive	computing	فلش‌مموری، حافظهٔ فلش
+memory card	computing	کارت حافظه
+sd card	computing	کارت حافظهٔ اس‌دی
+cd-rom	computing	Compact Disc Read-Only Memory؛ سی‌دی‌رام، لوح فشردهٔ فقط‌خواندنی
+dvd	electronics	Digital Versatile Disc؛ دی‌وی‌دی، لوح چندمنظورهٔ دیجیتال
+blu-ray	electronics	بلوری (لوح نوری پرظرفیت)
+partition	computing	پارتیشن، افراز (بخش‌بندی دیسک)
+format	computing	قالب‌بندی، فرمت؛ فرمت کردن
+defragment	computing	یکپارچه‌سازی کردن (دیسک)
+raid	computing	Redundant Array of Independent Disks؛ رِید، آرایهٔ افزونهٔ دیسک‌های مستقل
+nas	computing	Network-Attached Storage؛ ذخیره‌ساز متصل به شبکه
+network	computing	شبکه
+networking	computing	شبکه‌بندی، شبکه‌سازی
+lan	computing	Local Area Network؛ لَن، شبکهٔ محلی
+wan	computing	Wide Area Network؛ وَن، شبکهٔ گسترده
+wlan	computing	Wireless Local Area Network؛ شبکهٔ محلی بی‌سیم
+vpn	computing	Virtual Private Network؛ وی‌پی‌ان، شبکهٔ خصوصی مجازی، فیلترشکن
+proxy	computing	پراکسی، پیشکار، وکیل
+proxy server	computing	سرور پراکسی، کارساز پیشکار
+gateway	computing	دروازه، درگاه (شبکه)
+switch	computing	سوئیچ، راهگزین (شبکه)
+hub	computing	هاب، قطب
+ethernet	computing	اترنت
+packet	computing	بسته (داده)
+protocol	computing	پروتکل، قرارداد
+port	computing	درگاه، پورت؛ انتقال دادن نرم‌افزار به سکوی دیگر
+socket	computing	سوکت (نقطهٔ پایانی ارتباط شبکه‌ای)
+ping	computing	پینگ (آزمون دسترسی‌پذیری یک میزبان در شبکه)؛ پینگ کردن
+handshake	computing	دست‌دهی (تبادل آغازین برای برقراری ارتباط)
+peer-to-peer	computing	همتابه‌همتا، نظیربه‌نظیر
+p2p	computing	peer-to-peer؛ همتابه‌همتا
+torrent	computing	تورنت (فایل یا شیوهٔ هم‌رسانی همتابه‌همتا)
+file sharing	computing	هم‌رسانی فایل، اشتراک‌گذاری فایل
+topology	computing	هم‌بندی، توپولوژی (شبکه)
+mesh network	computing	شبکهٔ توری، شبکهٔ مش
+access point	computing	نقطهٔ دسترسی، اکسس‌پوینت
+ssid	computing	Service Set Identifier؛ نام شبکهٔ بی‌سیم
+mac address	computing	نشانی مک، آدرس فیزیکی
+ipv4	computing	Internet Protocol version 4؛ آی‌پی نسخهٔ ۴
+ipv6	computing	Internet Protocol version 6؛ آی‌پی نسخهٔ ۶
+nat	computing	Network Address Translation؛ برگردان نشانی شبکه
+dhcp	computing	Dynamic Host Configuration Protocol؛ پروتکل پیکربندی پویای میزبان
+ssh	computing	Secure Shell؛ اس‌اس‌اچ، پوستهٔ امن
+ssl	computing	Secure Sockets Layer؛ اس‌اس‌ال، لایهٔ سوکت‌های امن
+tls	computing	Transport Layer Security؛ تی‌ال‌اس، امنیت لایهٔ انتقال
+cdn	computing	Content Delivery Network؛ شبکهٔ توزیع محتوا
+content delivery network	computing	شبکهٔ توزیع محتوا، شبکهٔ تحویل محتوا
+cloud	computing	ابر، فضای ابری
+cloud computing	computing	رایانش ابری
+cloud storage	computing	ذخیره‌سازی ابری، فضای ابری
+the cloud	computing	ابر، فضای ابری (سرورهای راه دور اینترنتی)
+public cloud	computing	ابر عمومی
+private cloud	computing	ابر خصوصی
+hybrid cloud	computing	ابر ترکیبی، ابر هیبریدی
+saas	computing	Software as a Service؛ نرم‌افزار به‌عنوان سرویس، سَس
+paas	computing	Platform as a Service؛ سکو به‌عنوان سرویس
+iaas	computing	Infrastructure as a Service؛ زیرساخت به‌عنوان سرویس
+software as a service	computing	نرم‌افزار به‌عنوان سرویس، نرم‌افزار در قالب خدمت
+on-premises	computing	درون‌سازمانی، مستقر در محل
+edge computing	computing	رایانش لبه‌ای
+distributed system	computing	سامانهٔ توزیع‌شده، سیستم توزیع‌شده
+distributed computing	computing	رایانش توزیع‌شده
+cluster	computing	خوشه (گروهی از رایانه‌های هم‌کار)
+grid computing	computing	رایانش مشبک، رایانش توری
+supercomputer	computing	ابررایانه، اَبَرکامپیوتر
+mainframe	computing	رایانهٔ بزرگ، مین‌فریم
+workstation	computing	ایستگاه کاری
+thin client	computing	کلاینت سبک، تین‌کلاینت
+remote desktop	computing	میزکار از راه دور، ریموت دسکتاپ
+remote access	computing	دسترسی از راه دور
+sync	computing	همگام‌سازی؛ همگام کردن
+synchronization	computing	همگام‌سازی، همزمان‌سازی
+synchronize	computing	همگام کردن، همزمان کردن
+cybersecurity	computing	امنیت سایبری، امنیت فضای مجازی
+cyber security	computing	امنیت سایبری
+information security	computing	امنیت اطلاعات
+infosec	computing	information security؛ امنیت اطلاعات
+network security	computing	امنیت شبکه
+cyberattack	computing	حملهٔ سایبری
+cyber attack	computing	حملهٔ سایبری
+cybercrime	law	جرم سایبری، جرم رایانه‌ای، بزه رایانه‌ای
+cybercriminal	law	مجرم سایبری، بزهکار رایانه‌ای
+cyberwarfare	military	جنگ سایبری، نبرد سایبری
+cyberwar	military	جنگ سایبری
+cyberterrorism	military	تروریسم سایبری
+cyber espionage	military	جاسوسی سایبری
+hacker	computing	هکر، رخنه‌گر، نفوذگر
+hack	computing	هک، رخنه؛ هک کردن، نفوذ کردن؛ ترفند، راه‌حل سرهم‌بندی‌شده
+hacking	computing	هک، رخنه‌گری، نفوذگری
+hacktivist	computing	هکتیویست، هکر کنشگر
+hacktivism	computing	هکتیویسم، کنشگری از راه هک
+white hat	computing	هکر کلاه‌سفید (نفوذگر قانون‌مدار)
+black hat	computing	هکر کلاه‌سیاه (نفوذگر خرابکار)
+ethical hacking	computing	هک اخلاقی، نفوذ قانونمند
+penetration test	computing	آزمون نفوذ، تست نفوذ
+penetration testing	computing	آزمون نفوذ، تست نفوذ
+pentest	computing	penetration test؛ تست نفوذ
+bug bounty	computing	جایزهٔ کشف باگ، باگ‌بانتی
+vulnerability	computing	آسیب‌پذیری
+exploit	computing	اکسپلویت، کد بهره‌جو (برای سوءاستفاده از آسیب‌پذیری)؛ بهره‌جویی کردن
+zero-day	computing	روز صفر (آسیب‌پذیری ناشناخته و بی‌وصله)
+zero-day exploit	computing	اکسپلویت روز صفر
+threat	computing	تهدید
+attack vector	computing	بردار حمله
+attack surface	computing	سطح حمله
+breach	computing	رخنه، نفوذ (امنیتی)
+security breach	computing	رخنهٔ امنیتی
+intrusion	computing	نفوذ
+intrusion detection	computing	تشخیص نفوذ
+virus	computing	ویروس (رایانه‌ای)
+computer virus	computing	ویروس رایانه‌ای
+worm	computing	کرم (رایانه‌ای)
+trojan	computing	تروجان، اسب تروا
+trojan horse	computing	اسب تروا، تروجان
+rootkit	computing	روت‌کیت (بدافزار پنهان‌شونده با دسترسی ریشه)
+keylogger	computing	کی‌لاگر، ثبت‌کنندهٔ ضربه‌کلیدها
+backdoor	computing	درِ پشتی، بک‌دُر (راه نفوذ مخفی)
+botnet	computing	بات‌نت، شبکهٔ رایانه‌های آلوده
+zombie	computing	زامبی (رایانهٔ آلوده و تحت کنترل مهاجم)
+payload	computing	محموله، بار مخرب (بدافزار)؛ دادهٔ اصلی بسته
+antivirus	computing	ضدویروس، آنتی‌ویروس
+anti-virus	computing	ضدویروس، آنتی‌ویروس
+antimalware	computing	ضدبدافزار
+firewall	computing	دیوار آتش، فایروال، بارو
+quarantine	computing	قرنطینه (جداسازی فایل آلوده)
+scan	computing	پویش، اسکن؛ پویش کردن
+scanner	computing	پویشگر، اسکنر
+phishing	computing	فیشینگ، تله‌گذاری (سرقت اطلاعات با صفحات یا پیام‌های جعلی)
+spear phishing	computing	فیشینگ هدفمند
+smishing	computing	فیشینگ پیامکی
+vishing	computing	فیشینگ تلفنی، فیشینگ صوتی
+social engineering	computing	مهندسی اجتماعی (فریب افراد برای گرفتن اطلاعات)
+identity theft	law	سرقت هویت، هویت‌دزدی
+scam	general	کلاهبرداری، شیادی
+scammer	general	کلاهبردار، شیاد
+spoofing	computing	جعل هویت، اسپوفینگ (جعل نشانی یا فرستنده)
+spoof	computing	جعل کردن (نشانی یا هویت)
+man-in-the-middle attack	computing	حملهٔ مرد میانی
+denial of service	computing	محروم‌سازی از سرویس، ممانعت از خدمت
+dos	computing	Denial of Service؛ حملهٔ محروم‌سازی از سرویس
+ddos	computing	Distributed Denial of Service؛ دی‌داس، حملهٔ توزیع‌شدهٔ محروم‌سازی از سرویس
+brute force	computing	جستجوی فراگیر، بروت‌فورس (آزمودن همهٔ حالت‌ها)
+brute-force attack	computing	حملهٔ جستجوی فراگیر، حملهٔ بروت‌فورس
+sql injection	computing	تزریق اس‌کیوال
+injection	computing	تزریق (کد مخرب)
+cross-site scripting	computing	تزریق اسکریپت میان‌وبگاهی
+xss	computing	Cross-Site Scripting؛ تزریق اسکریپت میان‌وبگاهی
+privilege escalation	computing	ارتقای سطح دسترسی، افزایش امتیاز
+jailbreak	computing	جیل‌بریک، قفل‌شکنی (برداشتن محدودیت‌های سازنده)؛ قفل‌شکنی کردن
+rooting	computing	روت کردن (گرفتن دسترسی ریشه در دستگاه)
+crack	computing	کرک، قفل‌شکسته؛ قفل نرم‌افزار را شکستن، رمز را شکستن
+cracker	computing	قفل‌شکن، کرکر، رخنه‌گر خرابکار
+piracy	law	سرقت نرم‌افزار و آثار دیجیتال، تکثیر غیرمجاز
+pirated	law	غیرمجاز، قفل‌شکسته، کپی غیرقانونی
+warez	slang	(عامیانه) نرم‌افزار قفل‌شکسته، نرم‌افزار غیرمجاز
+drm	computing	Digital Rights Management؛ مدیریت حقوق دیجیتال
+authentication	computing	احراز هویت، اصالت‌سنجی
+authorization	computing	مجوزدهی، اعطای دسترسی
+two-factor authentication	computing	احراز هویت دوعاملی، ورود دومرحله‌ای
+2fa	computing	Two-Factor Authentication؛ احراز هویت دوعاملی
+multi-factor authentication	computing	احراز هویت چندعاملی
+mfa	computing	Multi-Factor Authentication؛ احراز هویت چندعاملی
+two-step verification	computing	تأیید دومرحله‌ای
+one-time password	computing	رمز یک‌بارمصرف
+otp	computing	One-Time Password؛ رمز یک‌بارمصرف، رمز پویا
+single sign-on	computing	ورود یکپارچه، شناسایی یگانه
+sso	computing	Single Sign-On؛ ورود یکپارچه
+captcha	computing	کپچا، آزمون تشخیص انسان از ربات
+biometric	computing	زیست‌سنجشی، بیومتریک
+biometrics	computing	زیست‌سنجی، بیومتریک
+fingerprint scanner	electronics	حسگر اثر انگشت، اثرانگشت‌خوان
+facial recognition	computing	تشخیص چهره، بازشناسی چهره
+face recognition	computing	تشخیص چهره، بازشناسی چهره
+iris scan	computing	پویش عنبیه
+password manager	computing	مدیر گذرواژه، برنامهٔ مدیریت رمز عبور
+passkey	computing	گذرکلید، پس‌کی (جایگزین رمزنگاشتی گذرواژه)
+credential	computing	اعتبارنامه، مشخصات ورود
+credentials	computing	مشخصات ورود، اطلاعات احراز هویت
+access control	computing	کنترل دسترسی، مهار دسترسی
+whitelist	computing	فهرست سفید، فهرست مجاز
+blacklist	computing	فهرست سیاه
+allowlist	computing	فهرست مجاز
+blocklist	computing	فهرست مسدود، فهرست ممنوع
+zero trust	computing	اعتماد صفر (الگوی امنیتی بی‌اعتمادی پیش‌فرض)
+least privilege	computing	حداقل دسترسی، کمترین امتیاز
+air gap	computing	شکاف هوایی (جداسازی فیزیکی از شبکه)
+honeypot	computing	تلهٔ عسل، هانی‌پات (سامانهٔ طعمه برای مهاجمان)
+incident response	computing	پاسخ به رخداد، واکنش به حادثه
+forensics	computing	جرم‌یابی، جرم‌شناسی دیجیتال
+digital forensics	computing	جرم‌یابی دیجیتال، جرم‌شناسی رایانه‌ای
+audit	computing	ممیزی، بازرسی (امنیتی)
+audit trail	computing	ردّ ممیزی، سابقهٔ بازرسی
+surveillance	general	نظارت، پایش، مراقبت
+mass surveillance	politics	نظارت همگانی، پایش فراگیر
+tracking	computing	ردگیری، ردیابی (کاربر)
+tracker	computing	ردیاب، ابزار ردگیری
+cookie	computing	کوکی، پروندک (فایل کوچک ذخیرهٔ اطلاعات کاربر در مرورگر)
+cookies	computing	کوکی‌ها (فایل‌های کوچک ذخیرهٔ اطلاعات کاربر در مرورگر)
+privacy	general	حریم خصوصی، محرمانگی
+privacy policy	law	سیاست حفظ حریم خصوصی، خط‌مشی رازداری
+terms of service	law	شرایط استفاده از خدمات، شرایط خدمات
+anonymity	computing	ناشناسی، گمنامی
+anonymous	computing	ناشناس، بی‌نام
+anonymize	computing	ناشناس‌سازی کردن، بی‌نام کردن
+incognito	computing	حالت ناشناس (مرورگر)
+private browsing	computing	مرور خصوصی، وب‌گردی ناشناس
+censorship	politics	سانسور، ممیزی
+internet censorship	politics	سانسور اینترنت، فیلترینگ
+filtering	computing	پالایش، فیلترینگ
+geo-blocking	computing	مسدودسازی جغرافیایی
+whistleblower	general	افشاگر، سوت‌زن
+leak	computing	نشت، افشا (اطلاعات)؛ فاش کردن
+cryptography	computing	رمزنگاری
+cryptographic	computing	رمزنگاشتی، رمزنگارانه
+cryptanalysis	computing	تحلیل رمز، رمزشکنی
+encryption	computing	رمزگذاری، رمزنگاری
+encrypt	computing	رمزگذاری کردن، رمز کردن
+decrypt	computing	رمزگشایی کردن
+decryption	computing	رمزگشایی
+encrypted	computing	رمزگذاری‌شده، رمزشده
+end-to-end encryption	computing	رمزگذاری سرتاسری
+cipher	computing	رمز، الگوریتم رمز
+ciphertext	computing	متن رمز، متن رمزشده
+plaintext	computing	متن ساده، متن آشکار
+key	computing	کلید (رمزنگاری)
+public key	computing	کلید عمومی
+private key	computing	کلید خصوصی
+public-key cryptography	computing	رمزنگاری کلید عمومی
+symmetric encryption	computing	رمزگذاری متقارن
+asymmetric encryption	computing	رمزگذاری نامتقارن
+digital signature	computing	امضای دیجیتال
+digital certificate	computing	گواهی دیجیتال، گواهینامهٔ دیجیتال
+certificate authority	computing	مرجع صدور گواهی
+key exchange	computing	تبادل کلید
+salt	computing	نمک (دادهٔ تصادفی افزوده به گذرواژه پیش از درهم‌سازی)
+checksum	computing	جمع آزمایی، چک‌سام
+steganography	computing	پنهان‌نگاری، نهان‌نگاری
+obfuscation	computing	مبهم‌سازی (کد)
+aes	computing	Advanced Encryption Standard؛ استاندارد رمزگذاری پیشرفته
+rsa	computing	Rivest–Shamir–Adleman؛ آراس‌ای (الگوریتم رمزنگاری کلید عمومی)
+pgp	computing	Pretty Good Privacy؛ پی‌جی‌پی (نرم‌افزار رمزگذاری ایمیل و فایل)
+tor	computing	The Onion Router؛ تور (شبکهٔ ناشناس‌ساز)
+artificial intelligence	computing	هوش مصنوعی
+ai	computing	Artificial Intelligence؛ هوش مصنوعی
+machine learning	computing	یادگیری ماشین، یادگیری ماشینی
+ml	computing	Machine Learning؛ یادگیری ماشین
+deep learning	computing	یادگیری عمیق، یادگیری ژرف
+neural network	computing	شبکهٔ عصبی
+artificial neural network	computing	شبکهٔ عصبی مصنوعی
+neuron	computing	نورون، یاخته (واحد محاسباتی شبکهٔ عصبی)
+layer	computing	لایه
+hidden layer	computing	لایهٔ پنهان
+perceptron	computing	پرسپترون
+convolutional neural network	computing	شبکهٔ عصبی پیچشی، شبکهٔ عصبی کانولوشنی
+cnn	computing	Convolutional Neural Network؛ شبکهٔ عصبی پیچشی
+recurrent neural network	computing	شبکهٔ عصبی بازگشتی
+rnn	computing	Recurrent Neural Network؛ شبکهٔ عصبی بازگشتی
+lstm	computing	Long Short-Term Memory؛ حافظهٔ طولانیِ کوتاه‌مدت (نوعی شبکهٔ عصبی بازگشتی)
+transformer	computing	ترنسفورمر، مبدل (معماری شبکهٔ عصبی مبتنی بر سازوکار توجه)
+attention	computing	توجه (سازوکاری در شبکه‌های عصبی)
+attention mechanism	computing	سازوکار توجه
+self-attention	computing	خودتوجهی
+generative adversarial network	computing	شبکهٔ مولد تخاصمی
+gan	computing	Generative Adversarial Network؛ شبکهٔ مولد تخاصمی
+diffusion model	computing	مدل انتشاری، مدل دیفیوژن
+autoencoder	computing	خودرمزگذار
+encoder	computing	رمزگذار، کدگذار
+decoder	computing	رمزگشا، کدگشا
+model	computing	مدل (سامانهٔ آموزش‌دیدهٔ یادگیری ماشین)
+language model	computing	مدل زبانی
+large language model	computing	مدل زبانی بزرگ
+llm	computing	Large Language Model؛ مدل زبانی بزرگ
+foundation model	computing	مدل پایه، مدل بنیادین
+generative ai	computing	هوش مصنوعی مولد، هوش مصنوعی زایا
+generative	computing	مولد، زایا
+gpt	computing	Generative Pre-trained Transformer؛ جی‌پی‌تی، ترنسفورمر مولد ازپیش‌آموزش‌دیده
+multimodal	computing	چندوجهی، چندحالته (پردازندهٔ متن و تصویر و صوت با هم)
+natural language processing	computing	پردازش زبان طبیعی
+nlp	computing	Natural Language Processing؛ پردازش زبان طبیعی
+natural language	computing	زبان طبیعی
+computer vision	computing	بینایی ماشین، بینایی رایانه‌ای
+speech recognition	computing	بازشناسی گفتار، تشخیص گفتار
+voice recognition	computing	تشخیص صدا، بازشناسی صدا
+speech synthesis	computing	تولید گفتار، گفتارسازی
+text-to-speech	computing	متن‌به‌گفتار، تبدیل متن به گفتار
+tts	computing	Text-to-Speech؛ تبدیل متن به گفتار
+machine translation	computing	ترجمهٔ ماشینی
+image recognition	computing	بازشناسی تصویر، تشخیص تصویر
+object detection	computing	تشخیص اشیا، شناسایی شیء
+ocr	computing	Optical Character Recognition؛ نویسه‌خوانی نوری، بازشناسی نوری نویسه‌ها
+sentiment analysis	computing	تحلیل احساسات، عقیده‌کاوی
+recommender system	computing	سامانهٔ توصیه‌گر، سیستم پیشنهاددهنده
+recommendation engine	computing	موتور توصیه‌گر، موتور پیشنهاددهنده
+training	computing	آموزش (مدل)
+train	computing	آموزش دادن (مدل)
+training data	computing	داده‌های آموزشی
+training set	computing	مجموعهٔ آموزشی
+test set	computing	مجموعهٔ آزمون
+validation set	computing	مجموعهٔ اعتبارسنجی
+pre-training	computing	پیش‌آموزش
+pretrained	computing	ازپیش‌آموزش‌دیده
+fine-tuning	computing	تنظیم دقیق، ریزتنظیم، فاین‌تیونینگ
+fine-tune	computing	تنظیم دقیق کردن، ریزتنظیم کردن
+transfer learning	computing	یادگیری انتقالی
+inference	computing	استنتاج (اجرای مدل آموزش‌دیده روی دادهٔ تازه)
+supervised learning	computing	یادگیری بانظارت، یادگیری نظارت‌شده
+unsupervised learning	computing	یادگیری بی‌نظارت، یادگیری بدون نظارت
+self-supervised learning	computing	یادگیری خودنظارتی
+semi-supervised learning	computing	یادگیری نیمه‌نظارتی
+reinforcement learning	computing	یادگیری تقویتی
+reward	computing	پاداش (در یادگیری تقویتی)
+policy	computing	سیاست، خط‌مشی (در یادگیری تقویتی)
+agent	computing	عامل، ایجنت (برنامهٔ خودکار هدف‌محور)
+ai agent	computing	عامل هوش مصنوعی، ایجنت هوش مصنوعی
+agentic	computing	عامل‌محور، عاملیت‌دار (دربارهٔ هوش مصنوعیِ خودکارِ چندمرحله‌ای)
+multi-agent system	computing	سامانهٔ چندعاملی
+few-shot learning	computing	یادگیری با چند نمونه
+zero-shot	computing	بی‌نمونه، بدون نمونهٔ آموزشی
+in-context learning	computing	یادگیری درون‌متنی، یادگیری از بافت
+token	computing	توکن، واحد متن (در مدل‌های زبانی)؛ نشانه، ژتون (دیجیتال)
+tokenization	computing	توکن‌سازی، واحدسازی متن
+tokenizer	computing	توکن‌ساز، واحدساز
+embedding	computing	تعبیه، بازنمایی برداری، امبدینگ
+word embedding	computing	تعبیهٔ واژه، بازنمایی برداری واژه
+vector	computing	بردار
+vector database	computing	پایگاه دادهٔ برداری
+semantic search	computing	جستجوی معنایی
+context window	computing	پنجرهٔ بافت، پنجرهٔ زمینه (حداکثر متن قابل پردازش مدل)
+prompt engineering	computing	مهندسی پرامپت، مهندسی دستور
+system prompt	computing	پرامپت سیستمی، دستور سیستمی
+hallucination	computing	توهم (تولید اطلاعات نادرست ولی باورپذیر از سوی هوش مصنوعی)
+hallucinate	computing	توهم زدن (ساختن اطلاعات نادرست از سوی هوش مصنوعی)
+retrieval-augmented generation	computing	تولید تقویت‌شده با بازیابی
+rag	computing	Retrieval-Augmented Generation؛ تولید تقویت‌شده با بازیابی
+grounding	computing	زمینه‌مندسازی، اتکا به منابع واقعی (در هوش مصنوعی)
+chain of thought	computing	زنجیرهٔ تفکر، استدلال گام‌به‌گام
+reasoning	computing	استدلال
+alignment	computing	همراستایی (سازگاری رفتار هوش مصنوعی با ارزش‌های انسانی)
+ai safety	computing	ایمنی هوش مصنوعی
+guardrail	computing	حفاظ، ریل محافظ (محدودیت ایمنی برای هوش مصنوعی)
+red teaming	computing	آزمون تیم قرمز، حملهٔ آزمایشی برای سنجش ایمنی
+explainability	computing	توضیح‌پذیری، تبیین‌پذیری
+interpretability	computing	تفسیرپذیری
+black box	computing	جعبهٔ سیاه (سامانه‌ای با سازوکار درونی نامعلوم)
+bias	computing	سوگیری، اریبی؛ بایاس (جملهٔ ثابت در نورون)
+algorithmic bias	computing	سوگیری الگوریتمی
+artificial general intelligence	computing	هوش مصنوعی عمومی، هوش جامع مصنوعی
+agi	computing	Artificial General Intelligence؛ هوش مصنوعی عمومی
+superintelligence	computing	ابرهوش، فراهوش
+singularity	computing	تکینگی (فناورانه)
+turing test	computing	آزمون تورینگ
+expert system	computing	سامانهٔ خبره، سیستم خبره
+knowledge graph	computing	گراف دانش
+ontology	computing	هستان‌شناسی، آنتولوژی (مدل صوری مفاهیم یک حوزه)
+overfitting	computing	بیش‌برازش
+underfitting	computing	کم‌برازش
+generalization	computing	تعمیم، تعمیم‌پذیری
+regularization	computing	منظم‌سازی
+dropout	computing	حذف تصادفی، دراپ‌اوت
+gradient descent	computing	گرادیان کاهشی، کاهش گرادیان
+backpropagation	computing	پس‌انتشار، انتشار روبه‌عقب
+loss function	computing	تابع زیان، تابع هزینه
+activation function	computing	تابع فعال‌سازی
+learning rate	computing	نرخ یادگیری
+epoch	computing	دوره، ایپاک (یک دور کامل آموزش روی داده‌ها)
+batch	computing	دسته، بچ
+batch size	computing	اندازهٔ دسته
+hyperparameter	computing	ابرپارامتر، فراپارامتر
+weight	computing	وزن (پارامتر شبکهٔ عصبی)
+weights	computing	وزن‌ها (پارامترهای شبکهٔ عصبی)
+tensor	computing	تانسور
+feature	computing	ویژگی، مشخصه؛ قابلیت، امکان (نرم‌افزار)
+feature extraction	computing	استخراج ویژگی
+feature engineering	computing	مهندسی ویژگی
+label	computing	برچسب (داده)
+labeling	computing	برچسب‌گذاری (داده)
+annotation	computing	حاشیه‌نویسی، برچسب‌گذاری داده
+classification	computing	دسته‌بندی، رده‌بندی
+classifier	computing	دسته‌بند، رده‌بند
+clustering	computing	خوشه‌بندی
+regression	computing	رگرسیون، وایازش
+decision tree	computing	درخت تصمیم
+random forest	computing	جنگل تصادفی
+support vector machine	computing	ماشین بردار پشتیبان
+svm	computing	Support Vector Machine؛ ماشین بردار پشتیبان
+k-means	computing	کی‌میانگین (الگوریتم خوشه‌بندی)
+nearest neighbor	computing	نزدیک‌ترین همسایه
+dimensionality reduction	computing	کاهش ابعاد
+anomaly detection	computing	ناهنجاری‌یابی، تشخیص ناهنجاری
+pattern recognition	computing	بازشناسی الگو، الگوشناسی
+genetic algorithm	computing	الگوریتم ژنتیک
+heuristic	computing	اکتشافی، ابتکاری، هیوریستیک
+accuracy	computing	درستی، صحت
+precision	computing	دقت
+recall	computing	بازیابی، فراخوانی (سنجهٔ ارزیابی)
+confusion matrix	computing	ماتریس درهم‌ریختگی
+ground truth	computing	حقیقت مبنا، دادهٔ مرجع
+synthetic data	computing	دادهٔ مصنوعی، دادهٔ ساختگی
+data augmentation	computing	داده‌افزایی
+distillation	computing	تقطیر دانش (انتقال دانش مدل بزرگ به مدل کوچک)
+quantization	computing	کوانتیزه‌سازی، چندی‌سازی
+open weights	computing	وزن‌های باز (مدلی که پارامترهایش آزادانه منتشر شده است)
+copilot	computing	دستیار هوشمند، کمک‌خلبان (دستیار هوش مصنوعی در نرم‌افزار)
+virtual assistant	computing	دستیار مجازی
+voice assistant	computing	دستیار صوتی
+smart assistant	computing	دستیار هوشمند
+text-to-image	computing	متن‌به‌تصویر، تبدیل متن به تصویر
+image generation	computing	تولید تصویر، تصویرسازی (با هوش مصنوعی)
+vibe coding	slang	(عامیانه) کدنویسی حسی، برنامه‌سازی با سپردن کدنویسی به هوش مصنوعی
+slop	slang	(عامیانه) محتوای انبوه و بی‌کیفیت ساختهٔ هوش مصنوعی
+computer	computing	رایانه، کامپیوتر
+personal computer	computing	رایانهٔ شخصی، کامپیوتر شخصی
+pc	computing	Personal Computer؛ رایانهٔ شخصی، پی‌سی
+laptop	computing	لپ‌تاپ، رایانهٔ کیفی، رایانهٔ همراه
+notebook	computing	نوت‌بوک، رایانهٔ کیفی
+netbook	computing	نت‌بوک (لپ‌تاپ کوچک و ارزان)
+ultrabook	computing	اولترابوک (لپ‌تاپ باریک و سبک)
+tablet	computing	تبلت، رایانک، رایانهٔ لوحی
+e-reader	electronics	کتاب‌خوان الکترونیکی
+e-book	computing	کتاب الکترونیکی، ای‌بوک
+ebook	computing	کتاب الکترونیکی، ای‌بوک
+e-ink	electronics	جوهر الکترونیکی
+audiobook	general	کتاب صوتی، کتاب گویا
+smartphone	electronics	گوشی هوشمند، تلفن هوشمند
+mobile phone	electronics	تلفن همراه، موبایل، گوشی
+cell phone	electronics	تلفن همراه، موبایل
+cellphone	electronics	تلفن همراه، موبایل
+mobile	electronics	موبایل، تلفن همراه؛ همراه، سیار
+feature phone	electronics	گوشی ساده، گوشی غیرهوشمند
+handset	electronics	گوشی (تلفن همراه)
+phablet	electronics	فبلت (گوشی بزرگ نزدیک به تبلت)
+foldable	electronics	تاشو، گوشی تاشو
+smartwatch	electronics	ساعت هوشمند
+smart watch	electronics	ساعت هوشمند
+wearable	electronics	پوشیدنی، ابزار پوشیدنی
+wearable technology	electronics	فناوری پوشیدنی
+fitness tracker	electronics	دستبند سلامتی، ردیاب تناسب اندام
+smart glasses	electronics	عینک هوشمند
+earbuds	electronics	هدفون توگوشی، ایربادز
+headset	electronics	هدست، گوشی سرنشین
+headphones	electronics	هدفون، گوشی
+noise cancellation	electronics	حذف نویز، نوفه‌زدایی
+noise-canceling	electronics	حذف‌کنندهٔ نویز، نوفه‌زدا
+smart speaker	electronics	بلندگوی هوشمند، اسپیکر هوشمند
+smart tv	electronics	تلویزیون هوشمند
+smart home	electronics	خانهٔ هوشمند
+home automation	electronics	خودکارسازی خانه، هوشمندسازی خانه
+smart device	electronics	دستگاه هوشمند، ابزار هوشمند
+smart	electronics	هوشمند (دستگاه دارای پردازنده و اتصال شبکه)
+gadget	electronics	گجت، ابزارک، وسیلهٔ الکترونیکی کوچک
+device	electronics	دستگاه، وسیله، افزاره
+set-top box	electronics	گیرندهٔ دیجیتال، ست‌تاپ‌باکس
+flat screen	electronics	صفحه‌تخت، نمایشگر تخت
+display	electronics	نمایشگر، صفحه‌نمایش
+monitor	computing	نمایشگر، مانیتور
+screen	electronics	صفحه، صفحه‌نمایش
+lcd	electronics	Liquid Crystal Display؛ ال‌سی‌دی، نمایشگر بلور مایع
+led	electronics	Light-Emitting Diode؛ ال‌ای‌دی، دیود نورگسیل، دیود نورافشان
+oled	electronics	Organic Light-Emitting Diode؛ اولد، دیود نورگسیل آلی
+amoled	electronics	Active-Matrix Organic Light-Emitting Diode؛ امولد، اولد ماتریس فعال
+plasma display	electronics	نمایشگر پلاسما
+hd	electronics	High Definition؛ اچ‌دی، وضوح بالا، پرتفکیک
+high definition	electronics	وضوح بالا، کیفیت اچ‌دی
+4k	electronics	فورکی، وضوح چهارهزار پیکسلی
+hdr	electronics	High Dynamic Range؛ اچ‌دی‌آر، گسترهٔ پویای بالا
+refresh rate	electronics	نرخ نوسازی، نرخ تازه‌سازی (نمایشگر)
+frame rate	electronics	نرخ فریم، نرخ قاب
+fps	electronics	frames per second؛ فریم بر ثانیه
+aspect ratio	electronics	نسبت ابعاد، نسبت تصویر
+megapixel	electronics	مگاپیکسل
+digital camera	electronics	دوربین دیجیتال
+dslr	electronics	Digital Single-Lens Reflex؛ دوربین دیجیتال تک‌لنزی بازتابی
+camcorder	electronics	دوربین فیلم‌برداری، هندی‌کم
+dashcam	electronics	دوربین داشبورد، دوربین ثبت وقایع خودرو
+cctv	electronics	Closed-Circuit Television؛ دوربین مداربسته، تلویزیون مداربسته
+sensor	electronics	حسگر، سنسور
+image sensor	electronics	حسگر تصویر
+accelerometer	electronics	شتاب‌سنج
+gyroscope	electronics	ژیروسکوپ، چرخش‌نما
+lidar	electronics	Light Detection and Ranging؛ لایدار، فاصله‌یاب لیزری
+gps	electronics	Global Positioning System؛ جی‌پی‌اس، سامانهٔ موقعیت‌یاب جهانی
+satnav	electronics	satellite navigation؛ ناوبری ماهواره‌ای، مسیریاب ماهواره‌ای
+geolocation	computing	مکان‌یابی جغرافیایی، موقعیت‌یابی
+geotagging	computing	برچسب‌گذاری مکانی
+location services	computing	خدمات مکان‌یابی، خدمات موقعیت مکانی
+sim card	electronics	سیم‌کارت
+sim	electronics	Subscriber Identity Module؛ سیم‌کارت
+esim	electronics	embedded SIM؛ سیم‌کارت الکترونیکی، ای‌سیم، سیم‌کارت تعبیه‌شده
+sms	electronics	Short Message Service؛ اس‌ام‌اس، پیامک، سرویس پیام کوتاه
+mms	electronics	Multimedia Messaging Service؛ ام‌ام‌اس، پیام چندرسانه‌ای
+text message	electronics	پیامک، پیام متنی
+text	electronics	پیامک؛ پیامک فرستادن، پیام دادن
+texting	electronics	پیامک‌فرستی، پیام‌دادن
+voicemail	electronics	پیام صوتی، صندوق پیام صوتی
+ringtone	electronics	زنگ تلفن، آهنگ زنگ
+caller id	electronics	نمایشگر شمارهٔ تماس‌گیرنده، شماره‌نما
+roaming	electronics	رومینگ، فراگردی (استفاده از شبکهٔ اپراتور دیگر)
+carrier	electronics	اپراتور (تلفن همراه)، شرکت مخابراتی؛ حامل
+operator	electronics	اپراتور، کارور
+mobile network	electronics	شبکهٔ تلفن همراه
+cellular	electronics	سلولی، یاخته‌ای (شبکهٔ تلفن همراه)
+cell tower	electronics	دکل مخابراتی، دکل تلفن همراه
+base station	electronics	ایستگاه پایه
+gsm	electronics	Global System for Mobile Communications؛ جی‌اس‌ام، سامانهٔ جهانی ارتباطات سیار
+2g	electronics	second generation؛ نسل دوم (شبکهٔ تلفن همراه)
+3g	electronics	third generation؛ تری‌جی، نسل سوم (شبکهٔ تلفن همراه)
+4g	electronics	fourth generation؛ فورجی، نسل چهارم (شبکهٔ تلفن همراه)
+5g	electronics	fifth generation؛ فایوجی، نسل پنجم (شبکهٔ تلفن همراه)
+6g	electronics	sixth generation؛ نسل ششم (شبکهٔ تلفن همراه)
+lte	electronics	Long-Term Evolution؛ ال‌تی‌ای (استاندارد نسل چهارم تلفن همراه)
+mobile data	electronics	دادهٔ همراه، اینترنت همراه
+data plan	electronics	بستهٔ اینترنت، طرح داده
+prepaid	business	اعتباری، پیش‌پرداخت‌شده (سیم‌کارت یا کارت)
+postpaid	business	دائمی، پس‌پرداخت (سیم‌کارت)
+tethering	electronics	هم‌رسانی اینترنت گوشی، تترینگ
+airplane mode	electronics	حالت هواپیما، حالت پرواز
+nfc	electronics	Near-Field Communication؛ ان‌اف‌سی، ارتباط میدان نزدیک
+rfid	electronics	Radio-Frequency Identification؛ آراف‌آی‌دی، بازشناسی با امواج رادیویی
+qr code	computing	کد کیوآر، رمزینهٔ پاسخ سریع
+barcode	computing	بارکد، رمزینه، خط‌نماد
+infrared	electronics	فروسرخ، مادون قرمز
+usb	computing	Universal Serial Bus؛ یواس‌بی، درگاه همه‌گذر سریال
+usb-c	computing	یواس‌بی-سی، یواس‌بی نوع سی
+hdmi	electronics	High-Definition Multimedia Interface؛ اچ‌دی‌ام‌آی، رابط چندرسانه‌ای پرتفکیک
+plug and play	computing	وصل‌کن‌وبه‌کاربر، اتصال و اجرا
+peripheral	computing	جانبی، دستگاه جانبی
+dongle	computing	دانگل (قطعهٔ کوچک اتصالی به درگاه)
+docking station	computing	پایهٔ اتصال، داک
+adapter	electronics	مبدل، آداپتور، وفق‌دهنده
+charger	electronics	شارژر
+wireless charging	electronics	شارژ بی‌سیم
+fast charging	electronics	شارژ سریع
+power bank	electronics	پاوربانک، شارژر همراه
+printer	computing	چاپگر، پرینتر
+inkjet	computing	جوهرافشان
+laser printer	computing	چاپگر لیزری
+toner	computing	تونر، گَرد چاپ
+projector	electronics	پروژکتور، ویدیوپروژکتور
+motherboard	computing	مادربورد، برد اصلی، بُرد مادر
+processor	computing	پردازنده
+cpu	computing	Central Processing Unit؛ سی‌پی‌یو، واحد پردازش مرکزی، پردازندهٔ مرکزی
+gpu	computing	Graphics Processing Unit؛ جی‌پی‌یو، واحد پردازش گرافیکی، پردازندهٔ گرافیکی
+graphics card	computing	کارت گرافیک
+sound card	computing	کارت صدا
+network card	computing	کارت شبکه
+core	computing	هسته (پردازنده)
+multi-core	computing	چندهسته‌ای
+dual-core	computing	دوهسته‌ای
+quad-core	computing	چهارهسته‌ای
+clock speed	computing	سرعت ساعت، بسامد کاری پردازنده
+overclocking	computing	اورکلاک، بالا بردن بسامد کاری پردازنده از حد اسمی
+chip	electronics	تراشه، چیپ
+microchip	electronics	ریزتراشه، میکروچیپ
+chipset	electronics	چیپ‌ست، مجموعه‌تراشه
+integrated circuit	electronics	مدار مجتمع، آی‌سی
+microprocessor	electronics	ریزپردازنده، میکروپروسسور
+microcontroller	electronics	ریزکنترل‌گر، میکروکنترلر
+semiconductor	electronics	نیم‌رسانا، نیمه‌هادی
+transistor	electronics	ترانزیستور
+wafer	electronics	ویفر، قرص سیلیکونی
+silicon	electronics	سیلیسیم، سیلیکون
+fab	electronics	کارخانهٔ ساخت تراشه
+foundry	electronics	کارخانهٔ قراردادی ساخت تراشه
+lithography	electronics	لیتوگرافی، سنگ‌نگاری (ساخت تراشه)
+nanometer	physics	نانومتر
+system on a chip	electronics	سامانه روی تراشه
+soc	electronics	System on a Chip؛ سامانه روی تراشه
+asic	electronics	Application-Specific Integrated Circuit؛ مدار مجتمع با کاربرد خاص
+fpga	electronics	Field-Programmable Gate Array؛ اف‌پی‌جی‌ای، آرایهٔ دروازه‌ای برنامه‌پذیر میدانی
+circuit board	electronics	برد مدار، مدار چاپی
+pcb	electronics	Printed Circuit Board؛ برد مدار چاپی
+embedded system	computing	سامانهٔ نهفته، سیستم تعبیه‌شده
+embedded	computing	نهفته، تعبیه‌شده، توکار
+single-board computer	computing	رایانهٔ تک‌برد
+heat sink	electronics	گرماگیر، هیت‌سینک، خنک‌کننده
+moore's law	electronics	قانون مور (دوبرابر شدن شمار ترانزیستورهای تراشه در حدود هر دو سال)
+nanotechnology	engineering	نانوفناوری، فناوری نانو
+nanotech	engineering	نانوفناوری، فناوری نانو
+graphene	chemistry	گرافن
+carbon nanotube	chemistry	نانولولهٔ کربنی
+mems	electronics	Micro-Electro-Mechanical Systems؛ سامانه‌های میکروالکترومکانیکی
+internet of things	computing	اینترنت اشیا، اینترنت چیزها
+iot	computing	Internet of Things؛ اینترنت اشیا
+connected device	computing	دستگاه متصل (به اینترنت)
+smart meter	electronics	کنتور هوشمند
+smart grid	engineering	شبکهٔ هوشمند برق
+smart city	engineering	شهر هوشمند
+telemetry	engineering	دورسنجی، تله‌متری
+actuator	engineering	عملگر، محرک
+robot	engineering	ربات، روبات، آدم‌واره
+robotics	engineering	رباتیک، روبات‌شناسی
+robotic	engineering	رباتیک، روباتی
+humanoid	engineering	انسان‌نما، ربات انسان‌نما
+android	engineering	ربات انسان‌نما، آدم‌واره
+cyborg	engineering	سایبورگ، انسان–ماشین
+cobot	engineering	ربات همکار، کوبات
+exoskeleton	engineering	اسکلت بیرونی، برون‌اسکلت (پوشیدنی رباتیک)
+autonomous	engineering	خودران، خودمختار، خودگردان
+autonomous vehicle	engineering	خودروی خودران، وسیلهٔ نقلیهٔ خودران
+self-driving car	engineering	خودروی خودران، خودروی بی‌راننده
+self-driving	engineering	خودران، بی‌راننده
+driverless	engineering	بی‌راننده، بدون راننده
+autopilot	engineering	خلبان خودکار، رانندهٔ خودکار
+driver assistance	engineering	دستیار راننده، سامانهٔ کمک‌راننده
+robotaxi	engineering	تاکسی خودران، روبوتاکسی
+drone	aviation	پهپاد، هواپیمای بدون سرنشین، ریزپرنده، درون
+uav	aviation	Unmanned Aerial Vehicle؛ پهپاد، پرندهٔ هدایت‌پذیر از دور، هواگرد بدون سرنشین
+unmanned	engineering	بدون سرنشین، بی‌سرنشین
+quadcopter	aviation	کوادکوپتر، چهارپره
+multirotor	aviation	چندپره، مولتی‌روتور
+remote control	electronics	کنترل از راه دور، ریموت کنترل
+3d printing	engineering	چاپ سه‌بعدی
+3d printer	engineering	چاپگر سه‌بعدی، پرینتر سه‌بعدی
+additive manufacturing	engineering	ساخت افزایشی، تولید افزودنی
+3d	computing	three-dimensional؛ سه‌بعدی
+3d model	computing	مدل سه‌بعدی
+3d modeling	computing	مدل‌سازی سه‌بعدی
+rendering	computing	رندرینگ، پرداخت تصویر
+render	computing	رندر کردن، پرداخت کردن (تصویر)
+ray tracing	computing	ردیابی پرتو، ری‌تریسینگ
+cad	computing	Computer-Aided Design؛ کَد، طراحی به کمک رایانه
+cam	engineering	Computer-Aided Manufacturing؛ ساخت به کمک رایانه
+cnc	engineering	Computer Numerical Control؛ سی‌ان‌سی، کنترل عددی رایانه‌ای
+laser cutting	engineering	برش لیزری
+digital twin	engineering	همزاد دیجیتال، دوقلوی دیجیتال
+industry 4.0	engineering	صنعت ۴٫۰، انقلاب صنعتی چهارم
+mechatronics	engineering	مکاترونیک
+virtual reality	computing	واقعیت مجازی
+vr	computing	Virtual Reality؛ واقعیت مجازی
+augmented reality	computing	واقعیت افزوده
+ar	computing	Augmented Reality؛ واقعیت افزوده
+mixed reality	computing	واقعیت ترکیبی، واقعیت آمیخته
+extended reality	computing	واقعیت گسترده
+xr	computing	Extended Reality؛ واقعیت گسترده
+metaverse	computing	متاورس، فراجهان
+immersive	computing	فراگیر، غوطه‌ورکننده، غرقه‌ساز
+hologram	physics	هولوگرام، تمام‌نگاشت
+haptic	electronics	لمسی، بساوشی (بازخورد لمسی)
+haptics	electronics	فناوری بازخورد لمسی، بساوایی
+motion capture	computing	ثبت حرکت، موشن‌کپچر
+motion sensor	electronics	حسگر حرکت
+cgi	computing	Computer-Generated Imagery؛ جلوه‌های رایانه‌ای، تصاویر رایانه‌ساخته
+special effects	general	جلوه‌های ویژه
+animation	computing	پویانمایی، انیمیشن
+multimedia	computing	چندرسانه‌ای
+video game	computing	بازی ویدیویی، بازی رایانه‌ای
+gaming	computing	بازی‌های ویدیویی، گیمینگ
+gamer	computing	گیمر، بازیکن بازی‌های ویدیویی
+game console	electronics	کنسول بازی
+controller	electronics	دسته (بازی)، کنترلر
+joystick	electronics	اهرمک، جوی‌استیک، دستهٔ بازی
+gamepad	electronics	دستهٔ بازی، گیم‌پد
+multiplayer	computing	چندنفره
+single-player	computing	تک‌نفره
+mmorpg	computing	Massively Multiplayer Online Role-Playing Game؛ بازی نقش‌آفرینی برخط کلان
+rpg	computing	Role-Playing Game؛ بازی نقش‌آفرینی
+first-person shooter	computing	تیراندازی اول‌شخص
+fps game	computing	بازی تیراندازی اول‌شخص
+esports	sports	ورزش‌های الکترونیکی، ای‌اسپورت
+e-sports	sports	ورزش‌های الکترونیکی، ای‌اسپورت
+game engine	computing	موتور بازی، موتور بازی‌سازی
+game developer	computing	بازی‌ساز، توسعه‌دهندهٔ بازی
+game design	computing	طراحی بازی
+level	computing	مرحله، سطح (بازی)
+npc	computing	Non-Player Character؛ شخصیت غیرقابل‌بازی
+boss	computing	غول مرحله، باس (دشمن اصلی مرحله در بازی)
+quest	computing	مأموریت، کوئست (بازی)
+loot	computing	غنیمت، لوت (اقلام به‌دست‌آمده در بازی)
+loot box	computing	جعبهٔ شانس، لوت‌باکس
+respawn	computing	بازگشت دوباره به بازی، زنده‌شدن مجدد
+lag	computing	تأخیر، لگ، کندی (شبکه یا بازی)
+mod	computing	ماد، نسخهٔ دست‌کاری‌شده (بازی)؛ دست‌کاری کردن
+cheat code	computing	رمز تقلب، کد تقلب (بازی)
+easter egg	computing	ایستر اگ، تخم‌مرغ عید پاک (قابلیت یا پیام پنهان در نرم‌افزار و فیلم)
+dlc	computing	Downloadable Content؛ محتوای دانلودی (بازی)
+in-app purchase	business	خرید درون‌برنامه‌ای
+microtransaction	business	ریزتراکنش، خرید خُرد درون بازی
+free-to-play	business	رایگان‌بازی، بازی رایگان (با پرداخت درون‌برنامه‌ای)
+gamification	business	بازی‌وارسازی، بازی‌پردازی، گیمیفیکیشن
+sandbox game	computing	بازی جهان‌آزاد، بازی سندباکس
+open world	computing	جهان باز (بازی)
+speedrun	computing	تمام‌کردن بازی در کوتاه‌ترین زمان، اسپیدران
+leaderboard	computing	جدول رده‌بندی، جدول امتیازات
+achievement	computing	دستاورد (نشان افتخار در بازی)
+cloud gaming	computing	بازی ابری
+blockchain	computing	بلاکچین، زنجیرهٔ بلوکی
+cryptocurrency	business	رمزارز، ارز دیجیتال، رمزپول
+crypto	business	رمزارز، کریپتو؛ رمزنگاری
+bitcoin	business	بیت‌کوین (نخستین و شناخته‌شده‌ترین رمزارز)
+altcoin	business	آلت‌کوین (هر رمزارز غیر از بیت‌کوین)
+stablecoin	business	استیبل‌کوین، رمزارز باثبات
+ether	business	اتر (رمزارز شبکهٔ اتریوم)
+ethereum	business	اتریوم (سکوی بلاکچینی قراردادهای هوشمند)
+digital currency	business	ارز دیجیتال، پول دیجیتال
+virtual currency	business	ارز مجازی، پول مجازی
+central bank digital currency	business	ارز دیجیتال بانک مرکزی
+cbdc	business	Central Bank Digital Currency؛ ارز دیجیتال بانک مرکزی
+wallet	business	کیف پول (دیجیتال)
+digital wallet	business	کیف پول دیجیتال، کیف پول الکترونیکی
+e-wallet	business	کیف پول الکترونیکی
+cold wallet	business	کیف پول سرد (آفلاین)
+hot wallet	business	کیف پول گرم (متصل به اینترنت)
+mining	business	استخراج (رمزارز)، ماینینگ
+miner	business	استخراج‌کننده، ماینر (رمزارز)
+mining rig	business	دستگاه استخراج رمزارز، ریگ ماینینگ
+proof of work	computing	اثبات کار
+proof of stake	computing	اثبات سهام
+staking	business	سهام‌گذاری، استیکینگ (قفل کردن رمزارز برای دریافت پاداش)
+consensus	computing	اجماع، سازوکار اجماع (در شبکهٔ توزیع‌شده)
+ledger	computing	دفتر کل
+distributed ledger	computing	دفتر کل توزیع‌شده
+smart contract	computing	قرارداد هوشمند
+decentralized	computing	نامتمرکز، غیرمتمرکز
+decentralization	computing	تمرکززدایی، نامتمرکزسازی
+decentralized finance	business	امور مالی غیرمتمرکز
+defi	business	Decentralized Finance؛ دیفای، امور مالی غیرمتمرکز
+dao	business	Decentralized Autonomous Organization؛ دائو، سازمان خودگردان غیرمتمرکز
+dapp	computing	decentralized application؛ برنامهٔ غیرمتمرکز
+nft	business	Non-Fungible Token؛ ان‌اف‌تی، توکن غیرمثلی، نشانهٔ تعویض‌ناپذیر
+non-fungible token	business	توکن غیرمثلی، توکن تعویض‌ناپذیر
+fungible	business	مثلی، تعویض‌پذیر
+ico	business	Initial Coin Offering؛ عرضهٔ اولیهٔ سکه
+airdrop	business	ایردراپ، توزیع رایگان توکن
+gas fee	business	کارمزد گَس (هزینهٔ تراکنش در بلاکچین)
+halving	business	هاوینگ، نصف شدن پاداش استخراج
+hash rate	computing	نرخ هش، توان درهم‌سازی
+exchange	business	صرافی (رمزارز)
+crypto exchange	business	صرافی رمزارز
+web3	computing	وب ۳، وب‌سه (وب نامتمرکز مبتنی بر بلاکچین)
+web 2.0	computing	وب ۲٫۰، وب دو (وب تعاملی و کاربرمحور)
+tokenomics	business	اقتصاد توکن، توکنومیک
+hodl	slang	(عامیانه) نگه‌داشتن رمزارز و نفروختن آن، هودل
+rug pull	slang	(عامیانه) کلاهبرداری با رهاکردن ناگهانی پروژهٔ رمزارزی و بردن پول سرمایه‌گذاران
+pump and dump	business	تلمبه‌وتخلیه، بالابردن ساختگی قیمت و فروش ناگهانی
+fintech	business	فین‌تک، فناوری مالی
+financial technology	business	فناوری مالی
+online banking	business	بانکداری اینترنتی، بانکداری برخط
+internet banking	business	بانکداری اینترنتی، اینترنت‌بانک
+mobile banking	business	بانکداری همراه، همراه‌بانک
+neobank	business	نئوبانک، بانک تمام‌دیجیتال
+open banking	business	بانکداری باز
+mobile payment	business	پرداخت همراه، پرداخت با موبایل
+contactless payment	business	پرداخت بدون تماس، پرداخت غیرتماسی
+contactless	business	بدون تماس، غیرتماسی
+digital payment	business	پرداخت دیجیتال
+online payment	business	پرداخت اینترنتی، پرداخت برخط
+payment gateway	business	درگاه پرداخت
+point of sale	business	پایانهٔ فروش، نقطهٔ فروش
+pos	business	Point of Sale؛ پایانهٔ فروش، کارت‌خوان
+card reader	electronics	کارت‌خوان
+atm	business	Automated Teller Machine؛ خودپرداز، عابربانک
+debit card	business	کارت بانکی، کارت نقدی، دبیت‌کارت
+chip and pin	business	کارت تراشه‌دار با رمز
+peer-to-peer lending	business	وام‌دهی همتابه‌همتا
+robo-advisor	business	مشاور رباتیک، مشاور خودکار سرمایه‌گذاری
+algorithmic trading	business	معاملات الگوریتمی
+high-frequency trading	business	معاملات پربسامد
+insurtech	business	فناوری بیمه، اینشورتک
+regtech	business	فناوری نظارتی، رگ‌تک
+kyc	business	Know Your Customer؛ احراز هویت مشتری، شناخت مشتری
+buy now, pay later	business	الان بخر، بعداً بپرداز (خرید اعتباری اقساطی)
+e-commerce	business	تجارت الکترونیک، بازرگانی الکترونیکی
+ecommerce	business	تجارت الکترونیک
+e-business	business	کسب‌وکار الکترونیکی
+m-commerce	business	تجارت همراه، تجارت سیار
+online shopping	business	خرید اینترنتی، خرید برخط
+online store	business	فروشگاه اینترنتی، فروشگاه برخط
+online shop	business	فروشگاه اینترنتی
+marketplace	business	بازارگاه، مارکت‌پلیس (سکوی خرید و فروش برخط)
+shopping cart	business	سبد خرید
+checkout	business	تسویه و پرداخت، نهایی‌کردن خرید
+wishlist	business	فهرست علاقه‌مندی‌ها، فهرست آرزو
+dropshipping	business	دراپ‌شیپینگ، فروش بدون انبارداری
+fulfillment	business	آماده‌سازی و ارسال سفارش
+last-mile delivery	business	تحویل مرحلهٔ آخر
+click and collect	business	سفارش اینترنتی و تحویل حضوری
+b2b	business	business-to-business؛ بنگاه به بنگاه، کسب‌وکار با کسب‌وکار
+b2c	business	business-to-consumer؛ بنگاه به مصرف‌کننده، کسب‌وکار با مشتری
+c2c	business	consumer-to-consumer؛ مصرف‌کننده به مصرف‌کننده
+d2c	business	direct-to-consumer؛ فروش مستقیم به مصرف‌کننده
+app store	computing	فروشگاه اپلیکیشن، اپ‌استور، بازار برنامه
+digital marketing	business	بازاریابی دیجیتال، دیجیتال مارکتینگ
+online advertising	business	تبلیغات اینترنتی، تبلیغات برخط
+content marketing	business	بازاریابی محتوایی
+email marketing	business	بازاریابی ایمیلی
+affiliate marketing	business	بازاریابی وابسته، همکاری در فروش
+influencer marketing	business	بازاریابی با اینفلوئنسرها، بازاریابی تأثیرگذاران
+viral marketing	business	بازاریابی ویروسی
+growth hacking	business	هک رشد، گروث‌هکینگ
+banner ad	business	آگهی بنری، تبلیغ بنری
+banner	computing	بنر، سرآگهی (تبلیغاتی در وب)
+ad blocker	computing	مسدودکنندهٔ تبلیغات، ضدتبلیغ
+targeted advertising	business	تبلیغات هدفمند
+impression	business	نمایش، بازدید (دفعات نمایش آگهی)
+click-through rate	business	نرخ کلیک
+ctr	business	Click-Through Rate؛ نرخ کلیک
+pay-per-click	business	پرداخت به‌ازای کلیک
+ppc	business	Pay-Per-Click؛ پرداخت به‌ازای کلیک
+conversion rate	business	نرخ تبدیل
+conversion	business	تبدیل (بازدیدکننده به مشتری)
+bounce rate	business	نرخ پرش، نرخ خروج بی‌درنگ
+traffic	computing	ترافیک، آمدوشد (داده یا بازدیدکنندگان سایت)
+page view	computing	بازدید صفحه
+unique visitor	computing	بازدیدکنندهٔ یکتا
+engagement	business	تعامل، درگیری مخاطب
+reach	business	دسترسی، گسترهٔ مخاطبان (شمار کاربرانی که مطلب را دیده‌اند)
+monetization	business	درآمدزایی، پول‌سازی
+monetize	business	درآمدزا کردن، به پول تبدیل کردن
+paywall	business	دیوار پرداخت (محدودیت دسترسی به محتوا تا پرداخت پول)
+freemium	business	فریمیوم (خدمات پایهٔ رایگان همراه با امکانات پولی)
+subscription model	business	مدل اشتراکی
+pay-as-you-go	business	پرداخت به‌میزان مصرف
+a/b testing	business	آزمون ای/بی، آزمون دوحالته
+funnel	business	قیف (فروش یا بازاریابی)
+churn	business	ریزش مشتری
+churn rate	business	نرخ ریزش مشتری
+retention	business	نگهداشت (مشتری یا کاربر)
+kpi	business	Key Performance Indicator؛ شاخص کلیدی عملکرد
+crm	business	Customer Relationship Management؛ مدیریت ارتباط با مشتری
+erp	business	Enterprise Resource Planning؛ برنامه‌ریزی منابع سازمان
+startup company	business	شرکت نوپا، استارتاپ
+start-up	business	استارتاپ، شرکت نوپا، نوآفرین
+unicorn	business	تک‌شاخ، یونیکورن (استارتاپ با ارزش بیش از یک میلیارد دلار)
+venture capital	business	سرمایه‌گذاری خطرپذیر، سرمایهٔ جسورانه
+vc	business	Venture Capital؛ سرمایه‌گذاری خطرپذیر؛ سرمایه‌گذار خطرپذیر
+angel investor	business	سرمایه‌گذار فرشته، فرشتهٔ کسب‌وکار
+seed funding	business	سرمایهٔ بذری، تأمین مالی اولیه
+accelerator	business	شتاب‌دهنده (مرکز پشتیبانی استارتاپ‌ها)
+incubator	business	مرکز رشد، انکوباتور (کسب‌وکارهای نوپا)
+pitch deck	business	ارائهٔ معرفی طرح به سرمایه‌گذار، پیچ‌دک
+pivot	business	چرخش راهبردی، تغییر مسیر کسب‌وکار
+bootstrapping	business	راه‌اندازی با سرمایهٔ شخصی، خودراه‌اندازی
+minimum viable product	business	محصول کمینهٔ پذیرفتنی، کمینهٔ محصول قابل عرضه
+mvp	business	Minimum Viable Product؛ محصول کمینهٔ پذیرفتنی
+product manager	business	مدیر محصول
+product owner	business	مالک محصول
+product-market fit	business	تناسب محصول با بازار
+early adopter	business	پذیرندهٔ آغازین، کاربر پیشگام
+disruptive	business	برهم‌زننده، تحول‌آفرین (نوآوری)
+disruption	business	برهم‌زنی بازار، تحول ساختارشکنانه
+disruptive innovation	business	نوآوری برهم‌زننده، نوآوری تحول‌آفرین
+tech giant	business	غول فناوری
+big tech	business	غول‌های فناوری، شرکت‌های بزرگ فناوری
+silicon valley	geography	سیلیکون‌ولی، درهٔ سیلیکون (کانون صنعت فناوری در کالیفرنیا)
+tech	general	فناوری، تکنولوژی
+high-tech	general	فناوری پیشرفته، های‌تک
+hi-tech	general	فناوری پیشرفته، های‌تک
+low-tech	general	فناوری ساده، کم‌فناوری
+cutting-edge	general	پیشرو، لبهٔ فناوری، بسیار پیشرفته
+state-of-the-art	general	نوین‌ترین، پیشرفته‌ترین، روزآمد
+information technology	computing	فناوری اطلاعات
+it	computing	Information Technology؛ فناوری اطلاعات، آی‌تی
+ict	computing	Information and Communication Technology؛ فناوری اطلاعات و ارتباطات، فاوا
+help desk	computing	میز کمک، میز راهنما، واحد پشتیبانی
+tech support	computing	پشتیبانی فنی
+troubleshooting	computing	عیب‌یابی، رفع اشکال
+troubleshoot	computing	عیب‌یابی کردن، مشکل را ریشه‌یابی و رفع کردن
+outsourcing	business	برون‌سپاری
+offshoring	business	برون‌مرزسپاری، انتقال کار به خارج
+freelancer	business	آزادکار، فریلنسر
+coworking space	business	فضای کار اشتراکی
+e-learning	computing	یادگیری الکترونیکی، آموزش الکترونیکی
+online learning	computing	یادگیری برخط، آموزش آنلاین
+distance learning	general	آموزش از راه دور
+mooc	computing	Massive Open Online Course؛ دورهٔ برخط آزاد همگانی، موک
+edtech	computing	فناوری آموزشی
+e-government	politics	دولت الکترونیک
+e-voting	politics	رأی‌گیری الکترونیکی
+telemedicine	medicine	پزشکی از راه دور، دورپزشکی
+telehealth	medicine	سلامت از راه دور، دورسلامت
+e-health	medicine	سلامت الکترونیک
+digital health	medicine	سلامت دیجیتال
+biotech	biology	زیست‌فناوری، بیوتکنولوژی
+bioinformatics	biology	زیست‌داده‌ورزی، بیوانفورماتیک
+gene editing	biology	ویرایش ژن
+crispr	biology	Clustered Regularly Interspaced Short Palindromic Repeats؛ کریسپر (فناوری ویرایش ژن)
+brain-computer interface	medicine	رابط مغز و رایانه
+neural implant	medicine	کاشتینهٔ عصبی، ایمپلنت مغزی
+quantum computing	computing	رایانش کوانتومی
+quantum computer	computing	رایانهٔ کوانتومی
+qubit	computing	کیوبیت، بیت کوانتومی
+quantum bit	computing	بیت کوانتومی، کیوبیت
+superposition	physics	برهم‌نهی
+entanglement	physics	درهم‌تنیدگی (کوانتومی)
+quantum entanglement	physics	درهم‌تنیدگی کوانتومی
+quantum supremacy	computing	برتری کوانتومی
+quantum advantage	computing	مزیت کوانتومی
+quantum gate	computing	گیت کوانتومی، دروازهٔ کوانتومی
+quantum algorithm	computing	الگوریتم کوانتومی
+quantum cryptography	computing	رمزنگاری کوانتومی
+post-quantum cryptography	computing	رمزنگاری پساکوانتومی
+quantum key distribution	computing	توزیع کلید کوانتومی
+decoherence	physics	واهمدوسی، ناهمدوسی
+quantum error correction	computing	تصحیح خطای کوانتومی
+quantum annealing	computing	تبرید کوانتومی، بازپخت کوانتومی
+quantum dot	physics	نقطهٔ کوانتومی
+quantum teleportation	physics	دوربَری کوانتومی، تله‌پورت کوانتومی
+superconductor	physics	ابررسانا
+superconducting	physics	ابررسانا، ابررسانشی
+photonics	physics	فوتونیک
+spintronics	physics	اسپینترونیک
+electric vehicle	engineering	خودروی برقی، وسیلهٔ نقلیهٔ الکتریکی
+ev	engineering	Electric Vehicle؛ خودروی برقی
+electric car	engineering	خودروی برقی، ماشین برقی
+hybrid	engineering	هیبریدی، دوگانه‌سوز برقی–بنزینی (خودرو)
+hybrid car	engineering	خودروی هیبریدی
+plug-in hybrid	engineering	هیبریدی شارژی، پلاگین‌هیبرید
+charging station	engineering	ایستگاه شارژ
+charging point	engineering	نقطهٔ شارژ، جایگاه شارژ
+supercharger	engineering	ابرشارژر، شارژر فوق‌سریع
+range anxiety	engineering	نگرانی از بُرد، دلهرهٔ تمام‌شدن شارژ (خودروی برقی)
+range	engineering	بُرد، مسافت پیمایش (با یک بار شارژ)
+regenerative braking	engineering	ترمز بازیاب، ترمز احیاکننده
+powertrain	engineering	پیشرانه، قوای محرکه
+electric motor	engineering	موتور برقی، موتور الکتریکی
+battery pack	engineering	بستهٔ باتری، پک باتری
+battery	electronics	باتری، باطری
+lithium-ion	electronics	لیتیوم‌یون
+lithium-ion battery	electronics	باتری لیتیوم‌یون
+solid-state battery	electronics	باتری حالت جامد
+rechargeable	electronics	قابل شارژ، شارژشدنی
+battery life	electronics	عمر باتری، مدت شارژدهی
+energy density	physics	چگالی انرژی
+fuel cell	engineering	پیل سوختی
+hydrogen fuel cell	engineering	پیل سوختی هیدروژنی
+green hydrogen	engineering	هیدروژن سبز
+energy storage	engineering	ذخیره‌سازی انرژی
+supercapacitor	electronics	ابرخازن
+gigafactory	engineering	گیگافکتوری، ابرکارخانهٔ باتری
+micromobility	engineering	ریزجابه‌جایی، جابه‌جایی خُرد (اسکوتر و دوچرخهٔ برقی)
+e-scooter	engineering	اسکوتر برقی
+e-bike	engineering	دوچرخهٔ برقی
+hyperloop	engineering	هایپرلوپ (سامانهٔ حمل‌ونقل پرسرعت در لولهٔ کم‌فشار)
+maglev	engineering	magnetic levitation؛ قطار مغناطیسی، مگلو
+renewable energy	engineering	انرژی تجدیدپذیر
+renewables	engineering	انرژی‌های تجدیدپذیر، تجدیدپذیرها
+clean energy	engineering	انرژی پاک
+green energy	engineering	انرژی سبز
+solar panel	engineering	صفحهٔ خورشیدی، پنل خورشیدی
+solar cell	engineering	سلول خورشیدی، یاختهٔ خورشیدی
+solar power	engineering	انرژی خورشیدی، برق خورشیدی
+solar farm	engineering	مزرعهٔ خورشیدی، نیروگاه خورشیدی
+photovoltaic	engineering	فتوولتائیک، نورولتایی
+pv	engineering	photovoltaic؛ فتوولتائیک
+wind turbine	engineering	توربین بادی
+wind farm	engineering	مزرعهٔ بادی، نیروگاه بادی
+wind power	engineering	انرژی بادی، برق بادی
+offshore wind	engineering	نیروگاه بادی فراساحلی
+geothermal	engineering	زمین‌گرمایی
+biofuel	engineering	سوخت زیستی، زیست‌سوخت
+biomass	engineering	زیست‌توده
+heat pump	engineering	پمپ حرارتی، تلمبهٔ گرمایی
+inverter	electronics	اینورتر، وارونگر
+microgrid	engineering	ریزشبکه
+net metering	engineering	اندازه‌گیری خالص (برق)
+carbon capture	engineering	جذب کربن، کربن‌گیری
+carbon footprint	general	ردپای کربن
+carbon neutral	general	کربن‌خنثی، بی‌اثر کربنی
+net zero	general	خالص صفر، کربن‌صفر (توازن انتشار و جذب گازهای گلخانه‌ای)
+decarbonization	engineering	کربن‌زدایی
+cleantech	engineering	فناوری پاک
+energy efficiency	engineering	بهره‌وری انرژی، کارایی انرژی
+nuclear fusion	physics	هم‌جوشی هسته‌ای، گداخت هسته‌ای
+small modular reactor	engineering	رآکتور ماژولار کوچک
+space technology	astronomy	فناوری فضایی
+spacecraft	astronomy	فضاپیما
+spaceflight	astronomy	پرواز فضایی
+satellite	astronomy	ماهواره
+cubesat	astronomy	ماهوارهٔ مکعبی، کیوب‌ست
+satellite constellation	astronomy	منظومهٔ ماهواره‌ای
+satellite internet	electronics	اینترنت ماهواره‌ای
+low earth orbit	astronomy	مدار پایینی زمین
+leo	astronomy	Low Earth Orbit؛ مدار پایینی زمین
+geostationary orbit	astronomy	مدار زمین‌ایستا، مدار زمین‌ثابت
+launch vehicle	astronomy	پرتابگر، موشک ماهواره‌بر
+reusable rocket	astronomy	موشک قابل استفادهٔ مجدد
+booster	astronomy	بوستر، پیشران کمکی، تقویت‌کننده (موشک)
+payload fairing	astronomy	کلاهک محافظ محموله
+space station	astronomy	ایستگاه فضایی
+iss	astronomy	International Space Station؛ ایستگاه فضایی بین‌المللی
+space probe	astronomy	کاوشگر فضایی
+rover	astronomy	مریخ‌نورد، ماه‌نورد، کاوشگر سطح‌نورد
+lander	astronomy	سطح‌نشین، فرودگر
+orbiter	astronomy	مدارگرد
+space telescope	astronomy	تلسکوپ فضایی
+space tourism	astronomy	گردشگری فضایی
+space debris	astronomy	زباله‌های فضایی، پسماند فضایی
+space junk	astronomy	زباله‌های فضایی
+exoplanet	astronomy	سیارهٔ فراخورشیدی
+ion thruster	astronomy	پیشران یونی
+remote sensing	engineering	سنجش از دور
+gnss	electronics	Global Navigation Satellite System؛ سامانهٔ جهانی ناوبری ماهواره‌ای
+open standard	computing	استاندارد باز
+interoperability	computing	هم‌کنش‌پذیری، تعامل‌پذیری
+compatibility	computing	سازگاری
+compatible	computing	سازگار
+standalone	computing	مستقل، خودبسنده (برنامه یا دستگاه)
+built-in	computing	توکار، تعبیه‌شده، درون‌ساخت
+real-time	computing	بی‌درنگ، هم‌زمان، بلادرنگ
+real time	computing	زمان واقعی، بی‌درنگ
+on-demand	computing	درخواستی، برحسب تقاضا
+video on demand	computing	ویدیوی درخواستی
+vod	computing	Video on Demand؛ ویدیوی درخواستی
+ott	computing	over-the-top؛ پخش اینترنتی مستقیم (بدون واسطهٔ شبکهٔ کابلی یا ماهواره‌ای)
+iptv	computing	Internet Protocol Television؛ تلویزیون اینترنتی، آی‌پی‌تی‌وی
+playlist	computing	فهرست پخش، پلی‌لیست
+autoplay	computing	پخش خودکار
+shuffle	computing	پخش تصادفی، پخش درهم
+playback	computing	پخش، بازپخش
+cast	computing	فرستادن تصویر به نمایشگر دیگر، کست کردن
+screen sharing	computing	هم‌رسانی صفحه، اشتراک‌گذاری صفحه‌نمایش
+screen mirroring	computing	بازتاب صفحه، نمایش صفحهٔ گوشی روی نمایشگر دیگر
+mirror	computing	سایت آینه، نسخهٔ همسان (سرور یا وب‌سایت)؛ همسان‌سازی کردن
+pair	electronics	جفت کردن (دو دستگاه بی‌سیم)
+pairing	electronics	جفت‌سازی (دستگاه‌های بی‌سیم)
+sleep mode	computing	حالت خواب
+standby	computing	حالت آماده‌به‌کار
+hibernate	computing	خواب زمستانی، خواب عمیق (رایانه)
+wake	computing	بیدار کردن (دستگاه از حالت خواب)
+lock screen	computing	صفحهٔ قفل
+home screen	computing	صفحهٔ اصلی (گوشی)
+unlock	computing	قفل‌گشایی کردن، باز کردن قفل
+brick	slang	(عامیانه) دستگاه را بی‌استفاده و غیرقابل‌راه‌اندازی کردن، بریک کردن
+factory reset	computing	بازنشانی کارخانه‌ای، بازگشت به تنظیمات کارخانه
+reset	computing	بازنشانی، ریست؛ بازنشاندن
+flash	computing	فلش کردن (نوشتن میان‌افزار تازه روی دستگاه)
+sideload	computing	نصب برنامه از منبعی غیر از فروشگاه رسمی
+pre-installed	computing	پیش‌نصب، ازپیش‌نصب‌شده
+out of the box	computing	آمادهٔ استفاده، بدون نیاز به تنظیم اضافی
+plug	computing	وصل کردن، متصل کردن
+unplug	computing	از برق کشیدن، قطع کردن اتصال
+power user	computing	کاربر حرفه‌ای، کاربر پیشرفته
+early access	computing	دسترسی زودهنگام
+rollout	business	عرضهٔ تدریجی، راه‌اندازی مرحله‌ای
+launch	business	عرضه، رونمایی؛ راه‌اندازی کردن، اجرا کردن (برنامه)
+sunset	business	بازنشسته کردن، از رده خارج کردن (محصول یا سرویس)
+end of life	business	پایان عمر، پایان پشتیبانی (محصول)
+planned obsolescence	business	ازرده‌خارج‌سازی برنامه‌ریزی‌شده، فرسودگی عمدی
+right to repair	law	حق تعمیر
+e-waste	general	پسماند الکترونیکی، زبالهٔ الکترونیکی
+screen time	general	زمان صفحه‌نمایش، مدت استفاده از صفحه‌نمایش
+digital detox	general	سم‌زدایی دیجیتال، پرهیز موقت از ابزارهای دیجیتال
+doomscrolling	slang	(عامیانه) مرور بی‌وقفه و وسواس‌گونهٔ اخبار بد
+phubbing	slang	(عامیانه) بی‌اعتنایی به همنشین به‌خاطر سرگرم‌شدن با گوشی
+photobomb	slang	(عامیانه) ناخوانده وارد قاب عکس دیگران شدن
+humblebrag	slang	(عامیانه) پُز فروتنانه، خودستایی در لفافهٔ فروتنی
+facepalm	slang	(عامیانه) کف دست به پیشانی زدن (نشانهٔ شرم یا کلافگی)
+mansplain	slang	(عامیانه) توضیح بدیهیات به زنان با لحن بالادستانه
+stan	slang	(عامیانه) هوادار سینه‌چاک؛ سخت هواداری کردن
+ship	slang	(عامیانه) دو شخصیت را زوج عاشق دانستن یا خواستن
+simp	slang	(عامیانه) کسی که بیش‌ازحد برای جلب توجه دیگری خود را کوچک می‌کند
+salty	slang	(عامیانه) دلخور، تلخ، کفری
+ratio	slang	(عامیانه) بیشتر بودن پاسخ‌های انتقادی از پسندها در یک مطلب
+based	slang	(عامیانه) بی‌پروا و خودرأی، ایول
+cringe	slang	(عامیانه) مایهٔ شرم دیگران، خجالت‌آور، کرینج
+woke	slang	(عامیانه) حساس به بی‌عدالتی اجتماعی؛ (طعنه‌آمیز) افراطی در درست‌اندیشی سیاسی
+karen	slang	(عامیانه، تحقیرآمیز) زن پرمدعا و طلبکار
+boomer	slang	(عامیانه) فرد نسل انفجار جمعیت؛ آدم قدیمی‌فکر
+zoomer	slang	(عامیانه) فرد نسل زِد
+gen z	general	نسل زِد (متولدان حدود ۱۹۹۷ تا ۲۰۱۲)
+millennial	general	هزاره‌ای، فرد نسل هزاره (متولدان حدود ۱۹۸۱ تا ۱۹۹۶)
+geek	slang	(عامیانه) خورهٔ فناوری، گیک
+nerd	slang	(عامیانه) خرخوان، خورهٔ علم و رایانه
+techie	slang	(عامیانه) اهل فناوری، فنی‌کار
+fanboy	slang	(عامیانه) هوادار متعصب (یک برند یا محصول)
+script kiddie	slang	(عامیانه) هکر ناشی که از ابزار آمادهٔ دیگران استفاده می‌کند
+pwn	slang	(عامیانه) کاملاً شکست دادن؛ کنترل سیستمی را به دست گرفتن
+leet	slang	(عامیانه) زبان هکری (نوشتن با جایگزینی حروف با اعداد)
+rickroll	slang	(عامیانه) شوخی اینترنتی با فرستادن پیوند فریبنده به یک ترانهٔ معروف
+shitpost	slang	(رکیک) مطلب چرند و عمداً بی‌کیفیت اینترنتی؛ چرندنویسی کردن
+copypasta	slang	(عامیانه) متنی که بارها در اینترنت کپی و بازنشر می‌شود
+reaction	computing	واکنش (به پیام یا مطلب)
+upvote	computing	رأی مثبت؛ رأی مثبت دادن
+downvote	computing	رأی منفی؛ رأی منفی دادن
+karma	computing	کارما، امتیاز اعتبار کاربر (در برخی انجمن‌ها)
+pinned	computing	سنجاق‌شده (مطلب یا پیام ثابت در بالای صفحه)
+verified	computing	تأییدشده (حساب کاربری)
+verified account	computing	حساب تأییدشده
+blue check	computing	تیک آبی (نشان حساب تأییدشده)
+algorithmic feed	computing	خوراک الگوریتمی
+for you page	computing	صفحهٔ «برای شما» (خوراک پیشنهادی شخصی)
+duet	computing	دوئت (ویدیوی مشترک کنار ویدیوی کاربر دیگر)
+challenge	computing	چالش (اینترنتی)
+giveaway	business	قرعه‌کشی جایزه، هدیهٔ تبلیغاتی
+collab	slang	(عامیانه) همکاری مشترک (میان تولیدکنندگان محتوا)
+sponsored post	business	مطلب تبلیغاتی، پست حمایت‌شده
+sponsored	business	حمایت‌شده، تبلیغاتی
+brand ambassador	business	سفیر برند
+user base	business	جمعیت کاربران، پایگاه کاربران
+active user	computing	کاربر فعال
+dau	business	Daily Active Users؛ کاربران فعال روزانه
+mau	business	Monthly Active Users؛ کاربران فعال ماهانه
+network effect	business	اثر شبکه‌ای
+walled garden	computing	باغ محصور (سکوی بسته و انحصاری)
+lock-in	business	قفل‌شدگی، وابستگی اجباری به یک فروشنده
+vendor lock-in	business	وابستگی به فروشنده، قفل‌شدگی به تأمین‌کننده
+ecosystem	computing	زیست‌بوم، اکوسیستم (مجموعهٔ محصولات و خدمات به‌هم‌پیوسته)
+super app	computing	ابراپلیکیشن، سوپراپ
+killer app	computing	برنامهٔ برگ‌برنده، اپلیکیشن پرفروش و تعیین‌کننده
+dark pattern	computing	الگوی تاریک، طراحی فریبنده (در رابط کاربری)
+infinite scroll	computing	پیمایش بی‌پایان
+pull to refresh	computing	کشیدن برای تازه‌سازی
+refresh	computing	تازه‌سازی، بازآوری؛ تازه کردن (صفحه)
+reload	computing	بارگذاری مجدد؛ دوباره بار کردن
+load	computing	بار کردن، بارگذاری کردن
+loading	computing	در حال بارگذاری، بارگیری
+timeout	computing	پایان مهلت، وقفهٔ زمانی
+redirect	computing	تغییر مسیر، بازهدایت؛ هدایت کردن به نشانی دیگر
+404	computing	خطای ۴۰۴، صفحه یافت نشد
+broken link	computing	پیوند شکسته، لینک خراب
+permalink	computing	پیوند دائمی، پیوند یکتا
+short link	computing	پیوند کوتاه
+embed	computing	جاسازی کردن، درج کردن (محتوا در صفحه)
+iframe	computing	قاب درون‌خطی، آی‌فریم
+sitemap	computing	نقشهٔ سایت
+favicon	computing	نقشک سایت، فاوآیکون
+cms	computing	Content Management System؛ سامانهٔ مدیریت محتوا
+content management system	computing	سامانهٔ مدیریت محتوا، سیستم مدیریت محتوا
+static site	computing	سایت ایستا
+dynamic	computing	پویا
+web design	computing	طراحی وب
+web designer	computing	طراح وب
+web developer	computing	توسعه‌دهندهٔ وب، برنامه‌نویس وب
+web development	computing	توسعهٔ وب، برنامه‌نویسی وب
+web service	computing	سرویس وب، وب‌سرویس
+webhook	computing	وب‌هوک (فراخوان خودکار یک نشانی هنگام رخداد)
+websocket	computing	وب‌سوکت (پروتکل ارتباط دوسویهٔ بی‌درنگ)
+single-page application	computing	برنامهٔ تک‌صفحه‌ای
+progressive web app	computing	وب‌اپلیکیشن پیش‌رونده
+pwa	computing	Progressive Web App؛ وب‌اپلیکیشن پیش‌رونده
+dom	computing	Document Object Model؛ مدل شیءگرای سند
+ajax	computing	Asynchronous JavaScript and XML؛ ای‌جکس
+php	computing	پی‌اچ‌پی (زبان برنامه‌نویسی سمت سرور)
+python	computing	پایتون (زبان برنامه‌نویسی)
+java	computing	جاوا (زبان برنامه‌نویسی)
+c++	computing	سی‌پلاس‌پلاس (زبان برنامه‌نویسی)
+rust	computing	راست (زبان برنامه‌نویسی)
+git	computing	گیت (سامانهٔ کنترل نسخه)
+docker	computing	داکر (سکوی کانتینرسازی)
+kubernetes	computing	کوبرنتیز (سامانهٔ هماهنگ‌سازی کانتینرها)
+ios	computing	آی‌اواس (سیستم‌عامل گوشی‌های اپل)
+photoshop	computing	فتوشاپ؛ فتوشاپ کردن، دست‌کاری کردن تصویر
+spreadsheet	computing	صفحه‌گسترده، کاربرگ
+word processor	computing	واژه‌پرداز
+slide	computing	اسلاید، برگه (ارائه)
+slideshow	computing	نمایش اسلاید، اسلایدشو
+presentation software	computing	نرم‌افزار ارائه
+desktop publishing	computing	نشر رومیزی
+groupware	computing	گروه‌افزار
+collaboration tool	computing	ابزار همکاری
+video editing	computing	تدوین ویدیو، ویرایش ویدیو
+image editing	computing	ویرایش تصویر
+vector graphics	computing	گرافیک برداری
+raster	computing	نقطه‌ای، رستر (تصویر پیکسلی)
+bitmap	computing	بیت‌مپ، نقشهٔ بیتی
+watermark	computing	ته‌نقش، واترمارک
+crop	computing	برش دادن، بریدن حاشیه (تصویر)
+upscale	computing	افزایش وضوح، بزرگ‌مقیاس کردن (تصویر)
+transcoding	computing	تبدیل قالب (صوت یا ویدیو)
+lossless	computing	بی‌اتلاف، بدون افت
+lossy	computing	بااتلاف، پرافت
+high-level	computing	سطح بالا
+plug-and-play	computing	اتصال و اجرا، بدون نیاز به تنظیم
+hot swap	computing	تعویض گرم (تعویض قطعه بدون خاموش کردن دستگاه)
+bare metal	computing	سخت‌افزار خام، بدون لایهٔ مجازی‌سازی
+rack	computing	رک، قفسهٔ تجهیزات (سرور)
+server farm	computing	مزرعهٔ سرور
+colocation	computing	هم‌مکانی، اجارهٔ فضای مرکز داده
+provisioning	computing	تأمین و آماده‌سازی منابع
+autoscaling	computing	مقیاس‌دهی خودکار
+infrastructure as code	computing	زیرساخت به‌صورت کد
+observability	computing	رؤیت‌پذیری، مشاهده‌پذیری
+sla	business	Service-Level Agreement؛ توافق‌نامهٔ سطح خدمات
+service-level agreement	business	توافق‌نامهٔ سطح خدمات
+disaster recovery	computing	بازیابی پس از سانحه، بازیابی فاجعه
+snapshot	computing	تصویر لحظه‌ای، اسنپ‌شات (نسخهٔ وضعیت سیستم در یک لحظه)
+image	computing	ایمیج، تصویر دیسک (نسخهٔ کامل یک سیستم یا دیسک)
+tenant	computing	مستأجر (مشتری جدا در سامانهٔ ابری مشترک)
+multi-tenant	computing	چندمستأجری
+namespace	computing	فضای نام
+daemon	computing	دیمن، برنامهٔ پس‌زمینه
+background process	computing	پردازهٔ پس‌زمینه
+service	computing	سرویس، خدمت (برنامهٔ پس‌زمینه یا خدمت شبکه‌ای)
+cron job	computing	کار زمان‌بندی‌شده، کران‌جاب
+scheduler	computing	زمان‌بند
+interrupt	computing	وقفه
+virtual memory	computing	حافظهٔ مجازی
+swap	computing	فضای مبادله، سواپ
+bottleneck	computing	گلوگاه
+overhead	computing	سربار
+footprint	computing	میزان اشغال منابع، ردپا (حافظه یا فضا)
+big o notation	computing	نماد اُی بزرگ (بیان پیچیدگی الگوریتم)
+complexity	computing	پیچیدگی (محاسباتی)
+sorting	computing	مرتب‌سازی
+sort	computing	مرتب کردن
+binary search	computing	جستجوی دودویی
+dynamic programming	computing	برنامه‌ریزی پویا
+greedy algorithm	computing	الگوریتم حریصانه
+brute-force search	computing	جستجوی فراگیر
+turing machine	computing	ماشین تورینگ
+finite-state machine	computing	ماشین حالت متناهی
+state	computing	حالت، وضعیت
+stateless	computing	بی‌حالت، بدون نگهداری وضعیت
+stateful	computing	حالت‌مند، دارای وضعیت
+immutable	computing	تغییرناپذیر
+mutable	computing	تغییرپذیر
+scope	computing	دامنه، حوزهٔ دید (متغیر)
+closure	computing	بستار
+lambda	computing	لامبدا، تابع بی‌نام
+generic	computing	عام، جنریک (نوع‌عام در برنامه‌نویسی)
+type system	computing	سامانهٔ نوع
+static typing	computing	نوع‌دهی ایستا
+dynamic typing	computing	نوع‌دهی پویا
+iterator	computing	پیمایشگر، تکرارگر
+tuple	computing	چندتایی، تاپل
+dictionary	computing	واژه‌نامه، دیکشنری (ساختار دادهٔ کلید–مقدار)
+key-value	computing	کلید–مقدار
+enum	computing	نوع شمارشی
+struct	computing	ساختار، استراکت
+operator overloading	computing	سربارگذاری عملگر
+overloading	computing	سربارگذاری
+override	computing	بازنویسی کردن (متد)، جایگزین کردن
+wrapper	computing	پوشاننده، لفاف (کد واسط)
+stub	computing	کد جانشین، استاب
+mock	computing	شیء ساختگی، ماک (برای آزمون)
+linter	computing	لینتر، ابزار وارسی سبک و خطای کد
+toolchain	computing	زنجیرهٔ ابزار
+codebase	computing	پایگاه کد، مجموعهٔ کد پروژه
+open-source software	computing	نرم‌افزار متن‌باز
+contributor	computing	مشارکت‌کننده (در پروژهٔ متن‌باز)
+maintainer	computing	نگه‌دارنده (پروژهٔ نرم‌افزاری)
+upstream	computing	بالادست (پروژهٔ مبدأ)
+downstream	computing	پایین‌دست (پروژهٔ وابسته)
+issue	computing	مسئله، مورد گزارش‌شده (در سامانهٔ پیگیری اشکال)
+ticket	computing	تیکت، برگهٔ درخواست پشتیبانی
+bug report	computing	گزارش باگ، گزارش اشکال
+feature request	computing	درخواست قابلیت
+release notes	computing	یادداشت‌های انتشار
+semantic versioning	computing	نسخه‌گذاری معنایی
+nightly build	computing	نسخهٔ شبانه
+open beta	computing	بتای عمومی
+closed beta	computing	بتای محدود
+canary release	computing	انتشار قناری (عرضهٔ آزمایشی به گروه کوچکی از کاربران)
+feature flag	computing	پرچم قابلیت (کلید روشن و خاموش کردن قابلیت)
+dogfooding	slang	(عامیانه) استفادهٔ خود شرکت از محصول خودش پیش از عرضه
+smoke test	computing	آزمون دود، آزمون سریع اولیه
+load testing	computing	آزمون بار
+stress test	computing	آزمون فشار
+end-to-end	computing	سرتاسری، انتهابه‌انتها
+proof of concept	computing	اثبات مفهوم، نمونهٔ اثبات ایده
+poc	computing	Proof of Concept؛ اثبات مفهوم
+best practice	business	شیوهٔ برتر، روش بهینه
+use-after-free	computing	استفاده پس از آزادسازی (نوعی آسیب‌پذیری حافظه)
+cve	computing	Common Vulnerabilities and Exposures؛ فهرست آسیب‌پذیری‌های شناخته‌شده
+apt	computing	Advanced Persistent Threat؛ تهدید پیشرفتهٔ مستمر
+siem	computing	Security Information and Event Management؛ مدیریت اطلاعات و رویدادهای امنیتی
+endpoint security	computing	امنیت نقاط پایانی
+supply chain attack	computing	حملهٔ زنجیرهٔ تأمین
+credential stuffing	computing	حملهٔ پرکردن اعتبارنامه (آزمودن انبوه رمزهای لورفته)
+password spraying	computing	حملهٔ پاشش رمز
+dictionary attack	computing	حملهٔ واژه‌نامه‌ای
+session hijacking	computing	ربایش نشست
+clickjacking	computing	کلیک‌ربایی
+cryptojacking	computing	رمزارزربایی (استخراج پنهانی رمزارز با دستگاه قربانی)
+sim swapping	computing	تعویض سیم‌کارت (کلاهبرداری با انتقال شمارهٔ قربانی)
+stalkerware	computing	جاسوس‌افزار تعقیب، بدافزار پاییدن افراد
+scareware	computing	ترس‌افزار
+wiper	computing	بدافزار پاک‌کننده، وایپر
+logic bomb	computing	بمب منطقی
+drive-by download	computing	دانلود ناخواسته (نصب پنهانی بدافزار هنگام بازدید از سایت)
+data exfiltration	computing	خروج غیرمجاز داده، برون‌بری داده
+hardening	computing	مقاوم‌سازی، ایمن‌سازی (سیستم)
+patch management	computing	مدیریت وصله‌ها
+prompt injection	computing	تزریق پرامپت (حمله با دستور پنهان به مدل زبانی)
+adversarial attack	computing	حملهٔ تخاصمی
+adversarial example	computing	نمونهٔ تخاصمی
+model collapse	computing	فروپاشی مدل
+temperature	computing	دما (پارامتر تنظیم تصادفی‌بودن خروجی مدل زبانی)
+sampling	computing	نمونه‌گیری
+beam search	computing	جستجوی پرتوی
+logit	computing	لوجیت
+softmax	computing	سافت‌مکس (تابع بهنجارساز احتمالات)
+gradient	computing	گرادیان، شیب
+optimizer	computing	بهینه‌ساز
+mixture of experts	computing	آمیزهٔ خبرگان
+latent space	computing	فضای نهفته
+representation learning	computing	یادگیری بازنمایی
+contrastive learning	computing	یادگیری تقابلی
+federated learning	computing	یادگیری فدرال، یادگیری هم‌پیمان
+differential privacy	computing	حریم خصوصی تفاضلی
+edge ai	computing	هوش مصنوعی لبه‌ای
+ai accelerator	electronics	شتاب‌دهندهٔ هوش مصنوعی
+npu	electronics	Neural Processing Unit؛ واحد پردازش عصبی
+tpu	electronics	Tensor Processing Unit؛ واحد پردازش تانسوری
+neuromorphic	electronics	نورومورفیک، عصب‌ریخت
+mlops	computing	ام‌ال‌آپس، عملیات یادگیری ماشین
+model card	computing	شناسنامهٔ مدل
+tool use	computing	به‌کارگیری ابزار (از سوی مدل هوش مصنوعی)
+function calling	computing	فراخوانی تابع (از سوی مدل زبانی)
+conversational ai	computing	هوش مصنوعی گفتگومحور
+text generation	computing	تولید متن
+summarization	computing	خلاصه‌سازی
+named entity recognition	computing	بازشناسی موجودیت‌های نام‌دار
+speech-to-text	computing	گفتاربه‌متن، تبدیل گفتار به متن
+voice cloning	computing	شبیه‌سازی صدا، همانندسازی صدا
+synthetic media	computing	رسانهٔ مصنوعی، محتوای ساختگی
+ai-generated	computing	ساختهٔ هوش مصنوعی
+computer-generated	computing	رایانه‌ساخته، تولیدشده با رایانه
+robotic process automation	business	خودکارسازی رباتیک فرایندها
+rpa	business	Robotic Process Automation؛ خودکارسازی رباتیک فرایندها
+swarm robotics	engineering	رباتیک گروهی، رباتیک ازدحامی
+soft robotics	engineering	رباتیک نرم
+end effector	engineering	عملگر نهایی، مجری نهایی (ربات)
+servo	engineering	سروو، سروموتور
+machine vision	engineering	بینایی ماشین
+slam	engineering	Simultaneous Localization and Mapping؛ مکان‌یابی و نقشه‌برداری هم‌زمان
+adas	engineering	Advanced Driver-Assistance Systems؛ سامانه‌های پیشرفتهٔ کمک‌راننده
+v2x	engineering	vehicle-to-everything؛ ارتباط خودرو با همه‌چیز
+over-the-air update	computing	به‌روزرسانی بی‌سیم، به‌روزرسانی از راه دور
+ota	computing	over-the-air؛ بی‌سیم، از راه دور (به‌روزرسانی)
+infotainment	electronics	سامانهٔ اطلاعاتی–سرگرمی (خودرو)
+head-up display	electronics	نمایشگر سربالا، نمایشگر روی شیشه
+keyless entry	electronics	ورود بدون کلید
+vertical farming	engineering	کشاورزی عمودی
+precision agriculture	engineering	کشاورزی دقیق
+lab-grown meat	food	گوشت آزمایشگاهی، گوشت کشت‌شده
+wearable sensor	electronics	حسگر پوشیدنی
+pulse oximeter	medicine	پالس‌اکسیمتر، اکسیژن‌سنج نبضی
+contact tracing	medicine	ردیابی تماس‌ها
+bandwidth throttling	computing	محدودسازی پهنای باند
+throttling	computing	محدودسازی عمدی سرعت
+data cap	electronics	سقف مصرف داده
+fiber to the home	electronics	فیبر تا خانه
+ftth	electronics	Fiber to the Home؛ فیبر تا خانه، فیبر نوری خانگی
+backbone	computing	ستون فقرات (شبکه)، شاه‌راه شبکه
+backhaul	electronics	شبکهٔ پس‌بَر، بک‌هال
+spectrum	electronics	طیف (بسامدی)
+millimeter wave	electronics	موج میلی‌متری
+mimo	electronics	Multiple-Input Multiple-Output؛ چندورودی–چندخروجی
+beamforming	electronics	شکل‌دهی پرتو
+small cell	electronics	سلول کوچک (ایستگاه کم‌توان تلفن همراه)
+network slicing	electronics	برش‌بندی شبکه
+volte	electronics	Voice over LTE؛ تماس صوتی روی ال‌تی‌ای
+wi-fi calling	electronics	تماس از طریق وای‌فای
+mvno	electronics	Mobile Virtual Network Operator؛ اپراتور مجازی تلفن همراه
+number portability	electronics	ترابردپذیری شماره
+landline	electronics	تلفن ثابت، خط ثابت
+cordless phone	electronics	تلفن بی‌سیم
+pager	electronics	پیجر، پی‌جو
+walkie-talkie	electronics	بی‌سیم دستی، واکی‌تاکی
+satellite phone	electronics	تلفن ماهواره‌ای

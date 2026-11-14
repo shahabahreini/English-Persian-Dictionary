@@ -1,0 +1,47 @@
+{
+ "compat": [
+  [
+   "Kindle e-readers where v2.4 already reads correctly (all E Ink generations that show Persian in dictionary pop-ups)",
+   "dist/kindle/English-Persian.Dictionary.v3.0-classic.mobi",
+   "Same display convention as v2.4: words stored in visual order for the pop-up. Copy to documents/dictionaries/ on the Kindle."
+  ],
+  [
+   "Kindle apps and any Kindle firmware whose pop-up handles right-to-left text itself",
+   "dist/kindle/English-Persian.Dictionary.v3.0-rtl.mobi",
+   "Natural reading order with right-to-left paragraphs. Use this if the classic build shows sentences backwards on your device."
+  ],
+  [
+   "Kobo (all models with firmware 4.24 or later, native dictionary)",
+   "dist/kobo/dicthtml-en-fa.zip",
+   "Copy to .kobo/custom-dict/ on the device."
+  ],
+  [
+   "KOReader on Kindle, Kobo, PocketBook, Onyx Boox, reMarkable, Android",
+   "dist/stardict/English-Persian-v3.0-stardict.zip",
+   "Unzip into koreader/data/dict/. Full right-to-left rendering, labels in italics."
+  ],
+  [
+   "Onyx Boox built-in reader, GoldenDict, AlReader, Moon+ Reader, other StarDict apps",
+   "dist/stardict/English-Persian-v3.0-stardict.zip",
+   "Standard StarDict 3 with a synonym index for inflected forms."
+  ],
+  [
+   "Older StarDict readers that print HTML tags as text (CoolReader, early PocketBook and Onyx firmware)",
+   "dist/stardict/English-Persian-v3.0-stardict-plaintext.zip",
+   "Same content with plain-text definitions."
+  ],
+  [
+   "Anything else, or building another format",
+   "data/English-Persian.v3.0.tsv",
+   "Tab-separated master file: headword, definition, sections, status, alternate forms."
+  ]
+ ],
+ "note": "Both Kindle builds were compiled with Amazon's kindlegen (bundled in Kindle Previewer) and read back to confirm all 154,439 headwords. This revision builds on H. Yazdani's English-Persian dictionary v2.4 as published by hossein1376 (MIT licence); the original word list descends from the MHM Advance English-Persian Dictionary.",
+ "limits": [
+  "Not verified on every device. The Kindle .mobi files were compiled and read back by software, the StarDict and Kobo files were built and look-ups were resolved programmatically; none was checked screen by screen on each e-reader generation.",
+  "About 107,000 specialised entries received mechanical repairs only (word order, letters, half-spaces, numbers). Their wording is still the 1990s original, including words run together such as دورازمحور, which cannot be split safely by rule.",
+  "The 7,000 rewritten entries and the new entries were written by AI models acting as lexicographers and have not been reviewed by a human Persian editor. A few newly coined terms with no settled Persian equivalent are descriptive glosses.",
+  "Headword typo correction covered words within one edit of a known English word. Misspellings further from the intended word, and wrong words that happen to be valid English, remain.",
+  "PocketBook's built-in dictionary uses its own .dic format, which is not produced here; use KOReader with the StarDict build on PocketBook."
+ ]
+}
