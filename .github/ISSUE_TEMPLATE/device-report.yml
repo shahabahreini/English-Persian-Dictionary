@@ -1,0 +1,36 @@
+name: Device display problem
+description: The dictionary looks wrong or cannot be selected on your e-reader
+labels: ["device"]
+body:
+  - type: input
+    id: device
+    attributes:
+      label: Device and model
+      placeholder: e.g. Kindle Paperwhite 11th gen, Kobo Libra 2, Boox Go 6
+    validations:
+      required: true
+  - type: input
+    id: firmware
+    attributes:
+      label: Firmware or app version
+    validations:
+      required: true
+  - type: dropdown
+    id: file
+    attributes:
+      label: File you used
+      options:
+        - Kindle classic .mobi
+        - Kindle right-to-left .mobi
+        - Kobo dicthtml zip
+        - StarDict (HTML)
+        - StarDict (plain text)
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What you see
+      description: Describe it, and attach a photo or screenshot if you can. Mention the word you looked up.
+    validations:
+      required: true

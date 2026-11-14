@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this dictionary, please cite it as below and credit the upstream project it is based on."
+type: dataset
+title: "English–Persian Dictionary v3.0"
+abstract: >-
+  A free, offline English-to-Persian (Farsi) dictionary with 154,439 entries and 31,227 indexed
+  inflected forms for Kindle, Kobo, KOReader, Onyx Boox and StarDict apps. A revision and expansion
+  of English-Persian Dictionary v2.4. New and rewritten wording was produced by AI language models
+  and has not been reviewed by a human Persian editor.
+version: 3.0.0
+date-released: 2026-11-13
+license: MIT
+authors:
+  - alias: "shahabahreini"
+repository-code: "https://github.com/shahabahreini/English-Persian-Dictionary"
+url: "https://shahabahreini.github.io/English-Persian-Dictionary/"
+keywords:
+  - English-Persian dictionary
+  - English-Farsi dictionary
+  - bilingual dictionary
+  - Kindle dictionary
+  - Kobo dictionary
+  - KOReader
+  - StarDict
+  - e-reader
+  - Persian
+  - Farsi
+references:
+  - type: software
+    title: "English-Persian Kindle Custom Dictionary"
+    authors:
+      - alias: "hossein1376"
+    repository-code: "https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary"
+    license: MIT
+    year: 2022
+    notes: "Source of the v2.4 dictionary (compiled by H. Yazdani) that this work revises and expands."

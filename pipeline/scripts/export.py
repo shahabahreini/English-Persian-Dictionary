@@ -68,7 +68,7 @@ def kindle(name,title,fn):
             f.write('<idx:entry name="default" scriptable="yes" spell="yes"><idx:short><idx:orth value="%s"><b>%s</b>%s</idx:orth>%s</idx:short></idx:entry>\n'%(hw,hw,infl,fn(e['def'])))
         f.write('</mbp:frameset></body></html>')
 kindle('kindle-classic-src',TITLE,lambda t:'<p>'+html.escape(legacy(t),quote=False)+'</p>')
-kindle('kindle-rtl-src',TITLE+' (RTL)',lambda t:'<p dir="rtl" align="right">'+h_modern(t)+'</p>')
+kindle('kindle-rtl-src',TITLE+' (RTL)',lambda t:'<p dir="rtl">'+h_modern(t)+'</p>')  # no align="right": the full source must stay under kindlegen's ~40 MB limit
 print('exported',len(m))
 import random; random.seed(5)
 for e in random.sample(m,6): print(e['head'],'\n  M:',e['def'],'\n  L:',legacy(e['def']))

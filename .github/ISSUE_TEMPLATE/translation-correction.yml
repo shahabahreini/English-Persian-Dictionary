@@ -1,0 +1,29 @@
+name: Translation correction
+description: A wrong, missing or awkward Persian translation
+labels: ["translation"]
+body:
+  - type: input
+    id: headword
+    attributes:
+      label: English headword
+      placeholder: e.g. cloud
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current definition
+      description: Paste it from the dictionary or from data/English-Persian.v3.0.tsv
+    validations:
+      required: true
+  - type: textarea
+    id: suggested
+    attributes:
+      label: Suggested definition or fix
+      description: Persian equivalents, and the subject section if it applies (computing, medicine, law…)
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source or reasoning (optional)

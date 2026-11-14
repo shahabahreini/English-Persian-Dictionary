@@ -1,0 +1,63 @@
+# English–Persian Dictionary v3.0 (full text)
+
+Canonical site: https://shahabahreini.github.io/English-Persian-Dictionary/
+Repository: https://github.com/shahabahreini/English-Persian-Dictionary
+Version: 3.0.0 (published 2026-11-13). Licence: MIT. Languages: English headwords, Persian (Farsi) definitions.
+
+## What it is
+A free, offline English-to-Persian bilingual dictionary for e-readers with 154,439 entries and 31,227 indexed inflected forms. It is a revision and expansion of English-Persian Dictionary v2.4 (compiled by H. Yazdani, published as a Kindle dictionary by hossein1376 at https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary, MIT licence). According to that project, the original word list comes from the freely available MHM Advance English-Persian Dictionary; the licence terms of that older source are not known to this project.
+
+Alternative names people use: English-Farsi dictionary, English to Persian Kindle dictionary, دیکشنری انگلیسی به فارسی, لغت نامه / واژه نامه انگلیسی به فارسی کیندل.
+
+## Formats and where each goes
+| Device or app | File (under dist/ in the repo) | Install |
+|---|---|---|
+| Kindle | kindle/English-Persian.Dictionary.v3.0-classic.mobi | Copy to documents/dictionaries/ on the Kindle. In a book, long-press a word, tap the dictionary name, choose "English-Persian Dictionary v3.0"; or Settings > Language & Dictionaries > Dictionaries > English |
+| Kindle (apps or firmware that handle right-to-left text; or if classic shows reversed sentences) | kindle/English-Persian.Dictionary.v3.0-rtl.mobi | Same |
+| Kobo (firmware 4.24+) | kobo/dicthtml-en-fa.zip | Copy to .kobo/custom-dict/ (create if missing), eject, choose under Settings > Language and dictionaries |
+| KOReader (Kindle, Kobo, PocketBook, Onyx Boox, reMarkable, Android), Onyx Boox, GoldenDict, AlReader, Moon+ Reader | stardict/English-Persian-v3.0-stardict.zip | Unzip into koreader/data/dict/ or the app's dictionary folder (Boox: dicts/) |
+| Readers that show HTML tags as text (CoolReader, early PocketBook/Onyx firmware) | stardict/English-Persian-v3.0-stardict-plaintext.zip | Same |
+| Your own tools | data/English-Persian.v3.0.tsv | Tab-separated: headword, definition, sections, status, alternate forms |
+
+### Why two Kindle builds
+Kindle dictionary pop-ups on E Ink devices lay text out left to right and do not reorder right-to-left scripts. Following v2.4, the classic build stores each Persian definition with its words in reverse (visual) order so that it displays correctly. The right-to-left build stores natural reading order in right-to-left paragraphs. The StarDict, Kobo and TSV files use natural reading order. Try classic first on E Ink Kindles.
+
+## What changed from v2.4
+- Entries: 145,075 to 154,439.
+- 11,493 new entries: modern vocabulary (internet, smartphone, podcast, lockdown), science, medicine, business, everyday phrasal verbs, idioms, slang, US/UK pairs, irregular forms.
+- 7,016 high-frequency definitions rewritten: most common sense first, senses grouped by part of speech, wrong equivalents removed.
+- 2,571 existing entries improved or extended; 2,224 modern senses added and 535 very short definitions replaced along the way.
+- Persian orthography normalised in 106,983 entries: Persian ی and ک instead of Arabic ي and ك, restored آ, half-spaces (می‌, ‌ها, ‌ترین), tanvin, ezafe marks, quotation marks.
+- 3,120 misspelled headwords corrected (4,081 fixes), e.g. illustrous to illustrious.
+- 2,128 duplicate entries merged; 97 garbled headwords cleaned; 85 cross-references resolved; corrupted numbers fixed.
+- 31,227 inflected forms indexed, so looking up "walked" opens "walk".
+- 26,376 entries unchanged.
+
+### Entries by subject section (v2.4 to v3.0)
+General 103,231 to 102,405; Engineering 6,909 to 7,110; Computing 3,632 to 5,395; Business & economics 3,161 to 4,327; Chemistry 3,688 to 4,010; Law 3,713 to 4,000; Medicine 654 to 1,616; Geography 15 to 1,210; Informal & slang 79 to 1,045; Biology 517 to 996. New sections: Politics 580, Food 537, Abbreviations 275, Religion 165. An entry with senses in several sections counts in each.
+
+## Entry format
+[n.], [v.], [adj.] mark part of speech; [رایانه] (computing), [پزشکی] (medicine), [حقوق] (law) etc. mark a subject section. The marker "▪" separates sense groups (plain-text builds use "|"), the Persian comma "،" separates equivalents and the Persian semicolon "؛" separates distinct senses. "(= colour)" is a cross-reference; "(گذشتهٔ go)" and "(جمعِ child)" mark irregular forms.
+
+## Known limits
+- Not verified screen by screen on every e-reader generation. The Kindle .mobi files were compiled with Amazon's kindlegen and read back to confirm all 154,439 headwords; StarDict and Kobo look-ups were resolved programmatically.
+- The right-to-left Kindle build has not been tested on a physical device.
+- The 7,016 rewrites and 11,493 new entries were written by AI language models following written guidelines (pipeline/guidelines/SPEC.md and REVIEW.md) and have not been reviewed by a human Persian editor. A few new terms with no settled Persian equivalent (for example "mansplaining") have descriptive glosses.
+- About 107,000 specialised entries received mechanical repairs only (word order, letters, half-spaces, numbers) and keep their 1990s wording, including run-together words such as دورازمحور.
+- Headword typo correction covered words within one edit of a known English word.
+- No PocketBook-native .dic build; use KOReader with the StarDict files.
+
+## Frequently asked questions
+Q: Is it free? A: Yes, MIT licence, like the upstream project.
+Q: Does it work offline? A: Yes, all look-ups happen on the device.
+Q: How do I install it on a Kindle? A: Copy the classic .mobi into documents/dictionaries/, eject, then pick it in the dictionary pop-up or under Settings > Language & Dictionaries.
+Q: Which file for Kobo? A: dicthtml-en-fa.zip into .kobo/custom-dict/ (firmware 4.24+).
+Q: Which file for KOReader, Boox, GoldenDict? A: The StarDict zip.
+Q: Can I rebuild it? A: Yes. pipeline/README.md in the repository explains how to regenerate the master data and the Kindle sources from the original v2.4 file; the regenerated master data and Kindle sources match the shipped files byte for byte.
+Q: How can I report a wrong translation? A: Open an issue at https://github.com/shahabahreini/English-Persian-Dictionary/issues with the headword, the current definition and a suggested one.
+
+## How to cite
+shahabahreini. English–Persian Dictionary v3.0 (2026). https://github.com/shahabahreini/English-Persian-Dictionary . Based on English-Persian Kindle Custom Dictionary by hossein1376 (https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary). A CITATION.cff file is in the repository.
+
+## خلاصه به فارسی
+دیکشنری رایگان و آفلاین انگلیسی به فارسی با ۱۵۴٬۴۳۹ مدخل برای کیندل، کوبو، KOReader و برنامه‌های StarDict؛ بازنگری و گسترش نسخهٔ ۲٫۴ (ح. یزدانی، منتشرشده توسط hossein1376) با مجوز MIT. ۱۱٬۴۹۳ مدخل تازه، بازنویسی ۷٬۰۱۶ واژهٔ پرکاربرد، یکدست‌سازی املای فارسی و ثبت ۳۱٬۲۲۷ شکل صرفی. معنی‌های تازه و بازنویسی‌شده را مدل‌های هوش مصنوعی نوشته‌اند و ویراستار انسانی بررسی نکرده است. صفحهٔ فارسی: https://shahabahreini.github.io/English-Persian-Dictionary/fa/
