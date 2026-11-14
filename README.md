@@ -34,7 +34,7 @@ Twelve new subject sections and a deeper vocabulary in existing ones, about 13,7
 
 - **10,085 new entries** and **3,589 subject senses** added to existing words (always after the current definition, never ahead of it).
 - **New sections:** Philosophy & logic, Earth & environmental sciences, Statistics, Arts (visual arts, photography, film, theatre, dance), Literature, History & archaeology, Sociology & anthropology, Education, Agriculture & veterinary science, Transport & logistics, Media & communication, Fashion & textiles.
-- **Deeper sections:** Informal & slang (1,045 → 2,456), Mathematics, Physics, Astronomy, Psychology, Linguistics, Music, Architecture, Civil engineering, Sports, plus about 1,800 everyday compounds, idioms, phrasal verbs and proverbs (given with the matching Persian proverb where one exists).
+- **Deeper sections:** Informal & slang (1,045 → 2,514), Mathematics, Physics, Astronomy, Psychology, Linguistics, Music, Architecture, Civil engineering, Sports, plus about 1,800 everyday compounds, idioms, phrasal verbs and proverbs (given with the matching Persian proverb where one exists).
 - Each subject glossary was written to [`pipeline/guidelines/SPEC.md`](pipeline/guidelines/SPEC.md) and then reviewed line by line in a separate pass for wrong equivalents, calques, false friends, register and spelling. No v3.0 definition was removed or reworded: a check confirms every v3.0 entry is still present and starts with its v3.0 text.
 
 ## What changed from v2.4
@@ -44,7 +44,7 @@ Twelve new subject sections and a deeper vocabulary in existing ones, about 13,7
 | Entries | 145,075 → 154,439 (v3.0) → **164,524** (v3.1) |
 | New entries | **21,578**: 11,493 in v3.0 (modern vocabulary such as internet, smartphone, podcast; science, medicine, business, phrasal verbs, idioms, slang) and 10,085 in v3.1 (subject glossaries above) |
 | Core definitions rewritten | **7,016** of the most frequent words: most common sense first, senses grouped by part of speech, wrong equivalents removed |
-| Existing definitions improved or extended | **5,346** entries, including 2,224 modern senses (v3.0), 3,589 subject senses (v3.1) and 535 very short definitions replaced |
+| Existing definitions improved or extended | **5,344** entries, including 2,210 modern senses (v3.0), 3,589 subject senses (v3.1) and 535 very short definitions replaced |
 | Orthography normalised | **106,983** entries: Persian ی/ک, restored آ, half-spaces (می‌, ‌ها, ‌ترین), tanvin, ezafe marks, quotation marks |
 | Misspelled headwords corrected | 3,120 headwords (4,081 fixes), e.g. *illustrous → illustrious* |
 | Duplicates merged | 2,128 |
@@ -58,14 +58,14 @@ Twelve new subject sections and a deeper vocabulary in existing ones, about 13,7
 
 | Section | v2.4 | v3.0 | v3.1 |
 |---|---:|---:|---:|
-| General | 103,231 | 102,405 | 101,466 |
+| General | 103,231 | 102,405 | 101,388 |
 | Engineering | 6,909 | 7,110 | 7,110 |
 | Computing | 3,632 | 5,395 | 5,399 |
 | Business & economics | 3,161 | 4,327 | 4,335 |
-| Sports | 3,550 | 3,737 | 4,153 |
+| Sports | 3,550 | 3,737 | 4,155 |
 | Chemistry | 3,688 | 4,010 | 4,010 |
-| Law | 3,713 | 4,000 | 4,003 |
-| Informal & slang | 79 | 1,045 | 2,456 |
+| Law | 3,713 | 4,000 | 4,005 |
+| Informal & slang | 79 | 1,045 | 2,514 |
 | Medicine | 654 | 1,616 | 1,633 |
 | Geography | 15 | 1,210 | 1,210 |
 | Philosophy & logic *(new)* | – | – | 1,181 |
@@ -75,7 +75,7 @@ Twelve new subject sections and a deeper vocabulary in existing ones, about 13,7
 | Transport & logistics *(new)* | – | – | 719 |
 | Mathematics | 136 | 367 | 716 |
 | Agriculture & veterinary *(new)* | – | – | 706 |
-| Psychology | 13 | 233 | 676 |
+| Psychology | 13 | 233 | 677 |
 | Astronomy | 460 | 572 | 670 |
 | Linguistics | 63 | 124 | 665 |
 | Music | 208 | 286 | 631 |
@@ -89,7 +89,7 @@ Twelve new subject sections and a deeper vocabulary in existing ones, about 13,7
 | Education *(new)* | – | – | 485 |
 | Statistics *(new)* | – | – | 393 |
 | Media & communication *(new)* | – | – | 376 |
-| Abbreviations | – | 275 | 275 |
+| Abbreviations | – | 275 | 301 |
 | Religion | – | 165 | 165 |
 
 An entry with senses in several sections is counted in each. The [report](https://shahabahreini.github.io/English-Persian-Dictionary/report.html) has the full table, including smaller sections.
@@ -173,7 +173,7 @@ See [CREDITS.md](CREDITS.md) for the provenance of the word list.
 - **KOReader و بقیهٔ برنامه‌ها:** فایل `English-Persian-v3.1-stardict.zip` را در پوشهٔ واژه‌نامه‌ها (`koreader/data/dict/`) باز کنید.
 
 ### چه چیزی تغییر کرده
-- **نسخهٔ ۳٫۱:** دوازده بخش موضوعی تازه (فلسفه و منطق، علوم زمین و محیط زیست، آمار، هنر، ادبیات، تاریخ و باستان‌شناسی، جامعه‌شناسی و مردم‌شناسی، آموزش، کشاورزی و دامپزشکی، حمل‌ونقل، رسانه و ارتباطات، پوشاک و نساجی)، **۱۰٬۰۸۵ مدخل تازه** و **۳٬۵۸۹ معنای تخصصی** که پس از معنای قبلی واژه‌ها افزوده شده است؛ گسترش زبان محاوره (به ۲٬۴۵۶ مدخل)، ریاضی، فیزیک، نجوم، روان‌شناسی، زبان‌شناسی، موسیقی، معماری و ورزش، و حدود ۱٬۸۰۰ اصطلاح، فعل عبارتی و ضرب‌المثل با معادل فارسی
+- **نسخهٔ ۳٫۱:** دوازده بخش موضوعی تازه (فلسفه و منطق، علوم زمین و محیط زیست، آمار، هنر، ادبیات، تاریخ و باستان‌شناسی، جامعه‌شناسی و مردم‌شناسی، آموزش، کشاورزی و دامپزشکی، حمل‌ونقل، رسانه و ارتباطات، پوشاک و نساجی)، **۱۰٬۰۸۵ مدخل تازه** و **۳٬۵۸۹ معنای تخصصی** که پس از معنای قبلی واژه‌ها افزوده شده است؛ گسترش زبان محاوره (به ۲٬۵۱۴ مدخل)، ریاضی، فیزیک، نجوم، روان‌شناسی، زبان‌شناسی، موسیقی، معماری و ورزش، و حدود ۱٬۸۰۰ اصطلاح، فعل عبارتی و ضرب‌المثل با معادل فارسی
 - **نسخهٔ ۳٫۰:** حدود **۱۱٬۵۰۰ مدخل تازه**: اینترنت، گوشی هوشمند، پادکست، فعل‌های عبارتی، اصطلاحات و واژه‌های علمی و پزشکی جدید
 - بازنویسی **۷٬۰۱۶ واژهٔ پرکاربرد** با ترتیب معنای رایج‌تر در ابتدا
 - یکدست‌سازی املا: «ی» و «ک» فارسی، «آ»، نیم‌فاصله‌ها، تنوین

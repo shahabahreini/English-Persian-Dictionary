@@ -1,4 +1,4 @@
-# English→Persian dictionary: entry-writing spec (v3.0 expansion)
+# English→Persian dictionary: entry-writing spec (v3.0 expansion; v3.1 addendum at the end)
 
 You are writing entries for a serious English→Persian (Farsi) dictionary used on e-readers.
 Quality bar: a professional bilingual lexicographer. Accuracy matters more than volume, but be thorough.

@@ -4,7 +4,7 @@ try: from idzip import IdzipFile
 except ImportError:  # .dict.dz is gzip-compatible; read it whole when idzip is not installed
     class IdzipFile(io.BytesIO):
         def __init__(self,p): super().__init__(gzip.open(p).read())
-D=sys.argv[1]; V=sys.argv[2] if len(sys.argv)>2 else '3.0'
+D=sys.argv[1]; V=sys.argv[2] if len(sys.argv)>2 else '3.1'
 # StarDict: parse idx/syn, decode via .dict.dz
 base=D+'/StarDict/English-Persian-v%s/English-Persian-v%s'%(V,V)
 ifo=dict(l.strip().split('=',1) for l in open(base+'.ifo',encoding='utf-8') if '=' in l)
@@ -24,7 +24,7 @@ def look(w):
     elif w in syns: o,s=words[syns[w]][1:]; w=w+' → '+words[syns[w]][0]
     else: return w+' : NOT FOUND'
     dz.seek(o); return w+' : '+dz.read(s).decode()[:140]
-for w in ['internet','walked','theurgical','set','smartphone','went','figure out','illustrious','leukaemia','epistemology','a priori','sus','crop rotation','mise en scene','haute couture','freight forwarder','chiaroscuro']: print('  ',look(w))
+for w in ['internet','walked','theurgical','set','smartphone','went','figure out','illustrious','leukaemia','epistemology','a priori','sus','crop rotation','mise en scene','haute couture','freight forwarder','chiaroscuro','gaslighting','chill out','lol']: print('  ',look(w))
 # Kobo
 z=zipfile.ZipFile(D+'/Kobo/dicthtml-en-fa.zip'); names=z.namelist()
 print('kobo: files',len(names),names[:6])

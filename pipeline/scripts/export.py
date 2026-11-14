@@ -53,7 +53,7 @@ OPF='''<?xml version="1.0" encoding="utf-8"?>
 <package unique-identifier="uid" xmlns="http://www.idpf.org/2007/opf" version="2.0">
 <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:title>%s</dc:title><dc:language>en-us</dc:language><dc:creator>H.Yazdani</dc:creator>
-<dc:contributor>v3.0 revision and expansion</dc:contributor>
+<dc:contributor>Revision and expansion of v2.4</dc:contributor>
 <dc:identifier id="uid">%s</dc:identifier>
 <x-metadata><DictionaryInLanguage>en-us</DictionaryInLanguage><DictionaryOutLanguage>fa</DictionaryOutLanguage><DefaultLookupIndex>default</DefaultLookupIndex></x-metadata>
 </metadata>

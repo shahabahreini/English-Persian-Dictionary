@@ -21,6 +21,7 @@ CHECKS=[
  (r'[,;]','ASCII , or ; in definition (use ، or ؛)'),
  (r'\s[،؛]|[،؛](?=[^\s])','spacing around ، ؛ (no space before, one after)'),
  (r'\t','TAB inside field'),
+ (r'^[a-z]+\|','subject code glued to the definition (put it in the domain column)'),
  (r'\s{2,}','double space'),
 ]
 args=[a for a in sys.argv[1:] if not a.startswith('--')]; show='--show' in sys.argv

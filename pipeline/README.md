@@ -2,7 +2,7 @@
 
 Scripts and editorial data used to turn v2.4 into v3.0, and v3.0 into v3.1. Use this to audit how an entry was produced, to rebuild after you edit the inputs, or to produce another format.
 
-Rebuilding `master.json`, `changelog.tsv`, the master TSV and both Kindle sources from these inputs was tested and gives output identical to what ships in `data/` and `dist/`. With `new/v3.1/` moved aside, the same scripts still reproduce the v3.0 TSV and changelog byte for byte.
+Rebuilding `master.json`, `changelog.tsv`, the master TSV and both Kindle sources from these inputs was tested and gives output identical to what ships in `data/` and `dist/`. The v3.1 data fix corrected 122 malformed lines in `new/theme_everyday.tsv`, a v3.0 input, so v3.0 itself is reproduced from its own commit (`0015027`); the build reports any subject code left in a definition field as `def_code_prefix`, which should be absent (zero).
 
 ## What is here
 

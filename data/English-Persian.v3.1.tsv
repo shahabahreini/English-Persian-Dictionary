@@ -689,7 +689,7 @@ abyssal zone	[علوم زمین و محیط زیست] منطقهٔ مغاکی	ea
 abyssinia	حبش، حبشه	general	normalized	
 abyssinian	حبشی | مربوط به کشور Abyssinia، اهل حبشه	general	normalized	abyssinians
 a.c.	alternating current، جریان متناوب	general	normalized	
-ac	[n.] (برق) جریان متناوب، برق متناوب (Alternating Current)؛ تهویهٔ مطبوع، کولر (air conditioning)؛ (بازرگانی) حساب جاری (account current)؛ (شیمی) نماد اکتینیم؛ (شیمی) مخففِ alicyclic | [pref.] صورتی از پیشوند لاتینی ad- پیش از c و q (مانند accept از accipere) | [suf.] پسوند لاتینی یا یونانی معادل ic- (مانند maniac) | abbr|air conditioning؛ کولر (گازی)، تهویهٔ مطبوع	general	rewritten	
+ac	[n.] (برق) جریان متناوب، برق متناوب (Alternating Current)؛ تهویهٔ مطبوع، کولر (air conditioning)؛ (بازرگانی) حساب جاری (account current)؛ (شیمی) نماد اکتینیم؛ (شیمی) مخففِ alicyclic | [pref.] صورتی از پیشوند لاتینی ad- پیش از c و q (مانند accept از accipere) | [suf.] پسوند لاتینی یا یونانی معادل ic- (مانند maniac)	abbr	rewritten	
 acacia	[گیاه‌شناسی] اقاقیا، اکاسیا، اکاکیا، درخت صمغ عربی	botany	normalized	acacias
 acacin	صمغ عربی	general	unchanged	
 acacine	[گیاه‌شناسی] اقاقیا، اکاسیا، اکاکیا، درخت صمغ عربی	botany	normalized	
@@ -4092,7 +4092,7 @@ aizarine	الیزارین، جوهر روناس	general	normalized
 ajar	نیم باز	general	unchanged	
 ajax	[رایانه] Asynchronous JavaScript and XML؛ ای‌جکس | قهرمان یونانی جنگ تروا	computing	improved	
 ajeeb	عجیب، دستگاه شطرنجباز مکانیکی به اختراع چارلز ارثر هاپر در1868	general	normalized	
-aka	(a.k.a.) [adv.] معروف به، با نام مستعار، ملقب به (also known as) | (ورزش‌های رزمی ژاپنی) آکا، قرمز (رنگ کمربند یا رقیب) | [عامیانه] abbr|also known as؛ معروف به، مشهور به	slang,sports	rewritten	akad|akas
+aka	(a.k.a.) [adv.] معروف به، با نام مستعار، ملقب به (also known as) | (ورزش‌های رزمی ژاپنی) آکا، قرمز (رنگ کمربند یا رقیب)	abbr,sports	rewritten	akad|akas
 akaike information criterion	[آمار] معیار اطلاع آکائیکه	statistics	new	
 akathisia	بیقراری حرکتی	general	unchanged	
 akimbo	دست بکمر زده | دودست برکمروارنج هابیرون	general	normalized	
@@ -4366,7 +4366,7 @@ alimentary canal	جهاز هاضمه، مجرای گوش	general	normalized
 alimentation	تغذیه، تقویت، غذا	general	normalized	
 alimentative	غذائی، غذا دهنده	general	normalized	
 alimentiveness	قوه تغذیه	general	unchanged	
-alimony	law|نفقه (پس از طلاق) | خرجی، نفقه	general	improved	
+alimony	نفقه (پس از طلاق)	law	improved	
 aline	در یک رشته قرار دادن، درصف آمدن، ردیف شدن	general	normalized	
 a-line skirt	[پوشاک و نساجی] دامن ای‌لاین، دامن نیم‌کلوش	fashion	new	
 alioth	جون، اپسیلون - دب اکبر	general	normalized	
@@ -6238,7 +6238,7 @@ annunciator wire	[الکترونیک] سیم زنگ احضار	electronics	norma
 annunciatory	بشارتی	general	unchanged	
 annus horribilis	سال نحس، سال پر از مصیبت	general	new	
 annus mirabilis	سال شگفتی‌ها، سال پربار و درخشان	general	new	
-a no-brainer	slang|تصمیم بدیهی، چیزی که فکر کردن نمی‌خواهد (عامیانه)	general	new	
+a no-brainer	[عامیانه] تصمیم بدیهی، چیزی که فکر کردن نمی‌خواهد (عامیانه)	slang	new	
 an odd chair	صندلی تکی، صندلی که پنج تای دیگر جور خود نداشته باشد	general	normalized	
 an odd custom	رسم غریب	general	unchanged	
 an odd slipper	یک لنگه کفش سر پایی	general	unchanged	
@@ -6842,7 +6842,7 @@ apache	[n.] (جمع: apaches یا apache) (Apache) آپاچی، یکی از قب
 apadana	[تاریخ و باستان‌شناسی] آپادانا، تالار بار	history	new	
 apagoge	احاله به محال	general	unchanged	
 apa graphics	[رایانه] نگاره سازی APA	computing	normalized	
-a pain in the butt	slang|مایهٔ دردسر، آدم/چیز کلافه‌کننده (عامیانه)	general	new	
+a pain in the butt	[عامیانه] مایهٔ دردسر، آدم/چیز کلافه‌کننده (عامیانه)	slang	new	
 a pair oar	کرجی دو پارویی	general	unchanged	
 a pair of tweezers	موچین، موکن، انبرک	general	normalized	
 apanage	امتیازات و اموالی که بفرزند ارشد (شاهزاده) اختصاص داشت، ایالت، حوزه، درامداتفاقی، تابع، متعلفات، بخشش، وقف، (احق.) مستمری	general	normalized	
@@ -8366,7 +8366,7 @@ asafoetida	انق?وزه	general	unchanged
 as always	مثل همیشه، طبق معمول	general	new	
 as a matter of fact	راستش، در واقع، اتفاقاً | حقیقت امر اینست که خوب بخواهید بدانید	general	improved	
 asana	[ورزش] آسانا (حالت بدنی در یوگا)	sports	new	asanas
-asap	[عامیانه] abbr|as soon as possible؛ هر چه زودتر، در اولین فرصت | as soon as possible، به محض امکان	abbr,slang	improved	asaps
+asap	as soon as possible، به محض امکان	abbr	normalized	asaps
 as a partial payment	علی الحساب	general	unchanged	
 as a present	برسم پیشکشی	general	unchanged	
 as a proxy	[حقوق] وکالتاً	law	normalized	
@@ -13767,7 +13767,7 @@ bezel	هنجار، گودی، نگین دان، پخ، حلقه لغزنده م�
 bezier curve	[رایانه] منحنی بزیه	computing	normalized	
 bezoar	پادزهر، زهرمهره	general	normalized	
 bf	[عامیانه] (عامیانه) دوست‌پسر (کوتاه‌شدهٔ boyfriend)	slang	new	
-bff	[عامیانه] best friend forever؛ بهترین دوست همیشگی، رفیق جون‌جونی | [عامیانه] abbr|best friend forever، رفیق فابریک (عامیانه)	slang	new	
+bff	[عامیانه] best friend forever؛ بهترین دوست همیشگی، رفیق جون‌جونی	abbr,slang	new	
 bffr	[عامیانه] (رکیک) جدی باش بابا، خودتو مسخره کردی؟ (کوتاه‌شدهٔ be fucking for real)	slang	new	
 bhakti	[دین] بهکتی (پرستش عاشقانه و سرسپردگی در آیین هندو)	religion	new	
 bhang	بنگ	general	unchanged	
@@ -13991,7 +13991,7 @@ bigotry	تعصب کور، تنگ‌نظری | سرسختی درعقیده، عم
 big pharma	[بازرگانی و اقتصاد] غول‌های داروسازی، شرکت‌های بزرگ داروسازی	business	new	
 big pot	شخص مهم یا با نفوذ	general	unchanged	
 big push theory of development	[بازرگانی و اقتصاد] نظریه فشار شدید توسعه	business	normalized	
-big shot	slang|آدم کله‌گنده، مهره‌درشت (عامیانه) | شخص مهم، آدم کله گنده	general	improved	
+big shot	آدم کله‌گنده، مهره‌درشت (عامیانه)	slang	improved	
 big tech	[بازرگانی و اقتصاد] غول‌های فناوری، شرکت‌های بزرگ فناوری	business	new	
 big ticket	گران قیمت، با ارزش	general	normalized	
 big time	[عامیانه] حسابی، بدجور، در حد اعلا (عامیانه) | عالیترین نوع	slang	improved	
@@ -15336,7 +15336,7 @@ blowing	[n.] وزش، دمیدن، فوت کردن، پوف کردن؛ (شیشه
 blowing agent	[شیمی] عامل پف کننده	chemistry	normalized	
 blowing engine	[مهندسی] ماشین یا موتور دمنده	engineering	normalized	
 blowing nozzle	شیپوره دم، مبدل	general	normalized	
-blow it	slang|خراب کردن، فرصت را سوزاندن (عامیانه)	general	new	
+blow it	[عامیانه] خراب کردن، فرصت را سوزاندن (عامیانه)	slang	new	
 blow job	[عامیانه] (رکیک) ساک زدن	slang	new	
 blowjob	[عامیانه] (رکیک) ساک زدن، آمیزش دهانی	slang	new	blowjobs
 blown	(اسم مفعولِ blow) دمیده‌شده، وزیده | [adj.] (شیشه) دمیده؛ (فیوز) سوخته؛ ورم‌کرده، بادکرده؛ خسته، از نفس افتاده؛ (خودمانی) از دست رفته، به باد رفته	general	rewritten	
@@ -16881,7 +16881,7 @@ brazing atmosphere	[مهندسی] گاز محافظ جوش	engineering	normalize
 brazing solder	[مهندسی] زرد جوش سخت	engineering	normalized	
 brazing torch	[مهندسی] مشعل زرد جوش	engineering	normalized	
 brazing with copper	[معماری] مس جوش	architecture	normalized	
-brb	[عامیانه] abbr|be right back؛ الان برمی‌گردم (در پیام‌نویسی)	slang	new	
+brb	[کوته‌نوشت] be right back؛ الان برمی‌گردم (در پیام‌نویسی)	abbr,slang	new	
 breach	[n.] نقض، تخلف، قانون‌شکنی، شکستن (قرارداد، قانون) (breach of contract نقض قرارداد)؛ تجاوز به حقوق دیگران، نقض عهد؛ (امنیت) رخنه، نفوذ، نشت (security breach، data breach نشت اطلاعات)؛ شکاف، رخنه، سوراخ (در دیوار)؛ گسست، جدایی، شکرآب شدن (روابط)؛ (نظامی) نفوذ در خطوط دشمن | [v.] نقض کردن، زیر پا گذاشتن، نقض عهد کردن؛ رخنه کردن در، نفوذ کردن، شکاف ایجاد کردن، سوراخ کردن؛ (نهنگ) از آب بیرون پریدن	computing	rewritten	breached|breaches
 breaching	نفوذ در میدان مین، رخنه در میدان مین رخنه نفوذی، مواجه شدن با دشمن درگیری با دشمن	general	normalized	
 breach of a close	[حقوق] تجاوز به ملک دیگری	law	normalized	
@@ -16908,7 +16908,7 @@ bread and point	سیب زمینی و نانش برای خوردن و بقیه ا
 breadbasket	سبدنان، (مجازی) شکم، معده، ناحیه حاصلخیز	general	normalized	
 breadboard	تخته مدار، نمونه تابلویی	general	normalized	
 breadcrumb	[خوراک] خردهٔ نان، پودر سوخاری؛ (رایانه) مسیر راهنما	computing,food	new	breadcrumbs
-breadcrumbing	slang|سر کار گذاشتن عاطفی با پیام‌های گاه‌وبیگاه (عامیانه)	general	new	
+breadcrumbing	[عامیانه] سر کار گذاشتن عاطفی با پیام‌های گاه‌وبیگاه (عامیانه)	slang	new	
 breadfruit	میوه درخت نان	general	unchanged	
 bread knife	کارد نان بری	general	unchanged	
 breadmaker	دستگاه نان‌پز	general	new	breadmakers
@@ -17327,7 +17327,7 @@ bring forward	معرفی کردن، تولید کردن، نظر کردن به،
 bring home the bacon	نان‌آور خانه بودن	general	new	
 bring in	درآمد داشتن، عاید کردن؛ وارد ماجرا کردن، به کار گرفتن؛ وضع کردن (قانون) | وارد کردن، آوردن، سود بردن، امتیاز بدست آوردن در پایگاه	general	improved	
 bringing an action	[حقوق] اقامه دعوی	law	normalized	
-bring it on	slang|بیا جلو ببینم!، حاضرم! (عامیانه)	general	new	
+bring it on	[عامیانه] بیا جلو ببینم!، حاضرم! (عامیانه)	slang	new	
 bring off	بیرون بردن، از تهمت تبرئه شدن، به نتیجه موفقیت آمیزی رسیدن	general	normalized	
 bring on	باعث شدن، موجب (چیز ناخوشایند) شدن | ادامه دادن، جلورفتن، وادار به عمل کردن، بظهور رساندن	general	improved	
 bring out	بیرون دادن، منتشر کردن، به بازار آوردن؛ آشکار کردن، نمایان کردن (ویژگی) | خارج کردن، از اختفا بیرون آوردن، زاییدن	general	improved	
@@ -17709,7 +17709,7 @@ bryngelson-glapsy test	ازمون برینگلسون - گلاپسی	general	unch
 bryologist	خزه شناس	general	unchanged	
 bryology	علم خزه شناسی	general	unchanged	
 bryony	هزارچشان، فاشرا	general	normalized	
-bs	[عامیانه] abbr|bullshit؛ مزخرف، چرت‌وپرت (مؤدبانه‌ترِ یک واژهٔ رکیک)	slang	new	
+bs	[کوته‌نوشت] bullshit؛ مزخرف، چرت‌وپرت (مؤدبانه‌ترِ یک واژهٔ رکیک)	abbr	new	
 bsam	[رایانه] Basic Sequential Access Method روش دستیابی ترتیبی اساسی	computing	normalized	
 bsc	[رایانه] Binary Synchronous Communication ارتباطات هماهنگ دودویی | [آموزش] Bachelor of Science؛ کارشناسی (علوم)	computing,education	improved	bscs
 b-scan	[الکترونیک] ارائه ب	electronics	normalized	
@@ -17721,7 +17721,7 @@ bst	[کوته‌نوشت] British Summer Time؛ وقت تابستانی بریت
 btam	[رایانه] Basic Telecommunications Access Method روش دستیابی ارتباطات راه دور اساسی	computing	normalized	
 b.t.u.	[الکترونیک] واحد بریتانیایی گرما	electronics	normalized	
 btu	British thermal unit، واحد بریتانیایی گرما	general	normalized	btus
-btw	[عامیانه] by the way؛ (عامیانه) راستی، ضمناً	slang	new	
+btw	[عامیانه] by the way؛ (عامیانه) راستی، ضمناً	abbr,slang	new	
 bu	[ورزش] مبارزه	sports	normalized	
 bub	[عامیانه] (عامیانهٔ آمریکایی) داداش، رفیق، آقا (خطاب، گاهی با لحن تند)	slang	new	buber|bubs
 bubble	[n.] حباب، حباب هوا، آبسوار، کف؛ (بازرگانی و اقتصاد) حباب (اقتصادی، قیمتی) (housing bubble حباب مسکن)؛ (مجازی) اندیشهٔ پوچ، خیال واهی، طرح بی‌اساس؛ (مجازی) فضای بسته، محیط ایزوله (filter bubble)؛ (عکاسی، کمیک) بادکنک گفت‌وگو (speech bubble) | [v.] حباب زدن، حباب برآوردن، جوشیدن، قل‌قل زدن، جوشاندن؛ (مجازی) جوشیدن، خروشیدن، لبریز بودن از (bubble with excitement)؛ (bubble up) جوشیدن، بالا آمدن، بروز کردن؛ گفتن، بیان کردن	business	rewritten	bubbled|bubbler|bubbles|bubbling
@@ -21777,7 +21777,7 @@ centuplicate	صدبرابرکردن، صدبرابر، صدچندان	general	no
 centurian	[ورزش] بازیگر 100 امتیازی کریکت	sports	normalized	
 centurion	(روم قدیم) رئیس دسته صد نفر، یوزباشی | [تاریخ و باستان‌شناسی] سنتوریون، فرمانده صدنفری رومی	general,history	improved	centurions
 century	[n.] قرن، سده، صد سال؛ (کریکت) ۱۰۰ امتیاز یا بیشتر در یک بازی؛ (روم باستان) گروهان صدنفری، عدهٔ نظامی صدنفری؛ صدتایی	general	rewritten	centuries
-ceo	[بازرگانی و اقتصاد] Chief Executive Officer؛ مدیرعامل، مدیر اجرایی ارشد	business,general	new	ceos
+ceo	[بازرگانی و اقتصاد] Chief Executive Officer؛ مدیرعامل، مدیر اجرایی ارشد	abbr,business	new	ceos
 cephalad	بطور راسی، متمایل بطرف راس، متمایل بطرف سر	general	normalized	
 cephalalgia	سردرد	general	unchanged	
 cephalalgic	وابسته بسردرد، داروی سردرد	general	normalized	
@@ -22905,7 +22905,7 @@ chicken-fight	سد کردن پی در پی راه مدافع (فوتبال آم�
 chicken-hearted	بزدل، کم دل وجرات	general	normalized	
 chickenhearted	ترسو، بزدل، کمرو	general	normalized	
 chicken livered	کمرو، ترسو، بزدل	general	normalized	
-chicken out	slang|جا زدن، از ترس عقب کشیدن (عامیانه)	general	new	
+chicken out	[عامیانه] جا زدن، از ترس عقب کشیدن (عامیانه)	slang	new	
 chicken-pox	ابله مرغان	general	unchanged	
 chickenpox	[پزشکی] آبله‌مرغان	medicine	new	
 chick flick	(غیررسمی) فیلم زنانهٔ احساسی و عاشقانه	general	new	
@@ -23005,7 +23005,7 @@ children's literature	[ادبیات] ادبیات کودک	literature	new
 childrenswear	[پوشاک و نساجی] لباس بچگانه، پوشاک کودک	fashion	new	
 child seat	[حمل‌ونقل] صندلی کودک (خودرو)	transport	new	
 child study	کودک پژوهی	general	unchanged	
-child support	law|نفقهٔ فرزند	general	new	
+child support	[حقوق] نفقهٔ فرزند	law	new	
 chile	[n.] (Chile) شیلی (کشور)؛ (= chili / chilli) فلفل قرمز، فلفل تند، دارفلفل، گردفلفل؛ خوراک لوبیای پرادویه (chili con carne)	general	rewritten	chiles
 chilean	[جغرافیا] شیلیایی	geography	new	chileans
 chili	[خوراک] فلفل تند؛ خوراک لوبیا و گوشت تند | (= chile/chilli) دارفلفل، برباس، گردفلفل، خوراک لوبیای پر ادویه	food	improved	chilies|chilis
@@ -23022,7 +23022,7 @@ chilliness	سرماخوردگی، سردی	general	normalized
 chilling	سرد کننده	general	unchanged	chillingly
 chilling requirement	[کشاورزی و دامپزشکی] نیاز سرمایی	agriculture	new	
 chillness	خنکی، سرماخوردگی، چایمان	general	normalized	
-chill out	slang|آرام گرفتن، ریلکس کردن، بی‌خیال شدن (عامیانه)	general	new	
+chill out	[عامیانه] آرام گرفتن، ریلکس کردن، بی‌خیال شدن (عامیانه)	slang	new	
 chill pill	[عامیانه] (در take a chill pill) آرام بگیر، جوش نزن (عامیانه)	slang	new	
 chill space	محوطه سردخانه، محوطه سرد انبار	general	normalized	
 chilly	(= chilled) سرد، خنک	general	normalized	chillies|chillys
@@ -26346,7 +26346,7 @@ comention	هنجار پذیری	general	unchanged
 come of age	بالغ شدن	general	unchanged	
 come off	کنده شدن، جدا شدن؛ پاک شدن (لکه)؛ از آب درآمدن، جواب دادن؛ به نظر رسیدن | تحقق یافتن، وقوع یافتن، پایان مسابقه	general	improved	
 come on	یالا!، زود باش!؛ بی‌خیال!، دست بردار!؛ روشن شدن (چراغ)؛ پیش رفتن؛ شروع شدن	general	new	
-come on to	slang|نخ دادن به، به کسی پا دادن/پیله کردن (به قصد رابطه) (عامیانه)	general	new	
+come on to	[عامیانه] نخ دادن به، به کسی پا دادن/پیله کردن (به قصد رابطه) (عامیانه)	slang	new	
 come out	بیرون آمدن؛ منتشر شدن، به بازار آمدن؛ فاش شدن؛ گرایش جنسی خود را علنی کردن؛ پاک شدن (لکه)؛ از آب درآمدن	general	new	
 come out of one's shell	از لاک خود بیرون آمدن، یخ کسی آب شدن	general	new	
 come over	به خانهٔ کسی آمدن، سر زدن؛ (احساس) بر کسی چیره شدن | مسلط شدن بر	general	improved	
@@ -30719,7 +30719,7 @@ couch	[n.] کاناپه، مبل راحتی، نیمکت؛ تخت (مطب پزش
 couchant	دراز کشیده (مخصوصا حیوانات)، لمیده	general	normalized	
 couchgrass	چمن، مرغ	general	normalized	
 couching	یکجورقلاب دوزی	general	unchanged	
-couch potato	slang|آدم تنبلِ تلویزیون‌نشین، کسی که مدام روی مبل لم می‌دهد (عامیانه)	general	new	
+couch potato	[عامیانه] آدم تنبلِ تلویزیون‌نشین، کسی که مدام روی مبل لم می‌دهد (عامیانه)	slang	new	
 couch surfing	[عامیانه] کاناپه‌گردی، اقامت رایگان در خانهٔ این و آن	slang	new	
 cougar	[عامیانه] زن میانسالی که دنبال مردان جوان‌تر است (عامیانه) | [جانورشناسی] گربه وحشی پشمالو، یوزپلنگ آمریکایی	slang,zoology	improved	cougars
 cough	[n.] سرفه؛ (موتور) صدای سرفه‌مانند، جرقه، ریپ | [v.] سرفه کردن؛ (موتور) ریپ زدن، به سرفه افتادن؛ (cough up، عامیانه) به‌زور پرداختن، سلفیدن؛ (عامیانه) لو دادن، اعتراف کردن | (cough drop) قرص سرفه	general	rewritten	coughed|coughing|coughs
@@ -31506,7 +31506,7 @@ crasher	خرد کننده، ناخوانده	general	normalized	crashers
 crashing shot	[ورزش] شوت محکم	sports	normalized	
 crash land	سقوط کردن هواپیما	general	unchanged	
 crash locator beacon	برج اعلام سوانح دریایی، برج تعیین محل سوانح دریایی	general	normalized	
-crash out	slang|از خستگی بیهوش شدن، مثل جنازه افتادن و خوابیدن (عامیانه)	general	new	
+crash out	[عامیانه] از خستگی بیهوش شدن، مثل جنازه افتادن و خوابیدن (عامیانه)	slang	new	
 crash position indicator	[نظامی] برج اعلام محل وقوع سوانح دریایی برج مراقبت سوانح دریایی	military	normalized	
 crasis	ادغام (در دستور یونانی)	general	unchanged	
 crass	زمخت، درشت، کودن	general	normalized	
@@ -31698,7 +31698,7 @@ creeping of wattmeter	[الکترونیک] خزش وات سنج	electronics	norm
 creeping schizophrenia	اسکیزوفرنی خزنده	general	unchanged	
 creep lane	[مهندسی] مسیر خزش	engineering	normalized	
 creep limit	حد انبساط دائمی، حد خزش	general	normalized	
-creep out	slang|مورمور کردن، حس ناخوشایند و ترسناک به کسی دادن (عامیانه)	general	new	
+creep out	[عامیانه] مورمور کردن، حس ناخوشایند و ترسناک به کسی دادن (عامیانه)	slang	new	
 creep rate	[معماری] ضریب خزش	architecture	normalized	
 creep resistance	[مهندسی] مقاومت خزش	engineering	normalized	
 creep-resistant	[مهندسی] مقاوم در برابر خزش	engineering	normalized	
@@ -33243,7 +33243,7 @@ custodian	فرد یا سازمانی که مسئول نگهداری و تعمی�
 custodian of a pious foundation	متولی (موقوفه)، متولی	general	normalized	
 custodianship	تولیت (موقوفه)، سرایداری، تولیت	general	normalized	
 custodier	سرایدار، نگهبان، پاسبان	general	normalized	
-custody	[n.] حضانت، سرپرستی (فرزند)؛ بازداشت، توقیف، حبس؛ حفاظت، نگهداری، امانت، تحت‌الحفظ بودن؛ (نظامی) مسئولیت حفاظت، کنترل، انتقال و دسترسی به جنگ‌افزارها و اسناد آن‌ها | law|حضانت	general,law	rewritten	
+custody	[n.] حضانت، سرپرستی (فرزند)؛ بازداشت، توقیف، حبس؛ حفاظت، نگهداری، امانت، تحت‌الحفظ بودن؛ (نظامی) مسئولیت حفاظت، کنترل، انتقال و دسترسی به جنگ‌افزارها و اسناد آن‌ها	law	rewritten	
 custody battle	نزاع بر سر حضانت	general	new	
 custody of goods	[بازرگانی و اقتصاد] حفاظت یا نگهداری کالا	business	normalized	
 custom	[n.] رسم، سنت، عرف، عادت، آیین؛ (حقوق) عرف؛ (در جمع: customs) گمرک، حقوق گمرکی، عوارض گمرکی؛ (بریتانیا) مشتری بودن، خرید همیشگی، مشتریان | [adj.] سفارشی، اختصاصی، دلخواه (ساخته‌شده به سفارش)؛ عادتی، بر حسب عادت	general	rewritten	
@@ -33471,7 +33471,7 @@ cuvette	[شیمی] کووت (ظرف کوچک آزمایشگاهی طیف‌سن�
 cuvette rack	[شیمی] جاکووتی	chemistry	normalized	
 cuz	[عامیانه] (عامیانه) چون، چون‌که، واسه اینکه؛ پسرعمو، رفیق	slang	new	
 cuzco	[جغرافیا] کوسکو (شهری در پرو)	geography	new	
-cv	abbr|curriculum vitae؛ رزومه، کارنامهٔ تحصیلی و شغلی | [بازرگانی و اقتصاد] Curriculum Vitae، کارنامک، شرح سوابق	business,general	new	
+cv	[کوته‌نوشت] curriculum vitae؛ رزومه، کارنامهٔ تحصیلی و شغلی | [بازرگانی و اقتصاد] Curriculum Vitae، کارنامک، شرح سوابق	abbr,business	new	
 cva (cerebral vascular accident)	سانحه عروقی - مغزی	general	unchanged	cva
 cve	[رایانه] Common Vulnerabilities and Exposures؛ فهرست آسیب‌پذیری‌های شناخته‌شده	computing	new	
 cv joint	[حمل‌ونقل] سرپلوس	transport	new	
@@ -39793,7 +39793,7 @@ diwan	دیوان (شورای حکومتی یا مجموعه‌ی شعر)؛ نی�
 dixie	[جغرافیا] دیکسی (نام غیررسمی ایالت‌های جنوبی آمریکا)	geography	new	
 dixieland	[موسیقی] دیکسی‌لند (سبکی از جاز)؛ ایالت‌های جنوبی آمریکا	music	new	
 dixit	گفته، اظهار	general	normalized	
-diy	[کوته‌نوشت] do it yourself؛ خودت انجامش بده، کارِ دستیِ خانگی، خودساخته | [عامیانه] abbr|do it yourself، خودت انجام بده، کاردستی/تعمیرات خانگی به دست خود	abbr,slang	new	diyer
+diy	[کوته‌نوشت] do it yourself؛ خودت انجامش بده، کارِ دستیِ خانگی، خودساخته | [کوته‌نوشت] خودت انجام بده، کاردستی/تعمیرات خانگی به دست خود	abbr	new	diyer
 diy project	پروژهٔ خودساز، کار دستی تعمیرات	general	new	
 dizen	دسته یا بسته کتان وکنف، کتان را آماده کردن	general	normalized	
 dizygotic	(= fraternal) برادرانه، برادری، برادروار، دو تخمکی	general	normalized	
@@ -41534,8 +41534,8 @@ drop behind	عقب افتادن از، عقب ماندن	general	normalized
 drop by	سر زدن، سری زدن (بدون قرار قبلی)	general	improved	
 drop cap	[رایانه] حرف درشت اولین کلمه پاراگراف	computing	normalized	
 drop-curtain	پرده جلو صحنه	general	unchanged	
-drop dead	slang|ناگهان افتادن و مردن؛ (امری) برو بمیر! (عامیانه)	general	new	
-drop-dead gorgeous	slang|فوق‌العاده زیبا، نفس‌گیر (عامیانه)	general	new	
+drop dead	[عامیانه] ناگهان افتادن و مردن؛ (امری) برو بمیر! (عامیانه)	slang	new	
+drop-dead gorgeous	[عامیانه] فوق‌العاده زیبا، نفس‌گیر (عامیانه)	slang	new	
 drop dead halt	[رایانه] توقفی که نمی توان آن را مورد پوشش قرار داد	computing	normalized	
 dropdown	[رایانه] (منوی) کشویی، بازشو | [رایانه] فهرست کشویی، منوی بازشو	computing	new	dropdowns
 drop earrings	[پوشاک و نساجی] گوشوارهٔ آویز	fashion	new	
@@ -45845,7 +45845,7 @@ entrenchment	سنگربندی	general	unchanged
 entre nous	بین خودمان بماند، میان خودمان	general	new	
 entrepot	انبارکالا، انبارموقتی، مرکزبازرگانی	general	normalized	
 entrepremership	[حقوق] اداره و سازماندهی فعالیتهای تجاری یا مقاطعه کاری	law	normalized	
-entrepreneur	[n.] کارآفرین؛ مؤسس شرکت، بنیان‌گذار، پیش‌قدم در تأسیس؛ کارفرمای اقتصادی، مدیر یک مؤسسهٔ اقتصادی بزرگ؛ مقاطعه‌کار؛ مدیر متهور، مدیر باتهور؛ کارگشا | (بازرگانی و اقتصاد) کارآفرین | business|کارآفرین	business,computing,general	rewritten	entrepreneurs
+entrepreneur	[n.] کارآفرین؛ مؤسس شرکت، بنیان‌گذار، پیش‌قدم در تأسیس؛ کارفرمای اقتصادی، مدیر یک مؤسسهٔ اقتصادی بزرگ؛ مقاطعه‌کار؛ مدیر متهور، مدیر باتهور؛ کارگشا | (بازرگانی و اقتصاد) کارآفرین	business,computing	rewritten	entrepreneurs
 entrepreneurial	[بازرگانی و اقتصاد] کارآفرینانه، مربوط به کارآفرینی	business	new	
 entrepreneurship	[بازرگانی و اقتصاد] کارآفرینی | کارافرینی، کارفرمائی	business	improved	
 entresol	طبقه میان طبقه اول عمارت وطبقه‌ای که باکف زمین برابراست	general	normalized	
@@ -52182,7 +52182,7 @@ fix up	تعمیر و روبه‌راه کردن؛ ترتیب دادن؛ برای
 fizgig	فیشفیشه، موشک، یکجورفرفره، زن د دری	general	normalized	
 fizz	صدای فش فش، گاز مشروبات، چابگی، سرزندگی، هیجان داشتن، (در مورد مشروب گازدار) گاز داشتن	general	normalized	fizzing
 fizzle	فش فش، زرزر، وزوز (صدای هیزم تر هنگام سوختن)، کوشش مذبوحانه، شکست، زه زدن	general	normalized	fizzled|fizzles
-fizzle out	slang|کم‌کم خاموش شدن، بی‌سروصدا تمام شدن، فس‌فس کردن و مردن (عامیانه)	general	new	
+fizzle out	[عامیانه] کم‌کم خاموش شدن، بی‌سروصدا تمام شدن، فس‌فس کردن و مردن (عامیانه)	slang	new	
 fizzy	جوش زننده، جوشنده، کف کننده	general	normalized	
 fizzy drink	[خوراک] نوشابهٔ گازدار (بریتانیایی)	food	new	
 fjeld	فلات مرتفع وصخره داری که تقریبا هیچ درختی نداشته باشد	general	unchanged	
@@ -52267,7 +52267,7 @@ flail tank	تانک غلطک دار ضد مین، تانک ضد مین	general	n
 flair	شامه سگ، بویایی، (مجا) قوه تشخیص، فراست، استعداد، خصیصه	general	normalized	flairs
 flak	گلوله خودترکان ضد هوایی، توپ پدافند هوایی، توپخانه ضد هوایی، توپخانه پدافند هوایی	general	normalized	flaked|flaking
 flake	پولک، تکه کوچک (برف وغیره)، ورقه، فلس، جرقه، پوسته پوسته شدن، ورد امدن (با out یا) up، برفک زدن تلویزیون، گیره | [تاریخ و باستان‌شناسی] تراشهٔ سنگی، ورقهٔ سنگی (در ابزارسازی) | [عامیانه] (عامیانه) بدقول، آدم غیرقابل‌اعتماد؛ (flake on someone) سر قرار نرفتن، زیر قول زدن	general,history,slang	improved	flaked|flaking
-flake out	slang|بدقولی کردن، دقیقهٔ آخر جا زدن؛ از خستگی ولو شدن (عامیانه)	general	new	
+flake out	[عامیانه] بدقولی کردن، دقیقهٔ آخر جا زدن؛ از خستگی ولو شدن (عامیانه)	slang	new	
 flaker	تنکه کار، آلت تنکه کردن، سنگ چخماق	general	normalized	
 flakes	پولک‌ها، فلس‌ها	general	normalized	
 flake-white	سفیداب شیخ، سفیداب سرب	general	normalized	
@@ -52803,7 +52803,7 @@ flip chart	فلیپ‌چارت (تخته‌ای با ورق‌های کاغذی 
 flip flap	یکجورترقه یا آتش بازی، پشتک، معلق	general	normalized	
 flip-flop	[ورزش] نیم وارو	sports	normalized	
 flip-flops	دمپایی لاانگشتی	general	new	
-flip out	slang|قاطی کردن، از کوره در رفتن، دیوانه شدن (عامیانه)	general	new	
+flip out	[عامیانه] قاطی کردن، از کوره در رفتن، دیوانه شدن (عامیانه)	slang	new	
 flippancy	سبکی، گستاخی، بی‌ملاحظگی، چرب زبانی	general	normalized	
 flippant	پرحرف، گستاخ	general	normalized	
 flippantly	گستاخانه، ازروی سبکی	general	normalized	
@@ -53616,7 +53616,7 @@ fomalhaut	فم الحوت، دهان ماهی	general	normalized
 foment	برانگیختن، پروردن، تحریک کردن	general	normalized	fomented|fomenting
 fomentation	تحریک، ترویج	general	normalized	
 fomenter	محرک، مفتن، برانگیزنده	general	normalized	
-fomo	[عامیانه] abbr|fear of missing out؛ ترس از جا ماندن (از تجربه‌ها و خبرها) | [عامیانه] Fear Of Missing Out، فومو | [عامیانه] fear of missing out، هراس از دست دادن	slang	new	
+fomo	[کوته‌نوشت] fear of missing out؛ ترس از جا ماندن (از تجربه‌ها و خبرها) | [عامیانه] Fear Of Missing Out، فومو	abbr,slang	new	
 fond	[adj.] (be fond of) علاقه‌مند، دوستدار، مایل، شیفته، مشتاق، خواهان، انس‌گرفته؛ مهربان، بامحبت، عاشقانه؛ (خاطره) شیرین، خوش؛ (امید) ساده‌لوحانه، واهی	general	rewritten	fonder|fondest|fonds
 fondant	شیرینی ای که در دهان آب می‌شود	general	normalized	
 fondle	نوازش کردن، ناز ونیاز کردن	general	normalized	fondled|fondles
@@ -53706,7 +53706,7 @@ footage	[n.] تصاویر، فیلم، صحنه‌های فیلم‌برداری
 foot-and-mouth	یکجور ناخوشی واگیردار با تب در جانوران شاخدار	general	unchanged	
 foot and mouth disease	[کشاورزی و دامپزشکی] تب برفکی	agriculture	new	
 foot-and-mouth disease	[کشاورزی و دامپزشکی] تب برفکی	agriculture	new	
-football	[n.] فوتبال؛ (امریکا) فوتبال امریکایی؛ توپ فوتبال | [v.] فوتبال بازی کردن | sports|فوتبال (بریتانیایی)؛ فوتبال آمریکایی (در آمریکا)	general	rewritten	footballing|footballs
+football	[n.] فوتبال؛ (امریکا) فوتبال امریکایی؛ توپ فوتبال | [v.] فوتبال بازی کردن	sports	rewritten	footballing|footballs
 football boots	(بریتانیایی) کفش فوتبال، کفش استوک‌دار	general	new	
 footballer	فوتبال بازی کن	general	unchanged	footballers
 football hooliganism	[ورزش] هولیگانیسم، اوباشی‌گری هواداران فوتبال	sports	new	
@@ -54426,7 +54426,7 @@ for publicity purposes	به منظور تبلیغ	general	unchanged
 for purposes of	از نظر، از لحاظ	general	normalized	
 forrader	(= forrarder) جلوتر، پیشتر	general	normalized	
 forrarder	(= forrader) جلوتر، پیشتر	general	normalized	
-for real	slang|جدی، واقعاً؛ جدی می‌گی؟ (عامیانه)	general	new	
+for real	[عامیانه] جدی، واقعاً؛ جدی می‌گی؟ (عامیانه)	slang	new	
 for reasons	به چندین دلیل	general	unchanged	
 forrel	یکجور پوست که برای جلد کردن دفترهای حساب بکار می‌رود	general	normalized	
 for rent	(آمریکایی) اجاره‌ای، برای اجاره (روی تابلو)	general	new	
@@ -55019,7 +55019,7 @@ freaking	[عامیانه] (عامیانه) لعنتی، کوفتی؛ خیلی، 
 freakish	عجیب وغریب، دمدمی، بوالهوس، متلون	general	normalized	
 freakishly	ازروی بوالهوسی، بطورعجیب وغریب، بوالهوسانه	general	normalized	
 freakishness	بوالهوسی	general	unchanged	
-freak out	slang|وحشت کردن، هول کردن، قاطی کردن؛ کسی را به وحشت انداختن (عامیانه)	general	new	
+freak out	[عامیانه] وحشت کردن، هول کردن، قاطی کردن؛ کسی را به وحشت انداختن (عامیانه)	slang	new	
 freaks of nature	غرائب طبیعت	general	unchanged	
 freaky	بوالهوس، دمدمی، غریب (وعجیب)	general	normalized	
 freckle	لکه، لک صورت، خال، دارای کک مک کردن، خالدار شدن	general	normalized	freckled|freckles
@@ -55603,7 +55603,7 @@ friendly society	انجمن تعاونی) که اعضای آن همدیگر را
 friendly state	کشور دوست، کشور خودی	general	normalized	
 friendship	[n.] دوستی، رفاقت، مودت؛ آشنایی؛ رابطهٔ دوستانه	general	rewritten	friendships
 friends with benefits	[عامیانه] دوستانی که بدون تعهد عاطفی رابطهٔ جنسی دارند (عامیانه)	slang	new	
-friend zone	slang|محدودهٔ «فقط دوست» (وقتی یکی عاشق است و دیگری او را فقط دوست می‌داند) (عامیانه)	general	new	
+friend zone	[عامیانه] محدودهٔ «فقط دوست» (وقتی یکی عاشق است و دیگری او را فقط دوست می‌داند) (عامیانه)	slang	new	
 friendzone	[عامیانه] (عامیانه) فرندزون کردن، فقط به چشم دوست نگاه کردن (به کسی که عاشق است)	slang	new	
 frier	(= fryer) ماهی تابه، سرخ کننده	general	normalized	
 fries	[خوراک] سیب‌زمینی سرخ‌کرده (آمریکایی)	food	new	
@@ -56171,7 +56171,7 @@ full nelson	[ورزش] (کشتی) نلسون کامل (قفل کردن گردن 
 fullness	پری، سیری	general	normalized	
 full of beans	(محاوره) سرحال و پرانرژی، سرزنده	general	new	
 full offence	[حقوق] جرم تام	law	normalized	
-full of it	slang|چرت‌وپرت‌گو، خالی‌بند (عامیانه)	general	new	
+full of it	[عامیانه] چرت‌وپرت‌گو، خالی‌بند (عامیانه)	slang	new	
 full of life	باروح، سر زنده، پر جمعیت	general	normalized	
 full of oneself	ازخودراضی، خودشیفته	general	new	
 full of resource	(بسیار) کاردان، باتدبیر، زرنگ	general	normalized	
@@ -56658,7 +56658,7 @@ fwiw	[عامیانه] (عامیانه، اینترنتی) هرچند شاید م
 fy	[interj.] (= fie، قدیمی) اف، تف، وای، شرم بر تو | (کوتاه‌شدهٔ fiscal year) سال مالی	general	rewritten	
 fye	اف، تف، وای	general	normalized	fying
 f.year old	پنج ساله	general	unchanged	
-fyi	[کوته‌نوشت] For Your Information؛ جهت اطلاع، محض اطلاع شما | [عامیانه] abbr|for your information، محض اطلاع	abbr,slang	new	
+fyi	[کوته‌نوشت] For Your Information؛ جهت اطلاع، محض اطلاع شما | [کوته‌نوشت] for your information، محض اطلاع	abbr	new	
 fyke	دام کیسه‌ای، کیسه ماهی گیری	general	normalized	
 fylfot	صلیب شکسته (swastika)	general	unchanged	
 fyp	[عامیانه] (عامیانه، اینترنتی) صفحهٔ پیشنهادی (در شبکه‌های ویدئوی کوتاه) (کوتاه‌شدهٔ for you page)	slang	new	
@@ -57368,9 +57368,9 @@ gas level	[مهندسی] سطح بنزین	engineering	normalized
 gas level gauge	[مهندسی] دستگاه اندازه گیری سطح بنزین	engineering	normalized	
 gas lever	میله گاز (جنگ افزار)، میله گاز	general	normalized	
 gas light	نور یا روشنایی گازی، چراغ گازی	general	normalized	
-gaslight	[روان‌شناسی] با فریب و انکار، کسی را به عقل و ادراک خودش بدگمان کردن | [روان‌شناسی] با دست‌کاری روانی به تردید در عقل خود واداشتن | psychology|کسی را با فریب به شک در عقل و حافظهٔ خودش انداختن | چراغ گاز، روشنایی گاز، گاز سوز، شعله گاز	general,psychology	improved	
+gaslight	[روان‌شناسی] با فریب و انکار، کسی را به عقل و ادراک خودش بدگمان کردن | [روان‌شناسی] با دست‌کاری روانی به تردید در عقل خود واداشتن | [روان‌شناسی] کسی را با فریب به شک در عقل و حافظهٔ خودش انداختن | چراغ گاز، روشنایی گاز، گاز سوز، شعله گاز	psychology	improved	
 gas lighter	[الکترونیک] فندک گاز | فندک گازی، آتش زنه مخلوط گاز	electronics	normalized	
-gaslighting	psychology|فریب روانی (واداشتن کسی به شک در درک و حافظهٔ خودش)، گس‌لایتینگ	general,psychology	new	
+gaslighting	[روان‌شناسی] فریب روانی (واداشتن کسی به شک در درک و حافظهٔ خودش)، گس‌لایتینگ	psychology	new	
 gas line	لوله گاز، خط گاز	general	normalized	
 gas liquefaction	[مهندسی] گدازش گاز	engineering	normalized	
 gas-liquid chromatography	[شیمی] کروماتوگرافی گاز - مایع	chemistry	normalized	
@@ -58385,7 +58385,7 @@ get across	رساندن، فهماندن (منظور) | حالی کردن، فه
 get a grip	خود را کنترل کردن، به خود مسلط شدن	general	new	
 get ahead	پیش افتادن، ترقی کردن | جلو افتادن، پیش رفتن	general	improved	
 get a kick out of	کیف کردن از، حال کردن با	general	new	
-get a life	slang|برو پی زندگی‌ات!، بیکاری؟ (عامیانه)	general	new	
+get a life	[عامیانه] برو پی زندگی‌ات!، بیکاری؟ (عامیانه)	slang	new	
 get along	با هم کنار آمدن، سازگار بودن، آبشان در یک جوی رفتن؛ گذران کردن؛ پیش رفتن | گذران کردن، بسر بردن	general	improved	
 get a long with you	بروپی کارت	general	unchanged	
 get a move on	بجنب، زودباش، بشتاب	general	normalized	
@@ -58451,7 +58451,7 @@ get out of hand	از کنترل خارج شدن، افسار کار از دست 
 get over	فراموش کردن، کنار آمدن با (غم، شکست)؛ بهبود یافتن از؛ غلبه کردن بر | فایق آمدن بر، (از سر خود) رفع کردن، طی کردن، از روی چیزی گذشتن، به پایان رساندن	general	improved	
 get over with	(کار ناخوشایندی را) زودتر تمام کردن و از شرش خلاص شدن	general	new	
 get ready	آماده کردن، آماده شدن، حاضر کردن، حاضر شدن، حاضر کردن یا شدن	general	normalized	
-get real	slang|واقع‌بین باش!، خواب دیدی خیر باشد! (عامیانه)	general	new	
+get real	[عامیانه] واقع‌بین باش!، خواب دیدی خیر باشد! (عامیانه)	slang	new	
 get rid of	از شر چیزی خلاص شدن، دور انداختن، دک کردن	general	new	
 get round	از سر خود وا کردن، پیش دستی کردن بر، قلق (کسی را) بدست آوردن	general	normalized	
 get round the law	با کلاه شرعی از اجرای قانون طفره رفتن، با کلاه شرعی از اجرای قانون طفره رفتن کلاه شرعی سر چیزی گذاشتن	general	normalized	
@@ -58626,7 +58626,7 @@ gigantic	غول پیکر	general	unchanged
 gigantic building	ساختمان غول پیکر، ساختمان بسیار بزرگ	general	normalized	
 gigantism	غول پیکری، رشد غیر عادی	general	normalized	
 gigas	[گیاه‌شناسی] دارای ساقه ضخیم تر، رویش بلند تر، برگهای ضخیم تر و تیره تر	botany	normalized	
-gig economy	business|اقتصاد کارهای موقت و پروژه‌ای | [بازرگانی و اقتصاد] اقتصاد گیگ، اقتصاد کارهای موقت و پروژه‌ای	business,general	new	
+gig economy	[بازرگانی و اقتصاد] اقتصاد کارهای موقت و پروژه‌ای	business	new	
 gigging	[مهندسی] پره دار	engineering	normalized	
 giggle	با خنده اظهار داشتن، با نفس بریده بریده (دراثرخنده) سخن گفتن، ول خندیدن	general	normalized	giggled|giggles|giggling
 giggly	خنده‌رو، مدام در حال ریزخندیدن	general	new	
@@ -58752,7 +58752,7 @@ giuoco piano	[ورزش] جوئوکو پیانو در بازی شطرنج ایت�
 give	[v.] دادن (به)؛ بخشیدن، اهدا کردن، هدیه دادن؛ واگذار کردن، تحویل دادن؛ پرداخت کردن؛ ارائه دادن، عرضه کردن، به معرض نمایش گذاشتن؛ رساندن، منتقل کردن؛ اختصاص دادن، تخصیص دادن؛ نسبت دادن به؛ بیان کردن، شرح دادن؛ برگزار کردن (مهمانی)؛ فدا کردن؛ (صدا، فریاد) سر دادن، برآوردن؛ تاب نیاوردن، وا دادن، فرو ریختن، کش آمدن؛ افکندن؛ (سیاست) تقاضای رأی | [n.] انعطاف، کشسانی، جای بازی؛ دهش	general	rewritten	gives
 give a bribe to	[حقوق] رشوه دادن به	law	normalized	
 give a catch	[ورزش] زدن ضربه‌ای که ممکن است بل گرفته شود	sports	normalized	
-give a damn	slang|اهمیت دادن (معمولاً در نفی: به هیچ جا نگرفتن) (عامیانه)	general	new	
+give a damn	[عامیانه] اهمیت دادن (معمولاً در نفی: به هیچ جا نگرفتن) (عامیانه)	slang	new	
 give-and-go	[ورزش] یک - دو	sports	normalized	
 give and take	داد و ستد	general	unchanged	
 give an example	سرمشق شدن	general	unchanged	
@@ -58792,7 +58792,7 @@ give it a try	امتحان کردن	general	new
 give it a twist	آنرا پیچ بدهید	general	normalized	
 give it a whirl	امتحانش کردن، یک دستی به آن زدن	general	new	
 give it a wipe	انراخشک کنید	general	unchanged	
-give me a break	slang|دست بردار!، ول کن بابا!؛ یه کم مهلت بده (عامیانه)	general	new	
+give me a break	[عامیانه] دست بردار!، ول کن بابا!؛ یه کم مهلت بده (عامیانه)	slang	new	
 give my r. s to him	سلام مرابه او برسانید	general	unchanged	
 given	[adj.] معین، مشخص، معلوم؛ مفروض، مسلم؛ داده‌شده، اعطاشده؛ (با to) معتاد، خوگرفته، مبتلا، متمایل | [prep.] با توجه به، با در نظر گرفتن، به فرضِ | [n.] امر مسلم، فرض مسلم، داده (= datum) | [v.] (اسم مفعولِ give) داده	general	rewritten	givens
 given above	مزبور، بالاگفته شده، سابق الذکر	general	normalized	
@@ -59426,7 +59426,7 @@ go back to the drawing board	از صفر شروع کردن، برگشتن سر �
 go bad	ضایع شدن، خراب شدن	general	normalized	
 go bail	کفیل شدن، کفالت کردن	general	normalized	
 go bail for someone	کفالت کسی را کردن، کفیل کسی شدن	general	normalized	
-go bananas	slang|قاطی کردن، دیوانه شدن (عامیانه)	general	new	
+go bananas	[عامیانه] قاطی کردن، دیوانه شدن (عامیانه)	slang	new	
 gobang	یکجوربازی ژاپنی که روی صفحه شطرنجی بازی می‌شود	general	normalized	
 go bankrupt	[حقوق] ورشکست شدن	law	normalized	
 go baseline	[ورزش] حرکت کردن در امتداد خط پایانی برای دریافت پاس	sports	normalized	
@@ -59722,7 +59722,7 @@ gonorrhea	سوزاک، سوزنک، اتشک	general	normalized
 gonorrheal	سوزاکی	general	unchanged	
 gonorrhoea	سوزاک، سوزنک، اتشک	general	normalized	
 gonorrhoeal	سوزاکی، سوزنکی	general	normalized	
-go nuts	slang|قاطی کردن، دیوانه شدن؛ از خوشحالی بال درآوردن (عامیانه)	general	new	
+go nuts	[عامیانه] قاطی کردن، دیوانه شدن؛ از خوشحالی بال درآوردن (عامیانه)	slang	new	
 gonzo	[عامیانه] گونزو (روزنامه‌نگاری شخصی و اغراق‌آمیز)؛ (عامیانه) عجیب‌وغریب، دیوانه‌وار	slang	new	
 goo	مزه و طعم تند، بوی نامطبوع، میل، ذوق، رغبت، ماده چسبنده و لزج، چسبناک	general	normalized	goos
 goober	[عامیانه] (عامیانه، آمریکایی) بادام‌زمینی؛ آدم ساده‌لوح	slang	new	
@@ -59854,11 +59854,11 @@ goody-goody	[عامیانه] بچه‌مثبت (طعنه‌آمیز) (عامیا
 goody two-shoes	[عامیانه] (عامیانه) بچه‌مثبت، آدم زیادی مثبت و خودشیرین	slang	new	
 gooey	چسبنده، چسبناک، کاملا احساساتی	general	normalized	
 goof	[عامیانه] سوتی، اشتباه احمقانه؛ خنگ‌بازی درآوردن (عامیانه) | شخص احمق و کودن، آدم ساده، سهو، اشتباه کردن، خطا کردن، ازکارطفره رفتن	slang	improved	goofed|goofing|goofs
-goof around	slang|مسخره‌بازی درآوردن، وقت‌گذرانی کردن (عامیانه)	general	new	
+goof around	[عامیانه] مسخره‌بازی درآوردن، وقت‌گذرانی کردن (عامیانه)	slang	new	
 goofball	[عامیانه] (عامیانه) خل‌وچل، آدم مسخره و بامزه	slang	new	
 go off	منفجر شدن، شلیک شدن؛ به صدا درآمدن (زنگ، آژیر)؛ خاموش شدن؛ فاسد شدن (غذا)؛ از کوره در رفتن | در رفتن (تفنگ)، بیرون رفتن (از صحنه نمایش)، آب شدن، فاسد شدن، مردن	general	improved	
 go off the deep end	از کوره در رفتن، قاطی کردن	general	new	
-goof off	slang|از زیر کار در رفتن، ول گشتن (عامیانه)	general	new	
+goof off	[عامیانه] از زیر کار در رفتن، ول گشتن (عامیانه)	slang	new	
 goofy	[عامیانه] خل‌وچل، مسخره، بامزه و دست‌وپاچلفتی (عامیانه)	slang	new	
 goofy foot	[ورزش] موج سواری که بجای پای چپ پای راست را روی تخته بجلو می‌گذارد	sports	normalized	
 google	[n.] (Google) گوگل، موتور جست‌وجوی اینترنتی گوگل؛ شرکت گوگل | [v.] گوگل کردن، در اینترنت (با گوگل) جست‌وجو کردن	computing	rewritten	googled|googler|googles|googling
@@ -61265,7 +61265,7 @@ gross national product (gnp)	تولید ناخالص ملی، محصول ناخ�
 gross national quality	[زیست‌شناسی] کیفیت ناخالص ملی	biology	normalized	
 gross negligence	تقصیر در نگهداری مال، اشتباهات کلی ناشی از بی‌دقتیها بی‌دقتی کلی، اهمال فاحش، تعدی و تفریط، اشتباه دقت کلی	general	normalized	
 grossness	درشتی، برجستگی، خشونت، کلفتی، کودنی	general	normalized	
-gross out	slang|حال کسی را به هم زدن، چندش‌آور بودن برای (عامیانه)	general	new	
+gross out	[عامیانه] حال کسی را به هم زدن، چندش‌آور بودن برای (عامیانه)	slang	new	
 gross primary product	[زیست‌شناسی] تولید ناخالص نخستین	biology	normalized	
 gross primary productivity	[علوم زمین و محیط زیست] تولید ناخالص اولیه	earth	new	
 gross product per capita	تولید ناخالص سرانه	general	unchanged	
@@ -62956,7 +62956,7 @@ hang off	hang back (رهاکردن، عقب کشیدن، پس زدن، مکث ک
 hang on	صبر کردن، گوشی را نگه داشتن؛ محکم گرفتن؛ دوام آوردن | سماجت ورزیدن، ادامه دادن، دوام داشتن، ثابت قدم بودن	general	improved	
 hang on to	نگه داشتن، از دست ندادن، چسبیدن به	general	new	
 hang on to something	بچیزی چسبیدن، در چیزی خوب دقت کردن	general	normalized	
-hang out	slang|وقت گذراندن، با هم بودن و خوش گذراندن، پلکیدن (عامیانه)؛ پهن کردن (رخت) | محل اویختن چیزی (مثل رجه)، میعادگاه، اویختن، سماجت ورزیدن، مسکن کردن، والمیدن	general	improved	
+hang out	[عامیانه] وقت گذراندن، با هم بودن و خوش گذراندن، پلکیدن (عامیانه)؛ پهن کردن (رخت) | محل اویختن چیزی (مثل رجه)، میعادگاه، اویختن، سماجت ورزیدن، مسکن کردن، والمیدن	slang	improved	
 hangout	[عامیانه] پاتوق؛ دورهمی	slang	new	hangouts
 hang out the laundry	[ورزش] آزاد کردن چتر عقب پس از عبور از خط پایان	sports	normalized	
 hang over	اثر باقی مانده، اثر باقی از هر چیزی، حالت خماری	general	normalized	
@@ -63479,7 +63479,7 @@ havana	سیگاربرگی که درهاوانایا cuba درست می‌کنن�
 havanese	[جانورشناسی] هاوانیز (نژاد سگ کوچک کوبایی)	zoology	new	
 have	[v.] داشتن، دارا بودن، مالک بودن؛ (فعل کمکی برای ساخت زمان‌های کامل)؛ (با to) مجبور بودن، ناگزیر بودن، باید؛ خوردن، نوشیدن، صرف کردن؛ گذراندن، تجربه کردن؛ به دست آوردن، دریافت کردن، گرفتن؛ وادار کردن، باعث انجام کاری شدن، دادن (کاری را انجام دهند)؛ به دنیا آوردن؛ عقیده داشتن، دانستن؛ گذاشتن، اجازه دادن؛ جلب کردن، رسیدن به | [n.] دارا، ثروتمند، دارنده، مالک	general	rewritten	haveing|haver|haves|having
 have a ball	حسابی خوش گذراندن	general	new	
-have a blast	slang|حسابی خوش گذراندن، کیف کردن (عامیانه)	general	new	
+have a blast	[عامیانه] حسابی خوش گذراندن، کیف کردن (عامیانه)	slang	new	
 have a bone to pick	بهانه برای دعوا یا شکایت پیدا کردن	general	unchanged	
 have a crush on	به کسی (پنهانی) دل بستن، خاطرخواه کسی بودن	general	new	
 have a field day	حسابی کیف کردن، فرصت را غنیمت شمردن (برای انتقاد یا سوءاستفاده)	general	new	
@@ -66414,7 +66414,7 @@ hitmen	(جمعِ hitman) آدمکشان مزدور، قاتلان اجیر	gener
 hit me up	[عامیانه] (عامیانه) بهم پیام بده، بهم زنگ بزن، خبرم کن	slang	new	
 hit not valid	[ورزش] ضربه بی‌ارزش شمشیرباز	sports	normalized	
 hit off	هم آهنگ بودن، هم عقیده شدن	general	normalized	
-hit on	slang|نخ دادن به، مخ کسی را زدن، لاس زدن با (عامیانه)؛ به فکر تازه‌ای رسیدن	general	new	
+hit on	[عامیانه] نخ دادن به، مخ کسی را زدن، لاس زدن با (عامیانه)؛ به فکر تازه‌ای رسیدن	slang	new	
 hit on the fly printer	[رایانه] چاپگری که در آن کاغذ و یا مکانیزم چاپ در حالت ثابتی هستند به نحوی که شروع و توقفی مورد نیاز نمی‌باشد	computing	normalized	
 hit or miss	برحسب تصادف، اتفاقا، تصادفا	general	normalized	
 hit ratio	[رایانه] نسبت اصابت	computing	normalized	
@@ -67070,7 +67070,7 @@ hook's law	قانون هوک، تغییر شکل یک جسم الاستیک در
 hook spanner	[مهندسی] کلید چنگالی	engineering	normalized	
 hook switch	[الکترونیک] کلید ثقلی	electronics	normalized	
 hook tackle	[ورزش] تکل از پشت	sports	normalized	
-hook up	slang|رابطهٔ جنسی سرسری داشتن، با هم خوابیدن؛ با کسی جور شدن (عامیانه)؛ وصل کردن (دستگاه)؛ برای کسی چیزی جور کردن	general	new	
+hook up	[عامیانه] رابطهٔ جنسی سرسری داشتن، با هم خوابیدن؛ با کسی جور شدن (عامیانه)؛ وصل کردن (دستگاه)؛ برای کسی چیزی جور کردن	slang	new	
 hook-up	[الکترونیک] نقشه آویزان	electronics	normalized	
 hookup	[عامیانه] رابطهٔ جنسی سرسری و بدون تعهد (عامیانه) | تجمع بعضی چیزها برای منظورخاصی (مثل تجمع امواج رادیوبرای انتقال آنها)، ارتباط	slang	improved	hookups
 hookworm	[جانورشناسی] کرم قلاب دار، نوعی کرم روده	zoology	normalized	
@@ -67677,7 +67677,7 @@ hpc	[رایانه] high-performance computing؛ رایانش با کارایی �
 hp laserjet	[رایانه] LaserJet	computing	normalized	
 hplc	[شیمی] high-performance liquid chromatography؛ کروماتوگرافی مایع با کارایی بالا	chemistry	new	
 hpv	[پزشکی] Human Papillomavirus؛ ویروس پاپیلومای انسانی، اچ‌پی‌وی	medicine	new	
-hr	abbr|human resources؛ منابع انسانی، کارگزینی	business,general	new	
+hr	[کوته‌نوشت] human resources؛ منابع انسانی، کارگزینی	abbr,business	new	
 h-r diagram	[نجوم] نمودار اچ . ار	astronomy	normalized	
 hrs	[کوته‌نوشت] hours؛ ساعت‌ها	abbr	new	
 hrt	[پزشکی] hormone replacement therapy؛ هورمون‌درمانی جایگزین	medicine	new	
@@ -69074,7 +69074,7 @@ idiotism	سفاهت، حماقت، جهالت، بی‌خبری	general	normaliz
 idiotropic	درون نگر	general	unchanged	
 idiot savant	کانای هوشمندنما	general	unchanged	
 i-display	[الکترونیک] ارائه‌ای	electronics	normalized	
-idk	[عامیانه] abbr|i don't know؛ نمی‌دانم (در پیام‌نویسی)	slang	new	
+idk	[کوته‌نوشت] i don't know؛ نمی‌دانم (در پیام‌نویسی)	abbr	new	
 idle	آزاد گشتن، بیکار شدن، بی‌بار شدن در حال سکون، ساکن، استراحت (به سبب نداشتن حریف)، بیکار، بیهوده، بیخود، بی‌اساس، بی‌پروپا، وقت گذراندن، وقت تلف کردن، تنبل شدن، بی‌بار، درجاکار، استراحت، هرزگردی | [حمل‌ونقل] درجا کار کردن موتور، دور آرام	general,transport	improved	idled|idles
 idle balance	مانده بیکار، مانده راکد، مانده غیرفعال	general	normalized	
 idle bar	[مهندسی] میله کور	engineering	normalized	
@@ -69873,7 +69873,7 @@ immusical	ناجور، نا موزون، خارج از قواعد موسیقی،
 immutability	تغییر ناپذیری، پا بر جایی، ثبات	general	normalized	
 immutable	تغییرناپذیر	computing	improved	
 immutably	بطور تغییر ناپذیر	general	unchanged	
-imo	[عامیانه] in my opinion؛ (اینترنتی) به نظر من	slang	new	
+imo	[عامیانه] in my opinion؛ (اینترنتی) به نظر من	abbr,slang	new	
 imp	بچه شریر و شیطان، جنی، مرد جوان، وصله، پیوند زدن، قلمه زدن (گیاه)، غرس کردن، افزودن، تکه دادن، تعمیر کردن، مجهز کردن، آزار دادن، مسخره کردن	general	normalized	imps
 impact	[n.] تأثیر، اثر، اثر شدید؛ برخورد، اصابت، ضربه، ضربت، تصادم، تماس، فشار؛ (نظامی) اصابت گلوله، نشانزد، ترکش انفجار | [v.] تأثیر گذاشتن بر، اثر گذاشتن؛ برخورد کردن با، با شدت اصابت کردن، ضربه زدن؛ به هم فشردن، محکم جا دادن، زیر فشار قرار دادن، چپاندن؛ (قدیمی) با شدت ادا کردن	general	rewritten	impacting|impacts
 impact acceleration	[مهندسی] شتاب ضربه‌ای	engineering	normalized	
@@ -78652,7 +78652,7 @@ kickable	[ورزش] آسان برای ضربه زدن با پا	sports	normalize
 kick about	فوتبالی که بدون قانون بازی می‌کنند، فوتبال هردمبیل	general	normalized	
 kick-ass	[عامیانه] خفن، ترکاننده (عامیانه)	slang	new	
 kickass	[عامیانه] (عامیانه، رکیک) محشر، معرکه، خفن	slang	new	
-kick back	slang|لم دادن، استراحت کردن (عامیانه)	general	new	
+kick back	[عامیانه] لم دادن، استراحت کردن (عامیانه)	slang	new	
 kickback	[حقوق] رشوه، حق‌حساب، زیرمیزی | پس زدن (ماشین وغیره)، لگدزدن، بازپرداخت، دیواره فاصله بین دو مسیر بولینگ	law	improved	kickbacks
 kickback power supply	[الکترونیک] توان آور بازگشت	electronics	normalized	
 kickball	[ورزش] کیک‌بال (بازی‌ای شبیه بیسبال با توپ پایی)	sports	new	
@@ -78680,7 +78680,7 @@ kicks from the penalty spot	[ورزش] شوت از نقطه پنالتی	sports	
 kickshaw	خرت وپرت، خوراک خوش مزه، بازیچه	general	normalized	
 kick-starter	راه انداز پایی، اهرم راه اندازنده	general	normalized	
 kicksy wicksy	زن، عیال (درمقام تحقیر)	general	normalized	
-kick the bucket	slang|ریق رحمت را سر کشیدن، غزل خداحافظی را خواندن، مردن (عامیانه)	general	new	
+kick the bucket	[عامیانه] ریق رحمت را سر کشیدن، غزل خداحافظی را خواندن، مردن (عامیانه)	slang	new	
 kick turn	(دراسکی بازی) نیم چرخش، دور زدن در حالت ایستاده	general	normalized	
 kick-up	[ورزش] زدن پنجه	sports	normalized	
 kick up a fuss	الم‌شنگه به پا کردن، قشقرق راه انداختن	general	new	
@@ -79198,12 +79198,12 @@ knockers	[عامیانه] (رکیک) سینه، پستان‌ها	slang	new
 knocker-up	بیدار کن، کاغذ صاف کن (در چاپخانه)	general	normalized	
 knock in	فرو کردن	general	unchanged	
 knocking	[n.] در زدن، درکوبی، درزنی، صدای در زدن؛ کوبیدن، ضربه زدن؛ (موتور) ضربه، کوبش، تق‌تق، کوب دادن | [v.] (وجه وصفیِ knock) در زدن، کوبیدن | [adj.] کوبنده	general	rewritten	
-knock it off	slang|بس کن!، تمامش کن! (عامیانه)	general	new	
+knock it off	[عامیانه] بس کن!، تمامش کن! (عامیانه)	slang	new	
 knock knee	کجی زانو به درون دراثر مرض یا نرسیدن موادغذایی	general	unchanged	
 knock kneed	دارای زانوی کج، دارای حرکت کج ومعوج، شل، فالج، خشن	general	normalized	
 knock knees	زانوهایی که هنگام راه رفتن بهم می‌خورند، زانوی کج، زانوی پیچ خورده	general	normalized	
 knock off	ختم کردن کار، دست از کار کشیدن از کار انداختن، دست کشیدن از، ازکار دست کشیدن، مردن، کشتن، از پا انداختن | [عامیانه] (عامیانه) دزدیدن، زدن (مغازه و غیره)	general,slang	improved	
-knockoff	[بازرگانی و اقتصاد] کالای تقلبی، بدل، نسخهٔ تقلیدی ارزان | slang|جنس تقلبی (کپی مارک معروف) (عامیانه)	business,general	new	knockoffs
+knockoff	[بازرگانی و اقتصاد] کالای تقلبی، بدل، نسخهٔ تقلیدی ارزان | [عامیانه] جنس تقلبی (کپی مارک معروف) (عامیانه)	business,slang	new	knockoffs
 knock-on	بلند شدن توپ از زمین از ضربه دست بازیگر (رگبی)، بلند شدن توپ از زمین از ضربه دست بازیگر	general	normalized	
 knock one on the head	مشت بر کله کسی زدن	general	unchanged	
 knock on the head	خنثی کردن، باطل کردن، نقش بر آب کردن	general	normalized	
@@ -82816,7 +82816,7 @@ likable	دوست داشتنی	general	unchanged
 like	[v.] دوست داشتن، خوش آمدن از، پسندیدن؛ مایل بودن، خواستن، دل خواستن؛ (شبکه‌های اجتماعی) لایک کردن، پسندیدن | [prep.] مثلِ، مانندِ، شبیهِ، همچون، به‌سانِ، نظیرِ؛ مثلاً، از قبیلِ، فی‌المثل | [conj.] همان‌طور که، همچنان که؛ انگار، گویی | [adj.] همانند، مشابه، متشابه، شبیه، نظیر، قرین، همگون، هم‌شکل، هم‌جنس؛ به تساوی | [n.] نظیر، همتا، مانند؛ (جمع) علایق، چیزهای دلخواه؛ (شبکه‌های اجتماعی) لایک | [adv.] (محاوره) مثلاً، یعنی، یه‌جورایی؛ احتمالاً، شاید؛ متمایل	computing,slang	rewritten	liked|likes
 likea	تند، بسرعت	general	normalized	
 likeable	دوست داشتنی	general	unchanged	
-like a boss	slang|مثل یک حرفه‌ای، با اقتدار تمام (عامیانه)	general	new	
+like a boss	[عامیانه] مثل یک حرفه‌ای، با اقتدار تمام (عامیانه)	slang	new	
 like a bull in a china shop	مثل فیل در دکان چینی‌فروشی، دست‌وپاچلفتی و بی‌ملاحظه	general	new	
 like a duck to water	خیلی راحت، مثل ماهی در آب، انگار برای آن ساخته شده	general	new	
 like a moth to a flame	مثل پروانه به دور شمع	general	new	
@@ -84339,7 +84339,7 @@ logic theory	[رایانه] نظریه منطقی	computing	normalized
 logic unit	واحد منطقی	general	unchanged	
 logic variable	متغیر منطقی	general	unchanged	
 logie	روی گوهر نما	general	unchanged	
-log in	computing|وارد (حساب کاربری) شدن، ورود به سامانه | برقراری ارتباط، دخول به سیستم، وارد شدن به سیستم	computing,general	improved	
+log in	برقراری ارتباط، دخول به سیستم، وارد شدن به سیستم	computing	normalized	
 login	[n.] (رایانه) ورود به سیستم، دخول به سیستم، لاگین؛ نام کاربری، مشخصات ورود | [v.] (log in) وارد سیستم شدن	computing	rewritten	logins
 log in name	[رایانه] نامی که توسط آن سیستم کامپیوتر استفاده کننده را می‌شناسد	computing	normalized	
 log in security	[رایانه] ایمنی ورود	computing	normalized	
@@ -84380,7 +84380,7 @@ logorrhea	پراکنده گویی، پرحرفی وبیهوده گویی، پر�
 logos	[n.] (جمعِ logo) لوگوها، نشان‌ها، نمادهای تجاری | [n.] (فلسفه) لوگوس، اصل یا منشأ عقل عالم وجود، عقل کل؛ (الهیات) کلمه، کلمهٔ الهی، (مجازی) پیامبر؛ سخن، کلام | [ادبیات] لوگوس، استدلال منطقی (در بلاغت)	general,literature	rewritten	
 logotherapy	معنادرمانی	general	unchanged	
 logotype	علامت متمایز کننده، (زیست‌شناسی) وجه تسمیه نوع جانور یاگیاه | [هنر] لوگوتایپ، نشان‌نوشته	arts,general	improved	logotyper|logotypes
-log out	computing|از حساب کاربری خارج شدن، خروج از سامانه | خروج از سیستم، قطع ارتباط	computing,general	improved	
+log out	[رایانه] از حساب کاربری خارج شدن، خروج از سامانه | خروج از سیستم، قطع ارتباط	computing	improved	
 logout	خروج (از سیستم)	computing	improved	
 logplate	[نظامی] صفحه صورت مصرف	military	normalized	
 logroll	غلتاندن الوار وانداختن آنها به آب، همکاری کردن	general	normalized	
@@ -84398,7 +84398,7 @@ loiter	[vi./vt.] درنگ کردن، تاخیر کردن، دیرپاییدن، 
 loiterer	کسیکه در رفتن تعلل کند، پرسه زن	general	normalized	
 loiteringly	با درنگ، درنگ کنان، با معطلی، تنبلانه	general	normalized	
 loktal base	[الکترونیک] لامپ قفلی	electronics	normalized	
-lol	[عامیانه] laughing out loud؛ (عامیانه) قاه‌قاه خندیدن، خیلی خنده‌دار | [عامیانه] abbr|laughing out loud، قاه‌قاه خندیدم، خخخ (در پیام‌نویسی)	slang	new	lolling|lols
+lol	[عامیانه] laughing out loud؛ (عامیانه) قاه‌قاه خندیدن، خیلی خنده‌دار | [کوته‌نوشت] قاه‌قاه خندیدم، خخخ (در پیام‌نویسی)	abbr,slang	new	lolling|lols
 loll	لم دادن، لمیدن، اویختن، لم، تکیه، زبان بیرون، بیرون افتادن	general	normalized	lolling
 lollipop	آب نبات یا شیرینی که در سر چوب نصب شده وبچه‌ها آنرا میمکند، خروسک، آب نبات چوبی، ضربه آسان	food	normalized	
 lollipop lady	(بریتانیایی، غیررسمی) خانم مأمور عبور دادن بچه‌ها از خیابان	general	new	
@@ -84796,7 +84796,7 @@ lose	[v.] گم کردن، مفقود کردن؛ از دست دادن؛ باخت�
 loseable	(= losable) از دست رفتنی، برباد رفتنی	general	normalized	
 lose face	آبروی خود را از دست دادن، سرافکنده شدن	general	new	
 lose ground	عقب افتادن، فرصت خود را از دست دادن	general	normalized	
-lose it	slang|قاطی کردن، از کوره در رفتن؛ عقل از سر کسی پریدن (عامیانه)	general	new	
+lose it	[عامیانه] قاطی کردن، از کوره در رفتن؛ عقل از سر کسی پریدن (عامیانه)	slang	new	
 losel	(در گویش) آدم بیکاره	general	normalized	
 loselry	بیکارگی	general	unchanged	
 lose of ball	[ورزش] لورفتن توپ	sports	normalized	
@@ -84928,7 +84928,7 @@ love apple	گوجه فرنگی	general	unchanged
 love at first sight	عشق در نگاه اول	general	new	
 love begotten	حرامزاده	general	unchanged	
 lovebird	[جانورشناسی] طوطی سبز وکوچک، مرغ عشق	zoology	normalized	lovebirds
-love bombing	psychology|بمباران عاطفی (ابراز محبت افراطی برای مهار طرف)	general	new	
+love bombing	[روان‌شناسی] بمباران عاطفی (ابراز محبت افراطی برای مهار طرف)	psychology	new	
 love child	بچه حرمزاده	general	unchanged	
 loved I nothonour more	اگر شرافت را بیشتر دوست نداشتم	general	unchanged	
 love feast	عید دوستی، عید محبت، جشن عشاربانی	general	normalized	
@@ -85327,7 +85327,7 @@ luckless	بدبخت	general	unchanged
 lucklessness	بدبختی، بی‌اقبالی	general	normalized	
 luck money	پولی که بطور دست لاف هنگام خرید و فروش بکسی بدهند	general	unchanged	
 lucknow	[جغرافیا] لکنو (شهری در هند)	geography	new	
-luck out	slang|شانس آوردن، بخت یار کسی شدن (عامیانه)	general	new	
+luck out	[عامیانه] شانس آوردن، بخت یار کسی شدن (عامیانه)	slang	new	
 luck penny	پولی که بطور دست لاف هنگام خرید و فروش بکسی بدهند	general	unchanged	
 lucky	[adj.] خوش‌شانس، خوش‌اقبال، بختیار، خوشبخت، بخت‌یار؛ خوش‌یمن، خوش‌قدم، شانس‌آور، میمون؛ از سر شانس، اتفاقی	general	rewritten	luckier|luckiest
 lucrative	سودمند، پرمنفعت، نافع، موفق	general	normalized	
@@ -87405,7 +87405,7 @@ manslaughter	آدمکشی، قتل نفس، قتل غیر عمد	general	normali
 man slayer	آدم کش	general	normalized	
 manslayer	قاتل، آدمکش | آدم کش (بی‌تعمد)	general	normalized	
 manspace	[نظامی] جای خالی در خودرو یا کشتی یا هواپیما جای نفری خالی	military	normalized	
-mansplain	slang|توضیح دادنِ از بالا و بدیهیات به زنان از سوی مردان (عامیانه) | [عامیانه] (عامیانه) توضیح بدیهیات به زنان با لحن بالادستانه	general,slang	new	
+mansplain	[عامیانه] توضیح دادنِ از بالا و بدیهیات به زنان از سوی مردان (عامیانه) | [عامیانه] (عامیانه) توضیح بدیهیات به زنان با لحن بالادستانه	slang	new	
 mansplaining	[عامیانه] توضیح فضل‌فروشانهٔ مردانه (به زنان)، مردفهمانی	slang	new	
 manspreading	[عامیانه] گشاد نشستن مردان در وسایل نقلیهٔ عمومی	slang	new	
 mansuetude	نرمی، ملایمت، مدارا، حلم، رامی، اموختگی، اهلیت، محبت	general	normalized	
@@ -89974,7 +89974,7 @@ messaging	[رسانه و ارتباطات] پیام‌رسانی	media	new
 messaging app	[رایانه] برنامهٔ پیام‌رسان، پیام‌رسان	computing	new	
 messaline	پارچه نرم ولطیف ابریشمی، ابریشمی، زرق وبرق دار	general	normalized	
 messan	سگ پر سر وصدا، آدم پر سر وصدا	general	normalized	
-mess around	slang|وقت تلف کردن، مسخره‌بازی درآوردن؛ ور رفتن با؛ با کسی رابطهٔ پنهانی داشتن (عامیانه)	general	new	
+mess around	[عامیانه] وقت تلف کردن، مسخره‌بازی درآوردن؛ ور رفتن با؛ با کسی رابطهٔ پنهانی داشتن (عامیانه)	slang	new	
 messenger	[n.] پیک، قاصد، پیام‌رسان، پیغام‌آور، فرستاده، رسول؛ نامه‌رسان، امربر؛ (زیست‌شناسی) پیام‌رسان (RNA)؛ (رایانه) پیام‌رسان؛ (دریانوردی) طناب حامل	computing	rewritten	messengers
 messenger of god	[حقوق] رسول الله	law	normalized	
 messenger rna	[زیست‌شناسی] آران‌ای پیام‌رسان، رنای پیک	biology	new	
@@ -90000,8 +90000,8 @@ mess steward	رئیس رسد غذاخوری، سرآشپز، آشپز	general	no
 mess-tin	یغلاوی	general	unchanged	
 mess treasurer	حسابدار باشگاه، متصدی صندوق باشگاه	general	normalized	
 messuage	(حقوق) خانه وحیاط ومتعلقات آن	general	normalized	
-mess up	slang|خراب کردن، گند زدن به؛ به هم ریختن (عامیانه)	general	new	
-mess with	slang|سربه‌سر کسی گذاشتن، با کسی در افتادن؛ ور رفتن با (عامیانه)	general	new	
+mess up	[عامیانه] خراب کردن، گند زدن به؛ به هم ریختن (عامیانه)	slang	new	
+mess with	[عامیانه] سربه‌سر کسی گذاشتن، با کسی در افتادن؛ ور رفتن با (عامیانه)	slang	new	
 messy	[adj.] نامرتب، شلوغ، درهم‌برهم، آشفته، به‌هم‌خورده؛ کثیف، کثیف‌کننده؛ (مجازی) پیچیده، دشوار، ناخوشایند، دردسرساز (messy divorce: طلاق پرماجرا)؛ (شخص) شلخته، شلوغ‌کار	general	rewritten	messier
 mestiza	ور رگه، کسیکه زاده اسپانیولی و هندی و آمریکایی باشد	general	normalized	
 mestizo	کسیکه زاده اسپتنیولی و هندی و آمریکایی باشد، دورگه	general	normalized	
@@ -93015,7 +93015,7 @@ mortar mill	[معماری] مخلوط کن ملات یا ماشین ملاتسا
 mortar mixing	[معماری] ملات سازی	architecture	normalized	
 mortar report	[نظامی] گزارش تیراندازی خمپاره انداز دشمن گزارش تیر خمپاره انداز	military	normalized	
 mortar tub	[معماری] تشت ملات سازی یا استانبولی	architecture	normalized	
-mortgage	[n.] وام مسکن، وام رهنی؛ رهن، گرو؛ رهن‌نامه، گرونامه؛ قسط وام مسکن | [v.] رهن گذاشتن، گرو گذاشتن، به رهن دادن، رهن کردن؛ (مجازی) در گرو گذاشتن | business|وام مسکن، رهن	business,general	rewritten	mortgagees|mortgages|mortgaging
+mortgage	[n.] وام مسکن، وام رهنی؛ رهن، گرو؛ رهن‌نامه، گرونامه؛ قسط وام مسکن | [v.] رهن گذاشتن، گرو گذاشتن، به رهن دادن، رهن کردن؛ (مجازی) در گرو گذاشتن	business	rewritten	mortgagees|mortgages|mortgaging
 mortgage-backed security	[بازرگانی و اقتصاد] اوراق بهادار با پشتوانهٔ وام رهنی	business	new	
 mortgage bank	[بازرگانی و اقتصاد] بانک رهنی	business	normalized	
 mortgage bond	[بازرگانی و اقتصاد] سند قرضه گروئی	business	normalized	
@@ -94361,7 +94361,7 @@ myanmar	[جغرافیا] میانمار (برمه)	geography	new
 my apologies	عذر می‌خواهم، پوزش می‌طلبم	general	new	
 my ass	[عامیانه] ارواح عمه‌ات!، آره جون خودت! (رکیک)	slang	new	
 myasthenia	(پزشکی) سستی ماهیچه، ضعف عضلانی	general	normalized	
-my bad	slang|تقصیر من بود، ببخشید (عامیانه)	general	new	
+my bad	[عامیانه] تقصیر من بود، ببخشید (عامیانه)	slang	new	
 my cake is dough	نقشه ام باطل شد	general	unchanged	
 mycelium	[گیاه‌شناسی] میسلیوم، رشته رشدکننده قارچ، توده بهم بافته مولد قارچ وباکتری	botany	normalized	
 mycenaean	(= mycenian) اهل شهر ' مسین ' قدیم یونان، آثار هنری وتفوق سیاسی نواحی مجاوراین ناحیه | (= mycenaean) اهل شهر ' مسین ' قدیم یونان، آثار هنری وتفوق سیاسی نواحی مجاوراین ناحیه	general	normalized	
@@ -96785,7 +96785,7 @@ noisy mode	باب پرخش	general	unchanged
 noisy picture	[الکترونیک] تصویر همهمه‌ای	electronics	normalized	
 no joy	موفقیتی نیست، موفق نشدم (درگیری هوایی)، موفق نشدم	general	normalized	
 no joy without a	نوش بانیش است راحت محض میسرنشودنیست به صامی	general	unchanged	
-no kidding	slang|جدی می‌گی؟، شوخی نمی‌کنی؟؛ (طعنه) معلومه! (عامیانه)	general	new	
+no kidding	[عامیانه] جدی می‌گی؟، شوخی نمی‌کنی؟؛ (طعنه) معلومه! (عامیانه)	slang	new	
 no known loss	[بازرگانی و اقتصاد] زیان نامعلوم	business	normalized	
 nolens volens	خواه و ناخواه، تعبداً	general	normalized	
 noli me tangere	قرحه اکله، سرطان پوست، گل حنا، بمن دست نزن	general	normalized	
@@ -97568,7 +97568,7 @@ nose down	[هوانوردی] خارج شدن هواپیما از پرواز تر
 nosegay	گلدسته، دسته گل یا یک دسته علف	general	normalized	
 nose gear	[هوانوردی] قسمت جلوی ارابه فرود از نوع تری سیکل صرفنظر از فاصله آن تا دماغه	aviation	normalized	
 nose hit	[ورزش] ضربه کامل به میله شماره 1 بولینگ	sports	normalized	
-nose job	slang|عمل بینی (عامیانه)	general	new	
+nose job	[عامیانه] عمل بینی (عامیانه)	slang	new	
 nose piece	قسمتی از ریز بین که حامل عدسی شیئی است	general	unchanged	
 nosepiece	رو دماغی، پوزه بند، پل عینک	general	normalized	
 nose ribs	[هوانوردی] تیغه‌هایی در امتداد وتر که در تمام طول بال و تا تیرک جلویی امتداد میابند	aviation	normalized	
@@ -97856,7 +97856,7 @@ now nonsense now	خواهش می‌کنم چرند گفتن را بس کن	gener
 now ....now	گاهی.... گاهی	general	unchanged	
 no wonder	تعجبی ندارد، بی‌خود نیست که	general	new	
 now or never	حالا یا هیچ‌وقت، الان یا هرگز	general	new	
-no worries	slang|اشکالی ندارد، نگران نباش، خواهش می‌کنم (عامیانه)	general	new	
+no worries	[عامیانه] اشکالی ندارد، نگران نباش، خواهش می‌کنم (عامیانه)	slang	new	
 now that	حالا که، اکنون که	general	new	
 now that you know the way....	اکنون که راه را یاد گرفتید، حال که راه را بلد هستید.......	general	normalized	
 now that you mention it	حالا که گفتی، حالا که اشاره کردی	general	new	
@@ -99627,7 +99627,7 @@ omental	ثربی	general	unchanged
 omentum	ثرب	general	unchanged	
 o merciful powers	ای خدایان بخشنده	general	unchanged	
 omfg	[عامیانه] (رکیک) وای خدا!، یا خدا! (کوتاه‌شدهٔ oh my fucking god)	slang	new	
-omg	[عامیانه] oh my God؛ (عامیانه) وای خدای من!	slang	new	
+omg	[عامیانه] oh my God؛ (عامیانه) وای خدای من!	abbr,slang	new	
 omicron	[نجوم] امیکرون	astronomy	normalized	
 omicron-ceti	امیکرون - قیطس، میرا	general	normalized	
 omigod	[عامیانه] (عامیانه) وای خدای من!	slang	new	
@@ -102939,7 +102939,7 @@ pain	[n.] درد؛ رنج، عذاب، ناراحتی، محنت، غم؛ (در 
 painful	[adj.] دردناک، دردآور، پردرد؛ رنج‌آور، ناراحت‌کننده، محنت‌زا، دردآور (از نظر روحی)؛ دشوار، طاقت‌فرسا؛ رنجور	general	rewritten	
 painfully	با درد، با اندوه، سخت	general	normalized	
 painfulness	دردناکی، رنج، زحمت، سختی	general	normalized	
-pain in the ass	slang|مایهٔ عذاب، آدم/چیز اعصاب‌خردکن (رکیک)	general	new	
+pain in the ass	[عامیانه] مایهٔ عذاب، آدم/چیز اعصاب‌خردکن (رکیک)	slang	new	
 pain in the neck	مایهٔ دردسر، موی دماغ	general	new	
 pain killer	داروی درد کش	general	unchanged	
 painkiller	[پزشکی] مسکن، داروی ضد درد	medicine	new	painkillers
@@ -107691,7 +107691,7 @@ piece of cake	(گفتاری) کاری ندارد، مثل آب خوردن، خی
 piece of eight	دلاراسپانیولی	general	unchanged	
 piece of shit	[عامیانه] (رکیک) آشغال، کثافت، آدم بی‌ارزش؛ (دربارهٔ چیز) آشغال، قراضه	slang	new	
 piece of the action	سهمی از کار یا سود، سهمی از کیک	general	new	
-piece of work	slang|آدم عجیب‌وغریب/بدقلق، اعجوبه (طعنه‌آمیز)	general	new	
+piece of work	[عامیانه] آدم عجیب‌وغریب/بدقلق، اعجوبه (طعنه‌آمیز)	slang	new	
 piece part	قطعه یک پارچه، قطعه سر هم و جدا نشدنی	general	normalized	
 piece parts	[بازرگانی و اقتصاد] قطعاتی که در تولید محصول بکاربرده می‌شود	business	normalized	
 piece-production cost	[مهندسی] ارزش تولید قطعه	engineering	normalized	
@@ -107811,7 +107811,7 @@ pignoration	گرو کشی	general	unchanged
 pignus	رهن، گرو گذاشتن	general	normalized	
 pignut	یکنوع بادام زمینی	general	unchanged	
 pigou effect	اثر پیگو، اثر مانده واقعی، اثر کاهش سطح قیمت‌ها بر روی مصرف که بر اساس این اثر با کاهش سطح قیمت‌ها و در نتیجه بالا رفتن عرضه واقعی پول و افزایش ارزش واقعی ثروت مصرف نیز افزایش خواهد یافت	general	normalized	
-pig out	slang|تا خرخره خوردن، مثل گاو خوردن (عامیانه)	general	new	
+pig out	[عامیانه] تا خرخره خوردن، مثل گاو خوردن (عامیانه)	slang	new	
 pigpen	(= pigsty) خوک دانی، آغل خوک، جای کثیف	general	normalized	
 pigs	[عامیانه] (عامیانه، توهین‌آمیز) پلیس‌ها، مأمورها	slang	new	
 pigskin	پوست گراز، توپ فوتبال	general	normalized	
@@ -108240,7 +108240,7 @@ pissabed	علف شاش خر، خبربر	general	normalized
 pissed	[عامیانه] (آمریکایی) عصبانی، کفری؛ (بریتانیایی) مست، سیاه‌مست (عامیانه، بی‌ادبانه)	slang	new	
 pissed off	[عامیانه] کفری، حسابی عصبانی (بی‌ادبانه)	slang	new	
 pisshead	[عامیانه] (عامیانهٔ بریتانیایی) عرق‌خور، الکلی، مست‌کرده (بی‌ادبانه)	slang	new	
-piss off	slang|کفر کسی را درآوردن، حسابی عصبانی کردن؛ (امری) گم شو! (رکیک)	general	new	
+piss off	[عامیانه] کفر کسی را درآوردن، حسابی عصبانی کردن؛ (امری) گم شو! (رکیک)	slang	new	
 pissoir	شاشگاه همگانی، مستراح عمومی، ابریزگاه همگانی	general	normalized	
 piss-take	[عامیانه] (عامیانهٔ بریتانیایی) مسخره‌بازی، شوخی، کار مسخره و بی‌انصافانه (بی‌ادبانه)	slang	new	
 piss-up	[عامیانه] (عامیانهٔ بریتانیایی) عرق‌خوری دسته‌جمعی، مهمانی مستی (بی‌ادبانه)	slang	new	
@@ -109226,7 +109226,7 @@ plowman	شخم‌زن، برزگر	general	new
 plowshare	(= ploughshare) گاو آهن، آهن خیش، تیغه خیش	general	normalized	plowshares
 plow under	ناپدیدساختن، بخاک سپردن، مستولی شدن بر	general	normalized	
 ploy	تمحید، عمل، اقدام، کار، امر، ورزش، خوشی، وجد	general	normalized	ployed|ployer|ploys
-pls	[عامیانه] please؛ لطفاً (در پیام‌نویسی)	slang	new	plss
+pls	[عامیانه] please؛ لطفاً (در پیام‌نویسی)	abbr,slang	new	plss
 pluck	شهامت، شجاعت، تصمیم، دل وجرات، انقباض، کندن، چیدن، بصدا درآوردن، گلچین کردن، لخت کردن، ناگهان کشیدن، عقب بردن ناگهانی دست هنگام رها کردن تیر که باعث می‌شود تیر به هدف نخورد	general	normalized	plucked|plucking|plucks
 plucked string instrument	[موسیقی] ساز زهی زخمه‌ای	music	new	
 plucker	ماشین الیاف بازکن پشم	general	unchanged	
@@ -114650,7 +114650,7 @@ pryer	فضول، مداخله گر	general	normalized
 prying	کاوش کننده، فضول	general	normalized	
 pryingly	فضولانه، با نگاه دقیق	general	normalized	
 prytaneum	تالارپذیرایی سفراو مردمان محترم	general	unchanged	
-ps	[عامیانه] abbr|postscript؛ پی‌نوشت	slang	new	
+ps	[کوته‌نوشت] postscript؛ پی‌نوشت	abbr	new	
 ps/2	[رایانه] IBM Personal System/2	computing	normalized	
 psa	[پزشکی] prostate-specific antigen؛ آنتی‌ژن اختصاصی پروستات؛ public service announcement؛ آگهی خدمات عمومی | [عامیانه] (عامیانه، اینترنتی) اطلاعیه، محض اطلاع همه (در شبکه‌های اجتماعی)	medicine,slang	new	psad|psas
 psalm	مزمور، سرود روحانی، سرود مذهبی خواندن	general	normalized	psalms
@@ -115196,7 +115196,7 @@ pull a face	ادا در آوردن	general	normalized
 pull a good oar	خوب پارو زدن	general	unchanged	
 pull ahead	جلو افتادن، پیشی گرفتن	general	new	
 pull a horse	دهنه اسب را کشیدن	general	unchanged	
-pull an all-nighter	slang|تا صبح بیدار ماندن (برای درس یا کار)، شب‌بیداری کشیدن (عامیانه)	general	new	
+pull an all-nighter	[عامیانه] تا صبح بیدار ماندن (برای درس یا کار)، شب‌بیداری کشیدن (عامیانه)	slang	new	
 pull apart	از هم جدا کردن؛ تکه‌پاره کردن	general	new	
 pull a punch	[ورزش] در موقع ضربه دست را کشیدن	sports	normalized	
 pull away	راه افتادن (خودرو)؛ خود را عقب کشیدن؛ جلو افتادن | کنار گرفتن، عقب نشینی کردن	general	improved	
@@ -121381,7 +121381,7 @@ resultful	پر نتیجه، نتیجه بخش	general	normalized
 resulting	[adj.] حاصل، ناشی، منتج، به‌دست‌آمده، نتیجه‌شده | [v.] (وجه وصفیِ result) منجر شدن، نتیجه دادن	general	rewritten	
 resultless	بی‌نتیحه	general	normalized	
 results	[n.] (جمعِ result) نتایج، نتیجه‌ها؛ پیامدها، حاصل؛ نمرات (امتحان)؛ نتایج مسابقات؛ جواب آزمایش؛ (بازرگانی) عملکرد مالی، گزارش سود و زیان؛ (رایانه) نتایج (جست‌وجو، پردازش)	computing	rewritten	
-resume	[v.] از سر گرفتن، دوباره آغاز کردن، ادامه دادن؛ ادامه یافتن، دوباره شروع شدن؛ دوباره به دست آوردن، باز یافتن، دوباره (جای خود را) گرفتن؛ (نظامی، رهگیری هوایی) آخرین مأموریت گشتی خود را دوباره اجرا کنید | [n.] (= résumé) رزومه، خلاصهٔ سوابق، خلاصهٔ تجربیات، شرح حال؛ چکیده، خلاصه، چکیدهٔ کلام، حاصل | business|رزومه، کارنامهٔ شغلی (آمریکایی)	business,general	rewritten	resumed|resumes|resuming
+resume	[v.] از سر گرفتن، دوباره آغاز کردن، ادامه دادن؛ ادامه یافتن، دوباره شروع شدن؛ دوباره به دست آوردن، باز یافتن، دوباره (جای خود را) گرفتن؛ (نظامی، رهگیری هوایی) آخرین مأموریت گشتی خود را دوباره اجرا کنید | [n.] (= résumé) رزومه، خلاصهٔ سوابق، خلاصهٔ تجربیات، شرح حال؛ چکیده، خلاصه، چکیدهٔ کلام، حاصل	business	rewritten	resumed|resumes|resuming
 resume command	به دست گرفتن فرماندهی، شروع فرماندهی	general	normalized	
 resumption	از سر گرفتن، از سر گیری، ادامه، تجدید، شروع، باز یافت	general	normalized	
 resumption of hostilities	[حقوق] از سر گیری عملیات خصمانه	law	normalized	
@@ -122551,7 +122551,7 @@ riotous assembly	[حقوق] اجتماع و مواضعه اشوبگرانه	law	
 riotously	فتنه جویانه	general	unchanged	
 riotousness	فتنه جوئی	general	unchanged	
 rio treaty	معاهده ریو، پیمان منعقد بین کلیه کشورهای نیمکره غربی به استثناء کانادا، اکوادور و نیکاراگوئه به سال 1947 که به موجب آن در صورت حمله به یک از کشورهای آمریکایی همه کشورهای دیگر حق حمله مسلحانه را دارند	general	normalized	
-rip	[v.] پاره کردن، دریدن، جر دادن، شکافتن؛ پاره شدن، جر خوردن، ترکیدن، ترکاندن؛ کندن، با زور جدا کردن (rip off/out)؛ (محاوره) با سرعت رفتن؛ (rip off، عامیانه) سر کیسه کردن، کلاه گذاشتن، دزدیدن؛ (رایانه) ریپ کردن، استخراج کردن (فایل از سی‌دی) | [n.] پارگی، شکاف، چاک؛ گرداب، گرداب دریایی، آب متلاطم (rip current)؛ (RIP، کوتاه‌شدهٔ rest in peace) روحش شاد، آرام بگیرد؛ (رایانه، Raster Image Processor) پردازندهٔ تصویر شطرنجی | [عامیانه] abbr|rest in peace؛ روحش شاد، آرام بخواب	slang	rewritten	riper|rips
+rip	[v.] پاره کردن، دریدن، جر دادن، شکافتن؛ پاره شدن، جر خوردن، ترکیدن، ترکاندن؛ کندن، با زور جدا کردن (rip off/out)؛ (محاوره) با سرعت رفتن؛ (rip off، عامیانه) سر کیسه کردن، کلاه گذاشتن، دزدیدن؛ (رایانه) ریپ کردن، استخراج کردن (فایل از سی‌دی) | [n.] پارگی، شکاف، چاک؛ گرداب، گرداب دریایی، آب متلاطم (rip current)؛ (RIP، کوتاه‌شدهٔ rest in peace) روحش شاد، آرام بگیرد؛ (رایانه، Raster Image Processor) پردازندهٔ تصویر شطرنجی	abbr	rewritten	riper|rips
 rip apart	تکه‌تکه کردن، دریدن؛ به‌شدت انتقاد کردن	general	new	
 riparian	رود کناری، وابسته بکنار رودخانه، ساحل رودخانه زی، حریم رودخانه و آن چه که در آن باشد | [علوم زمین و محیط زیست] کنارآبی، ساحلی (رودخانه)	earth,general	improved	
 riparian law	[حقوق] قوانین مربوط به اعیان و اموال موجود در اطراف رودخانه	law	normalized	
@@ -122565,7 +122565,7 @@ ripely	بطور رسیده، بطور آماده	general	normalized
 ripen	رسیده کردن یاشدن، عمل آمدن، کامل شدن	general	normalized	ripened|ripens
 ripeness	رسیدگی، جاافتادگی	general	normalized	
 ripening	[کشاورزی و دامپزشکی] رسیدن، رسیدگی	agriculture	new	
-rip off	slang|سر کسی را کلاه گذاشتن، گران فروختن به، چاپیدن؛ دزدیدن، کپی کردن (عامیانه)	general	new	
+rip off	[عامیانه] سر کسی را کلاه گذاشتن، گران فروختن به، چاپیدن؛ دزدیدن، کپی کردن (عامیانه)	slang	new	
 rip-off	[عامیانه] کلاهبرداری، چیز بی‌خود گران؛ کپی و تقلید (عامیانه)	slang	new	
 riposte	(= repost) ضربت متقابل و تند، پاسخ تند واماده، حاضر جوابی، (درشمشیر بازی) ضربت سریع، جواب، ضربه متقابل زدن	general	normalized	
 rip-par in dam slope	[عمران] سنگ ریزی در شیب سد	civil	normalized	
@@ -123735,7 +123735,7 @@ rs flip flop	الاکلنگ ار اس	general	unchanged
 r-squared	[آمار] ضریب تعیین (R²)	statistics	new	
 rss	[رایانه] Really Simple Syndication؛ آراس‌اس، خوراک وب، خبرخوان	computing	new	rsss
 rss feed	[رسانه و ارتباطات] خوراک آراس‌اس	media	new	
-rsvp	[کوته‌نوشت] répondez s'il vous plaît؛ لطفاً پاسخ دهید (در دعوت‌نامه)	abbr,slang	new	rsvped|rsvps
+rsvp	[کوته‌نوشت] répondez s'il vous plaît؛ لطفاً پاسخ دهید (در دعوت‌نامه)	abbr	new	rsvped|rsvps
 rsvp card	کارت پاسخ دعوت	general	new	
 rtc	Real Time Clock، زمان سنج بلادرنگ	general	normalized	
 rtf	[رایانه] Rich Text Format؛ قالب متن غنی	computing	new	
@@ -126244,13 +126244,13 @@ screwer	مته کار، اچاردار	general	normalized
 screw eye	آچار چوبی سوراخ دار	general	normalized	
 screw gage	[هوانوردی] شابلون پیچ	aviation	normalized	
 screwing	[n.] پیچاندن، پیچ کردن، پیچ‌گذاری؛ (عامیانهٔ رکیک) هم‌خوابگی؛ (نظامی و دریانوردی) حرکات دورانی یخ‌های دریایی | (اسم مصدرِ screw) پیچ کردن، سفت کردن؛ (عامیانه) سر کیسه کردن، کلاه گذاشتن	military	rewritten	
-screw it	slang|به جهنم!، گور باباش! (رکیک)	general	new	
+screw it	[عامیانه] به جهنم!، گور باباش! (رکیک)	slang	new	
 screw jack	(= jackscrew) (مک) جک پیچی، جک پیچی	general	normalized	
 screwlike	شبیه آچار، اچارمانند	general	normalized	
 screw like pump	[معماری] پمپ پیچوار	architecture	normalized	
 screw money out of a person	بزور پول از کسی گرفتن	general	unchanged	
 screw nut	[معماری] مهره	architecture	normalized	
-screw over	slang|نارو زدن به، سر کسی را کلاه گذاشتن (عامیانه)	general	new	
+screw over	[عامیانه] نارو زدن به، سر کسی را کلاه گذاشتن (عامیانه)	slang	new	
 screw picket	[نظامی] میله‌ای که سر آن پیچی شکل باشد میله‌های پیچ دار پایه سیم خاردار	military	normalized	
 screw pile	[معماری] شمع پیچی	architecture	normalized	
 screw plate	مفتول کش، حدیده	general	normalized	
@@ -126262,7 +126262,7 @@ screw spanner	[نظامی] آچار بکس پیچی	military	normalized
 screw thread	حدیده، پای پیچ	general	normalized	
 screwthread	قلاویز، شیار برجسته ومارپیچی بدون پیچ، خان درون پیچ	general	normalized	
 screw to the memory	بذهن سپردن	general	unchanged	
-screw up	slang|گند زدن، خراب کردن؛ روان کسی را به هم ریختن (عامیانه) | با پیچ سفت کردن، پیچیدن بسته کاغذ، زیاد بالا بردن اجاره، جمع کردن، غنچه کردن دهان	general	improved	
+screw up	[عامیانه] گند زدن، خراب کردن؛ روان کسی را به هم ریختن (عامیانه) | با پیچ سفت کردن، پیچیدن بسته کاغذ، زیاد بالا بردن اجاره، جمع کردن، غنچه کردن دهان	slang	improved	
 screw up one's courage	جرات بخود دادن	general	unchanged	
 screwy	خل، عجیب وغریب، گمراه کننده	general	normalized	
 screw you	[عامیانه] برو گم شو!، گور بابات! (رکیک)	slang	new	
@@ -130183,7 +130183,7 @@ shuttle hurdles	[ورزش] مسابقه دو امدادی یا رفت و برگ�
 shuttleless loom	[پوشاک و نساجی] ماشین بافندگی بی‌ماکو	fashion	new	
 shuttle play	[ورزش] مسابقه دو رفت و برگشت امدادی یا با مانع	sports	normalized	
 shuttling	[نظامی] حمل قسمت به قسمت یکانها و وسایل با استفاده از تعداد معینی خودرو	military	normalized	
-shut up	slang|خفه شدن، ساکت شدن؛ (امری) خفه شو! (بی‌ادبانه)؛ (در تعجب) نه بابا! | باعث وقفه در تکلم شدن، خفه کردن، (امر) خفه شو	general	improved	
+shut up	[عامیانه] خفه شدن، ساکت شدن؛ (امری) خفه شو! (بی‌ادبانه)؛ (در تعجب) نه بابا! | باعث وقفه در تکلم شدن، خفه کردن، (امر) خفه شو	slang	improved	
 shwa	(= schwa) حرف صدا دار میان کلمه بدون تشدید	general	normalized	
 shy	[adj.] خجالتی، کمرو، شرمگین، محجوب؛ ترسو، رموک؛ محتاط، مواظب (با of)؛ (عامیانه) کم، کسر (a dollar shy: یک دلار کم) | [v.] (اسب) رم کردن، از جا پریدن؛ (با away from) دوری کردن، طفره رفتن؛ پرت کردن، پرتاب کردن | [n.] پرتاب؛ (عامیانه) آزمایش، تلاش	general	rewritten	shied|shies|shyer|shying
 shylock	رباخوار بی‌رحم (برگرفته از شخصیت شایلاک در نمایشنامه شکسپیر)	general	new	
@@ -131262,7 +131262,7 @@ situation (jf)	[دریانوردی] وضعیت	maritime	normalized
 situation map	نقشه وضعیت، نقشه نشان دهنده وضعیت جنگ	general	normalized	
 situation of a building	موقعیت ساختمان، وضع قرار گرفتن بنا	general	normalized	
 situation report	[نظامی] گزارش وضعیت	military	normalized	
-situationship	slang|رابطهٔ بلاتکلیف (بیش از دوستی و کمتر از رابطهٔ رسمی) (عامیانه)	general	new	
+situationship	[عامیانه] رابطهٔ بلاتکلیف (بیش از دوستی و کمتر از رابطهٔ رسمی) (عامیانه)	slang	new	
 sit up	صاف نشستن؛ بیدار ماندن (تا دیروقت) | راست نشستن، بیدار ماندن	general	improved	
 sit-up	[ورزش] دراز و نشست | [ورزش] درازنشست	sports	new	
 situs	موقعیت، ناحیه، محل، وضع	general	normalized	
@@ -131739,7 +131739,7 @@ sleekness	نرمی، صافی، براقی	general	normalized
 sleep	[v.] خوابیدن، به خواب رفتن، خفتن، خواب بودن؛ جای خواب داشتن برای (چند نفر)؛ (با with) هم‌بستر شدن | [n.] خواب؛ مدت خواب، چرت؛ قیِ چشم؛ (رایانه) حالت خواب، حالت کم‌مصرف	general	rewritten	sleeping|sleeps
 sleep apnea	[پزشکی] آپنه خواب، وقفه تنفسی در خواب	medicine	new	
 sleep apnoea	[پزشکی] آپنه خواب، وقفه تنفسی در خواب	medicine	new	
-sleep around	slang|با این و آن خوابیدن، روابط جنسی بی‌بندوبار داشتن (عامیانه)	general	new	
+sleep around	[عامیانه] با این و آن خوابیدن، روابط جنسی بی‌بندوبار داشتن (عامیانه)	slang	new	
 sleep center	مرکز خواب	general	unchanged	
 sleep deprivation	محرومیت از خواب، کم‌خوابی	medicine	improved	
 sleeper	خواب رونده، خوابیده، واگن تختخواب دار، آهن زیر ساختمان، تراورس، زیر سری ستون، میله‌ای در بولینگ که پشت میله دیگر مانده اسبی که پس از چندبار ناکامی پیروز می‌شود	general	normalized	sleepers
@@ -132484,7 +132484,7 @@ snap fastener	دکمه قابلمه، دکمه فشاری	general	normalized
 snap into it	زودباش، بجنب	general	normalized	
 snap one's fingers	بشکن زدن	general	unchanged	
 snap out of	از (حال بد) درآمدن، به خود آمدن	general	new	
-snap out of it	slang|به خودت بیا!، از این حال‌وهوا بیا بیرون! (عامیانه)	general	new	
+snap out of it	[عامیانه] به خودت بیا!، از این حال‌وهوا بیا بیرون! (عامیانه)	slang	new	
 snap pass	[ورزش] پاس سریع با پیچش سریع مچ	sports	normalized	
 snapper	رباینده، قاشقک	general	normalized	snappers
 snapping turtle	[جانورشناسی] لاک پشت بزرگ خوراکی ابزی	zoology	normalized	
@@ -132760,7 +132760,7 @@ socage	(= soccage) (قرون وسطی در انگلیس) سیستم اجاره �
 socager	مستاجر	general	unchanged	
 so called	اصطلاحا، به اصطلاح، باصطلاح، که چنین نامیده شده، کذایی، نامیده شدن	general	normalized	
 soccage	(= socage) (قرون وسطی در انگلیس) سیستم اجاره زمین در مقابل خدمت	general	normalized	
-soccer	[n.] فوتبال، بازی فوتبال (بین دو تیم یازده‌نفره) | sports|فوتبال (آمریکایی)	general	rewritten	
+soccer	[n.] فوتبال، بازی فوتبال (بین دو تیم یازده‌نفره)	sports	rewritten	
 soccer ball throw	[ورزش] پرتاب توپ فوتبال	sports	normalized	
 soccer field	[ورزش] زمین فوتبال	sports	normalized	
 sociability	جامعه پذیری، قابل معاشرت بودن، معاشرت پذیری، مردم آمیزی	general	normalized	
@@ -134801,7 +134801,7 @@ spillover benefits	منافع خارجی، صرفه جوئیهای خارجی	ge
 spillover costs	هزینه‌های خارجی، عوارض منفی خارجی	general	normalized	
 spillover effects	[بازرگانی و اقتصاد] اثرات خارجی	business	normalized	
 spill the beans	بند را آب دادن، راز را فاش کردن	general	new	
-spill the tea	slang|خبرها و غیبت‌های داغ را تعریف کردن (عامیانه)	general	new	
+spill the tea	[عامیانه] خبرها و غیبت‌های داغ را تعریف کردن (عامیانه)	slang	new	
 spill (to)	[معماری] سرریز کردن	architecture	normalized	
 spill water	[معماری] آبهای اضافی	architecture	normalized	
 spillway	سرریز، مجرای هرز آب	general	normalized	spillways
@@ -136246,7 +136246,7 @@ start stop system	سیستم قطع و وصلی	general	unchanged
 start stop transmission	[رایانه] مخابره قطع و وصلی	computing	normalized	
 start up	راه انداختن، روشن کردن؛ تأسیس کردن | از جا پریدن، رخ دادن، راه اندازی	general	improved	
 start-up	[بازرگانی و اقتصاد] استارتاپ، شرکت نوپا، کسب‌وکار نوپا	business	new	
-startup	[بازرگانی و اقتصاد] استارتاپ، شرکت نوپا، نوآفرین؛ راه‌اندازی، آغاز به کار	business,computing,general	new	startups
+startup	[بازرگانی و اقتصاد] استارتاپ، شرکت نوپا، نوآفرین؛ راه‌اندازی، آغاز به کار	business,computing	new	startups
 startup company	[بازرگانی و اقتصاد] شرکت نوپا، استارتاپ	business	new	
 start up control	[رایانه] کنترل آغازی	computing	normalized	
 start up disk	دیسک راه اندازی، دیسک اغازگر	general	normalized	
@@ -137023,7 +137023,7 @@ stichomythic	مربوط به مکالمات کوتاه (در نمایش)	general
 stick	[n.] چوب، ترکه، تکه چوب؛ عصا، چوب‌دستی، چماق؛ شلاق، تنبیه؛ (ورزش) چوب بازی، چوب هاکی، چوب‌دست اسکی؛ (کریکت) هر یک از سه میلهٔ عمودی؛ تختهٔ موج‌سواری؛ قلم، تکه (گچ، دینامیت، کرفس)؛ (هوانوردی) اهرم هدایت، دسته؛ (خودرو) دنده (دستی)؛ (نظامی) گروه چتربازانی که از یک در هواپیما می‌پرند؛ رشتهٔ بمب، گروه پرنده؛ (غیررسمی) انتقاد، سرزنش؛ (the sticks) جای دورافتاده؛ چسبندگی، الصاق؛ (قدیمی) وقفه، تأخیر، پیچ در کار | [v.] چسباندن، چسبیدن، الصاق کردن؛ فرو کردن، فرو رفتن، سوراخ کردن؛ گیر کردن، گیر افتادن؛ (غیررسمی) گذاشتن، چپاندن؛ نصب کردن؛ ماندن، پایدار ماندن، وفادار ماندن (با to یا by)؛ تحمل کردن (can't stick)؛ تردید کردن، درنگ کردن (stick at)؛ بیرون زدن (با out) | [adj.] چسبناک	general	rewritten	sticked
 stickability	قابلیت مقاومت، قابلیت محافظت، پایداری	general	normalized	
 stick and ball model	[شیمی] الگوی گلوله و میله	chemistry	normalized	
-stick around	slang|همان دوروبر ماندن، نرفتن (عامیانه) | درنگ کردن، تاخیر کردن، بانتظار چیزی بودن	general	improved	
+stick around	[عامیانه] همان دوروبر ماندن، نرفتن (عامیانه) | درنگ کردن، تاخیر کردن، بانتظار چیزی بودن	slang	improved	
 stickboy	[ورزش] متصدی نگهداری چوبهای هاکی	sports	normalized	
 stick bridge	[ورزش] پل دراز چوبی و فلزی کمکی برای رسیدن به گوی بیلیارد	sports	normalized	
 stick brush	[معماری] قلم مو	architecture	normalized	
@@ -137946,7 +137946,7 @@ stressless	بی‌دغدغگی، بی‌نگرانی	general	normalized
 stressmeter	[معماری] تنش سنج	architecture	normalized	
 stress of poverty	فشار بینوایی	general	unchanged	
 stressor	[روان‌شناسی] عامل استرس‌زا، تنش‌زا | محرک تنش زا	psychology	improved	stressors
-stress out	slang|استرس دادن به، حسابی مضطرب کردن/شدن (عامیانه)	general	new	
+stress out	[عامیانه] استرس دادن به، حسابی مضطرب کردن/شدن (عامیانه)	slang	new	
 stress range	[شیمی] گستره تنش	chemistry	normalized	
 stress ratio	[شیمی] نسبت تنش	chemistry	normalized	
 stress response	[روان‌شناسی] پاسخ استرس	psychology	new	
@@ -139030,7 +139030,7 @@ suckle	پستاندار شیرخوار، کودک شیرخوار، طفل رضی
 suckling	شیر دادن، کودک شیر خوار، طفل رضیع، کودک شیرخواره	general	normalized	
 suck up	جذب کردن	general	unchanged	
 suck-up	[عامیانه] چاپلوس، پاچه‌خوار (عامیانه)	slang	new	
-suck up to	slang|پاچه‌خواری کسی را کردن، چاپلوسی کردن (عامیانه)	general	new	
+suck up to	[عامیانه] پاچه‌خواری کسی را کردن، چاپلوسی کردن (عامیانه)	slang	new	
 suck up to some one	پیش کسی خود شیرینی کردن پیش کسی چاپلوسی کردن	general	unchanged	
 suck wheels	[ورزش] رکاب زدن پشت سر دوچرخه سوار دیگر به منظور کاستن از فشار هوا	sports	normalized	
 sucky	[عامیانه] (عامیانه) مزخرف، افتضاح، به‌دردنخور	slang	new	
@@ -140150,7 +140150,7 @@ suttee	ستی، زن هندو که خود را روی جنازه شوهرش می
 sutura	درز (کالبدشناسی)، درز	general	normalized	
 sutural	درزی، بخیه‌ای	general	normalized	
 suture	بخیه (در پزشکی)، درز، بخیه، شکاف، چاک، دوختن	general	normalized	sutured|sutures|suturing
-suv	Sport Utility Vehicle؛ خودروی شاسی‌بلند، اس‌یووی | abbr|sport utility vehicle، شاسی‌بلند	general	new	suvs
+suv	Sport Utility Vehicle؛ خودروی شاسی‌بلند، اس‌یووی | [کوته‌نوشت] sport utility vehicle، شاسی‌بلند	abbr,general	new	suvs
 suzerain	ارباب، اختیار دار کشور، حکومت مطلقه	general	normalized	
 suzerainty	متبوع بودن، متبوعیت، اختیارداری | اربابی، اقتدار	general	normalized	
 suzhou	[جغرافیا] سوژو (شهری در چین)	geography	new	
@@ -141408,7 +141408,7 @@ take advantage	سوء استفاده کردن از، استیفاء	general	norm
 take advantage of	استفاده کردن از (فرصت)؛ سوءاستفاده کردن از	general	new	
 take after	به کسی رفتن، شبیه (پدر/مادر) بودن | شبیه بودن	general	improved	
 take a hand at	شرکت کردن در (بازی)	general	normalized	
-take a hike	slang|برو پی کارت!، بزن به چاک! (عامیانه)	general	new	
+take a hike	[عامیانه] برو پی کارت!، بزن به چاک! (عامیانه)	slang	new	
 take a hint	اشاره را گرفتن، دوزاری کسی افتادن	general	new	
 take a leaf out of someone's book	از کسی سرمشق گرفتن	general	new	
 take a look	(آمریکایی) نگاهی انداختن	general	new	
@@ -142185,12 +142185,12 @@ taziyeh	[هنر] تعزیه (نمایش آیینی سوگ)	arts	new
 tazkira	[ادبیات] تذکره (کتاب شرح حال و گزیدهٔ اشعار شاعران یا شرح حال عارفان)	literature	new	
 tazza	سنگاب بزرگ کلیسا	general	unchanged	
 tb	(TB) [n.] (پزشکی) سل، بیماری سل (tuberculosis)؛ (رایانه) ترابایت (TeraByte، برابر یک تریلیون بایت)	general	rewritten	
-tba	[کوته‌نوشت] to be announced؛ متعاقباً اعلام می‌شود	abbr,slang	new	tbas
+tba	[کوته‌نوشت] to be announced؛ متعاقباً اعلام می‌شود	abbr	new	tbas
 t-bar lift	[ورزش] تله اسکی دونفره یا کلنگی	sports	normalized	
 tbc	[کوته‌نوشت] to be confirmed؛ متعاقباً تأیید می‌شود	abbr	new	
 tbd	[عامیانه] (عامیانه، اینترنتی) بعداً معلوم می‌شه، هنوز معلوم نیست (کوتاه‌شدهٔ to be determined)	slang	new	
 t-beam	[عمران] تیراهن T شکل، تیر سپری	civil	normalized	
-tbh	[عامیانه] abbr|to be honest؛ راستش را بخواهی (در پیام‌نویسی)	slang	new	
+tbh	[کوته‌نوشت] to be honest؛ راستش را بخواهی (در پیام‌نویسی)	abbr	new	
 t-bone	[ورزش] برخورد به پهلوی اتومبیل دیگر یا دیوار	sports	normalized	
 tbsp	[خوراک] tablespoon؛ قاشق غذاخوری	food	new	tbsps
 tbt	[عامیانه] (عامیانه، اینترنتی) یادش بخیر (پست عکس قدیمی، به‌ویژه پنجشنبه‌ها) (کوتاه‌شدهٔ throwback thursday)	slang	new	
@@ -143467,7 +143467,7 @@ tft	[الکترونیک] Thin-Film Transistor؛ ترانزیستور لایه‌
 tftp	[رایانه] Trivial File Transfer Protocol؛ پروتکل سادهٔ انتقال پرونده	computing	new	tftpd
 tfw	[عامیانه] (عامیانه، اینترنتی) اون حسی که... (کوتاه‌شدهٔ that feeling when)	slang	new	
 t.g	glass trainsition temperature، دمای تبدیل شیشه‌ای	general	normalized	
-tgif	[عامیانه] abbr|thank god it's friday؛ خدا را شکر که جمعه (آخر هفته) رسید	slang	new	
+tgif	[کوته‌نوشت] thank god it's friday؛ خدا را شکر که جمعه (آخر هفته) رسید	abbr	new	
 t-girder	[مهندسی] شاه تیر«T»	engineering	normalized	
 t.gland	غده طیموس	general	unchanged	
 t-group (sensitivity training group)	گروهT، گروه حساسیت آموزی	general	normalized	t-group
@@ -144560,7 +144560,7 @@ the rattles	خروسک، خناق	general	normalized
 there	[adv.] آنجا، در آنجا، به آنجا، بدانجا؛ در آن مورد، در این موضوع، در آن نکته؛ (با فعل be برای بیان وجود) هست، وجود دارد | [n.] آنجا، آن مکان | [interj.] بفرما!، دیدی!، خب دیگر!	general	rewritten	theres
 thereabout	دران حدود، درهمان نزدیکی، تقریبا	general	normalized	thereabouts
 thereafter	پس از آن، از آن پس، بعد از آن، بعدها | پس ازان، ازان پس، بعد ازان، بعد هم، ازانرو، انوقت، بنابراین	general	normalized	
-the real deal	slang|اصلِ جنس، واقعی و درست‌وحسابی (عامیانه)	general	new	
+the real deal	[عامیانه] اصلِ جنس، واقعی و درست‌وحسابی (عامیانه)	slang	new	
 the real mccoy	جنس اصل، اصل اصل	general	new	
 there are numbers who	بسیاری هستند که	general	unchanged	
 there are wheels within wheels	زیرکاسه نیم کاسه است	general	unchanged	
@@ -145835,7 +145835,7 @@ throw over	ترک کردن	general	unchanged
 throw-over switch	[الکترونیک] کلید لولایی	electronics	normalized	
 throw pillow	کوسن مبل	general	new	
 throw shade	[عامیانه] (عامیانه، اینترنتی) تیکه انداختن، کنایه زدن، نیش زدن	slang	new	
-throw someone under the bus	slang|کسی را قربانی کردن، تقصیر را گردن کسی انداختن (عامیانه)	general	new	
+throw someone under the bus	[عامیانه] کسی را قربانی کردن، تقصیر را گردن کسی انداختن (عامیانه)	slang	new	
 throwster	پشم باف، نراد	general	normalized	
 throw the book at	کسی را به حداکثر مجازات محکوم کردن، سخت‌ترین برخورد را کردن	general	new	
 throw to the wind	دور انداختن، پشت پا زدن	general	normalized	
@@ -145931,7 +145931,7 @@ thwarter	باطل کننده، خنثی کننده، مسدود کننده	gener
 thwarting	ناکامی بخش	general	unchanged	
 thwarts	پلانکا، سکوی نشیمن قایق	general	normalized	
 thwartwise	بطور اریب، بطور متقاطع، اریب، متقاطع	general	normalized	
-thx	[عامیانه] thanks؛ (اینترنتی) ممنون، مرسی	slang	new	
+thx	[عامیانه] thanks؛ (اینترنتی) ممنون، مرسی	abbr,slang	new	
 thy	[det.] (قدیمی و شاعرانه) تو، ـت، مالِ تو (مثل لباست، خانه‌ات)	general	rewritten	thier|thies|thys
 thyestean	آدمخوار	general	normalized	
 thyestes	(افسانه یونان) فرزند پلوپس وبرادر اتریوس	general	unchanged	
@@ -146579,7 +146579,7 @@ tldr	[عامیانه] (عامیانه، اینترنتی) خلاصه‌اش، چ
 tlingit	تلینگیت (قوم و زبان بومی آلاسکا)	general	new	
 tls	[رایانه] Transport Layer Security؛ امنیت لایهٔ انتقال	computing	new	
 t. major	سرشیپورچی	general	unchanged	
-tmi	[عامیانه] too much information؛ (عامیانه) دیگه زیادی گفتی، اطلاعات بیش از حد | [عامیانه] abbr|too much information، دیگر لازم نبود این را بگویی، جزئیات زیادی (عامیانه)	slang	new	
+tmi	[عامیانه] too much information؛ (عامیانه) دیگه زیادی گفتی، اطلاعات بیش از حد | [کوته‌نوشت] دیگر لازم نبود این را بگویی، جزئیات زیادی (عامیانه)	abbr,slang	new	
 t mitre the square	گونیا را فارسی کردن، گوشه نودزینه را نیم کردن	general	normalized	
 tmr	[عامیانه] (عامیانه، اینترنتی) فردا (کوتاه‌شدهٔ tomorrow)	slang	new	
 tmrw	[عامیانه] (عامیانه، اینترنتی) فردا (کوتاه‌شدهٔ tomorrow)	slang	new	
@@ -157846,7 +157846,7 @@ vegetive	(= vegetative) گیاهی، روینده، رویش کننده، گیا
 veggie	[عامیانه] سبزی، سبزیجات؛ گیاهی، گیاه‌خوار (عامیانه)	food,slang	new	
 veggie burger	[خوراک] برگر گیاهی	food	new	
 veggies	[عامیانه] (عامیانه) سبزیجات؛ گیاه‌خواران	food,slang	new	
-veg out	slang|ول شدن جلوی تلویزیون، هیچ کاری نکردن و لم دادن (عامیانه)	general	new	
+veg out	[عامیانه] ول شدن جلوی تلویزیون، هیچ کاری نکردن و لم دادن (عامیانه)	slang	new	
 vegtable fat	[شیمی] چربی گیاهی	chemistry	normalized	
 vehemence	شدت، حرارت، تندی، غیظ و غضب، غضب شدید	general	normalized	
 vehement	(= vehemently) تند، شدید، با حرارت زیاد، غضبناک	general	normalized	
@@ -158755,7 +158755,7 @@ violinist	(= violist) (موسیقی) ویولن زن، ویولن نواز	gener
 violist	(= violinist) (موسیقی) ویولن زن، ویولن نواز	general	normalized	
 violoncellist	(موسیقی) نوازنده ویولن سل	general	unchanged	
 violoncello	(موسیقی) ویولن سل	general	unchanged	
-vip	(VIP) [n.] شخص بسیار مهم، فرد مهم، شخصیت ممتاز، مهمان ویژه (مخفف very important person) | [adj.] ویژه، وی‌آی‌پی (VIP lounge سالن تشریفات) | [عامیانه] abbr|very important person؛ شخص بسیار مهم، مهمان ویژه	slang	rewritten	vips
+vip	(VIP) [n.] شخص بسیار مهم، فرد مهم، شخصیت ممتاز، مهمان ویژه (مخفف very important person) | [adj.] ویژه، وی‌آی‌پی (VIP lounge سالن تشریفات)	abbr	rewritten	vips
 viper	[جانورشناسی] افعی، تیره مار، تیرمار، آدم خائن و بدنهاد، شریر	zoology	normalized	vipers
 viperine	viperish(، () viperous جانور شناسی) افعی وار، مانند افعی، زهردار	general	normalized	
 viperish	viperine(، () viperous جانور شناسی) افعی وار، مانند افعی، زهردار	general	normalized	
@@ -161271,7 +161271,7 @@ we were ordered to stay	دستور دادند بمانیم	general	unchanged
 we were perished with cold	از سرما مردیم	general	unchanged	
 we were preceded by the guides	راهنماها جلو ما می‌رفتند	general	normalized	
 we will go	خواهیم رفت	general	unchanged	
-wfh	abbr|work from home؛ دورکاری | [کوته‌نوشت] Work From Home، کار از خانه	abbr,general	new	
+wfh	[کوته‌نوشت] work from home؛ دورکاری | [کوته‌نوشت] Work From Home، کار از خانه	abbr	new	
 w.h.	[مهندسی] وات ساعت	engineering	normalized	
 whack	صدای کتک زدن، صدای اصطکاک، صدای ضربت، ضربت، سهم، محکم زدن، تسهیم کردن | [عامیانه] (عامیانه) کشتن، سر به نیست کردن، زدن (کسی)	general,slang	improved	whacked|whacker|whacks
 whacking	خیلی بزرگ، بسیار عظیم، پر سر و صدا	general	normalized	
@@ -161397,7 +161397,7 @@ what state	[نظامی] در رهگیری هوایی یعنی میزان سوخ�
 what's the deal	[عامیانه] (عامیانه) قضیه چیه؟، جریان چیه؟	slang	new	
 what's the matter	چه شده؟، مشکل چیست؟	general	new	
 what's the point	چه فایده؟، که چه بشود؟	general	new	
-what's up	slang|چه خبر؟، چطوری؟؛ چه شده؟ (عامیانه)	general	new	
+what's up	[عامیانه] چه خبر؟، چطوری؟؛ چه شده؟ (عامیانه)	slang	new	
 whats' up	[نظامی] در رهگیری هوایی یعنی علت حادثه را گزارش کنید یا وضع چطور است	military	normalized	
 what's wrong	چی شده؟، چه مشکلی هست؟، چته؟	general	new	
 what the heck	[عامیانه] یعنی چه؟! (صورت مؤدبانه‌ترِ what the hell) (عامیانه)	slang	new	
@@ -162103,7 +162103,7 @@ wimble	مته کردن، هر نوع اسباب یا وسیله‌ای که با
 wimbledon	[ورزش] جام بین المللی تنیس ویمبلدون	sports	normalized	
 wimp	[عامیانه] آدم بی‌دل‌وجرئت، ترسو، بی‌عرضه (عامیانه) | [عامیانه] بزدل، آدم ضعیف و ترسو (عامیانه)	slang	new	wimps
 wimple	روسری زنان قرون وسطی، چرخ، پیچ، خم، چین و شکن، با چارقد پوشاندن، حجاب زدن، موج دار کردن	general	normalized	
-wimp out	slang|جا زدن، بزدلی کردن (عامیانه)	general	new	
+wimp out	[عامیانه] جا زدن، بزدلی کردن (عامیانه)	slang	new	
 wimpy	[عامیانه] بی‌دل‌وجرئت، ضعیف، شل‌وول (عامیانه)	slang	new	
 win	[v.] بردن، برنده شدن، پیروز شدن، فاتح شدن، غلبه یافتن بر؛ به دست آوردن، کسب کردن، تحصیل کردن، نائل شدن به؛ جلب کردن (حمایت، دل)؛ (نظامی) پیروز شدن در جنگ | [n.] برد، پیروزی، فتح، موفقیت	general	rewritten	wined|winer|wines|wining|wins
 win a lady's hand	موافقت زنی را برای ازدواج جلب کردن	general	unchanged	
@@ -163486,7 +163486,7 @@ wryness	کجی، پیچیدگی	general	normalized
 ws	(رایانه، WS = Working Storage) انبارهٔ دایر، حافظهٔ کاری | (WS = workstation) ایستگاه کاری | (WS = web service) سرویس وب	general	rewritten	
 wsw	[کوته‌نوشت] west-southwest؛ غربِ جنوب غربی	abbr	new	wsws
 wtc	[کوته‌نوشت] World Trade Center؛ مرکز تجارت جهانی	abbr	new	
-wtf	[عامیانه] what the fuck؛ (رکیک، اینترنتی) یعنی چه؟ این دیگر چیست؟ | [عامیانه] abbr|what the fuck، این دیگه چه کوفتیه؟!، یعنی چی؟! (رکیک)	slang	new	
+wtf	[عامیانه] what the fuck؛ (رکیک، اینترنتی) یعنی چه؟ این دیگر چیست؟ | [کوته‌نوشت] این دیگه چه کوفتیه؟!، یعنی چی؟! (رکیک)	abbr,slang	new	
 wth	[عامیانه] (عامیانه، اینترنتی) این دیگه چیه؟، چه مرگته؟، یعنی چی؟ (کوتاه‌شدهٔ what the hell)	slang	new	
 wto	[بازرگانی و اقتصاد] World Trade Organization؛ سازمان تجارت جهانی	business	new	
 wtv	[عامیانه] (عامیانه، اینترنتی) هرچی، بی‌خیال (کوتاه‌شدهٔ whatever)	slang	new	
@@ -163599,7 +163599,7 @@ xon/xoff handshaking	[رایانه] دستدهی XON/XOFF	computing	normalized
 xor	Exclusive OR، یای ضمنی	general	normalized	
 xor gate	[رایانه] دریچه یای ضمنی	computing	normalized	
 x-o test	ازمون ضربدر و دایره	general	unchanged	
-xoxo	[عامیانه] abbr|hugs and kisses؛ بوس و بغل (پایان نامه و پیام)	slang	new	
+xoxo	[کوته‌نوشت] hugs and kisses؛ بوس و بغل (پایان نامه و پیام)	abbr	new	
 xp	[عامیانه] (عامیانه، اینترنتی) (در بازی) امتیاز تجربه، ایکس‌پی (کوتاه‌شدهٔ experience points)	slang	new	
 xpath	[رایانه] ایکس‌پث (زبان نشانی‌دهی در اسناد ایکس‌ام‌ال)	computing	new	
 x-plate	[هوانوردی] صفحات قائم موازی در لوله اشعه کاتدی	aviation	normalized	
@@ -163919,7 +163919,7 @@ yoko geri	[ورزش] ضربه به پهلو	sports	normalized
 yokohama	[جغرافیا] یوکوهاما (شهری در ژاپن)	geography	new	
 yolk	(= yoke) زرده تخم مرغ، (زیست‌شناسی) محتویات نطفه	general	normalized	yolks
 yolk sac	(جنین شناسی) کیسه زرده دورتادور جنین	general	unchanged	
-yolo	[عامیانه] you only live once؛ (عامیانه) آدم فقط یک بار زندگی می‌کند | [عامیانه] abbr|you only live once، آدم یک بار زندگی می‌کند (توجیه خطر کردن) (عامیانه)	slang	new	
+yolo	[عامیانه] you only live once؛ (عامیانه) آدم فقط یک بار زندگی می‌کند	abbr,slang	new	
 yoma tsuki	[ورزش] ضربه با دو دست به پهلو	sports	normalized	
 yon	شخص آن طرفی، آن یکی دیگر، آن	general	normalized	
 yond	دورتر، عقب تر، آن، آنها	general	normalized	
@@ -164357,7 +164357,7 @@ zirconia	[شیمی] زیرکونیا، اکسید زیرکونیوم	chemistry	n
 zirconium	symb: Zr، زیرکونیم	general	normalized	
 zirconium dioxide	زیرکونیم دو اکسید، دی اکسید زیرکونیم	general	normalized	
 zirconium oxide	زیرکونیم اکسید، اکسید زیرکونیم	general	normalized	
-zit	[عامیانه] (عامیانه) جوش صورت | slang|جوش (عامیانه)	general,slang	new	zits|zitting
+zit	[عامیانه] (عامیانه) جوش صورت | [عامیانه] جوش (عامیانه)	slang	new	zits|zitting
 zither	(موسیقی) نوعی سنتور یا قانون	general	unchanged	
 zither(n)	یکجور قانون یا سنتور	general	unchanged	zithern
 zloty	[بازرگانی و اقتصاد] زلوتی (واحد پول لهستان)	business	new	zlotys
@@ -164397,7 +164397,7 @@ zone of fire	منطقه تیر، منطقه آتش، منطقه تیرانداز
 zone of proximal development	[روان‌شناسی] منطقهٔ تقریبی رشد، منطقهٔ رشد تقریبی	psychology	new	
 zone of rock flowage	منطقه سنگهای روان (کره زمین)، منطقه سنگهای روان	general	normalized	
 zone of rock fracture	[عمران] ناحیه‌ای از سنگ کره که دارای سنگهای شکافدار می‌باشد	civil	normalized	
-zone out	slang|توی هپروت رفتن، حواس پرت شدن، گیج زدن (عامیانه)	general	new	
+zone out	[عامیانه] توی هپروت رفتن، حواس پرت شدن، گیج زدن (عامیانه)	slang	new	
 zone punch	[رایانه] سوراخ دسته بندی	computing	normalized	
 zone purification	[شیمی] تصفیه منطقه‌ای	chemistry	normalized	
 zone refining	[شیمی] پالایش منطقه‌ای	chemistry	normalized	

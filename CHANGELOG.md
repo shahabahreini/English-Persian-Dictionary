@@ -5,9 +5,11 @@ Subject expansion. See [docs/report.html](docs/report.html) for the report and [
 
 - 164,524 entries (v3.0: 154,439): 10,085 new entries and 3,589 subject senses added to existing entries.
 - Twelve new subject sections: Philosophy & logic, Earth & environmental sciences, Statistics, Arts, Literature, History & archaeology, Sociology & anthropology, Education, Agriculture & veterinary science, Transport & logistics, Media & communication, Fashion & textiles.
-- Deeper coverage in Informal & slang (1,045 → 2,456), Mathematics, Physics, Astronomy, Psychology, Linguistics, Music, Architecture, Civil engineering and Sports, plus about 1,800 everyday compounds, idioms, phrasal verbs and proverbs.
+- Deeper coverage in Informal & slang (1,045 → 2,514), Mathematics, Physics, Astronomy, Psychology, Linguistics, Music, Architecture, Civil engineering and Sports, plus about 1,800 everyday compounds, idioms, phrasal verbs and proverbs.
 - On an existing word the subject sense is appended after the current definition; no v3.0 definition was removed or reworded.
 - Pipeline: v3.1 inputs live in `pipeline/new/v3.1/` and are read in a separate pass after the v3.0 inputs; `scripts/lint31.py` checks them; the Kindle sources are split into several content files so kindlegen does not stall on the larger dictionary; `export.py` now also writes the master TSV.
+- Fixed 94 entries where a subject code such as `slang|` or `psychology|` was printed at the start of a sense (e.g. *gaslighting*, *chill out*, *lol*). The code came from 122 malformed lines in a v3.0 input (`pipeline/new/theme_everyday.tsv`); it is now the entry's section label. `build.py` counts any recurrence as `def_code_prefix` and `lint31.py` rejects it.
+- Kindle metadata now reads "Revision and expansion of v2.4" instead of naming v3.0.
 - Files renamed from `v3.0` to `v3.1`.
 
 ## 3.0.0

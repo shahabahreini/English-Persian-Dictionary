@@ -1,4 +1,4 @@
-# Build the v3.0 master data from v2.4 + reviewed additions.
+# Build the v3.x master data from v2.4 + reviewed additions (v3.0 inputs, then the v3.1 subject glossaries).
 import sys,re,os,json,glob,collections
 sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
 import fanorm
@@ -136,6 +136,7 @@ def main():
             if len(p)!=3: st['add_badline']+=1; continue
             h,dm,df=p[0].strip().lower(),p[1].strip(),fanorm.basic(p[2].strip())
             if dm not in DOM or not h or not re.search(r'[؀-ۿ]',df): st['add_badline']+=1; continue
+            if re.match(r'[a-z]+\|',df): st['def_code_prefix']+=1  # a subject code leaked into the definition field
             add.append((h,dm,df,src))
     for h,dm,df,src in add:
         theme=src.startswith('theme')
@@ -179,6 +180,7 @@ def main():
             if len(p)!=3: st['v31_badline']+=1; continue
             h,dm,df=p[0].strip().lower(),p[1].strip(),' '.join(fanorm.basic(p[2].strip()).split())
             if dm not in DOM or not h or not re.search(r'[؀-ۿ]',df): st['v31_badline']+=1; continue
+            if re.match(r'[a-z]+\|',df): st['def_code_prefix']+=1
             lab=['dom' if dm!='general' else None, dm if dm!='general' else None]
             if h not in E:
                 E[h]={'head':h,'segs':[lab+[df]],'doms':{dm},'v24':[],'status':'new','alts':set(),'inl':set(),'was':None}
@@ -225,7 +227,7 @@ def main():
     out.sort(key=lambda e:(re.sub(r'[^a-z0-9]','',e['head'].lower()),e['head']))
     json.dump(out,open(S+'/master.json','w',encoding='utf-8'),ensure_ascii=False)
     with open(S+'/changelog.tsv','w',encoding='utf-8') as f:
-        f.write('change\theadword\tv2.4\t%s\tnote\n'%os.environ.get('DICT_VER','v3.0'))
+        f.write('change\theadword\tv2.4\t%s\tnote\n'%os.environ.get('DICT_VER','v3.1'))
         for r in log: f.write('\t'.join(x.replace('\t',' ') for x in r)+'\n')
     st['total']=len(out); st['alts']=sum(len(e['alts']) for e in out)
     st.update({'status_'+k:v for k,v in collections.Counter(e['status'] for e in out).items()})

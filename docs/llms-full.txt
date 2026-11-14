@@ -25,14 +25,14 @@ Kindle dictionary pop-ups on E Ink devices lay text out left to right and do not
 ## What is new in v3.1
 - 10,085 new entries and 3,589 subject senses added to existing words (appended after the current definition; no v3.0 definition was removed or reworded).
 - Twelve sections were added in v3.1: Philosophy & logic 1,181, Arts 865, Earth & environmental sciences 753, Transport & logistics 719, Agriculture & veterinary 706, History & archaeology 542, Sociology & anthropology 525, Literature 520, Fashion & textiles 497, Education 485, Statistics 393, Media & communication 376.
-- Deeper coverage in Informal & slang (1,045 to 2,456), Mathematics, Physics, Astronomy, Psychology, Linguistics, Music, Architecture, Civil engineering and Sports, and about 1,800 everyday compounds, idioms, phrasal verbs and proverbs (with the matching Persian proverb where one exists).
+- Deeper coverage in Informal & slang (1,045 to 2,514), Mathematics, Physics, Astronomy, Psychology, Linguistics, Music, Architecture, Civil engineering and Sports, and about 1,800 everyday compounds, idioms, phrasal verbs and proverbs (with the matching Persian proverb where one exists).
 - Each subject glossary was written by an AI language model to pipeline/guidelines/SPEC.md and then reviewed line by line in a separate AI pass.
 
 ## What changed from v2.4
 - Entries: 145,075 to 154,439 (v3.0) to 164,524 (v3.1).
 - 21,578 new entries in all. v3.0 added 11,493: modern vocabulary (internet, smartphone, podcast, lockdown), science, medicine, business, everyday phrasal verbs, idioms, slang, US/UK pairs, irregular forms.
 - 7,016 high-frequency definitions rewritten: most common sense first, senses grouped by part of speech, wrong equivalents removed.
-- 5,346 existing entries improved or extended; 2,224 modern senses (v3.0) and 3,589 subject senses (v3.1) added and 535 very short definitions replaced along the way.
+- 5,344 existing entries improved or extended; 2,210 modern senses (v3.0) and 3,589 subject senses (v3.1) added and 535 very short definitions replaced along the way.
 - Persian orthography normalised in 106,983 entries: Persian ی and ک instead of Arabic ي and ك, restored آ, half-spaces (می‌, ‌ها, ‌ترین), tanvin, ezafe marks, quotation marks.
 - 3,120 misspelled headwords corrected (4,081 fixes), e.g. illustrous to illustrious.
 - 2,128 duplicate entries merged; 97 garbled headwords cleaned; 85 cross-references resolved; corrupted numbers fixed.
@@ -40,7 +40,7 @@ Kindle dictionary pop-ups on E Ink devices lay text out left to right and do not
 - 25,882 entries unchanged.
 
 ### Entries by subject section (v2.4 to v3.1)
-General 103,231 to 101,466; Engineering 6,909 to 7,110; Computing 3,632 to 5,399; Business & economics 3,161 to 4,335; Sports 3,550 to 4,153; Chemistry 3,688 to 4,010; Law 3,713 to 4,003; Informal & slang 79 to 2,456; Medicine 654 to 1,633; Geography 15 to 1,210; Biology 517 to 996; Mathematics 136 to 716; Psychology 13 to 676; Astronomy 460 to 670; Linguistics 63 to 665; Music 208 to 631; Physics 28 to 514. Sections new in v3.0: Politics 584, Food 537, Abbreviations 275, Religion 165. Twelve sections were added in v3.1: Philosophy & logic 1,181, Arts 865, Earth & environmental sciences 753, Transport & logistics 719, Agriculture & veterinary 706, History & archaeology 542, Sociology & anthropology 525, Literature 520, Fashion & textiles 497, Education 485, Statistics 393, Media & communication 376. An entry with senses in several sections counts in each.
+General 103,231 to 101,388; Engineering 6,909 to 7,110; Computing 3,632 to 5,399; Business & economics 3,161 to 4,335; Sports 3,550 to 4,155; Chemistry 3,688 to 4,010; Law 3,713 to 4,005; Informal & slang 79 to 2,514; Medicine 654 to 1,633; Geography 15 to 1,210; Biology 517 to 996; Mathematics 136 to 716; Psychology 13 to 677; Astronomy 460 to 670; Linguistics 63 to 665; Music 208 to 631; Physics 28 to 514. Sections new in v3.0: Politics 584, Food 537, Abbreviations 301, Religion 165. Twelve sections were added in v3.1: Philosophy & logic 1,181, Arts 865, Earth & environmental sciences 753, Transport & logistics 719, Agriculture & veterinary 706, History & archaeology 542, Sociology & anthropology 525, Literature 520, Fashion & textiles 497, Education 485, Statistics 393, Media & communication 376. An entry with senses in several sections counts in each.
 
 ## Entry format
 [n.], [v.], [adj.] mark part of speech; [رایانه] (computing), [پزشکی] (medicine), [حقوق] (law) etc. mark a subject section. The marker "▪" separates sense groups (plain-text builds use "|"), the Persian comma "،" separates equivalents and the Persian semicolon "؛" separates distinct senses. "(= colour)" is a cross-reference; "(گذشتهٔ go)" and "(جمعِ child)" mark irregular forms.

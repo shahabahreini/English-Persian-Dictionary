@@ -47,15 +47,15 @@ def size(rel, fa):
 
 SECTIONS = [  # (English label, Persian label, v2.4, v3.1)
  ('Engineering', 'مهندسی', 6909, 7110), ('Computing', 'رایانه', 3632, 5399),
- ('Business & economics', 'بازرگانی و اقتصاد', 3161, 4335), ('Sports', 'ورزش', 3550, 4153), ('Chemistry', 'شیمی', 3688, 4010),
- ('Law', 'حقوق', 3713, 4003), ('Informal & slang', 'زبان محاوره', 79, 2456), ('Medicine', 'پزشکی', 654, 1633), ('Geography', 'جغرافیا', 15, 1210),
+ ('Business & economics', 'بازرگانی و اقتصاد', 3161, 4335), ('Sports', 'ورزش', 3550, 4155), ('Chemistry', 'شیمی', 3688, 4010),
+ ('Law', 'حقوق', 3713, 4005), ('Informal & slang', 'زبان محاوره', 79, 2514), ('Medicine', 'پزشکی', 654, 1633), ('Geography', 'جغرافیا', 15, 1210),
  ('Philosophy & logic', 'فلسفه و منطق', 0, 1181), ('Biology', 'زیست‌شناسی', 517, 996), ('Arts', 'هنر', 0, 865),
  ('Earth & environment', 'علوم زمین و محیط زیست', 0, 753), ('Transport & logistics', 'حمل‌ونقل', 0, 719), ('Mathematics', 'ریاضی', 136, 716),
- ('Agriculture & veterinary', 'کشاورزی و دامپزشکی', 0, 706), ('Psychology', 'روان‌شناسی', 13, 676), ('Linguistics', 'زبان‌شناسی', 63, 665),
+ ('Agriculture & veterinary', 'کشاورزی و دامپزشکی', 0, 706), ('Psychology', 'روان‌شناسی', 13, 677), ('Linguistics', 'زبان‌شناسی', 63, 665),
  ('Music', 'موسیقی', 208, 631), ('Politics', 'سیاست', 0, 584), ('History & archaeology', 'تاریخ و باستان‌شناسی', 0, 542), ('Food', 'غذا', 0, 537),
  ('Sociology & anthropology', 'جامعه‌شناسی و مردم‌شناسی', 0, 525), ('Literature', 'ادبیات', 0, 520), ('Physics', 'فیزیک', 28, 514),
  ('Fashion & textiles', 'پوشاک و نساجی', 0, 497), ('Education', 'آموزش', 0, 485), ('Statistics', 'آمار', 0, 393),
- ('Media & communication', 'رسانه و ارتباطات', 0, 376), ('Abbreviations', 'اختصارات', 0, 275), ('Religion', 'دین', 0, 165),
+ ('Media & communication', 'رسانه و ارتباطات', 0, 376), ('Abbreviations', 'اختصارات', 0, 301), ('Religion', 'دین', 0, 165),
 ]
 
 FILES = {
@@ -92,7 +92,7 @@ L['en'] = dict(
  verify='Built and checked by software; not yet verified screen by screen on every e-reader. <a href="' + REPO + '/issues/new?template=device-report.yml">Report a display problem</a>.',
  in_t="What's inside", in_p='Entries are grouped by subject. Grey is v2.4, teal is v3.1. An entry with senses in several subjects is counted in each.',
  leg_old='v2.4', leg_new='v3.1',
- general='General vocabulary is not charted: 103,231 entries in v2.4 and 101,466 in v3.1 (duplicates were merged, and some entries moved to a subject).',
+ general='General vocabulary is not charted: 103,231 entries in v2.4 and 101,388 in v3.1 (duplicates were merged, and some entries moved to a subject).',
  cl=[('10,085 new entries in v3.1', 'Twelve new sections (philosophy, earth sciences, statistics, arts, literature, history, sociology, education, agriculture, transport, media, fashion), much more slang, idioms and proverbs, and 3,589 subject senses on existing words.'),
      ('11,493 new entries in v3.0', 'Modern vocabulary (internet, smartphone, podcast), science, medicine, business, phrasal verbs, idioms and slang.'),
      ('7,016 words rewritten', 'The most frequent words: most common sense first, grouped by part of speech, wrong equivalents removed.'),
@@ -136,7 +136,7 @@ L['fa'] = dict(
  verify='فایل‌ها با نرم‌افزار ساخته و بررسی شده‌اند، اما روی هر مدل کتابخوان صفحه‌به‌صفحه آزمایش نشده‌اند. <a href="' + REPO + '/issues/new?template=device-report.yml" lang="en" dir="ltr">گزارش مشکل نمایش</a>.',
  in_t='درون دیکشنری', in_p='مدخل‌ها بر اساس موضوع دسته‌بندی شده‌اند. خاکستری نسخهٔ ۲٫۴ و فیروزه‌ای نسخهٔ ۳٫۱ است. مدخلی که در چند موضوع معنی دارد، در هرکدام شمرده می‌شود.',
  leg_old='نسخهٔ ۲٫۴', leg_new='نسخهٔ ۳٫۱',
- general='بخش عمومی در نمودار نیست: ۱۰۳٬۲۳۱ مدخل در نسخهٔ ۲٫۴ و ۱۰۱٬۴۶۶ مدخل در نسخهٔ ۳٫۱ (مدخل‌های تکراری ادغام شدند و برخی مدخل‌ها به بخش موضوعی رفتند).',
+ general='بخش عمومی در نمودار نیست: ۱۰۳٬۲۳۱ مدخل در نسخهٔ ۲٫۴ و ۱۰۱٬۳۸۸ مدخل در نسخهٔ ۳٫۱ (مدخل‌های تکراری ادغام شدند و برخی مدخل‌ها به بخش موضوعی رفتند).',
  cl=[('۱۰٬۰۸۵ مدخل تازه در نسخهٔ ۳٫۱', 'دوازده بخش تازه (فلسفه، علوم زمین، آمار، هنر، ادبیات، تاریخ، جامعه‌شناسی، آموزش، کشاورزی، حمل‌ونقل، رسانه، پوشاک)، زبان محاوره، اصطلاح و ضرب‌المثل بسیار بیشتر و ۳٬۵۸۹ معنای تخصصی برای واژه‌های موجود.'),
      ('۱۱٬۴۹۳ مدخل تازه در نسخهٔ ۳٫۰', 'واژه‌های نو (اینترنت، گوشی هوشمند، پادکست)، علوم، پزشکی، بازرگانی، فعل‌های عبارتی، اصطلاح و زبان محاوره.'),
      ('۷٬۰۱۶ واژه بازنویسی‌شده', 'پرکاربردترین واژه‌ها: معنی رایج‌تر در ابتدا، گروه‌بندی بر اساس نقش دستوری، حذف معادل‌های نادرست.'),
