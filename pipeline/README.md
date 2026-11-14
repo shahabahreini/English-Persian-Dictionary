@@ -14,13 +14,13 @@ Rebuilding `master.json`, `changelog.tsv` and both Kindle sources (`content.html
 | `scripts/export.py` | Writes the tab files and the Kindle sources (classic and RTL) |
 | `scripts/glos.py` | StarDict and Kobo writers (via pyglossary) |
 | `scripts/verify.py`, `scripts/chk_mobi.py` | Read-back checks. `verify.py` expects the author's output layout (`<dest>/StarDict/English-Persian-v3.0/`, `<dest>/Kobo/`) and needs `idzip`; `chk_mobi.py` (run with `calibre-debug scripts/chk_mobi.py -- file.mobi`) counts headwords in a compiled `.mobi` |
-| `scripts/report.py`, `scripts/site.py` | Generate the change report and wrap it as `docs/report.html` |
+| `scripts/report.py`, `scripts/site.py`, `scripts/build_site.py` | Generate the change report, wrap it as `docs/report.html`, and build the English and Persian landing pages |
 | `scripts/gap.py`, `typocand.py`, `slices.py`, `revprep.py`, `salvage.py` | Helpers that found missing words and typo candidates and prepared and merged the AI-written batches |
 | `new/` | New entries (`gap_*`, `manual_a`) and modern senses added to existing entries (`theme_*`) |
 | `review/merged/` | Rewritten definitions for the 7,016 most frequent words |
 | `typo/` | Headword spelling fixes (`fix_*.tsv`) and the candidate lists they came from |
 | `report/` | Report template and the static text (device table, limits) |
-| `site/` | Source of the social preview image |
+| `site/` | Project site: stylesheet, script, structured data, logos and the social preview image source |
 | `guidelines/` | The written specs given to the AI writers (`SPEC.md` for new entries, `REVIEW.md` for rewrites) |
 
 ## Rebuild
@@ -63,7 +63,7 @@ Use `en-fa.kobo.tabfile.txt` for Kobo: it lists alternate forms with a different
 python3 scripts/report.py "$PWD"                                     # report fragment: report/dictionary-v3-report.html
 python3 scripts/site.py report/dictionary-v3-report.html ../docs/report.html   # wrap it as a complete, indexable page
 ```
-The landing pages (`docs/index.html`, `docs/fa/index.html`) are hand-written. `site/og-image.html` is the source of the social preview images: `docs/assets/github-social-preview.png` (1280×640, uploaded by hand under the repo's Settings › Social preview) and `docs/assets/og-image.png` (1200×630, used by the pages' Open Graph tags). Render it at those sizes with a headless browser, e.g. Chrome with `--window-size=1280,640 --virtual-time-budget=8000 --screenshot=…` so the web fonts finish loading.
+The landing pages (`docs/index.html`, `docs/fa/index.html`) are generated, not hand-edited: run `python3 pipeline/scripts/build_site.py` from the repository root. Copy lives in that script (English and Persian side by side), styling in `site/site.css`, behaviour in `site/site.js`, structured data in `site/jsonld-*.json`, and file sizes are read from `dist/` and `data/`, so rebuild after changing any of them. The FAQ on each page is built from its `FAQPage` JSON-LD so the visible text and the markup cannot drift apart. Logo sources and licences are in `site/logos/README.md`. `site/og-image.html` is the source of the social preview images: `docs/assets/github-social-preview.png` (1280×640, uploaded by hand under the repo's Settings › Social preview) and `docs/assets/og-image.png` (1200×630, used by the pages' Open Graph tags). Render it at those sizes with a headless browser, e.g. Chrome with `--window-size=1280,640 --virtual-time-budget=8000 --screenshot=…` so the web fonts finish loading.
 
 ### Compile the Kindle dictionary
 ```bash

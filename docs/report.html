@@ -104,9 +104,20 @@ button.more{font:inherit;font-weight:600;color:var(--accent);background:var(--ac
 ul.plain{margin:0;padding-left:1.1em;display:flex;flex-direction:column;gap:6px;max-width:72ch}
 @media (max-width:600px){ .row{grid-template-columns:1fr} th,td{padding:8px 10px} }
 </style>
+<style>
+.sitebar{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:16px;justify-content:space-between;padding:0 24px;min-height:64px;background:rgba(246,244,238,.92);backdrop-filter:blur(10px);border-bottom:1px solid #d9dcd5;font:400 .93rem/1.2 "IBM Plex Sans",system-ui,sans-serif}
+.sb-brand{color:#14212b;text-decoration:none;font:600 1.15rem/1 Newsreader,Georgia,serif;letter-spacing:-.01em;white-space:nowrap}
+.sb-brand small{font:500 .68rem/1 "IBM Plex Mono",monospace;color:#0b7f86;letter-spacing:.1em;margin-left:8px}
+.sb-links{display:flex;align-items:center;gap:6px}
+.sb-links a{color:#566570;text-decoration:none;padding:8px 12px;border-radius:6px;white-space:nowrap}
+.sb-links a:hover{background:#e2efec;color:#14212b}
+.sb-links .sb-gh{display:inline-flex;align-items:center;gap:8px;border:1px solid #c3c8c0;color:#14212b;background:#fcfbf7;font-weight:500}
+.sb-links .sb-gh svg{flex:none}
+@media (max-width:560px){.sb-gh span{display:none}}
+</style>
 </head>
 <body>
-<nav style="font:14px/1.4 system-ui,sans-serif;padding:10px 16px;border-bottom:1px solid #d7dfe4"><a href="./">English–Persian Dictionary v3.0</a> · <a href="fa/" hreflang="fa" lang="fa">فارسی</a> · <a href="https://github.com/shahabahreini/English-Persian-Dictionary">GitHub</a></nav>
+<header class="sitebar"><a class="sb-brand" href="./">English–Persian <small>v3.0</small></a><span class="sb-links"><a href="./#download">Download</a><a href="fa/" hreflang="fa" lang="fa">فارسی</a><a class="sb-gh" href="https://github.com/shahabahreini/English-Persian-Dictionary" aria-label="English–Persian Dictionary on GitHub"><svg viewBox="0 0 24 24" aria-hidden="true" width="19" height="19" fill="currentColor"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg><span>GitHub</span></a></span></header>
 <div class="wrap">
   <header>
     <div class="eyebrow">Revision report · v2.4 → v3.0</div>

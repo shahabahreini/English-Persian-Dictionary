@@ -1,0 +1,164 @@
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "WebSite",
+   "@id": "https://shahabahreini.github.io/English-Persian-Dictionary/#website",
+   "url": "https://shahabahreini.github.io/English-Persian-Dictionary/",
+   "name": "English–Persian Dictionary",
+   "inLanguage": [
+    "en",
+    "fa"
+   ]
+  },
+  {
+   "@type": "Dataset",
+   "@id": "https://shahabahreini.github.io/English-Persian-Dictionary/#dataset",
+   "name": "English–Persian Dictionary v3.0",
+   "alternateName": [
+    "English-Persian dictionary for Kindle",
+    "دیکشنری انگلیسی به فارسی"
+   ],
+   "description": "An English-to-Persian (Farsi) bilingual dictionary of 154,439 entries and 31,227 indexed inflected forms, revised and expanded from English-Persian Dictionary v2.4. Distributed as Kindle .mobi (classic and right-to-left), Kobo dicthtml, StarDict (HTML and plain text) and a tab-separated master file, with a before/after change report.",
+   "url": "https://shahabahreini.github.io/English-Persian-Dictionary/",
+   "sameAs": "https://github.com/shahabahreini/English-Persian-Dictionary",
+   "version": "3.0.0",
+   "datePublished": "2026-11-13",
+   "inLanguage": [
+    "en",
+    "fa"
+   ],
+   "license": "https://opensource.org/licenses/MIT",
+   "isAccessibleForFree": true,
+   "keywords": [
+    "English-Persian dictionary",
+    "English-Farsi dictionary",
+    "Kindle dictionary",
+    "Kobo dictionary",
+    "KOReader dictionary",
+    "StarDict",
+    "bilingual dictionary",
+    "e-reader",
+    "Persian",
+    "Farsi",
+    "دیکشنری انگلیسی به فارسی",
+    "لغت نامه کیندل"
+   ],
+   "creator": {
+    "@type": "Person",
+    "name": "shahabahreini",
+    "url": "https://github.com/shahabahreini"
+   },
+   "isBasedOn": {
+    "@type": "Dataset",
+    "name": "English-Persian Dictionary v2.4",
+    "url": "https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary",
+    "creator": {
+     "@type": "Person",
+     "name": "hossein1376",
+     "url": "https://github.com/hossein1376"
+    },
+    "license": "https://opensource.org/licenses/MIT"
+   },
+   "distribution": [
+    {
+     "@type": "DataDownload",
+     "name": "Kindle .mobi (classic)",
+     "encodingFormat": "application/x-mobipocket-ebook",
+     "contentUrl": "https://github.com/shahabahreini/English-Persian-Dictionary/raw/main/dist/kindle/English-Persian.Dictionary.v3.0-classic.mobi"
+    },
+    {
+     "@type": "DataDownload",
+     "name": "Kindle .mobi (right-to-left)",
+     "encodingFormat": "application/x-mobipocket-ebook",
+     "contentUrl": "https://github.com/shahabahreini/English-Persian-Dictionary/raw/main/dist/kindle/English-Persian.Dictionary.v3.0-rtl.mobi"
+    },
+    {
+     "@type": "DataDownload",
+     "name": "Kobo dicthtml",
+     "encodingFormat": "application/zip",
+     "contentUrl": "https://github.com/shahabahreini/English-Persian-Dictionary/raw/main/dist/kobo/dicthtml-en-fa.zip"
+    },
+    {
+     "@type": "DataDownload",
+     "name": "StarDict (HTML)",
+     "encodingFormat": "application/zip",
+     "contentUrl": "https://github.com/shahabahreini/English-Persian-Dictionary/raw/main/dist/stardict/English-Persian-v3.0-stardict.zip"
+    },
+    {
+     "@type": "DataDownload",
+     "name": "StarDict (plain text)",
+     "encodingFormat": "application/zip",
+     "contentUrl": "https://github.com/shahabahreini/English-Persian-Dictionary/raw/main/dist/stardict/English-Persian-v3.0-stardict-plaintext.zip"
+    },
+    {
+     "@type": "DataDownload",
+     "name": "Master TSV (all entries)",
+     "encodingFormat": "text/tab-separated-values",
+     "contentUrl": "https://github.com/shahabahreini/English-Persian-Dictionary/raw/main/data/English-Persian.v3.0.tsv"
+    }
+   ]
+  },
+  {
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "How do I install an English–Persian dictionary on a Kindle?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Connect the Kindle by USB, copy English-Persian.Dictionary.v3.0-classic.mobi into the documents/dictionaries folder, and eject. In a book, long-press a word, tap the dictionary name in the pop-up and choose English-Persian Dictionary v3.0, or set it under Settings > Language & Dictionaries > Dictionaries > English."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How do I add this dictionary to a Kobo?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Copy dicthtml-en-fa.zip into the .kobo/custom-dict folder on the Kobo (create it if missing), eject, then select it under Settings > Language and dictionaries. Firmware 4.24 or later is needed."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does it work with KOReader, Onyx Boox and PocketBook?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, through the StarDict build. Unzip English-Persian-v3.0-stardict.zip into koreader/data/dict/ for KOReader (which runs on Kindle, Kobo, PocketBook, Boox, reMarkable and Android), or into the dictionaries folder of GoldenDict, Moon+ Reader and other StarDict apps. PocketBook's built-in dictionary uses its own format, which is not provided; use KOReader there."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the difference between the classic and right-to-left Kindle builds?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Kindle dictionary pop-ups on E Ink devices lay text out left to right, so the classic build, like v2.4, stores each Persian definition with its words in reverse order so that it displays correctly. The right-to-left build stores natural reading order with right-to-left paragraphs for Kindle apps and firmware that handle bidirectional text. Try classic first; use the right-to-left build if sentences look reversed."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is the English–Persian dictionary free?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. It is released under the MIT licence, the same as the upstream project it is based on, and works offline."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is new in v3.0 compared with v2.4?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "154,439 entries instead of 145,075, including 11,493 new entries (internet, smartphone, podcast and other modern vocabulary, plus science, medicine, business, phrasal verbs, idioms and slang). The 7,016 most frequent words were rewritten with the most common sense first. Persian spelling was normalised in 106,983 entries, 3,120 misspelled headwords were corrected, 2,128 duplicates were merged, and 31,227 inflected forms were indexed so that looking up 'walked' opens 'walk'."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Were the new translations reviewed by a human editor?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No. The rewritten and new entries were written by AI language models following written lexicographic guidelines and have not been reviewed by a human Persian editor. About 107,000 specialised entries received only mechanical repairs and keep their original wording. Corrections are welcome as GitHub issues."
+     }
+    }
+   ]
+  }
+ ]
+}

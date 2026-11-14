@@ -1,0 +1,80 @@
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "WebPage",
+   "@id": "https://shahabahreini.github.io/English-Persian-Dictionary/fa/#webpage",
+   "url": "https://shahabahreini.github.io/English-Persian-Dictionary/fa/",
+   "name": "دیکشنری انگلیسی به فارسی برای کیندل، کوبو و KOReader – نسخه ۳٫۰",
+   "inLanguage": "fa",
+   "about": {
+    "@id": "https://shahabahreini.github.io/English-Persian-Dictionary/#dataset"
+   },
+   "isPartOf": {
+    "@id": "https://shahabahreini.github.io/English-Persian-Dictionary/#website"
+   }
+  },
+  {
+   "@type": "FAQPage",
+   "inLanguage": "fa",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "دیکشنری انگلیسی به فارسی را چطور روی کیندل نصب کنم؟",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "کیندل را با کابل USB به کامپیوتر وصل کنید، فایل English-Persian.Dictionary.v3.0-classic.mobi را در پوشهٔ documents/dictionaries کپی کنید و کیندل را جدا کنید. داخل کتاب انگلیسی روی یک واژه انگشت بگذارید، نام واژه‌نامه را در پنجرهٔ معنی لمس کنید و English-Persian Dictionary v3.0 را انتخاب کنید. می‌توانید آن را از Settings > Language & Dictionaries > Dictionaries > English هم تنظیم کنید."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "دیکشنری را چطور روی کوبو نصب کنم؟",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "فایل dicthtml-en-fa.zip را در پوشهٔ .kobo/custom-dict بریزید (اگر نبود بسازید)، کوبو را جدا کنید و از Settings > Language and dictionaries آن را انتخاب کنید. فریم‌ور ۴٫۲۴ یا جدیدتر لازم است."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "آیا با KOReader، اونیکس بوکس و پاکت‌بوک کار می‌کند؟",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "بله، با نسخهٔ StarDict. فایل English-Persian-v3.0-stardict.zip را در koreader/data/dict/ یا پوشهٔ واژه‌نامهٔ برنامه‌هایی مانند GoldenDict و Moon+ Reader باز کنید. واژه‌نامهٔ داخلی پاکت‌بوک قالب خودش را دارد که در اینجا ارائه نشده است؛ روی پاکت‌بوک از KOReader استفاده کنید."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "تفاوت نسخهٔ classic و RTL برای کیندل چیست؟",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "پنجرهٔ معنی در کیندل‌های E Ink متن را از چپ به راست می‌چیند؛ پس نسخهٔ classic، مثل نسخهٔ ۲٫۴، واژه‌های هر تعریف فارسی را وارونه ذخیره می‌کند تا درست دیده شود. نسخهٔ RTL متن را به ترتیب طبیعی و با پاراگراف راست‌به‌چپ ذخیره می‌کند، برای برنامه‌ها و فریم‌ورهایی که متن دوجهته را خودشان درست نشان می‌دهند. اول classic را امتحان کنید و اگر جمله‌ها وارونه بود RTL را بگذارید."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "آیا این دیکشنری رایگان و آفلاین است؟",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "بله. با مجوز MIT منتشر شده، مانند پروژهٔ اصلی که از آن گرفته شده، و همهٔ جست‌وجوها روی خود دستگاه انجام می‌شود."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "نسخهٔ ۳٫۰ چه تفاوتی با ۲٫۴ دارد؟",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "۱۵۴٬۴۳۹ مدخل به جای ۱۴۵٬۰۷۵. واژه‌های جدید (اینترنت، گوشی هوشمند، پادکست)، اصطلاحات علمی، پزشکی و بازرگانی، فعل‌های عبارتی، ضرب‌المثل‌ها و زبان محاوره افزوده شد؛ ۷٬۰۱۶ واژهٔ پرکاربرد با معنی رایج‌تر در ابتدا بازنویسی شد؛ املا در ۱۰۶٬۹۸۳ مدخل یکدست شد؛ ۳٬۱۲۰ غلط املایی در سرواژه‌ها درست و ۲٬۱۲۸ مدخل تکراری ادغام شد؛ و شکل‌های صرفی هم ثبت شده‌اند، پس جست‌وجوی walked به walk می‌رسد."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "آیا ترجمه‌های جدید را ویراستار انسانی بررسی کرده است؟",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "خیر. بازنویسی‌ها و مدخل‌های تازه را مدل‌های هوش مصنوعی طبق راهنمای نگارشی مکتوب نوشته‌اند و ویراستار فارسی‌زبان انسانی آن‌ها را بررسی نکرده است. حدود ۱۰۷ هزار مدخل تخصصی فقط اصلاح ظاهری شده‌اند و متن اصلی را دارند. اگر ایراد یا ترجمهٔ بهتری دیدید در GitHub گزارش کنید."
+     }
+    }
+   ]
+  }
+ ]
+}
