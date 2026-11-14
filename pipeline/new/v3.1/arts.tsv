@@ -1,0 +1,865 @@
+chiaroscuro	arts	سایه‌روشن، کیاروسکورو (تضاد شدید نور و سایه در نقاشی)
+impasto	arts	ایمپاستو، رنگ‌گذاری ضخیم (بافت برجستهٔ رنگ روی بوم)
+sfumato	arts	اسفوماتو، محوسازی (گذار نرم و بی‌مرز رنگ و سایه)
+fresco	arts	فرسک، فرسکو، نقاشی روی گچ تر (نقاشی دیواری)
+gouache	arts	گواش، آبرنگ مات
+tempera	arts	تمپرا (رنگ با بست زردهٔ تخم‌مرغ)
+foreshortening	arts	کوتاه‌نمایی (کوتاه‌تر دیده شدن اجسام در پرسپکتیو)
+vanishing point	arts	نقطهٔ گریز
+linear perspective	arts	پرسپکتیو خطی
+aerial perspective	arts	پرسپکتیو جوی، ژرفانمایی جوی
+atmospheric perspective	arts	پرسپکتیو جوی، ژرفانمایی جوی
+one-point perspective	arts	پرسپکتیو یک‌نقطه‌ای
+two-point perspective	arts	پرسپکتیو دونقطه‌ای
+three-point perspective	arts	پرسپکتیو سه‌نقطه‌ای
+horizon line	arts	خط افق
+picture plane	arts	صفحهٔ تصویر
+oil painting	arts	نقاشی رنگ‌روغن
+watercolor	arts	آبرنگ؛ نقاشی آبرنگ
+acrylic	arts	رنگ اکریلیک؛ نقاشی اکریلیک
+acrylic paint	arts	رنگ اکریلیک
+pastel	arts	پاستل؛ نقاشی پاستل
+oil pastel	arts	پاستل روغنی
+soft pastel	arts	پاستل گچی
+charcoal	arts	زغال طراحی؛ طراحی با زغال
+sanguine	arts	سانگین (گچ قرمز طراحی)
+ink wash	arts	آب‌مرکب، نقاشی با مرکب رقیق
+pen and ink	arts	طراحی با قلم و مرکب
+encaustic	arts	انکاستیک (نقاشی با موم داغ)
+grisaille	arts	گریزای (نقاشی تک‌رنگ خاکستری)
+trompe l'oeil	arts	ترومپ‌لوی، فریب چشم (نقاشی واقع‌نما با خطای دید)
+glazing	arts	لایه‌گذاری شفاف رنگ، گلیز (در رنگ‌روغن)؛ لعاب‌دهی (در سفالگری)
+glaze	arts	لایهٔ شفاف رنگ (در نقاشی رنگ‌روغن)
+scumbling	arts	اسکامبل (رنگ‌گذاری نیمه‌مات روی لایهٔ زیرین)
+underpainting	arts	زیرسازی رنگ، لایهٔ زیرین نقاشی
+underdrawing	arts	طرح زیرین (طراحی اولیه زیر لایه‌های رنگ)
+alla prima	arts	آلاپریما، نقاشی یک‌مرحله‌ای (رنگ‌گذاری تر روی تر)
+wet-on-wet	arts	خیس در خیس، تر روی تر (شیوهٔ آبرنگ و رنگ‌روغن)
+dry brush	arts	قلم‌موی خشک (شیوهٔ رنگ‌گذاری)
+stippling	arts	نقطه‌پردازی، سایه‌زنی نقطه‌ای
+hatching	arts	هاشور، هاشورزنی
+cross-hatching	arts	هاشور متقاطع
+shading	arts	سایه‌زنی، سایه‌پردازی
+blending	arts	محوکاری، ترکیب رنگ‌ها
+sketchbook	arts	دفتر طراحی
+study	arts	اتود، طرح مطالعاتی
+life drawing	arts	طراحی از مدل زنده
+figure drawing	arts	طراحی پیکره
+contour drawing	arts	طراحی کانتور، طراحی خط دور
+gesture drawing	arts	طراحی ژست، طراحی حرکت (طراحی سریع از پیکر)
+landscape painting	arts	نقاشی منظره
+portraiture	arts	چهره‌نگاری، پرتره‌نگاری
+self-portrait	arts	خودنگاره، سلف‌پرتره
+genre painting	arts	نقاشی ژانر، صحنه‌نگاری زندگی روزمره
+history painting	arts	نقاشی تاریخی
+seascape	arts	منظرهٔ دریا، دریانگاره
+nude	arts	برهنه‌نگاری، پیکرهٔ برهنه
+palette	arts	پالت، تختهٔ رنگ؛ مجموعهٔ رنگ‌های یک اثر
+palette knife	arts	کاردک نقاشی
+brushstroke	arts	ضربهٔ قلم‌مو، حرکت قلم‌مو
+brushwork	arts	شیوهٔ کار با قلم‌مو، ضربه‌های قلم‌مو
+gesso	arts	گسو، آستر گچی بوم
+primer	arts	آستر (بوم نقاشی)
+stretcher	arts	شاسی بوم، چهارچوب بوم
+binder	arts	چسب رنگ، بست (مادهٔ چسباننده در رنگ)
+medium	arts	مدیوم، واسطهٔ رنگ (مادهٔ رقیق‌کننده)؛ رسانهٔ هنری، ماده و ابزار اثر
+fixative	arts	فیکساتیو، ثابت‌کننده (اسپری طراحی)
+focal point	arts	نقطهٔ کانونی، کانون توجه
+negative space	arts	فضای منفی
+positive space	arts	فضای مثبت
+middle ground	arts	زمینهٔ میانی، میان‌زمینه
+rule of thirds	arts	قانون یک‌سوم‌ها
+golden section	arts	برش طلایی، نسبت طلایی
+contrapposto	arts	کنتراپوستو (ایستادن پیکره با وزن روی یک پا)
+modelling	arts	حجم‌پردازی، حجم‌نمایی (با سایه‌روشن)؛ مجسمه‌سازی با گل
+modeling	arts	حجم‌پردازی، حجم‌نمایی (با سایه‌روشن)؛ مجسمه‌سازی با گل
+tondo	arts	تندو (نقاشی یا نقش برجستهٔ مدور)
+triptych	arts	سه‌لتی، تریپتیک
+diptych	arts	دولتی، دیپتیک
+polyptych	arts	چندلتی، پلی‌پتیک
+altarpiece	arts	نقاشی محراب، پردهٔ محراب
+mural	arts	نقاشی دیواری، دیوارنگاره
+muralist	arts	دیوارنگار، نقاش دیواری
+easel painting	arts	نقاشی سه‌پایه‌ای
+panel painting	arts	نقاشی روی تخته
+icon	arts	شمایل، ایکون (نقاشی مذهبی مسیحی شرقی)
+iconography	arts	شمایل‌نگاری
+pentimento	arts	پنتیمنتو (آشکار شدن طرح یا اصلاحِ زیرین نقاشی)
+craquelure	arts	ترک‌خوردگی سطح رنگ (در نقاشی‌های کهن)
+cartoon	arts	طرح مقدماتی تمام‌اندازه (برای فرسک، فرش یا شیشهٔ رنگی)
+anamorphosis	arts	آنامورفوز، تصویر کج‌نما
+plein air	arts	نقاشی در فضای باز
+airbrush	arts	ایربراش
+graffiti	arts	گرافیتی، دیوارنویسی
+street art	arts	هنر خیابانی
+collage	arts	کلاژ
+assemblage	arts	آسمبلاژ (اثر ساخته‌شده از اشیای گوناگون)
+frottage	arts	فروتاژ
+mixed media	arts	تکنیک ترکیبی، مواد ترکیبی، میکس‌مدیا
+oeuvre	arts	مجموعهٔ آثار (یک هنرمند یا نویسنده)، کارنامهٔ ادبی
+sgraffito	arts	اسگرافیتو، خراش‌نگاری (روی گچ یا سفال)
+tenebrism	arts	تنبریسم، تاریک‌نمایی
+drawing board	arts	تختهٔ رسم
+fine art	arts	هنرهای زیبا
+visual arts	arts	هنرهای تجسمی
+plastic arts	arts	هنرهای تجسمی
+applied arts	arts	هنرهای کاربردی
+decorative arts	arts	هنرهای تزیینی
+performing arts	arts	هنرهای نمایشی
+art history	arts	تاریخ هنر
+art criticism	arts	نقد هنری
+art critic	arts	منتقد هنری
+figurative	arts	فیگوراتیو، پیکرنما
+representational	arts	بازنمایانه، فیگوراتیو
+non-objective	arts	غیرعینی، ناپیکرنما (انتزاع محض)
+motif	arts	نقش‌مایه، موتیف
+illustration	arts	تصویرگری؛ تصویر (کتاب)
+illustrator	arts	تصویرگر
+draughtsman	arts	طراح، رسام
+draftsman	arts	طراح، رسام
+draughtsmanship	arts	مهارت طراحی
+caricature	arts	کاریکاتور
+cartoonist	arts	کاریکاتوریست
+art for art's sake	arts	هنر برای هنر
+colour wheel	arts	چرخهٔ رنگ، دایرهٔ رنگ
+color wheel	arts	چرخهٔ رنگ، دایرهٔ رنگ
+colour theory	arts	نظریهٔ رنگ
+color theory	arts	نظریهٔ رنگ
+primary colour	arts	رنگ اصلی، رنگ درجهٔ یک
+primary color	arts	رنگ اصلی، رنگ درجهٔ یک
+secondary colour	arts	رنگ ثانویه، رنگ درجهٔ دو
+secondary color	arts	رنگ ثانویه، رنگ درجهٔ دو
+tertiary colour	arts	رنگ درجهٔ سه
+tertiary color	arts	رنگ درجهٔ سه
+complementary colours	arts	رنگ‌های مکمل
+complementary colour	arts	رنگ مکمل
+complementary color	arts	رنگ مکمل
+analogous colours	arts	رنگ‌های همسایه، رنگ‌های مجاور
+analogous colors	arts	رنگ‌های همسایه، رنگ‌های مجاور
+warm colours	arts	رنگ‌های گرم
+warm colors	arts	رنگ‌های گرم
+cool colours	arts	رنگ‌های سرد
+cool colors	arts	رنگ‌های سرد
+saturation	arts	اشباع رنگ، خلوص رنگ
+chroma	arts	کروما، خلوص رنگ، شدت رنگ
+value	arts	والور، ارزش رنگی (درجهٔ تیرگی و روشنی رنگ)
+tint	arts	رنگ روشن‌شده (آمیخته با سفید)، تینت
+shade	arts	رنگ تیره‌شده (آمیخته با سیاه)، شید
+monochrome	arts	تک‌رنگ؛ اثر تک‌رنگ
+polychromy	arts	چندرنگی (رنگ‌آمیزی مجسمه و معماری)
+achromatic	arts	بی‌فام، خنثی (سیاه، سفید و خاکستری)
+neutral colour	arts	رنگ خنثی
+neutral color	arts	رنگ خنثی
+colour harmony	arts	هماهنگی رنگ‌ها
+color harmony	arts	هماهنگی رنگ‌ها
+colour scheme	arts	ترکیب رنگ، طرح رنگ
+color scheme	arts	ترکیب رنگ، طرح رنگ
+triadic colour scheme	arts	ترکیب رنگ سه‌گانه
+simultaneous contrast	arts	تضاد همزمان (رنگ)
+additive colour	arts	رنگ افزایشی
+additive color	arts	رنگ افزایشی
+subtractive colour	arts	رنگ کاهشی
+subtractive color	arts	رنگ کاهشی
+local colour	arts	رنگ موضعی، رنگ ذاتی (شیء)
+local color	arts	رنگ موضعی، رنگ ذاتی (شیء)
+colourist	arts	رنگ‌پرداز، نقاش رنگ‌گرا
+colorist	arts	رنگ‌پرداز، نقاش رنگ‌گرا؛ (سینما) متخصص اصلاح رنگ
+earth tones	arts	رنگ‌های خاکی
+tonal range	arts	گسترهٔ درجات روشنی، گسترهٔ تونال
+umber	arts	امبر، قهوه‌ای خاکی (رنگدانه)
+burnt sienna	arts	سی‌ینای سوخته (رنگدانهٔ قهوه‌ای مایل به قرمز)
+ultramarine	arts	لاجوردی، آبی لاجوردی (رنگدانه)
+bas-relief	arts	نقش برجستهٔ کم‌عمق، بارلیف
+high relief	arts	نقش برجستهٔ پرعمق
+low relief	arts	نقش برجستهٔ کم‌عمق
+sunken relief	arts	نقش فرورفته، نقش گود
+carving	arts	کنده‌کاری، حجاری
+stone carving	arts	سنگ‌تراشی، حجاری
+wood carving	arts	منبت‌کاری، کنده‌کاری روی چوب
+casting	arts	ریخته‌گری (مجسمه)؛ انتخاب بازیگر، بازیگرگزینی، کستینگ
+lost-wax casting	arts	ریخته‌گری به روش موم گمشده، ریخته‌گری دقیق
+bronze casting	arts	ریخته‌گری مفرغ
+armature	arts	آرماتور، اسکلت داخلی مجسمه
+maquette	arts	ماکت، طرح حجمی کوچک مجسمه
+plinth	arts	پایهٔ مجسمه، ستون‌پایه
+statuette	arts	تندیس کوچک، پیکرک
+figurine	arts	پیکرک، مجسمهٔ کوچک
+torso	arts	تن‌پیکره، تورسو (مجسمهٔ بی‌سر و دست و پا)
+installation	arts	چیدمان، اینستالیشن
+installation art	arts	هنر چیدمان
+land art	arts	لند آرت، هنر زمینی
+kinetic art	arts	هنر جنبشی، هنر کینتیک
+kinetic sculpture	arts	مجسمهٔ متحرک، مجسمهٔ کینتیک
+stabile	arts	استابیل (مجسمهٔ ثابت انتزاعی)
+sculpture in the round	arts	مجسمهٔ تمام‌حجم، مجسمهٔ مدور
+chasing	arts	قلم‌زنی (روی فلز)
+repousse	arts	برجسته‌کاری فلز از پشت، کوبه‌کاری، رپوسه
+patina	arts	زنگار، پتینه (لایهٔ رنگی سطح فلز)
+terracotta	arts	سفال پخته، تراکوتا
+clay modelling	arts	مجسمه‌سازی با گل
+carver	arts	کنده‌کار، حجار
+found object	arts	شیء یافته، شیء آماده
+readymade	arts	حاضرآماده، ردی‌مید
+monumental sculpture	arts	مجسمهٔ یادمانی
+public art	arts	هنر عمومی، هنر شهری
+printmaking	arts	چاپ دستی، چاپ هنری
+printmaker	arts	هنرمند چاپ دستی، چاپگر
+print	arts	چاپ هنری، باسمه (نسخهٔ چاپ دستی)
+etching	arts	اچینگ، حکاکی با اسید، قلم‌زنی اسیدی
+lithograph	arts	لیتوگراف، چاپ سنگی
+woodcut	arts	چاپ چوبی، باسمهٔ چوبی
+woodblock print	arts	چاپ چوبی، باسمهٔ چوبی
+wood engraving	arts	گراور چوبی
+linocut	arts	لینوکات، چاپ لینولئومی
+screen printing	arts	چاپ سیلک، سیلک‌اسکرین
+silkscreen	arts	سیلک‌اسکرین، چاپ سیلک
+serigraph	arts	سریگراف، چاپ سیلک هنری
+intaglio	arts	چاپ گود، اینتالیو
+relief printing	arts	چاپ برجسته
+drypoint	arts	درای‌پوینت، حکاکی با سوزن خشک (کندن مستقیم صفحهٔ فلزی بی‌اسید)
+mezzotint	arts	مزوتینت (گراور سایه‌دار)
+monotype	arts	مونوتایپ، چاپ تک‌نسخه‌ای
+monoprint	arts	مونوپرینت، چاپ تک‌نسخه‌ای
+edition	arts	تیراژ، ادیسیون (مجموعهٔ نسخه‌های یک اثر چاپی)
+artist's proof	arts	نسخهٔ هنرمند (نسخهٔ خارج از تیراژ چاپ)
+burin	arts	قلم حکاکی، بورن
+brayer	arts	غلتک جوهر
+plate	arts	کلیشه، صفحهٔ چاپ (فلزی یا چوبی)
+giclee	arts	چاپ ژیکلی (چاپ جوهرافشان باکیفیت آثار هنری)
+embossing	arts	برجسته‌سازی، امباس
+stencil	arts	شابلون، استنسیل
+impressionism	arts	امپرسیونیسم، دریافتگری
+post-impressionism	arts	پست‌امپرسیونیسم، پسادریافتگری
+post-impressionist	arts	پست‌امپرسیونیست
+neo-impressionism	arts	نئوامپرسیونیسم
+pointillism	arts	پوانتیلیسم، نقطه‌چینی
+divisionism	arts	دیویزیونیسم، تقسیم‌گرایی (تفکیک رنگ‌ها)
+cubism	arts	کوبیسم، حجم‌گری
+cubist	arts	کوبیست
+analytic cubism	arts	کوبیسم تحلیلی
+synthetic cubism	arts	کوبیسم ترکیبی
+surrealism	arts	سورئالیسم، فراواقع‌گرایی
+surrealist	arts	سورئالیست
+dada	arts	دادا، دادائیسم
+dadaism	arts	دادائیسم
+expressionism	arts	اکسپرسیونیسم، بیانگری
+expressionist	arts	اکسپرسیونیست
+abstract expressionism	arts	اکسپرسیونیسم انتزاعی
+neo-expressionism	arts	نئواکسپرسیونیسم
+fauvism	arts	فوویسم، ددگری
+fauve	arts	فوو، نقاش فوویست
+futurism	arts	فوتوریسم، آینده‌گرایی
+constructivism	arts	کنستراکتیویسم، ساخت‌گرایی (روسی)
+suprematism	arts	سوپرماتیسم، برتری‌گرایی
+de stijl	arts	د استیل (جنبش هنری هلندی)
+neoplasticism	arts	نئوپلاستیسیسم
+bauhaus	arts	باهاوس، باوهاوس (مدرسه و سبک طراحی، هنر و معماری)
+art nouveau	arts	آرت نوو، آر نوو، هنر نو
+art deco	arts	آرت دکو، آر دکو
+arts and crafts movement	arts	جنبش هنرها و صنایع دستی
+jugendstil	arts	یوگنت‌اشتیل (آرت نووی آلمانی)
+baroque	arts	باروک
+rococo	arts	روکوکو
+mannerism	arts	منریسم، شیوه‌گری
+high renaissance	arts	رنسانس پیشرفته، اوج رنسانس
+early renaissance	arts	رنسانس آغازین
+quattrocento	arts	کواتروچنتو (سدهٔ پانزدهم در هنر ایتالیا)
+byzantine art	arts	هنر بیزانسی
+neoclassicism	arts	نئوکلاسیسیسم، نوکلاسیک‌گرایی
+classicism	arts	کلاسیسیسم، کلاسیک‌گرایی
+romanticism	arts	رمانتیسم، رمانتیسیسم، رمانتیک‌گرایی
+naturalism	arts	ناتورالیسم، طبیعت‌گرایی
+symbolism	arts	سمبولیسم، نمادگرایی
+pre-raphaelite	arts	پیش‌رافائلی
+academic art	arts	هنر آکادمیک
+academicism	arts	آکادمیسم
+modern art	arts	هنر مدرن
+contemporary art	arts	هنر معاصر
+minimal art	arts	هنر مینیمال
+pop art	arts	پاپ آرت
+op art	arts	اپ آرت، هنر خطای دید
+conceptual art	arts	هنر مفهومی
+performance art	arts	هنر اجرا، پرفورمنس
+video art	arts	ویدئو آرت
+digital art	arts	هنر دیجیتال
+new media art	arts	هنر رسانه‌های نو
+body art	arts	هنر بدن، بادی آرت
+action painting	arts	نقاشی کنشی
+colour field painting	arts	نقاشی میدان رنگ
+color field painting	arts	نقاشی میدان رنگ
+hard-edge painting	arts	نقاشی لبه‌تیز، هارد اج
+photorealism	arts	فوتورئالیسم
+hyperrealism	arts	هایپررئالیسم
+social realism	arts	رئالیسم اجتماعی
+socialist realism	arts	رئالیسم سوسیالیستی
+primitivism	arts	بدوی‌گرایی، پریمیتیویسم
+naive art	arts	هنر خام‌دستانه، هنر ناییو
+outsider art	arts	آوتسایدر آرت، هنر حاشیه‌ای (آثار هنرمندان خودآموخته و بیرون از جریان رسمی هنر)
+art brut	arts	آر بروت، هنر خام
+folk art	arts	هنر عامیانه، هنر مردمی
+orientalism	arts	شرق‌گرایی، اورینتالیسم (در نقاشی)
+japonisme	arts	ژاپونیسم
+arte povera	arts	آرته پوورا، هنر فقیر
+fluxus	arts	فلوکسوس (جنبش هنری)
+orphism	arts	اورفیسم
+tachisme	arts	تاشیسم، لکه‌گری
+lyrical abstraction	arts	انتزاع غنایی
+geometric abstraction	arts	انتزاع هندسی
+barbizon school	arts	مکتب باربیزون
+school of paris	arts	مکتب پاریس
+new york school	arts	مکتب نیویورک
+saqqakhaneh school	arts	مکتب سقاخانه
+avant-garde	arts	آوانگارد، پیشرو
+kitsch	arts	کیچ، هنر بازاری
+pastiche	arts	پاستیش، تقلید سبکی، تقلید ترکیبی
+appropriation art	arts	هنر تصاحب
+art movement	arts	جنبش هنری
+miniature painting	arts	نگارگری، نقاشی مینیاتور
+miniaturist	arts	نگارگر، مینیاتوریست
+persian miniature	arts	نگارگری ایرانی، مینیاتور ایرانی
+illuminator	arts	مذهّب، تذهیب‌کار
+illuminated manuscript	arts	نسخهٔ خطی مذهّب، نسخهٔ خطی مصور
+arabesque	arts	اسلیمی، آرابسک؛ آرابسک (حالتی در باله)
+nastaliq	arts	نستعلیق
+naskh	arts	نسخ
+thuluth	arts	ثلث
+kufic	arts	کوفی، خط کوفی
+shikasta	arts	شکسته‌نستعلیق، خط شکسته
+reed pen	arts	قلم نی
+siyah mashq	arts	سیاه‌مشق
+tile mosaic	arts	کاشی معرق
+mosaic	arts	موزاییک، معرق، معرق‌کاری
+haft rang	arts	هفت‌رنگ (کاشی هفت‌رنگ)
+lustreware	arts	سفال زرین‌فام
+lusterware	arts	سفال زرین‌فام
+khatam	arts	خاتم، خاتم‌کاری
+marquetry	arts	معرق‌کاری چوب، معرق
+inlay	arts	ترصیع، معرق‌کاری
+plasterwork	arts	گچ‌بری
+enamel	arts	مینا؛ میناکاری
+enamelling	arts	میناکاری
+cloisonne	arts	میناکاری خانه‌بندی، کلوازونه
+filigree	arts	ملیله‌کاری
+damascening	arts	طلاکوبی، کوفت‌گری (نشاندن طلا یا نقره در فولاد)
+marbling	arts	ابروباد، کاغذ ابری
+paper marbling	arts	ابروباد، کاغذ ابری
+coffee house painting	arts	نقاشی قهوه‌خانه‌ای
+qajar art	arts	هنر قاجار
+lacquer painting	arts	نقاشی لاکی، لاکی‌کاری (قلمدان، جلد و جعبه)
+gold leaf	arts	ورق طلا
+gilding	arts	طلاکاری، زرکاری
+medallion	arts	ترنج (در فرش و تذهیب)
+spandrel	arts	لچک (در فرش و تذهیب)
+frontispiece	arts	سرلوح (صفحهٔ آغازین مذهّب کتاب)
+colophon	arts	انجامه، ترقیمه، رقم کاتب
+cartouche	arts	کتیبه، کارتوش (قاب نوشته)
+geometric pattern	arts	نقش هندسی
+interlace	arts	نقش درهم‌بافته، گره‌سازی
+floral motif	arts	نقش گیاهی، نقش ختایی
+persian carpet	arts	فرش ایرانی
+herat school	arts	مکتب هرات
+tabriz school	arts	مکتب تبریز
+isfahan school	arts	مکتب اصفهان (نگارگری)
+shiraz school	arts	مکتب شیراز
+islamic art	arts	هنر اسلامی
+persian art	arts	هنر ایرانی
+art gallery	arts	گالری هنری، نگارخانه
+gallerist	arts	گالری‌دار
+curator	arts	کیوریتور، دبیر نمایشگاه؛ متصدی بخش موزه
+curate	arts	کیوریت کردن، گزینش و سامان‌دهی آثار نمایشگاه
+curatorial	arts	کیوریتوری، مربوط به گزینش و سامان‌دهی نمایشگاه
+solo exhibition	arts	نمایشگاه انفرادی
+solo show	arts	نمایشگاه انفرادی
+group exhibition	arts	نمایشگاه گروهی
+group show	arts	نمایشگاه گروهی
+retrospective	arts	نمایشگاه مروری، نمایشگاه مرور آثار
+biennale	arts	دوسالانه، بینال
+biennial	arts	دوسالانه (نمایشگاه هنری)
+triennial	arts	سه‌سالانه (نمایشگاه هنری)
+art fair	arts	نمایشگاه بازار هنر، آرت‌فر
+vernissage	arts	افتتاحیهٔ نمایشگاه، ورنیساژ
+private view	arts	بازدید ویژه پیش از افتتاحیه
+art market	arts	بازار هنر
+art dealer	arts	دلال آثار هنری، فروشندهٔ آثار هنری
+art collector	arts	مجموعه‌دار آثار هنری، کلکسیونر
+art auction	arts	حراج آثار هنری
+auction house	arts	حراج‌خانه، خانهٔ حراج
+hammer price	arts	قیمت چکش (قیمت نهایی حراج)
+provenance	arts	پیشینهٔ مالکیت، سابقهٔ مالکیت (اثر هنری)
+attribution	arts	انتساب (اثر به هنرمند)
+authentication	arts	اصالت‌سنجی، تأیید اصالت (اثر هنری)
+certificate of authenticity	arts	گواهی اصالت
+art forgery	arts	جعل اثر هنری
+forgery	arts	جعل اثر هنری، اثر جعلی
+appraisal	arts	ارزش‌گذاری، کارشناسی قیمت (اثر هنری)
+catalogue raisonne	arts	کاتالوگ جامع آثار (یک هنرمند)
+exhibition catalogue	arts	کاتالوگ نمایشگاه
+artist statement	arts	بیانیهٔ هنرمند
+portfolio	arts	پورتفولیو، نمونه‌کار
+commission	arts	سفارش اثر هنری
+patron	arts	حامی هنر، سفارش‌دهنده
+patronage	arts	حمایت از هنر، سفارش‌دهی به هنرمند
+artist residency	arts	اقامت هنری، رزیدنسی هنری
+atelier	arts	آتلیه، کارگاه هنری
+art conservation	arts	مرمت و حفاظت آثار هنری
+conservation	arts	حفاظت و مرمت (آثار هنری و بناهای تاریخی)
+restorer	arts	مرمت‌گر
+conservator	arts	مرمت‌گر، متخصص حفاظت آثار
+docent	arts	راهنمای موزه
+white cube	arts	مکعب سفید (فضای گالری مدرن)
+framing	arts	قاب‌گیری (اثر هنری)؛ قاب‌بندی (ترکیب نما در عکاسی و سینما)
+passe-partout	arts	پاسپارتو
+art school	arts	مدرسهٔ هنر، دانشکدهٔ هنر
+art director	arts	مدیر هنری، طراح هنری
+art direction	arts	طراحی هنری، مدیریت هنری
+artistic director	arts	مدیر هنری
+deaccession	arts	خارج کردن اثر از مجموعهٔ موزه
+permanent collection	arts	مجموعهٔ دائمی (موزه)
+travelling exhibition	arts	نمایشگاه سیار
+aperture	arts	دیافراگم، گشودگی دیافراگم
+f-number	arts	عدد اف، عدد دیافراگم
+f-stop	arts	اف‌استاپ، پلهٔ دیافراگم
+underexposure	arts	نوردهی کمتر از حد، کم‌نوردهی
+exposure compensation	arts	جبران نوردهی
+exposure triangle	arts	مثلث نوردهی
+exposure value	arts	ارزش نوردهی
+shutter speed	arts	سرعت شاتر
+iso	arts	ایزو، حساسیت حسگر یا فیلم
+film speed	arts	حساسیت فیلم
+depth of field	arts	عمق میدان
+shallow depth of field	arts	عمق میدان کم
+deep focus	arts	فوکوس عمیق، عمق میدان زیاد
+shallow focus	arts	فوکوس کم‌عمق
+bokeh	arts	بوکه، تاری پس‌زمینه
+autofocus	arts	فوکوس خودکار، اتوفوکوس
+manual focus	arts	فوکوس دستی
+wide-angle lens	arts	لنز واید، لنز زاویه‌باز
+telephoto lens	arts	لنز تله، لنز تله‌فوتو
+zoom lens	arts	لنز زوم
+prime lens	arts	لنز پرایم، لنز ثابت
+macro lens	arts	لنز ماکرو
+fisheye lens	arts	لنز چشم‌ماهی
+macro photography	arts	عکاسی ماکرو
+lens hood	arts	هود لنز، سایه‌بان لنز
+viewfinder	arts	ویزور، منظره‌یاب
+single-lens reflex	arts	دوربین تک‌لنزی بازتابی، اس‌ال‌آر
+mirrorless camera	arts	دوربین بدون آینه
+rangefinder	arts	دوربین فاصله‌یاب، رنج‌فایندر
+tripod	arts	سه‌پایهٔ دوربین
+monopod	arts	تک‌پایه
+fill light	arts	نور پرکننده
+fill flash	arts	فلاش پرکننده
+key light	arts	نور اصلی
+backlighting	arts	نور پشت، ضدنور
+rim light	arts	نور لبه، نور دورگیر
+softbox	arts	سافت‌باکس
+reflector	arts	رفلکتور، بازتابنده
+diffuser	arts	دیفیوزر، پخش‌کنندهٔ نور
+white balance	arts	تراز سفیدی، وایت‌بالانس
+metering	arts	نورسنجی
+raw file	arts	فایل خام، فایل راو
+long exposure	arts	نوردهی طولانی
+motion blur	arts	تاری حرکت
+dynamic range	arts	دامنهٔ دینامیکی، گسترهٔ دینامیکی
+golden hour	arts	ساعت طلایی
+blue hour	arts	ساعت آبی
+darkroom	arts	تاریکخانه
+developer	arts	داروی ظهور، ظهور
+fixer	arts	داروی ثبوت، ثبوت
+enlarger	arts	آگراندیسمان
+contact sheet	arts	کنتاکت
+cyanotype	arts	سیانوتایپ، چاپ آبی
+daguerreotype	arts	داگرئوتیپ
+pinhole camera	arts	دوربین سوراخ‌سوزنی
+camera obscura	arts	اتاق تاریک، کامرا ابسکورا
+photojournalism	arts	عکاسی خبری، فتوژورنالیسم
+photojournalist	arts	عکاس خبری
+documentary photography	arts	عکاسی مستند
+street photography	arts	عکاسی خیابانی
+portrait photography	arts	عکاسی پرتره، عکاسی چهره
+landscape photography	arts	عکاسی منظره
+fashion photography	arts	عکاسی مد
+aerial photography	arts	عکاسی هوایی
+stock photography	arts	عکاسی استوک، عکس‌های آرشیوی
+black-and-white photography	arts	عکاسی سیاه‌وسفید
+photo shoot	arts	جلسهٔ عکاسی، عکاسی
+retouching	arts	روتوش
+vignetting	arts	وینیت، تاریکی گوشه‌های تصویر
+vignette	arts	وینیت
+lens flare	arts	فلر لنز، درخشش لنز
+leading lines	arts	خطوط راهنما
+high-key	arts	های‌کی (تصویر یا نورپردازی غالباً روشن)
+low-key lighting	arts	نورپردازی لوکی، نورپردازی تیره
+bracketing	arts	براکتینگ (عکاسی پیاپی با نوردهی‌های مختلف)
+burst mode	arts	حالت عکاسی پیاپی
+image stabilization	arts	لرزش‌گیر تصویر
+full-frame	arts	فول‌فریم، حسگر تمام‌قاب
+crop factor	arts	ضریب برش
+aperture priority	arts	اولویت دیافراگم
+shutter priority	arts	اولویت شاتر
+photogram	arts	فتوگرام
+photomontage	arts	فتومونتاژ
+double exposure	arts	نوردهی دوگانه، دابل‌اکسپوژر
+light painting	arts	نقاشی با نور
+close-up	arts	نمای درشت، نمای نزدیک، کلوزآپ
+extreme close-up	arts	نمای خیلی درشت، نمای بسیار نزدیک
+medium close-up	arts	نمای نزدیک، نمای متوسط نزدیک
+medium shot	arts	نمای متوسط
+long shot	arts	نمای دور
+extreme long shot	arts	نمای خیلی دور
+full shot	arts	نمای کامل، نمای تمام‌قد
+wide shot	arts	نمای باز
+establishing shot	arts	نمای معرف
+two shot	arts	نمای دونفره
+over-the-shoulder shot	arts	نمای از روی شانه
+point-of-view shot	arts	نمای نقطه‌نظر، نمای ذهنی
+reverse shot	arts	نمای معکوس
+shot reverse shot	arts	نما و نمای معکوس
+insert shot	arts	اینسرت، نمای درج
+cutaway	arts	نمای فرعی، کات‌اوی
+tracking shot	arts	تراولینگ، نمای تعقیبی
+dolly shot	arts	نمای دالی
+crane shot	arts	نمای کرین، نمای جرثقیلی
+aerial shot	arts	نمای هوایی
+high-angle shot	arts	نمای سرپایین، نمای از بالا
+low-angle shot	arts	نمای سربالا، نمای از پایین
+bird's-eye shot	arts	نمای چشم پرنده، نمای عمودی از بالا
+eye-level shot	arts	نمای هم‌سطح چشم
+dutch angle	arts	نمای مایل، کادر کج
+pan	arts	پن (حرکت افقی دوربین روی محور)
+tilt	arts	تیلت (حرکت عمودی دوربین روی محور)
+handheld shot	arts	نمای دوربین روی دست
+long take	arts	برداشت بلند، پلان‌سکانس
+widescreen	arts	پردهٔ عریض، واید اسکرین
+film editing	arts	تدوین فیلم
+film editor	arts	تدوینگر، مونتور
+montage	arts	مونتاژ، تدوین (در سینما)؛ سکانس مونتاژی (رشته‌ای از نماهای کوتاه پیاپی)
+jump cut	arts	جامپ‌کات، برش پرشی
+match cut	arts	برش تطبیقی، مچ‌کات
+cross-cutting	arts	تدوین موازی، برش متقاطع
+parallel editing	arts	تدوین موازی
+continuity editing	arts	تدوین تداومی
+continuity error	arts	خطای راکورد
+180-degree rule	arts	قانون ۱۸۰ درجه
+fade-in	arts	فید این، ظاهر شدن تدریجی تصویر
+fade-out	arts	فید اوت، محو تدریجی تصویر
+dissolve	arts	دیزالو، اختلاط تصویر
+wipe	arts	وایپ (گذار با جاروب تصویر)
+transition	arts	گذار، ترانزیشن (در تدوین)
+rough cut	arts	تدوین اولیه، راف‌کات
+final cut	arts	تدوین نهایی، نسخهٔ نهایی
+footage	arts	فیلم خام، فوتیج
+rushes	arts	راش‌ها، فیلم‌های روزانه
+dailies	arts	راش‌ها، فیلم‌های روزانه
+b-roll	arts	بی‌رول، تصاویر تکمیلی
+slow motion	arts	حرکت آهسته
+freeze frame	arts	فریز فریم، تصویر ثابت
+time-lapse	arts	تایم‌لپس
+split screen	arts	تصویر دوپاره، اسپلیت اسکرین
+voice-over	arts	صدای روی تصویر، نریشن
+off-screen	arts	خارج از قاب، خارج از کادر
+diegetic sound	arts	صدای درون‌داستانی
+non-diegetic sound	arts	صدای برون‌داستانی
+soundtrack	arts	موسیقی متن؛ باند صوتی
+foley	arts	فولی، صداسازی افکت
+sound design	arts	طراحی صدا
+sound designer	arts	طراح صدا
+colour grading	arts	اصلاح رنگ، تصحیح رنگ، کالرگرید
+color grading	arts	اصلاح رنگ، تصحیح رنگ، کالرگرید
+visual effects	arts	جلوه‌های ویژهٔ بصری
+green screen	arts	پردهٔ سبز
+chroma key	arts	کروماکی
+compositing	arts	ترکیب تصویر، کامپوزیت
+stop motion	arts	استاپ‌موشن
+animator	arts	انیماتور
+rotoscoping	arts	روتوسکوپی
+keyframe	arts	فریم کلیدی
+storyboard	arts	استوری‌بورد، فیلم‌نامهٔ مصور
+screenwriting	arts	فیلم‌نامه‌نویسی
+script	arts	فیلم‌نامه؛ متن نمایش
+shooting script	arts	فیلم‌نامهٔ دکوپاژشده
+logline	arts	لاگ‌لاین (خلاصهٔ یک‌جمله‌ای داستان فیلم)
+decoupage	arts	دکوپاژ (تقطیع فیلم‌نامه به نماها)؛ دکوپاژ (تزیین با برش کاغذ)
+mise en scene	arts	میزانسن
+cinematography	arts	فیلم‌برداری، سینماتوگرافی
+cinematographer	arts	مدیر فیلم‌برداری، فیلم‌بردار
+director of photography	arts	مدیر فیلم‌برداری
+camera operator	arts	فیلم‌بردار، اپراتور دوربین
+focus puller	arts	دستیار فوکوس
+clapperboard	arts	کلاکت
+gaffer	arts	سرنورپرداز، گفر
+best boy	arts	دستیار سرنورپرداز
+key grip	arts	سرگریپ (سرپرست گروه تجهیزات حرکت دوربین)
+boom operator	arts	بوم‌من، اپراتور میکروفون بوم
+script supervisor	arts	منشی صحنه
+location	arts	لوکیشن، محل فیلم‌برداری
+location manager	arts	مدیر لوکیشن
+location scouting	arts	لوکیشن‌یابی
+production designer	arts	طراح صحنه، طراح تولید
+production design	arts	طراحی صحنه، طراحی تولید
+set designer	arts	طراح صحنه
+props	arts	وسایل صحنه، آکسسوار
+prop	arts	وسیلهٔ صحنه، آکسسوار
+costume designer	arts	طراح لباس
+costume design	arts	طراحی لباس
+makeup artist	arts	گریمور، چهره‌پرداز
+special effects makeup	arts	گریم جلوه‌های ویژه
+casting director	arts	مدیر انتخاب بازیگر
+stunt double	arts	بدل، بدلکار
+stand-in	arts	جانشین بازیگر (برای تنظیم نور و دوربین)
+assistant director	arts	دستیار کارگردان
+executive producer	arts	تهیه‌کنندهٔ اجرایی
+line producer	arts	مجری طرح، مدیر تولید
+production manager	arts	مدیر تولید
+director	arts	کارگردان
+film director	arts	کارگردان سینما
+auteur	arts	مؤلف، فیلم‌ساز مؤلف
+auteur theory	arts	نظریهٔ مؤلف
+pre-production	arts	پیش‌تولید
+post-production	arts	پس‌تولید، مرحلهٔ فنی
+principal photography	arts	فیلم‌برداری اصلی
+call sheet	arts	برگهٔ برنامهٔ فیلم‌برداری روزانه
+box office	arts	گیشه
+blockbuster	arts	فیلم پرفروش، بلاک‌باستر
+screening	arts	نمایش فیلم، اکران
+film festival	arts	جشنوارهٔ فیلم
+feature film	arts	فیلم بلند سینمایی
+short film	arts	فیلم کوتاه
+docudrama	arts	مستند داستانی، داکیودراما
+biopic	arts	فیلم زندگی‌نامه‌ای
+film noir	arts	فیلم نوآر
+neo-noir	arts	نئونوآر
+western	arts	فیلم وسترن
+spaghetti western	arts	وسترن اسپاگتی
+thriller	arts	فیلم هیجان‌انگیز، تریلر
+psychological thriller	arts	تریلر روان‌شناختی
+horror film	arts	فیلم ترسناک
+slasher	arts	فیلم اسلشر
+science fiction film	arts	فیلم علمی‌تخیلی
+romantic comedy	arts	کمدی رمانتیک
+screwball comedy	arts	کمدی اسکروبال
+slapstick	arts	کمدی بزن‌بکوب، اسلپ‌استیک
+musical	arts	فیلم موزیکال؛ تئاتر موزیکال
+war film	arts	فیلم جنگی
+road movie	arts	فیلم جاده‌ای
+coming-of-age film	arts	فیلم بلوغ، فیلم دوران نوجوانی
+costume drama	arts	درام تاریخی، فیلم دوره‌ای
+period drama	arts	درام تاریخی، فیلم دوره‌ای
+heist film	arts	فیلم سرقت
+disaster film	arts	فیلم فاجعه
+mockumentary	arts	مستندنما، ماکیومنتری
+art film	arts	فیلم هنری
+arthouse	arts	سینمای هنری، سینمای تجربی
+b movie	arts	فیلم درجه‌دو، فیلم بی
+cult film	arts	فیلم کالت
+silent film	arts	فیلم صامت
+talkie	arts	فیلم ناطق
+new wave	arts	موج نو
+french new wave	arts	موج نوی فرانسه
+iranian new wave	arts	موج نوی سینمای ایران
+neorealism	arts	نئورئالیسم
+italian neorealism	arts	نئورئالیسم ایتالیا
+cinema verite	arts	سینما وریته، سینمای حقیقت
+direct cinema	arts	سینمای مستقیم
+prequel	arts	پیش‌درآمد، پیش‌دنباله
+teaser	arts	تیزر
+credits	arts	تیتراژ، عنوان‌بندی
+opening credits	arts	تیتراژ آغاز، عنوان‌بندی آغاز
+title sequence	arts	تیتراژ، عنوان‌بندی
+cameo	arts	حضور افتخاری، کامئو
+leading role	arts	نقش اول
+typecasting	arts	کلیشه‌شدن بازیگر در یک تیپ (سپردن پیاپی نقش‌های همسان به یک بازیگر)
+method acting	arts	بازیگری متد
+screen test	arts	تست بازیگری جلوی دوربین
+audition	arts	تست بازیگری، آزمون بازیگری
+film stock	arts	فیلم خام (نوار فیلم پیش از نوردهی)
+projectionist	arts	آپاراتچی، متصدی پخش فیلم
+multiplex	arts	پردیس سینمایی، سینمای چندسالنه
+cinephile	arts	سینمادوست، سینه‌فیل
+film critic	arts	منتقد فیلم، منتقد سینما
+film criticism	arts	نقد فیلم
+film studies	arts	مطالعات سینمایی
+film theory	arts	نظریهٔ فیلم
+macguffin	arts	مک‌گافین (شیء یا هدفی که داستان را پیش می‌برد)
+lip sync	arts	لب‌زنی، لیپ‌سینک (هم‌زمانی حرکت لب با صدا)
+matte painting	arts	مات‌پینتینگ، نقاشی پس‌زمینه
+rack focus	arts	تغییر فوکوس، فوکوس‌کشی
+frame rate	arts	نرخ فریم، تعداد فریم در ثانیه
+dolly zoom	arts	دالی‌زوم
+whip pan	arts	پن سریع، ویپ‌پن
+master shot	arts	نمای اصلی، مسترشات
+coverage	arts	پوشش نماها (نماهای مکمل یک صحنه)
+three-point lighting	arts	نورپردازی سه‌نقطه‌ای
+lighting designer	arts	طراح نور
+motion picture	arts	فیلم سینمایی
+film industry	arts	صنعت سینما
+independent film	arts	فیلم مستقل
+distributor	arts	پخش‌کنندهٔ فیلم
+narration	arts	نریشن، روایت
+proscenium	arts	قاب صحنه، پروسنیوم
+proscenium arch	arts	قاب صحنه، طاق پروسنیوم
+wings	arts	کناره‌های صحنه، کالیس
+upstage	arts	عمق صحنه، بالای صحنه؛ تحت‌الشعاع قرار دادن بازیگر دیگر
+downstage	arts	جلوی صحنه، پایین صحنه
+stage left	arts	چپ صحنه (از دید بازیگر)
+stage right	arts	راست صحنه (از دید بازیگر)
+centre stage	arts	مرکز صحنه
+center stage	arts	مرکز صحنه
+apron	arts	پیش‌صحنه
+backstage	arts	پشت صحنه
+green room	arts	اتاق استراحت بازیگران، گرین‌روم
+dressing room	arts	اتاق گریم، رختکن بازیگران
+fly system	arts	سیستم بالابر دکور
+flat	arts	دیوارهٔ دکور، فلت
+backdrop	arts	پردهٔ پس‌زمینه، پردهٔ دکور
+cyclorama	arts	سیکلوراما، پردهٔ افق
+scrim	arts	پردهٔ توری
+curtain call	arts	تعظیم پایانی بازیگران
+front of house	arts	بخش تماشاگران، جلوی سالن
+box set	arts	دکور سه‌دیواری (اتاق)
+thrust stage	arts	صحنهٔ پیش‌آمده، صحنهٔ سه‌طرفه
+theatre in the round	arts	تئاتر میدانی، صحنهٔ میدانی
+arena stage	arts	صحنهٔ میدانی
+black box theatre	arts	سالن جعبهٔ سیاه، بلک‌باکس
+orchestra pit	arts	گودال ارکستر
+footlights	arts	نورهای جلوی صحنه
+spotlight	arts	نورافکن، اسپات
+follow spot	arts	نور تعقیبی، فالواسپات
+stage directions	arts	توضیحات صحنه، دستورهای صحنه
+blocking	arts	میزانسن، طراحی حرکت بازیگران روی صحنه
+understudy	arts	بازیگر جانشین، بازیگر ذخیره
+cue	arts	نشانه، کیو (اشارهٔ ورود یا گفتار)
+stage manager	arts	مدیر صحنه
+stagehand	arts	کارگر صحنه
+stagecraft	arts	فن صحنه، صحنه‌آرایی
+stage design	arts	طراحی صحنه
+scenography	arts	صحنه‌نگاری، سینوگرافی
+dramaturg	arts	دراماتورژ
+dramaturgy	arts	دراماتورژی، فن نمایشنامه‌نویسی
+playbill	arts	بروشور نمایش
+act	arts	پرده (بخش نمایشنامه)
+intermission	arts	آنتراکت، میان‌پرده
+entr'acte	arts	میان‌پرده، آنتراکت
+dress rehearsal	arts	تمرین با لباس، تمرین نهایی
+read-through	arts	روخوانی
+table read	arts	روخوانی
+run-through	arts	تمرین سرتاسری، تمرین کامل نمایش
+opening night	arts	شب افتتاحیه، شب اول اجرا
+matinee	arts	اجرای بعدازظهر، سانس روز
+repertory	arts	رپرتوار
+repertory theatre	arts	تئاتر رپرتوار
+ensemble	arts	گروه بازیگران، گروه اجرایی
+ingenue	arts	نقش دختر جوان ساده‌دل، اینژنو
+fourth wall	arts	دیوار چهارم
+breaking the fourth wall	arts	شکستن دیوار چهارم
+commedia dell'arte	arts	کمدیا دلارته
+theatre of the absurd	arts	تئاتر ابسورد، تئاتر پوچی
+epic theatre	arts	تئاتر حماسی، تئاتر اپیک، تئاتر روایی
+mime	arts	پانتومیم، لال‌بازی
+pantomime	arts	پانتومیم، لال‌بازی؛ (در بریتانیا) نمایش کمدی موزیکال ویژهٔ کریسمس
+improvisation	arts	بداهه‌پردازی، بداهه‌سازی
+physical theatre	arts	تئاتر فیزیکال
+puppetry	arts	عروسک‌گردانی، نمایش عروسکی
+puppeteer	arts	عروسک‌گردان
+marionette	arts	ماریونت، عروسک خیمه‌شب‌بازی
+shadow play	arts	سایه‌بازی، نمایش سایه
+passion play	arts	نمایش مصائب مسیح
+taziyeh	arts	تعزیه (نمایش آیینی سوگ)
+naqqali	arts	نقالی
+street theatre	arts	تئاتر خیابانی
+fringe theatre	arts	تئاتر حاشیه، تئاتر فرینج
+musical theatre	arts	تئاتر موزیکال
+standing ovation	arts	تشویق ایستاده
+curtain raiser	arts	نمایش کوتاه آغازین، پیش‌نمایش
+stage fright	arts	ترس از صحنه، دلهرهٔ صحنه
+greasepaint	arts	رنگ گریم
+chorus	arts	همسرایان، کُر (در تئاتر یونان)
+walk-on	arts	نقش کوتاه بی‌دیالوگ
+bit part	arts	نقش کوتاه، نقش فرعی کوچک
+title role	arts	نقش اصلی هم‌نام اثر
+dramatis personae	arts	اشخاص نمایش، فهرست شخصیت‌ها
+tableau vivant	arts	تابلوی زنده
+ballerina	arts	بالرین
+ballet dancer	arts	رقصندهٔ باله
+choreography	arts	طراحی رقص، کرئوگرافی
+choreographer	arts	طراح رقص
+choreograph	arts	طراحی رقص کردن
+pas de deux	arts	پادودو، رقص دونفره (در باله)
+pirouette	arts	پیروئت، چرخش روی یک پا
+plie	arts	پلیه (خم کردن زانو در باله)
+jete	arts	ژته (پرش باله)
+en pointe	arts	روی نوک پنجه (در باله)
+pointe shoes	arts	کفش پوانت
+corps de ballet	arts	گروه باله، کوردوباله
+prima ballerina	arts	بالرین اول
+modern dance	arts	رقص مدرن
+contemporary dance	arts	رقص معاصر
+folk dance	arts	رقص محلی، رقص فولکلور
+ballroom dancing	arts	رقص سالنی
+tap dance	arts	تپ‌دنس، رقص با کفش ضربی
+breakdance	arts	بریک‌دنس
+flamenco	arts	فلامنکو
+belly dance	arts	رقص شکم، رقص عربی
+sama	arts	سماع
+whirling dervish	arts	درویش چرخان (در سماع مولویه)
+butoh	arts	بوتو (رقص معاصر ژاپنی)
+kathak	arts	کاتاک (رقص کلاسیک هندی)
+dance notation	arts	نت‌نویسی رقص
+troupe	arts	گروه نمایش، گروه رقص
+dance company	arts	گروه رقص
+routine	arts	روتین، برنامهٔ رقص یا اجرا
+potter's wheel	arts	چرخ سفالگری
+ceramics	arts	سرامیک، سفال و سرامیک
+ceramicist	arts	سرامیست، سفالگر
+stoneware	arts	سفال سنگی، استون‌ور
+kiln	arts	کورهٔ سفالگری
+bisque	arts	بیسکویت (سفال یک‌بار پخته)
+slip	arts	دوغاب گل، اسلیپ
+coiling	arts	روش فتیله‌ای (ساخت سفال با فتیله‌های گل)
+underglaze	arts	زیرلعابی
+overglaze	arts	رولعابی
+majolica	arts	مایولیکا (سفال لعابی قلع‌دار)
+faience	arts	فیانس، سفال لعاب‌دار
+celadon	arts	سلادن (سفال لعاب سبز چینی)
+glassblowing	arts	شیشه‌گری فوتی، دمیدن شیشه
+stained glass	arts	شیشهٔ رنگی، شیشهٔ منقوش، شیشهٔ معرق
+glasswork	arts	شیشه‌گری
+woodworking	arts	کار با چوب، نجاری
+woodturning	arts	خراطی
+metalsmith	arts	فلزکار
+basketry	arts	سبدبافی
+basket weaving	arts	سبدبافی
+tapestry	arts	تاپستری، پرده‌بافی، دیوارکوب بافته
+carpet weaving	arts	قالی‌بافی، فرش‌بافی
+gabbeh	arts	گبه
+hand-knotted	arts	دستباف (گره‌دار)
+batik	arts	باتیک
+block printing	arts	قلمکار، چاپ باسمه‌ای پارچه
+qalamkar	arts	قلمکار
+bookbinding	arts	صحافی
+paper cutting	arts	کاغذبری
+papier-mache	arts	پاپیه‌ماشه، خمیر کاغذ
+leatherwork	arts	چرم‌کاری، چرم‌دوزی
+macrame	arts	مکرومه‌بافی
+crafts	arts	صنایع دستی
+artisan	arts	صنعتگر، هنرمند صنایع دستی، استادکار
+graphic design	arts	طراحی گرافیک، گرافیک
+graphic designer	arts	طراح گرافیک
+industrial design	arts	طراحی صنعتی
+industrial designer	arts	طراح صنعتی
+product design	arts	طراحی محصول
+typography	arts	تایپوگرافی، حروف‌نگاری
+typeface	arts	حروف، قلم، تایپ‌فیس
+kerning	arts	کرنینگ، تنظیم فاصلهٔ حروف
+leading	arts	فاصلهٔ سطرها، لدینگ
+layout	arts	صفحه‌آرایی
+logotype	arts	لوگوتایپ، نشان‌نوشته
+visual identity	arts	هویت بصری
+poster design	arts	طراحی پوستر
+mood board	arts	مودبورد، تختهٔ ایده
+mock-up	arts	ماکت، ماکاپ، نمونهٔ طرح
+visual communication	arts	ارتباط تصویری
+white space	arts	فضای سفید، فضای خالی
+form follows function	arts	فرم پیرو کارکرد
+ornament	arts	تزیین، نقش تزیینی
+ornamentation	arts	تزیینات، آرایه‌پردازی

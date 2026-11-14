@@ -1,0 +1,497 @@
+blazer	fashion	کت اسپرت، بلیزر
+sweatpants	fashion	شلوار گرمکن، شلوار اسلش
+tracksuit	fashion	گرمکن، ست ورزشی
+chinos	fashion	شلوار کتان، چینو
+culottes	fashion	شلوار دامنی، کولوت
+dungarees	fashion	شلوار پیش‌بندی، لباس کار سرهم
+overalls	fashion	لباس کار سرهم، اورال، شلوار پیش‌بندی
+down jacket	fashion	کاپشن پر
+leather jacket	fashion	کاپشن چرم، کت چرم
+peacoat	fashion	پالتوی ملوانی، پی‌کت
+duffle coat	fashion	دافل‌کت، پالتوی دکمه‌چوبی
+gilet	fashion	جلیقه، ژیله
+three-piece suit	fashion	کت‌وشلوار سه‌تکه
+two-piece suit	fashion	کت‌وشلوار دوتکه
+double-breasted	fashion	دوبل، دوردیفه (کت با دو ردیف دکمه)
+single-breasted	fashion	یک‌ردیفه، تک‌ردیف (کت با یک ردیف دکمه)
+sports jacket	fashion	کت اسپرت
+tailcoat	fashion	فراک
+dress shirt	fashion	پیراهن مردانهٔ رسمی
+camisole	fashion	تاپ بندی، کامیزول
+twinset	fashion	ست ژاکت و بلوز بافتنی
+skinny jeans	fashion	شلوار جین جذب، اسکینی
+bootcut jeans	fashion	شلوار جین بوت‌کات، جین کمی دمپاگشاد
+straight-leg jeans	fashion	شلوار جین راسته
+wide-leg trousers	fashion	شلوار دمپاگشاد، شلوار پاچه‌گشاد
+flares	fashion	شلوار دمپاگشاد، شلوار پاچه‌گشاد، پاچه‌فیلی
+cargo trousers	fashion	شلوار شش‌جیب، شلوار کارگو
+jeggings	fashion	جگینگ، ساق جینی
+capri pants	fashion	شلوار سه‌ربع، کاپری
+palazzo pants	fashion	شلوار پالازو
+bermuda shorts	fashion	شلوارک برمودا
+a-line skirt	fashion	دامن ای‌لاین، دامن نیم‌کلوش
+pleated skirt	fashion	دامن پلیسه، دامن پیلی‌دار
+maxi skirt	fashion	دامن ماکسی، دامن بلند
+wrap skirt	fashion	دامن رپ، دامن دورپیچ (جلوی آن روی هم می‌آید و بسته می‌شود)
+wrap dress	fashion	پیراهن رپ، پیراهن دورپیچ (جلوی آن روی هم می‌آید و بسته می‌شود)
+shift dress	fashion	پیراهن راسته
+sheath dress	fashion	پیراهن جذب، پیراهن تنگ
+slip dress	fashion	پیراهن بندی ساتن، اسلیپ‌درس
+ball gown	fashion	لباس مجلسی پف‌دار، لباس پرنسسی
+sundress	fashion	سارافون تابستانی، پیراهن تابستانی
+pinafore	fashion	سارافون
+pinafore dress	fashion	سارافون
+kaftan	fashion	کفتان، قبای بلند گشاد
+push-up bra	fashion	سوتین پوش‌آپ
+underwire	fashion	فنر سوتین
+bodysuit	fashion	بادی، بادی‌سوت
+one-piece swimsuit	fashion	مایوی یک‌تکه
+board shorts	fashion	شلوارک ساحلی
+burkini	fashion	بورکینی، مایوی پوشیده
+knitwear	fashion	لباس بافتنی، تریکو
+loungewear	fashion	لباس راحتی
+workwear	fashion	لباس کار
+formal wear	fashion	لباس رسمی
+evening wear	fashion	لباس شب، لباس مجلسی
+casual wear	fashion	لباس غیررسمی، لباس اسپرت
+childrenswear	fashion	لباس بچگانه، پوشاک کودک
+womenswear	fashion	لباس زنانه، پوشاک زنانه
+plus-size	fashion	سایز بزرگ
+petite	fashion	سایز ریزنقش (پوشاک)
+abaya	fashion	عبایه، عبای زنانهٔ عربی
+henley	fashion	تی‌شرت سه‌دکمه، هنلی (بی‌یقه با مگزی دکمه‌دار)
+shrug	fashion	بولرو، ژاکت کوتاه سرشانه
+overshirt	fashion	اورشرت، پیراهن رو
+flannel shirt	fashion	پیراهن فلانل
+hawaiian shirt	fashion	پیراهن هاوایی
+button-down shirt	fashion	پیراهن یقه‌دکمه‌دار
+coverall	fashion	لباس کار سرهم، اورال
+boiler suit	fashion	لباس کار سرهم، اورال
+shirt collar	fashion	یقهٔ پیراهن
+mandarin collar	fashion	یقهٔ دیپلمات، یقهٔ چینی
+band collar	fashion	یقهٔ دیپلمات
+peter pan collar	fashion	یقهٔ عروسکی، یقهٔ گرد بچگانه
+shawl collar	fashion	یقهٔ شالی
+notched lapel	fashion	یقهٔ انگلیسی، برگردان شکاف‌دار (یقهٔ معمول کت)
+peak lapel	fashion	یقهٔ نوک‌تیز، برگردان نوک‌دار (کت)
+spread collar	fashion	یقهٔ باز (پیراهن)
+button-down collar	fashion	یقهٔ دکمه‌دار
+wing collar	fashion	یقهٔ فراکی، یقهٔ بالدار
+stand collar	fashion	یقهٔ ایستاده
+cowl neck	fashion	یقهٔ آبشاری
+boat neck	fashion	یقهٔ قایقی
+crew neck	fashion	یقهٔ گرد
+v-neck	fashion	یقهٔ هفت
+scoop neck	fashion	یقهٔ گرد باز
+halter neck	fashion	یقهٔ هالتر، یقهٔ بندی دورگردن
+off-the-shoulder	fashion	یقهٔ کارمن، شانه‌برهنه، آف‌شولدر
+strapless	fashion	دکلته، بدون بند
+square neck	fashion	یقهٔ مربعی، یقهٔ چهارگوش
+mock neck	fashion	یقهٔ نیم‌اسکی
+lapel	fashion	برگردان یقه، یقهٔ کت
+cuff	fashion	سرآستین؛ لبهٔ برگشتهٔ پاچه
+french cuff	fashion	سرآستین دوبل، سرآستین دکمه‌سردستی
+barrel cuff	fashion	سرآستین ساده دکمه‌دار
+raglan sleeve	fashion	آستین رگلان
+cap sleeve	fashion	آستین کوتاه سرشانه‌ای
+bell sleeve	fashion	آستین کلوش، آستین شیپوری
+puff sleeve	fashion	آستین پفی
+set-in sleeve	fashion	آستین ساده (دوخته‌شده در حلقهٔ آستین)
+three-quarter sleeve	fashion	آستین سه‌ربع
+batwing sleeve	fashion	آستین خفاشی
+armhole	fashion	حلقهٔ آستین
+armscye	fashion	حلقهٔ آستین
+shoulder pad	fashion	سرشانه، اپل (لایی شانه)
+shoulder seam	fashion	درز سرشانه
+hem	fashion	لبه، پایین‌دوزی، سجاف (پایین لباس)
+hemline	fashion	خط پایین لباس، قد دامن
+hemming	fashion	لبه‌دوزی، پایین‌دوزی، سجاف‌دوزی
+blind hem	fashion	دوخت مخفی لبه، کوک مخفی
+rolled hem	fashion	لبه‌دوزی ریز، لبهٔ لوله‌ای
+yoke	fashion	سرشانه (پیراهن)، یوک
+placket	fashion	مگزی، لبهٔ دکمه‌خور
+fly	fashion	مگزی شلوار، جای زیپ
+button fly	fashion	مگزی دکمه‌دار (شلوار)
+zip fly	fashion	زیپ شلوار
+dart	fashion	پنس
+pleat	fashion	پیلی، پلیسه
+box pleat	fashion	پیلی جعبه‌ای، پیلی دوطرفه
+knife pleat	fashion	پیلی یک‌طرفه
+inverted pleat	fashion	پیلی معکوس، پیلی پنهان
+accordion pleat	fashion	پلیسهٔ آکاردئونی
+tuck	fashion	پیلی دوخته، تاک
+pintuck	fashion	پیلی ریز دوخته، پیلی سوزنی
+ruffle	fashion	والان، چین
+frill	fashion	والان، چین
+flounce	fashion	والان، چین پهن
+inseam	fashion	قد داخلی شلوار، درز داخلی پاچه
+outseam	fashion	قد بیرونی شلوار، درز بغل
+rise	fashion	فاق (شلوار)، قد فاق
+waistband	fashion	کمر (شلوار یا دامن)
+elastic waistband	fashion	کمر کشی، کش کمر
+belt loop	fashion	شلیفه، جاکمربندی، بند کمربند
+patch pocket	fashion	جیب رو، جیب رودوز
+welt pocket	fashion	جیب فیلتابی
+flap pocket	fashion	جیب درب‌دار
+slash pocket	fashion	جیب اریب، جیب بغل
+back pocket	fashion	جیب پشت
+coin pocket	fashion	جیب کوچک (شلوار جین)
+lining	fashion	آستر
+interlining	fashion	لایی
+interfacing	fashion	لایی، لایی چسب
+fusible interfacing	fashion	لایی چسب‌دار، لایی حرارتی
+canvas	fashion	لایی مویی، لایی کت، کانواس
+seam allowance	fashion	جای درز، اضافهٔ درز
+french seam	fashion	درز فرانسوی، درز دوبل
+flat-felled seam	fashion	درز دوبل رودوزی‌شده، درز جین
+overlock	fashion	سردوز، اورلوک
+serger	fashion	چرخ سردوز
+buttonhole stitch	fashion	کوک جادکمه
+vent	fashion	چاک (پشت کت)
+side vent	fashion	چاک بغل
+bodice	fashion	بالاتنهٔ لباس
+drawstring	fashion	بند، بند لیفه (کمر شلوار یا کلاه)
+toggle	fashion	دکمهٔ چوبی، دکمهٔ میله‌ای
+invisible zip	fashion	زیپ مخفی، زیپ نامرئی
+press stud	fashion	دکمه‌قابلمه‌ای، دکمهٔ فشاری
+eyelet	fashion	سوراخ پرچ‌دار، پرچ (لباس)
+applique	fashion	تکه‌دوزی، آپلیکه
+piping	fashion	مغزی، مغزی‌دوزی
+bias binding	fashion	نوار اریب، اریب‌دوزی
+bias cut	fashion	برش اریب
+grain	fashion	راه پارچه، راستای تار
+selvedge	fashion	لبهٔ پارچه، حاشیهٔ بافته
+selvage	fashion	لبهٔ پارچه، حاشیهٔ بافته
+couturier	fashion	طراح اوت‌کوتور، خیاط مد
+bespoke tailoring	fashion	خیاطی سفارشی، دوخت سفارشی
+bespoke tailor	fashion	خیاط سفارشی‌دوز
+made-to-measure	fashion	دوخت به اندازه، سفارشی
+off-the-rack	fashion	آماده، حاضری (لباس)
+off-the-peg	fashion	آماده، حاضری (لباس)
+ready-to-wear	fashion	لباس آماده، پوشاک آماده، پرت‌آپورته
+alteration	fashion	تعمیر لباس، اصلاح لباس (کوتاه و بلند یا تنگ و گشاد کردن)
+sewing pattern	fashion	الگوی خیاطی
+pattern making	fashion	الگوسازی
+patternmaker	fashion	الگوساز
+pattern cutter	fashion	الگوساز، برشکار
+grading	fashion	سایزبندی الگو، درجه‌بندی الگو
+toile	fashion	نمونهٔ متقالی، دوخت آزمایشی (لباس نمونه از پارچهٔ ارزان پیش از برش پارچهٔ اصلی)
+basting	fashion	کوک شلال، کوک موقت، کوک زدن
+baste	fashion	شلال کردن، کوک موقت زدن
+tacking	fashion	کوک شلال، کوک موقت
+running stitch	fashion	کوک ساده
+backstitch	fashion	بخیه، کوک بخیه
+cross-stitch	fashion	کوک ضربدری، دوخت ضربدری
+chain stitch	fashion	دوخت زنجیره‌ای، زنجیره‌دوزی
+lockstitch	fashion	دوخت قفلی (چرخ خیاطی)
+zigzag stitch	fashion	دوخت زیگزاگ
+topstitch	fashion	رودوزی کردن، دوخت رو
+topstitching	fashion	رودوزی
+whipstitch	fashion	کوک لبه‌گیر، سردوزی دستی
+slip stitch	fashion	کوک مخفی، دوخت نامرئی
+hand sewing	fashion	دوخت دستی
+industrial sewing machine	fashion	چرخ خیاطی صنعتی
+presser foot	fashion	پایهٔ چرخ خیاطی
+bobbin case	fashion	ماکو، ماسوره‌گیر (چرخ خیاطی)
+pinking shears	fashion	قیچی زیگزاگ
+dressmaker's dummy	fashion	مانکن خیاطی
+dress form	fashion	مانکن خیاطی
+seam ripper	fashion	درزبازکن، شکافنده
+pin cushion	fashion	جاسوزنی
+tracing wheel	fashion	رولت خیاطی
+pressing	fashion	اتوکاری، اتو زدن (در خیاطی)
+cutting table	fashion	میز برش
+cutter	fashion	برشکار (خیاطی)
+let down	fashion	بلند کردن (لباس)
+inside leg	fashion	قد داخل پا، قد داخلی شلوار
+regular fit	fashion	فرم معمولی، ریگولارفیت
+loose fit	fashion	گشاد، آزاد
+tailored	fashion	خیاط‌دوز، اندامی، فرم‌دار
+notions	fashion	خرازی، لوازم خیاطی
+trimmings	fashion	یراق‌آلات، تزیینات لباس
+garment industry	fashion	صنعت پوشاک
+clothing industry	fashion	صنعت پوشاک
+denim	fashion	پارچهٔ جین، دنیم، پارچهٔ لی
+chiffon	fashion	حریر، شیفون
+tweed	fashion	توید (پارچهٔ پشمی زبر)
+organza	fashion	ارگانزا
+tulle	fashion	تور، تول
+velour	fashion	مخمل، ولور
+polar fleece	fashion	پولار
+chambray	fashion	شامبره
+oxford cloth	fashion	پارچهٔ آکسفورد
+seersucker	fashion	سیرساکر، پارچهٔ راه‌راه چروک
+muslin	fashion	متقال، ململ
+calico	fashion	متقال، چلوار
+twill	fashion	سرژه، پارچهٔ جناغی، تویل
+herringbone	fashion	جناغی، طرح جناغی
+houndstooth	fashion	پیچازی، طرح پیچازی (چهارخانهٔ شکسته با گوشه‌های دندانه‌دار)
+gingham	fashion	پارچهٔ چهارخانه، گینگام
+paisley	fashion	بته‌جقه
+pinstripe	fashion	راه‌راه باریک، راه‌راه مدادی
+jacquard	fashion	ژاکارد
+elastane	fashion	الاستین، اسپندکس
+microfibre	fashion	میکروفایبر، الیاف بسیار ظریف
+modal	fashion	مودال (الیاف)
+lyocell	fashion	لیوسل
+camel hair	fashion	کرک شتر
+worsted	fashion	فاستونی
+pure wool	fashion	پشم خالص
+virgin wool	fashion	پشم نو، پشم تازه
+organic cotton	fashion	پنبهٔ ارگانیک
+egyptian cotton	fashion	پنبهٔ مصری
+cotton blend	fashion	پارچهٔ مخلوط پنبه
+synthetic fibre	fashion	الیاف مصنوعی
+synthetic fiber	fashion	الیاف مصنوعی
+natural fibre	fashion	الیاف طبیعی
+natural fiber	fashion	الیاف طبیعی
+man-made fibre	fashion	الیاف مصنوعی، الیاف بشرساخت
+regenerated fibre	fashion	الیاف بازیافته (سلولزی)
+staple fibre	fashion	الیاف منقطع، الیاف استیپل
+filament	fashion	الیاف یکسره، فیلامنت
+faux leather	fashion	چرم مصنوعی
+vegan leather	fashion	چرم وگان، چرم مصنوعی (بدون مواد حیوانی)
+patent leather	fashion	چرم ورنی
+nubuck	fashion	نبوک (چرم)
+full-grain leather	fashion	چرم تمام‌دانه، چرم فول‌گرین
+faux fur	fashion	خز مصنوعی
+shearling	fashion	پوست بره با پشم، پوستین، شیرلینگ
+non-woven fabric	fashion	پارچهٔ نبافته، اسپان‌باند
+terry cloth	fashion	پارچهٔ حوله‌ای
+terrycloth	fashion	پارچهٔ حوله‌ای
+towelling	fashion	پارچهٔ حوله‌ای
+crepe de chine	fashion	کرپ دوشین
+stretch fabric	fashion	پارچهٔ کش‌دار، پارچهٔ کشی
+lame	fashion	لامه (پارچهٔ زربافت)
+twill weave	fashion	بافت سرژه، بافت جناغی
+satin weave	fashion	بافت ساتین، بافت اطلس
+basket weave	fashion	بافت حصیری، بافت پاناما
+knit stitch	fashion	دانهٔ رو (بافتنی؛ دانهٔ صاف به شکل ۷ در روی کار)
+purl	fashion	دانهٔ زیر (بافتنی؛ دانهٔ برجسته، با نخ جلوی کار)؛ زیر بافتن
+purl stitch	fashion	دانهٔ زیر (بافتنی؛ دانهٔ برجسته، با نخ جلوی کار)
+stockinette stitch	fashion	بافت ساده (یک رج زیر و یک رج رو)
+stocking stitch	fashion	بافت ساده (یک رج زیر و یک رج رو)
+rib stitch	fashion	کشباف، بافت کش (زیر و رو یک‌درمیان)
+ribbing	fashion	کشباف، بافت کش (سرآستین و یقه)
+moss stitch	fashion	دانه‌برنجی
+seed stitch	fashion	دانه‌برنجی
+cable knit	fashion	بافت هشت، بافت طنابی، بافت گیس
+weft knitting	fashion	بافندگی حلقوی پودی
+warp knitting	fashion	بافندگی حلقوی تاری
+circular knitting machine	fashion	ماشین گردباف
+flat knitting machine	fashion	ماشین تخت‌باف
+knitting machine	fashion	ماشین بافتنی، ماشین کشباف
+single jersey	fashion	سینگل‌جرسی، پارچهٔ کشباف تک‌رو
+interlock	fashion	اینترلاک (پارچهٔ کشباف دورو)
+woven	fashion	تاری‌پودی، بافته (پارچه)
+woven fabric	fashion	پارچهٔ تاری‌پودی، پارچهٔ بافته
+knitted fabric	fashion	پارچهٔ حلقوی، پارچهٔ کشباف
+pile	fashion	پرز، خواب (پارچه)
+pile weave	fashion	بافت پرزدار
+dobby	fashion	دابی (دستگاه نقشه‌زنی بافندگی)
+textile mill	fashion	کارخانهٔ نساجی
+textile engineering	fashion	مهندسی نساجی
+spinning mill	fashion	کارخانهٔ ریسندگی
+ring spinning	fashion	ریسندگی رینگ
+open-end spinning	fashion	ریسندگی اپن‌اند، ریسندگی چرخانه‌ای
+combing	fashion	شانه‌زنی (الیاف)
+roving	fashion	نیمچه‌نخ (ریسندگی)
+sliver	fashion	فتیله (ریسندگی)
+yarn count	fashion	نمرهٔ نخ
+thread count	fashion	تراکم نخ، تعداد تار و پود در اینچ مربع
+denier	fashion	دنیر (واحد ظرافت الیاف)
+weaving mill	fashion	کارخانهٔ بافندگی
+power loom	fashion	ماشین بافندگی
+handloom	fashion	دستگاه بافندگی دستی، دار
+shuttleless loom	fashion	ماشین بافندگی بی‌ماکو
+rapier loom	fashion	ماشین بافندگی راپیر
+air-jet loom	fashion	ماشین بافندگی جت هوا
+weft	fashion	پود
+heddle	fashion	میلک (سیم یا نخ چشمه‌دار درون ورد که نخ تار از آن می‌گذرد)
+reed	fashion	شانهٔ بافندگی
+warp beam	fashion	غلتک چله، غلتک تار
+sizing	fashion	آهار زدن (نخ تار)
+dyehouse	fashion	رنگرزخانه، کارگاه رنگرزی
+piece dyeing	fashion	رنگرزی پارچه (پس از بافت)
+yarn dyeing	fashion	رنگرزی نخ
+tie-dye	fashion	تای‌دای، گره‌رنگرزی
+natural dye	fashion	رنگ طبیعی، رنگ گیاهی
+colourfast	fashion	ثابت‌رنگ، رنگ‌ثابت
+colourfastness	fashion	ثبات رنگ
+mercerization	fashion	مرسریزاسیون، مرسریزه کردن
+sanforized	fashion	سانفوریزه، ضد آب‌رفت
+pre-shrunk	fashion	ضد آب‌رفت، آب‌رفته
+textile finishing	fashion	تکمیل نساجی
+calendering	fashion	کلندر کردن، اتوی غلتکی
+pilling	fashion	پرز دادن، گلوله شدن پرز
+gsm	fashion	Grams per Square Metre؛ گرم بر متر مربع (وزن پارچه)
+bolt of cloth	fashion	طاقهٔ پارچه
+fabric store	fashion	پارچه‌فروشی
+stiletto	fashion	کفش پاشنه‌سوزنی، پاشنهٔ سوزنی
+kitten heel	fashion	پاشنهٔ کوتاه نازک
+block heel	fashion	پاشنهٔ پهن، پاشنهٔ چهارگوش
+wedge	fashion	کفش لژدار، لژ
+platform shoe	fashion	کفش لژدار، کفش پلتفرم
+pumps	fashion	کفش زنانهٔ پاشنه‌دار، پامپ
+court shoe	fashion	کفش زنانهٔ پاشنه‌دار ساده
+ballet flats	fashion	کفش عروسکی
+loafer	fashion	کفش کالج، لوفر
+brogue	fashion	کفش بروگ (کفش رسمی با سوراخ‌های تزیینی)
+derby	fashion	کفش دربی
+chelsea boot	fashion	بوت چلسی، نیم‌بوت کشی
+ankle boot	fashion	نیم‌بوت
+knee-high boot	fashion	چکمهٔ تا زانو
+thigh-high boot	fashion	چکمهٔ بلند تا بالای زانو
+combat boot	fashion	پوتین، بوت نظامی
+hiking boot	fashion	کفش کوهنوردی، بوت کوهنوردی
+wellington boot	fashion	چکمهٔ لاستیکی
+slingback	fashion	کفش بند پشت، اسلینگ‌بک
+espadrille	fashion	اسپادریل (کفش پارچه‌ای با کف کنفی)
+clogs	fashion	سابو، کفش چوبی
+slides	fashion	دمپایی تک‌بند، دمپایی اسلاید
+canvas shoes	fashion	کفش پارچه‌ای، کتانی پارچه‌ای
+running shoes	fashion	کفش دویدن، کفش رانینگ
+midsole	fashion	لایهٔ میانی زیره
+upper	fashion	رویهٔ کفش
+vamp	fashion	رویهٔ جلوی کفش، پنجهٔ رویه
+heel counter	fashion	پاشنه‌گیر (کفش)
+shank	fashion	فنر کفش، شنک
+shoemaking	fashion	کفاشی، کفش‌دوزی
+shoe size	fashion	سایز کفش، شمارهٔ کفش
+peep-toe	fashion	کفش جلوباز، پنجه‌باز
+orthopaedic shoes	fashion	کفش طبی
+orthopedic shoes	fashion	کفش طبی
+clasp	fashion	قفل (گردنبند یا دستبند)
+lobster clasp	fashion	قفل خرچنگی
+cufflink	fashion	دکمه‌سردست
+tie clip	fashion	گیرهٔ کراوات
+tie pin	fashion	سنجاق کراوات
+pocket square	fashion	دستمال جیب کت، پوشت
+lapel pin	fashion	سنجاق یقه، پین یقه
+karat	fashion	عیار (طلا)
+gold-plated	fashion	آب‌طلاکاری‌شده، روکش طلا
+silver-plated	fashion	آب‌نقره‌کاری‌شده، روکش نقره
+costume jewellery	fashion	بدلیجات، زیورآلات بدل
+fine jewellery	fashion	جواهرات اصل، طلا و جواهر
+hallmark	fashion	مهر عیار، انگ (طلا و نقره)
+setting	fashion	رکاب، نگین‌خانه (جواهر)
+prong setting	fashion	رکاب چنگی
+solitaire	fashion	انگشتر تک‌نگین، سولیتر
+eternity ring	fashion	انگشتر ردیفی (نگین‌دار دورتادور)
+signet ring	fashion	انگشتر مهری، انگشتر نشان‌دار
+charm bracelet	fashion	دستبند آویزدار، دستبند چارم
+stud earrings	fashion	گوشوارهٔ میخی
+drop earrings	fashion	گوشوارهٔ آویز
+ear cuff	fashion	ایرکاف، گوشوارهٔ دورگوشی
+nose ring	fashion	حلقهٔ بینی، پیرسینگ بینی
+brilliant cut	fashion	تراش برلیان
+princess cut	fashion	تراش پرنسس
+tote bag	fashion	کیف دستی بزرگ، توت‌بگ
+shoulder bag	fashion	کیف دوشی
+crossbody bag	fashion	کیف کراس‌بادی، کیف یک‌بند دوشی
+belt buckle	fashion	سگک کمربند
+baseball cap	fashion	کلاه نقاب‌دار، کلاه کپ
+fedora	fashion	کلاه شاپو، فدورا
+bucket hat	fashion	کلاه باکت، کلاه آفتابی
+hair clip	fashion	گیرهٔ مو، کلیپس
+scrunchie	fashion	کش موی پارچه‌ای، اسکرانچی
+accessory	fashion	اکسسوری
+bijouterie	fashion	بدلیجات، بیژو
+contour	fashion	کانتور، سایه‌روشن صورت
+contouring	fashion	کانتورینگ، سایه‌روشن‌کاری صورت
+blusher	fashion	رژگونه
+lip liner	fashion	مداد لب، خط لب
+setting spray	fashion	اسپری فیکس‌کنندهٔ آرایش، فیکساتور
+setting powder	fashion	پودر فیکس، پودر تثبیت‌کننده
+face powder	fashion	پودر صورت
+pressed powder	fashion	پنکک
+loose powder	fashion	پودر فیکس، پودر آزاد
+cc cream	fashion	سی‌سی‌کرم
+tinted moisturiser	fashion	مرطوب‌کنندهٔ رنگی
+moisturiser	fashion	مرطوب‌کننده، کرم مرطوب‌کننده
+facial cleanser	fashion	پاک‌کنندهٔ صورت، فیس‌واش
+face wash	fashion	ژل شست‌وشوی صورت، فیس‌واش
+micellar water	fashion	میسلار واتر، آب میسلار
+makeup remover	fashion	پاک‌کنندهٔ آرایش
+exfoliation	fashion	لایه‌برداری (پوست)
+eye cream	fashion	کرم دور چشم
+night cream	fashion	کرم شب
+anti-ageing	fashion	ضدپیری، ضدچروک
+hyaluronic acid	fashion	هیالورونیک اسید
+niacinamide	fashion	نیاسینامید
+skin care	fashion	مراقبت از پوست، اسکین‌کر
+skin type	fashion	نوع پوست
+oily skin	fashion	پوست چرب
+combination skin	fashion	پوست مختلط
+sensitive skin	fashion	پوست حساس
+non-comedogenic	fashion	نان‌کومدوژنیک، غیرکومدوژنیک (منافذ پوست را نمی‌بندد)
+dermatologically tested	fashion	تأییدشده از نظر پوستی، تست‌شده توسط متخصص پوست
+cruelty-free	fashion	بدون آزمایش روی حیوانات
+paraben-free	fashion	بدون پارابن
+lash lift	fashion	لیفت مژه
+brow lamination	fashion	لمینت ابرو
+hair removal	fashion	موزدایی، اپیلاسیون
+eau de toilette	fashion	ادوتویلت
+eau de parfum	fashion	ادوپرفیوم
+makeup artist	fashion	میکاپ آرتیست، آرایشگر
+dry shampoo	fashion	شامپو خشک
+hair dye	fashion	رنگ مو
+keratin treatment	fashion	کراتینه کردن مو
+blow-dry	fashion	براشینگ، سشوار کشیدن
+curling iron	fashion	فرکنندهٔ مو، بابلیس
+makeup brush	fashion	براش آرایشی، قلم‌موی آرایش
+makeup sponge	fashion	اسفنج آرایش، پد اسفنجی آرایش
+compact	fashion	پنکک، جاپودری
+fashion week	fashion	هفتهٔ مد
+slow fashion	fashion	مد آهسته، اسلوفشن
+sustainable fashion	fashion	مد پایدار
+capsule collection	fashion	کالکشن کپسولی، مجموعهٔ محدود
+collection	fashion	کالکشن، مجموعهٔ لباس (فصل)
+lookbook	fashion	لوک‌بوک، کاتالوگ مد
+street style	fashion	استایل خیابانی
+vintage	fashion	وینتیج، لباس قدیمی کلکسیونی
+thrift store	fashion	فروشگاه لباس دست‌دوم، دست‌دوم‌فروشی، (عامیانه) تاناکورا
+thrift shop	fashion	فروشگاه لباس دست‌دوم، دست‌دوم‌فروشی، (عامیانه) تاناکورا
+thrifting	fashion	خرید لباس دست‌دوم
+second-hand clothes	fashion	لباس دست‌دوم
+fashion designer	fashion	طراح مد، طراح لباس
+fashion design	fashion	طراحی مد، طراحی لباس
+couture	fashion	اوت‌کوتور، دوخت فاخر
+couture house	fashion	خانهٔ مد
+fashion house	fashion	خانهٔ مد
+fashion model	fashion	مدل لباس، مانکن
+stylist	fashion	استایلیست
+fashion stylist	fashion	استایلیست مد
+silhouette	fashion	سیلوئت، فرم کلی لباس
+diffusion line	fashion	لاین فرعی (خط تولید ارزان‌تر یک برند لوکس)
+luxury brand	fashion	برند لوکس
+designer label	fashion	برند طراح، مارک
+dupe	fashion	(عامیانه، اینترنتی) کپی ارزان، مشابه ارزان (محصول آرایشی یا مد)
+size chart	fashion	جدول سایز
+size guide	fashion	راهنمای سایز
+dress size	fashion	سایز لباس
+true to size	fashion	مطابق سایز، سایز استاندارد
+fashion trend	fashion	ترند مد
+visual merchandising	fashion	ویژوال مرچندایزینگ، چیدمان فروشگاه
+fashion editor	fashion	دبیر بخش مد، ویراستار مد
+fashion magazine	fashion	مجلهٔ مد
+upcycling	fashion	آپ‌سایکلینگ، بازسازی خلاقانهٔ لباس
+deadstock	fashion	استوک (پارچه یا کالای فروش‌نرفته)
+colour blocking	fashion	کالربلاکینگ، ترکیب رنگ‌های تخت
+color blocking	fashion	کالربلاکینگ، ترکیب رنگ‌های تخت
+layering	fashion	لایه‌پوشی
+bohemian	fashion	بوهو، سبک بوهمین
+grunge	fashion	سبک گرانج (پوشش ژولیده و نامرتب)
+modest fashion	fashion	مد پوشیده
+fashion illustration	fashion	تصویرسازی مد، فشن ایلاستریشن
+fashion sketch	fashion	طرح لباس، اسکیس مد
+tech pack	fashion	تک‌پک، شناسنامهٔ فنی طرح لباس
+sample	fashion	نمونهٔ دوخت، سمپل
+sample size	fashion	سایز نمونه
+garment dyeing	fashion	رنگرزی لباس دوخته
+care label	fashion	برچسب شست‌وشو، لیبل نگهداری
+size label	fashion	لیبل سایز
+dry clean only	fashion	فقط خشکشویی
+hand wash	fashion	شست‌وشو با دست
+chador	fashion	چادر
+headscarf	fashion	روسری

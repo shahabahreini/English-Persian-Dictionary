@@ -30,6 +30,11 @@ with open(OUT+'/en-fa.tabfile.txt','w',encoding='utf-8') as f, open(OUT+'/en-fa.
         key='|'.join([e['head'].replace('|','/')]+e['alts'])
         f.write(key+'\t'+e['def'].replace(' ▪ ',' | ')+'\n')
         g.write(key+'\t<div dir="rtl" style="text-align:right">'+h_modern(e['def'])+'</div>\n')
+# master TSV (data/English-Persian.vX.tsv): headword, definition, sections, status, alternate forms
+with open(OUT+'/English-Persian.v%s.tsv'%VER,'w',encoding='utf-8') as f:
+    f.write('headword\tdefinition\tsections\tstatus\talternate_forms\n')
+    for e in m:
+        f.write('\t'.join([e['head'],e['def'].replace(' ▪ ',' | '),','.join(e['doms']),e['status'],'|'.join(e['alts'])])+'\n')
 import unicodedata
 def kprefix(w):
     wo=w[:2].strip().lower()
@@ -52,23 +57,29 @@ OPF='''<?xml version="1.0" encoding="utf-8"?>
 <dc:identifier id="uid">%s</dc:identifier>
 <x-metadata><DictionaryInLanguage>en-us</DictionaryInLanguage><DictionaryOutLanguage>fa</DictionaryOutLanguage><DefaultLookupIndex>default</DefaultLookupIndex></x-metadata>
 </metadata>
-<manifest><item id="c" href="content.html" media-type="application/xhtml+xml"/></manifest>
-<spine><itemref idref="c"/></spine>
+<manifest>%s</manifest>
+<spine>%s</spine>
 </package>'''
 HEAD='<html xmlns:math="http://exslt.org/math" xmlns:svg="http://www.w3.org/2000/svg" xmlns:tl="https://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf" xmlns:saxon="http://saxon.sf.net/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cx="https://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mbp="https://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf" xmlns:mmc="https://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf" xmlns:idx="https://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/></head><body><mbp:frameset>\n'
+PART=40000  # entries per content file: kindlegen stalls on a single source much over ~40 MB
 def kindle(name,title,fn):
     d=OUT+'/'+name; os.makedirs(d,exist_ok=True)
-    open(d+'/dict.opf','w',encoding='utf-8').write(OPF%(title,name))
-    with open(d+'/content.html','w',encoding='utf-8') as f:
+    parts=[m[i:i+PART] for i in range(0,len(m),PART)]
+    names=['content%d.html'%i for i in range(len(parts))]
+    man=''.join('<item id="c%d" href="%s" media-type="application/xhtml+xml"/>'%(i,n) for i,n in enumerate(names))
+    spine=''.join('<itemref idref="c%d"/>'%i for i in range(len(names)))
+    open(d+'/dict.opf','w',encoding='utf-8').write(OPF%(title,name,man,spine))
+    for n,part in zip(names,parts):
+      with open(d+'/'+n,'w',encoding='utf-8') as f:
         f.write(HEAD)
-        for e in m:
+        for e in part:
             hw=html.escape(e['head'],quote=True)
             infl=''.join('<idx:iform value="%s"/>'%html.escape(a,quote=True) for a in e['alts'])
             if infl: infl='<idx:infl>'+infl+'</idx:infl>'
             f.write('<idx:entry name="default" scriptable="yes" spell="yes"><idx:short><idx:orth value="%s"><b>%s</b>%s</idx:orth>%s</idx:short></idx:entry>\n'%(hw,hw,infl,fn(e['def'])))
         f.write('</mbp:frameset></body></html>')
 kindle('kindle-classic-src',TITLE,lambda t:'<p>'+html.escape(legacy(t),quote=False)+'</p>')
-kindle('kindle-rtl-src',TITLE+' (RTL)',lambda t:'<p dir="rtl">'+h_modern(t)+'</p>')  # no align="right": the full source must stay under kindlegen's ~40 MB limit
+kindle('kindle-rtl-src',TITLE+' (RTL)',lambda t:'<p dir="rtl">'+h_modern(t)+'</p>')  # no align="right": keeps the sources small
 print('exported',len(m))
 import random; random.seed(5)
 for e in random.sample(m,6): print(e['head'],'\n  M:',e['def'],'\n  L:',legacy(e['def']))

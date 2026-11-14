@@ -1,0 +1,706 @@
+crop rotation	agriculture	تناوب زراعی، تناوب کشت
+intercropping	agriculture	کشت مخلوط، کشت توأم
+mixed cropping	agriculture	کشت مخلوط
+relay cropping	agriculture	کشت رله‌ای (کاشت محصول دوم پیش از برداشت محصول اول)
+double cropping	agriculture	کشت دوم، دوکشتی (دو برداشت در یک سال)
+multiple cropping	agriculture	کشت چندگانه، چندکشتی
+cover crop	agriculture	گیاه پوششی، محصول پوششی
+catch crop	agriculture	کشت میان‌دوره‌ای (محصول کوتاه‌مدت میان دو کشت اصلی)
+cash crop	agriculture	محصول نقدی، محصول تجاری
+staple crop	agriculture	محصول اصلی غذایی
+polyculture	agriculture	چندکشتی، کشت چندمحصولی
+organic agriculture	agriculture	کشاورزی ارگانیک، کشاورزی زیستی
+conventional farming	agriculture	کشاورزی متداول، کشاورزی رایج
+conservation agriculture	agriculture	کشاورزی حفاظتی
+no-till	agriculture	بی‌خاک‌ورزی، کشت بدون شخم
+no-till farming	agriculture	کشاورزی بدون خاک‌ورزی، کشت مستقیم
+zero tillage	agriculture	بی‌خاک‌ورزی، کشت بدون شخم
+minimum tillage	agriculture	کم‌خاک‌ورزی، خاک‌ورزی حداقل
+reduced tillage	agriculture	کم‌خاک‌ورزی
+conservation tillage	agriculture	خاک‌ورزی حفاظتی
+tillage	agriculture	خاک‌ورزی، شخم
+primary tillage	agriculture	خاک‌ورزی اولیه
+secondary tillage	agriculture	خاک‌ورزی ثانویه
+sharecropping	agriculture	مزارعه، سهم‌بری، کشاورزی سهمی
+sharecropper	agriculture	مزارعه‌کار، کشاورز سهم‌بر، رعیت سهم‌بر
+tenant farmer	agriculture	کشاورز مستأجر، اجاره‌دار زمین
+subsistence farming	agriculture	کشاورزی معیشتی
+subsistence agriculture	agriculture	کشاورزی معیشتی
+commercial farming	agriculture	کشاورزی تجاری
+agroindustry	agriculture	کشت‌وصنعت، صنایع کشاورزی
+precision farming	agriculture	کشاورزی دقیق
+smart farming	agriculture	کشاورزی هوشمند
+intensive farming	agriculture	کشاورزی متمرکز، کشاورزی فشرده
+extensive farming	agriculture	کشاورزی گسترده
+mixed farming	agriculture	کشاورزی مختلط (زراعت و دامداری توأم)
+dry farming	agriculture	دیم‌کاری، کشت دیم
+dryland farming	agriculture	کشاورزی دیم، دیم‌کاری
+rain-fed agriculture	agriculture	کشاورزی دیم
+rainfed	agriculture	دیم، دیمی
+irrigated agriculture	agriculture	کشاورزی آبی، کشت آبی
+slash-and-burn	agriculture	کشاورزی بریدن و سوزاندن (پاک‌سازی زمین با آتش‌زدن جنگل)
+shifting cultivation	agriculture	کشت متحرک، کشت جابه‌جاشونده
+agroecology	agriculture	بوم‌شناسی کشاورزی، اگرواکولوژی
+agronomy	agriculture	زراعت، علم زراعت
+agronomist	agriculture	زراعت‌شناس، کارشناس زراعت
+agricultural engineer	agriculture	مهندس کشاورزی
+agricultural extension	agriculture	ترویج کشاورزی
+extension agent	agriculture	مروج کشاورزی، کارشناس ترویج
+agrarian reform	agriculture	اصلاحات ارضی
+smallholding	agriculture	خرده‌مالکی، زمین کشاورزی کوچک
+landholding	agriculture	مالکیت زمین، زمین ملکی
+farmland	agriculture	زمین کشاورزی، اراضی زراعی
+arable land	agriculture	زمین زراعی، زمین قابل کشت
+arable farming	agriculture	زراعت، کشت محصولات زراعی
+plot	agriculture	کرت، قطعه زمین زراعی
+aquaponics	agriculture	آکواپونیک، پرورش توأم ماهی و گیاه
+urban agriculture	agriculture	کشاورزی شهری
+biodynamic farming	agriculture	کشاورزی بیودینامیک
+crop yield	agriculture	عملکرد محصول، بازده محصول
+yield per hectare	agriculture	عملکرد در هکتار
+agricultural cooperative	agriculture	شرکت تعاونی کشاورزی، تعاونی روستایی
+farm cooperative	agriculture	تعاونی کشاورزی
+crop husbandry	agriculture	زراعت، فنون زراعی
+genetically modified crop	agriculture	محصول تراریخته
+gm crop	agriculture	محصول تراریخته
+transgenic crop	agriculture	محصول تراریخته
+seed bank	agriculture	بانک بذر
+seed certification	agriculture	گواهی بذر
+certified seed	agriculture	بذر گواهی‌شده
+hybrid seed	agriculture	بذر هیبرید، بذر دورگ
+landrace	agriculture	رقم بومی، تودهٔ بومی
+cultivar	agriculture	رقم، واریته (گیاه زراعی)
+crop variety	agriculture	رقم زراعی
+plant breeding	agriculture	اصلاح نباتات
+plant breeder	agriculture	متخصص اصلاح نباتات، به‌نژادگر گیاه
+crop science	agriculture	علوم زراعی
+farm management	agriculture	مدیریت مزرعه
+farm labourer	agriculture	کارگر کشاورزی
+farm worker	agriculture	کارگر کشاورزی
+agricultural land	agriculture	زمین کشاورزی، اراضی کشاورزی
+growing season	agriculture	فصل رشد، دورهٔ رویش
+cropping pattern	agriculture	الگوی کشت
+cropping system	agriculture	نظام کشت، سیستم زراعی
+crop calendar	agriculture	تقویم زراعی
+agricultural year	agriculture	سال زراعی
+crop insurance	agriculture	بیمهٔ محصولات کشاورزی
+guaranteed purchase	agriculture	خرید تضمینی (محصولات کشاورزی)
+guaranteed price	agriculture	قیمت تضمینی (محصولات کشاورزی)
+farm subsidy	agriculture	یارانهٔ کشاورزی
+crop failure	agriculture	از دست رفتن محصول، نابودی محصول
+bumper crop	agriculture	محصول پربار، برداشت فراوان
+bumper harvest	agriculture	برداشت فراوان، محصول بی‌سابقه
+sowing	agriculture	کاشت، بذرکاری، بذرپاشی
+broadcast sowing	agriculture	کشت دست‌پاش، بذرپاشی سطحی
+broadcast	agriculture	دست‌پاش کردن (بذر)، بذرپاشی سطحی
+row planting	agriculture	کشت ردیفی
+row crop	agriculture	محصول ردیفی
+seeding rate	agriculture	میزان بذر، تراکم بذر
+seed rate	agriculture	میزان بذر مصرفی
+planting density	agriculture	تراکم کاشت
+plant spacing	agriculture	فاصلهٔ کاشت
+sowing date	agriculture	تاریخ کاشت
+planting date	agriculture	تاریخ کاشت
+seedbed	agriculture	بستر بذر
+seedbed preparation	agriculture	آماده‌سازی بستر بذر
+transplanting	agriculture	نشاکاری، انتقال نشا
+nursery bed	agriculture	خزانه، خزانهٔ نشا
+germination rate	agriculture	درصد جوانه‌زنی، سرعت جوانه‌زنی
+seed dormancy	agriculture	خواب بذر، رکود بذر
+seed viability	agriculture	زنده‌مانی بذر، قوهٔ نامیه
+seed vigour	agriculture	بنیهٔ بذر
+seed treatment	agriculture	ضدعفونی بذر، تیمار بذر
+seed dressing	agriculture	ضدعفونی بذر (با سم)
+emergence	agriculture	سبز شدن، ظهور گیاهچه (از خاک)
+stand establishment	agriculture	استقرار گیاه
+tillering	agriculture	پنجه‌زنی
+heading	agriculture	خوشه‌دهی، ظهور سنبله (غلات)
+grain filling	agriculture	پر شدن دانه
+ripening	agriculture	رسیدن، رسیدگی
+physiological maturity	agriculture	رسیدگی فیزیولوژیک
+yield gap	agriculture	خلأ عملکرد، فاصلهٔ عملکرد
+harvest index	agriculture	شاخص برداشت
+reaping	agriculture	درو، دروکردن
+mowing	agriculture	درو (علوفه)، علف‌زنی؛ چمن‌زنی
+threshing	agriculture	خرمن‌کوبی
+threshing floor	agriculture	خرمنگاه، خرمن‌جا
+thresher	agriculture	خرمن‌کوب، ماشین خرمن‌کوبی
+threshing machine	agriculture	خرمن‌کوب
+winnowing	agriculture	باد دادن خرمن، بوجاری
+winnower	agriculture	بوجار، ماشین بوجاری
+stubble burning	agriculture	آتش زدن کاه‌وکلش، سوزاندن بقایای گیاهی
+crop residue	agriculture	بقایای گیاهی، بقایای محصول
+haymaking	agriculture	تهیهٔ علوفهٔ خشک، خشک کردن علف
+fallow land	agriculture	زمین آیش
+summer fallow	agriculture	آیش تابستانه
+cereal crop	agriculture	غلات، محصول غله‌ای
+grain legume	agriculture	حبوبات، لگوم دانه‌ای
+pulse crop	agriculture	حبوبات
+legume crop	agriculture	گیاه لگوم، محصول بقولات
+forage crop	agriculture	گیاه علوفه‌ای، محصول علوفه‌ای
+fodder crop	agriculture	گیاه علوفه‌ای
+oilseed crop	agriculture	گیاه روغنی، دانه‌های روغنی
+industrial crop	agriculture	محصول صنعتی، گیاه صنعتی
+root crop	agriculture	گیاه ریشه‌ای، محصول ریشه‌ای و غده‌ای (چغندر، هویج، سیب‌زمینی و مانند آن)
+tuber crop	agriculture	گیاه غده‌ای
+fibre crop	agriculture	گیاه لیفی
+field crop	agriculture	محصول زراعی
+horticultural crop	agriculture	محصول باغی
+summer crop	agriculture	کشت تابستانه، محصول صیفی، صیفی‌جات
+winter crop	agriculture	کشت پاییزه، محصول زمستانه
+spring wheat	agriculture	گندم بهاره
+winter wheat	agriculture	گندم پاییزه، گندم زمستانه
+durum wheat	agriculture	گندم دوروم، گندم ماکارونی
+bread wheat	agriculture	گندم نان
+paddy	agriculture	شلتوک، برنج پوست‌نکنده؛ شالیزار
+paddy field	agriculture	شالیزار، مزرعهٔ برنج
+rice paddy	agriculture	شالیزار
+puddling	agriculture	گل‌خرابی (گل‌آب کردن و به‌هم‌زدن خاک شالیزار پیش از نشاکاری)
+lodging	agriculture	ورس، خوابیدگی ساقه (غلات)
+shattering	agriculture	ریزش دانه (پیش از برداشت)
+bolting	agriculture	به ساقه رفتن، ساقه‌دهی زودرس
+vernalization	agriculture	بهاره‌سازی، بهاره‌کردن
+vernalisation	agriculture	بهاره‌سازی، بهاره‌کردن
+crop protection	agriculture	حفظ نباتات، گیاه‌پزشکی
+plant protection	agriculture	حفظ نباتات، گیاه‌پزشکی
+weeding	agriculture	وجین، علف‌کنی
+hoeing	agriculture	کج‌بیل زدن، وجین با کج‌بیل
+thinning	agriculture	تنک کردن (بوته یا میوه)
+earthing up	agriculture	خاک دادن پای بوته
+hilling	agriculture	خاک دادن پای بوته
+mulch	agriculture	مالچ، خاک‌پوش
+plastic mulch	agriculture	مالچ پلاستیکی
+top dressing	agriculture	کود سرک، سرک‌دهی
+side dressing	agriculture	کوددهی نواری کنار ردیف
+crop canopy	agriculture	سایه‌انداز گیاهی، کانوپی
+plant population	agriculture	تراکم بوته
+tiller	agriculture	پنجه (غلات)؛ تیلر (خاک‌ورز موتوری)
+soil fertility	agriculture	حاصلخیزی خاک
+sandy loam	agriculture	لوم شنی
+clay loam	agriculture	لوم رسی
+silt loam	agriculture	لوم سیلتی
+soil ph	agriculture	پی‌اچ خاک، واکنش خاک
+soil acidity	agriculture	اسیدیتهٔ خاک
+soil salinity	agriculture	شوری خاک
+alkaline soil	agriculture	خاک قلیایی
+sodic soil	agriculture	خاک سدیمی
+soil compaction	agriculture	تراکم خاک، فشردگی خاک
+hardpan	agriculture	لایهٔ سخت، سخت‌لایه
+plough pan	agriculture	لایهٔ سخت زیر شخم، کف‌شخم
+field capacity	agriculture	ظرفیت زراعی، ظرفیت مزرعه
+wilting point	agriculture	نقطهٔ پژمردگی
+permanent wilting point	agriculture	نقطهٔ پژمردگی دائم
+soil organic matter	agriculture	مادهٔ آلی خاک
+soil test	agriculture	آزمون خاک، آزمایش خاک
+soil analysis	agriculture	تجزیهٔ خاک
+soil sampling	agriculture	نمونه‌برداری خاک
+soil amendment	agriculture	اصلاح‌کنندهٔ خاک، بهساز خاک
+soil conditioner	agriculture	بهساز خاک
+liming	agriculture	آهک‌دهی خاک
+land reclamation	agriculture	احیای اراضی، اصلاح اراضی
+land levelling	agriculture	تسطیح اراضی، تسطیح زمین
+land consolidation	agriculture	یکپارچه‌سازی اراضی
+tilth	agriculture	خاک نرم و آمادهٔ کشت، نرمی خاک
+chemical fertiliser	agriculture	کود شیمیایی
+chemical fertilizer	agriculture	کود شیمیایی
+organic fertiliser	agriculture	کود آلی
+organic fertilizer	agriculture	کود آلی
+biofertilizer	agriculture	کود زیستی، کود بیولوژیک
+biofertiliser	agriculture	کود زیستی، کود بیولوژیک
+compound fertiliser	agriculture	کود مرکب
+nitrogen fertiliser	agriculture	کود نیتروژنه، کود ازته
+nitrogenous fertilizer	agriculture	کود ازته، کود نیتروژنه
+phosphate fertiliser	agriculture	کود فسفاته
+potash fertiliser	agriculture	کود پتاسه
+superphosphate	agriculture	سوپرفسفات
+triple superphosphate	agriculture	سوپرفسفات تریپل
+npk	agriculture	Nitrogen–Phosphorus–Potassium؛ کود سه‌گانهٔ ازت و فسفر و پتاس، کود ان‌پی‌کا
+micronutrient	agriculture	عنصر کم‌مصرف، ریزمغذی
+macronutrient	agriculture	عنصر پرمصرف، درشت‌مغذی
+farmyard manure	agriculture	کود دامی، کود حیوانی
+animal manure	agriculture	کود دامی
+green manure	agriculture	کود سبز
+poultry manure	agriculture	کود مرغی
+vermicompost	agriculture	ورمی‌کمپوست، کود کرمی
+vermiculture	agriculture	پرورش کرم خاکی
+slurry	agriculture	کود دامی مایع، دوغاب کود
+foliar application	agriculture	محلول‌پاشی برگی
+foliar spray	agriculture	محلول‌پاشی
+foliar feeding	agriculture	تغذیهٔ برگی، محلول‌پاشی
+fertigation	agriculture	کودآبیاری، فرتیگیشن
+fertiliser spreader	agriculture	کودپاش
+fertilizer spreader	agriculture	کودپاش
+nitrogen-fixing	agriculture	تثبیت‌کنندهٔ نیتروژن
+nutrient deficiency	agriculture	کمبود عناصر غذایی
+chlorosis	agriculture	زردبرگی، کلروز
+waterlogging	agriculture	ماندابی شدن، غرقابی شدن خاک
+subsurface drainage	agriculture	زهکشی زیرزمینی
+drainage ditch	agriculture	زهکش روباز، آبراههٔ زهکشی
+tile drain	agriculture	زهکش لوله‌ای
+salinization	agriculture	شور شدن خاک، شوری‌زایی
+trickle irrigation	agriculture	آبیاری قطره‌ای
+sprinkler	agriculture	آبپاش (آبیاری بارانی)، اسپرینکلر
+centre pivot irrigation	agriculture	آبیاری سنترپیوت، آبیاری بارانی دوار
+center pivot	agriculture	سنترپیوت، دستگاه آبیاری بارانی دوار
+furrow irrigation	agriculture	آبیاری نشتی، آبیاری جوی‌وپشته‌ای
+furrow	agriculture	جوی، شیار (آبیاری)
+ridge and furrow	agriculture	جوی‌وپشته
+basin irrigation	agriculture	آبیاری کرتی
+border irrigation	agriculture	آبیاری نواری
+flood irrigation	agriculture	آبیاری غرقابی
+subsurface irrigation	agriculture	آبیاری زیرسطحی
+subsurface drip irrigation	agriculture	آبیاری قطره‌ای زیرسطحی
+pressurized irrigation	agriculture	آبیاری تحت فشار
+micro-irrigation	agriculture	آبیاری موضعی، ریزآبیاری
+drip tape	agriculture	نوار تیپ، تیپ آبیاری
+dripper	agriculture	قطره‌چکان
+emitter	agriculture	قطره‌چکان (آبیاری)
+qanat	agriculture	قنات، کاریز
+mother well	agriculture	مادرچاه (قنات)
+irrigation canal	agriculture	کانال آبیاری، نهر
+irrigation ditch	agriculture	جوی آب، نهر آبیاری
+water right	agriculture	حقابه
+water share	agriculture	حقابه، سهم آب
+irrigation interval	agriculture	دور آبیاری
+irrigation schedule	agriculture	برنامهٔ آبیاری
+irrigation scheduling	agriculture	برنامه‌ریزی آبیاری
+water requirement	agriculture	نیاز آبی
+crop water requirement	agriculture	نیاز آبی گیاه
+evapotranspiration	agriculture	تبخیر و تعرق
+water use efficiency	agriculture	کارایی مصرف آب، بهره‌وری آب
+deficit irrigation	agriculture	کم‌آبیاری
+supplementary irrigation	agriculture	آبیاری تکمیلی
+semi-deep well	agriculture	چاه نیمه‌عمیق
+check dam	agriculture	بند اصلاحی، چک‌دم (سد کوچک خاکی یا سنگی روی آبراهه)
+irrigation network	agriculture	شبکهٔ آبیاری
+irrigation efficiency	agriculture	راندمان آبیاری
+shaduf	agriculture	شادوف (اهرم آب‌کشی با دلو)
+miticide	agriculture	کنه‌کش
+nematicide	agriculture	نماتدکش
+rodenticide	agriculture	جونده‌کش، مرگ‌موش
+molluscicide	agriculture	نرم‌تن‌کش، حلزون‌کش
+systemic pesticide	agriculture	سم سیستمیک، آفت‌کش نفوذی
+contact pesticide	agriculture	سم تماسی
+selective herbicide	agriculture	علف‌کش انتخابی
+non-selective herbicide	agriculture	علف‌کش غیرانتخابی، علف‌کش عمومی
+pre-emergence herbicide	agriculture	علف‌کش پیش‌رویشی
+post-emergence herbicide	agriculture	علف‌کش پس‌رویشی
+spraying	agriculture	سم‌پاشی
+crop spraying	agriculture	سم‌پاشی مزرعه
+knapsack sprayer	agriculture	سم‌پاش پشتی
+boom sprayer	agriculture	سم‌پاش بوم‌دار، سم‌پاش تراکتوری
+crop duster	agriculture	هواپیمای سم‌پاش
+crop dusting	agriculture	سم‌پاشی هوایی
+fumigation	agriculture	فومیگاسیون، گازدهی، تدخین (برای دفع آفات انباری)
+pre-harvest interval	agriculture	دورهٔ کارنس
+pesticide residue	agriculture	باقیماندهٔ سموم
+integrated pest management	agriculture	مدیریت تلفیقی آفات
+ipm	agriculture	Integrated Pest Management؛ مدیریت تلفیقی آفات
+biological control	agriculture	کنترل بیولوژیک، مبارزهٔ زیستی
+biocontrol	agriculture	کنترل زیستی، مبارزهٔ بیولوژیک
+natural enemy	agriculture	دشمن طبیعی
+beneficial insect	agriculture	حشرهٔ مفید
+pest control	agriculture	دفع آفات، مبارزه با آفات
+pest management	agriculture	مدیریت آفات
+economic threshold	agriculture	آستانهٔ زیان اقتصادی
+pheromone trap	agriculture	تلهٔ فرمونی
+yellow sticky trap	agriculture	کارت زرد چسبنده
+plant quarantine	agriculture	قرنطینهٔ گیاهی
+phytosanitary	agriculture	بهداشت گیاهی، گیاه‌پزشکی
+phytosanitary certificate	agriculture	گواهی بهداشت گیاهی، گواهی قرنطینهٔ نباتی
+plant pathology	agriculture	بیماری‌شناسی گیاهی
+plant pathologist	agriculture	بیماری‌شناس گیاهی
+plant disease	agriculture	بیماری گیاهی
+blight	agriculture	سوختگی (بیماری گیاهی)، بلایت
+late blight	agriculture	بادزدگی سیب‌زمینی، سوختگی دیررس
+early blight	agriculture	سوختگی زودرس، لکه‌موجی
+fire blight	agriculture	آتشک (درختان میوه)
+rust	agriculture	بیماری زنگ (قارچی)، زنگ گیاهی
+stem rust	agriculture	زنگ سیاه، زنگ ساقهٔ گندم
+yellow rust	agriculture	زنگ زرد
+stripe rust	agriculture	زنگ زرد، زنگ نواری
+leaf rust	agriculture	زنگ قهوه‌ای، زنگ برگ
+smut	agriculture	سیاهک (بیماری غلات)
+loose smut	agriculture	سیاهک آشکار
+bunt	agriculture	سیاهک پنهان گندم
+powdery mildew	agriculture	سفیدک پودری، سفیدک سطحی
+downy mildew	agriculture	سفیدک دروغی، سفیدک کرکی
+damping-off	agriculture	مرگ گیاهچه، بوته‌میری
+fusarium wilt	agriculture	پژمردگی فوزاریومی
+root rot	agriculture	پوسیدگی ریشه
+crown rot	agriculture	پوسیدگی طوقه
+gummosis	agriculture	صمغ‌زدگی، گموز
+canker	agriculture	شانکر (بیماری درختان)
+mosaic virus	agriculture	ویروس موزاییک
+leaf spot	agriculture	لکه‌برگی
+apple scab	agriculture	لکهٔ سیاه سیب
+sunn pest	agriculture	سن گندم
+whitefly	agriculture	سفیدبالک
+codling moth	agriculture	کرم سیب، کرم میوه‌خوار سیب
+colorado potato beetle	agriculture	سوسک کلرادوی سیب‌زمینی
+spider mite	agriculture	کنهٔ تارتن
+red spider mite	agriculture	کنهٔ تارتن قرمز
+leafminer	agriculture	مینوز، لارو مینوز برگ
+leaf miner	agriculture	مینوز، لارو مینوز برگ
+mealybug	agriculture	شپشک آردآلود
+scale insect	agriculture	شپشک، سپردار
+grain weevil	agriculture	شپشهٔ گندم، سرخرطومی غلات
+stored-product pest	agriculture	آفت انباری
+cutworm	agriculture	کرم طوقه‌بر
+armyworm	agriculture	کرم برگ‌خوار
+bollworm	agriculture	کرم غوزه
+stem borer	agriculture	کرم ساقه‌خوار
+rice stem borer	agriculture	کرم ساقه‌خوار برنج
+pistachio psylla	agriculture	پسیل پسته، شیرهٔ پسته
+root-knot nematode	agriculture	نماتد ریشه‌گرهی، نماتد مولد گره ریشه
+weed control	agriculture	کنترل علف‌های هرز، مبارزه با علف هرز
+dodder	agriculture	سس (گیاه انگلی)
+broomrape	agriculture	گل جالیز
+crop loss	agriculture	خسارت محصول
+pest outbreak	agriculture	طغیان آفت
+resistant variety	agriculture	رقم مقاوم
+pesticide resistance	agriculture	مقاومت به آفت‌کش
+pomology	agriculture	میوه‌شناسی، علم میوه‌کاری، پومولوژی
+viticulture	agriculture	انگورکاری، تاکداری
+budding	agriculture	پیوند جوانه، پیوند شکمی
+bud grafting	agriculture	پیوند جوانه
+t-budding	agriculture	پیوند شکمی، پیوند تی‌شکل
+cleft grafting	agriculture	پیوند اسکنه
+whip grafting	agriculture	پیوند زبانه‌ای، پیوند نیمانیم
+bark grafting	agriculture	پیوند پوستی
+approach grafting	agriculture	پیوند نزدیکی
+scion	agriculture	پیوندک، شاخهٔ پیوندی
+rootstock	agriculture	پایه (پیوند)، پایهٔ پیوندی
+dwarfing rootstock	agriculture	پایهٔ پاکوتاه
+seedling rootstock	agriculture	پایهٔ بذری
+clonal rootstock	agriculture	پایهٔ رویشی، پایهٔ کلونی
+winter pruning	agriculture	هرس زمستانه، هرس خشک
+summer pruning	agriculture	هرس سبز، هرس تابستانه
+training	agriculture	فرم‌دهی درخت، تربیت درخت
+pollarding	agriculture	سربرداری درخت، سرزنی شدید
+secateurs	agriculture	قیچی باغبانی، قیچی هرس
+pruning saw	agriculture	ارهٔ هرس
+pinching	agriculture	سرزنی، قطع نوک شاخه
+deadheading	agriculture	حذف گل‌های پژمرده
+layering	agriculture	خواباندن، خوابانیدن (روش تکثیر گیاه)
+air layering	agriculture	خوابانیدن هوایی
+stem cutting	agriculture	قلمهٔ ساقه
+propagation	agriculture	تکثیر (گیاه)، ازدیاد
+vegetative propagation	agriculture	تکثیر رویشی، تکثیر غیرجنسی
+micropropagation	agriculture	ریزازدیادی
+greenhouse cultivation	agriculture	کشت گلخانه‌ای
+greenhouse farming	agriculture	کشاورزی گلخانه‌ای
+glasshouse	agriculture	گلخانهٔ شیشه‌ای
+polytunnel	agriculture	تونل پلاستیکی، گلخانهٔ تونلی
+hotbed	agriculture	خزانهٔ گرم
+cold frame	agriculture	خزانهٔ سرد
+seed tray	agriculture	سینی کشت، سینی نشا
+potting soil	agriculture	خاک گلدان
+potting mix	agriculture	خاک گلدان، بستر کشت
+growing medium	agriculture	بستر کشت
+peat moss	agriculture	پیت ماس
+cocopeat	agriculture	کوکوپیت
+fruit set	agriculture	تشکیل میوه
+fruit drop	agriculture	ریزش میوه
+alternate bearing	agriculture	سال‌آوری، تناوب باردهی
+biennial bearing	agriculture	سال‌آوری
+chilling requirement	agriculture	نیاز سرمایی
+frost damage	agriculture	سرمازدگی
+frost protection	agriculture	حفاظت در برابر سرمازدگی
+spring frost	agriculture	سرمای دیررس بهاره
+hand pollination	agriculture	گرده‌افشانی دستی
+tree nursery	agriculture	نهالستان
+nurseryman	agriculture	نهالستان‌دار، پرورش‌دهندهٔ نهال
+market gardening	agriculture	سبزی‌کاری تجاری، صیفی‌کاری
+market garden	agriculture	مزرعهٔ سبزی و صیفی
+truck farming	agriculture	صیفی‌کاری تجاری
+trellising	agriculture	داربست‌زنی، قیم‌گذاری
+staking	agriculture	قیم‌گذاری (گیاه)
+fruit thinning	agriculture	تنک میوه
+post-harvest	agriculture	پس از برداشت
+post-harvest loss	agriculture	ضایعات پس از برداشت
+livestock farming	agriculture	دامداری، دامپروری
+livestock farm	agriculture	دامداری، مجتمع دامپروری
+pastoralism	agriculture	شبانی، گله‌داری، دامداری کوچ‌رو
+pastoralist	agriculture	دامدار کوچ‌رو، گله‌دار
+nomadic pastoralism	agriculture	دامداری عشایری
+transhumance	agriculture	کوچ فصلی، ییلاق‌وقشلاق
+summer pasture	agriculture	ییلاق، مرتع تابستانه
+winter pasture	agriculture	قشلاق، مرتع زمستانه
+rangeland	agriculture	مرتع، مراتع
+range management	agriculture	مرتع‌داری
+grazing land	agriculture	چراگاه
+rotational grazing	agriculture	چرای تناوبی
+carrying capacity	agriculture	ظرفیت چرا (مرتع)
+stocking rate	agriculture	شدت چرا، تعداد دام در واحد سطح
+animal unit	agriculture	واحد دامی
+livestock feed	agriculture	خوراک دام
+animal feed	agriculture	خوراک دام
+compound feed	agriculture	خوراک آمادهٔ دام، خوراک کامل
+roughage	agriculture	خوراک حجیم، علوفهٔ خشبی
+feed ration	agriculture	جیرهٔ غذایی (دام)
+total mixed ration	agriculture	جیرهٔ کاملاً مخلوط، تی‌ام‌آر
+silage	agriculture	سیلاژ، علوفهٔ سیلوشده، سیلو
+ensiling	agriculture	سیلو کردن، سیلاژسازی
+haylage	agriculture	هیلاژ، علوفهٔ نیمه‌خشک سیلوشده
+corn silage	agriculture	سیلاژ ذرت، سیلوی ذرت
+maize silage	agriculture	سیلاژ ذرت، سیلوی ذرت
+feedlot	agriculture	پرواربندی، مجتمع پرواربندی
+fattening	agriculture	پروار، پرواربندی
+feed conversion ratio	agriculture	ضریب تبدیل غذایی
+feed efficiency	agriculture	بازده غذایی
+daily weight gain	agriculture	افزایش وزن روزانه
+dairy cattle	agriculture	گاو شیری
+beef cattle	agriculture	گاو گوشتی
+dairy cow	agriculture	گاو شیری
+dairy farm	agriculture	گاوداری شیری، دامداری شیری
+dairy farming	agriculture	گاوداری شیری
+dairy herd	agriculture	گلهٔ گاو شیری
+holstein-friesian	agriculture	هلشتاین (نژاد گاو شیری)
+jersey	agriculture	جرسی (نژاد گاو شیری)
+guernsey	agriculture	گرنزی (نژاد گاو شیری)
+brown swiss	agriculture	براون‌سوئیس (نژاد گاو)
+simmental	agriculture	سیمنتال (نژاد گاو دومنظوره)
+hereford	agriculture	هرفورد (نژاد گاو گوشتی)
+angus	agriculture	آنگوس (نژاد گاو گوشتی)
+brahman	agriculture	براهمن (نژاد گاو کوهان‌دار)
+fat-tailed sheep	agriculture	گوسفند دنبه‌دار
+saanen	agriculture	سانن (نژاد بز شیری)
+angora goat	agriculture	بز آنقوره
+cashmere goat	agriculture	بز کرکی
+livestock breeding	agriculture	اصلاح نژاد دام
+selective breeding	agriculture	اصلاح نژاد انتخابی، گزینش مصنوعی
+crossbreeding	agriculture	دورگ‌گیری، آمیخته‌گری
+artificial insemination	agriculture	تلقیح مصنوعی
+progeny testing	agriculture	آزمون نتاج
+breeding value	agriculture	ارزش اصلاحی
+heat	agriculture	فحلی (دام)، دورهٔ فحلی
+estrus synchronization	agriculture	هم‌زمان‌سازی فحلی
+calving	agriculture	زایش (گاو)، گوساله‌زایی
+calving interval	agriculture	فاصلهٔ زایش، فاصلهٔ دو زایش
+lambing	agriculture	زایش میش، بره‌زایی
+lambing season	agriculture	فصل زایش (گوسفند)
+farrowing	agriculture	زایش خوک
+dry period	agriculture	دورهٔ خشکی (گاو شیری)
+lactation period	agriculture	دورهٔ شیردهی
+milk yield	agriculture	تولید شیر، شیردهی
+milking	agriculture	شیردوشی
+milking machine	agriculture	دستگاه شیردوشی
+milking parlour	agriculture	سالن شیردوشی
+milking parlor	agriculture	سالن شیردوشی
+raw milk	agriculture	شیر خام
+milk collection centre	agriculture	مرکز جمع‌آوری شیر
+somatic cell count	agriculture	شمارش سلول‌های سوماتیک (شاخص ورم پستان)
+cowshed	agriculture	گاودانی، طویلهٔ گاو
+sheep pen	agriculture	آغل گوسفند
+ear tag	agriculture	پلاک گوش (شناسایی دام)
+branding	agriculture	داغ زدن (دام)
+dehorning	agriculture	شاخ‌زدایی، شاخ‌سوزی
+docking	agriculture	دم‌بری
+tail docking	agriculture	دم‌بری
+shearing	agriculture	پشم‌چینی
+sheep shearing	agriculture	پشم‌چینی
+hoof trimming	agriculture	سم‌چینی
+culling	agriculture	حذف دام (از گله)، کشتار گزینشی
+industrial slaughterhouse	agriculture	کشتارگاه صنعتی
+carcass yield	agriculture	بازده لاشه، راندمان لاشه
+livestock market	agriculture	بازار دام، میدان دام
+draught animal	agriculture	دام کار، حیوان کششی، دام بارکش
+draft animal	agriculture	دام کار، حیوان کششی، دام بارکش
+pig farming	agriculture	پرورش خوک
+sheep farming	agriculture	گوسفندداری، پرورش گوسفند
+cattle farming	agriculture	گاوداری، پرورش گاو
+poultry farm	agriculture	مرغداری
+poultry farming	agriculture	مرغداری، پرورش طیور
+poultry house	agriculture	سالن مرغداری
+broiler chicken	agriculture	مرغ گوشتی
+laying hen	agriculture	مرغ تخم‌گذار
+breeder flock	agriculture	گلهٔ مرغ مادر
+broiler breeder	agriculture	مرغ مادر گوشتی
+day-old chick	agriculture	جوجهٔ یک‌روزه
+hatchery	agriculture	کارگاه جوجه‌کشی، جوجه‌کشی
+hatching egg	agriculture	تخم‌مرغ نطفه‌دار
+battery cage	agriculture	قفس باتری (مرغ تخم‌گذار)
+cage-free	agriculture	بدون قفس (پرورش مرغ)
+free-range egg	agriculture	تخم‌مرغ پرورش آزاد، تخم‌مرغ محلی
+backyard poultry	agriculture	مرغ محلی، طیور خانگی
+litter	agriculture	بستر (مرغداری یا جایگاه دام)
+brooder	agriculture	مادر مصنوعی، گرمادهندهٔ جوجه
+brooding	agriculture	پرورش اولیهٔ جوجه، جوجه‌داری
+moulting	agriculture	تولک، پرریزی
+forced moulting	agriculture	تولک‌بری اجباری
+debeaking	agriculture	نوک‌چینی
+beak trimming	agriculture	نوک‌چینی
+egg production	agriculture	تولید تخم‌مرغ
+feed mill	agriculture	کارخانهٔ خوراک دام و طیور
+quail farming	agriculture	پرورش بلدرچین
+ostrich farming	agriculture	پرورش شترمرغ
+langstroth hive	agriculture	کندوی لانگستروث
+frame	agriculture	قاب کندو
+comb foundation	agriculture	موم آج‌دار، شان مصنوعی
+foundation	agriculture	موم آج‌دار (زنبورداری)
+super	agriculture	طبقهٔ عسل، طبقه (بخش افزودنی روی کندو برای ذخیرهٔ عسل)
+brood comb	agriculture	شان نوزاد
+brood	agriculture	نوزاد زنبور (تخم و لارو و شفیره)
+bee pollen	agriculture	گردهٔ گل (زنبور عسل)
+swarming	agriculture	بچه‌دهی کندو، بچه دادن، ازدحام (زنبور عسل)
+smoker	agriculture	دودی (ابزار زنبورداری)
+bee smoker	agriculture	دودی زنبورداری
+honey extractor	agriculture	عسل‌کش، دستگاه استخراج عسل
+varroa mite	agriculture	کنهٔ واروآ
+varroa	agriculture	واروآ (کنهٔ انگل زنبور عسل)
+foulbrood	agriculture	لوک (بیماری نوزاد زنبور عسل)
+american foulbrood	agriculture	لوک آمریکایی
+colony collapse disorder	agriculture	اختلال فروپاشی کلنی
+nectar flow	agriculture	فصل شهد، جریان شهد
+migratory beekeeping	agriculture	زنبورداری کوچ‌رو، کوچ کندوها
+silkworm rearing	agriculture	نوغان‌داری، پرورش کرم ابریشم
+fish farming	agriculture	پرورش ماهی، آبزی‌پروری
+fish farm	agriculture	مزرعهٔ پرورش ماهی
+fish pond	agriculture	استخر پرورش ماهی
+fish hatchery	agriculture	مرکز تکثیر ماهی، کارگاه تکثیر و پرورش ماهی
+fingerling	agriculture	بچه‌ماهی، ماهی انگشت‌قد
+fry	agriculture	بچه‌ماهی (تازه از تخم درآمده)، لارو ماهی
+broodstock	agriculture	مولد، ماهی مولد
+cage culture	agriculture	پرورش ماهی در قفس
+fish cage	agriculture	قفس پرورش ماهی
+trout farming	agriculture	پرورش قزل‌آلا
+warmwater fish	agriculture	ماهیان گرم‌آبی
+coldwater fish	agriculture	ماهیان سردآبی
+shrimp farming	agriculture	پرورش میگو
+mariculture	agriculture	پرورش آبزیان دریایی
+fisheries	agriculture	شیلات
+fishing quota	agriculture	سهمیهٔ صید
+trawling	agriculture	ترال‌کشی، صید با تور ترال
+gillnet	agriculture	تور گوش‌گیر
+purse seine	agriculture	تور محاصره‌ای، تور پرساین
+fishing ground	agriculture	صیدگاه
+fish stock	agriculture	ذخایر ماهی
+combine harvester	agriculture	کمباین
+forage harvester	agriculture	چاپر، علوفه‌خردکن
+mouldboard plough	agriculture	گاوآهن برگردان‌دار
+moldboard plow	agriculture	گاوآهن برگردان‌دار
+disc plough	agriculture	گاوآهن بشقابی
+disk plow	agriculture	گاوآهن بشقابی
+chisel plough	agriculture	گاوآهن قلمی، چیزل
+subsoiler	agriculture	زیرشکن
+harrow	agriculture	دیسک، هرس بشقابی؛ دندانه، هرس دندانه‌ای (ادوات خاک‌ورزی برای خرد کردن کلوخ و هموار کردن زمین؛ به معنای هرس درخت نیست)
+disc harrow	agriculture	دیسک، هرس بشقابی (ادوات خاک‌ورزی)
+spike-tooth harrow	agriculture	هرس دندانه‌میخی، دندانه (ادوات خاک‌ورزی)
+rotary tiller	agriculture	روتیواتور، خاک‌ورز دوار
+rotavator	agriculture	روتیواتور
+cultivator	agriculture	کولتیواتور
+power tiller	agriculture	تیلر، کولتیواتور موتوری
+leveller	agriculture	لولر، ماله (تسطیح زمین)
+land leveller	agriculture	لولر، دستگاه تسطیح زمین
+ridger	agriculture	فاروئر، نهرکن
+furrower	agriculture	فاروئر، شیارساز
+seed drill	agriculture	بذرکار، خطی‌کار، ردیف‌کار
+grain drill	agriculture	خطی‌کار غلات، بذرکار
+planter	agriculture	ردیف‌کار، بذرکار
+precision planter	agriculture	ردیف‌کار دقیق، بذرکار نیوماتیک
+pneumatic planter	agriculture	بذرکار نیوماتیک
+transplanter	agriculture	نشاکار
+rice transplanter	agriculture	نشاکار برنج
+baler	agriculture	بیلر، بسته‌بند علوفه
+round baler	agriculture	بیلر گرد
+hay rake	agriculture	ریک، علف‌جمع‌کن
+tedder	agriculture	علف‌برگردان، همزن علوفه
+mower-conditioner	agriculture	موور کاندیشنر (دروگر و له‌کنندهٔ علوفه)
+manure spreader	agriculture	کودپاش دامی
+farm trailer	agriculture	تریلر کشاورزی، یدک
+three-point hitch	agriculture	اتصال سه‌نقطه
+power take-off	agriculture	محور توان‌دهی، پی‌تی‌او
+drawbar	agriculture	مالبند، میلهٔ کشش (تراکتور)
+implement	agriculture	ادوات کشاورزی، دنباله‌بند
+farm implement	agriculture	ادوات کشاورزی
+farm machinery	agriculture	ماشین‌آلات کشاورزی
+agricultural machinery	agriculture	ماشین‌آلات کشاورزی
+farm mechanization	agriculture	مکانیزاسیون کشاورزی
+walking tractor	agriculture	تیلر، تراکتور دودستی
+crawler tractor	agriculture	تراکتور زنجیری
+header	agriculture	هد (کمباین)، دماغهٔ برش
+combine header	agriculture	هد کمباین
+corn header	agriculture	هد ذرت
+grain tank	agriculture	مخزن دانه (کمباین)
+straw chopper	agriculture	کاه‌خردکن
+reaper-binder	agriculture	دروگر بافه‌بند، بایندر
+binder	agriculture	بایندر، دروگر بافه‌بند
+grain dryer	agriculture	خشک‌کن غلات
+sheller	agriculture	دانه‌جداکن، پوست‌کن (ذرت)
+corn sheller	agriculture	دانه‌کن ذرت، بلال‌دانه‌کن
+huller	agriculture	پوست‌کن (برنج یا پسته)
+rice huller	agriculture	ماشین پوست‌کنی برنج
+rice mill	agriculture	شالیکوبی، کارخانهٔ برنج‌کوبی
+feed mixer	agriculture	میکسر خوراک دام
+mixer wagon	agriculture	واگن میکسر، فیدر میکسر
+veterinary medicine	agriculture	دامپزشکی
+veterinary clinic	agriculture	درمانگاه دامپزشکی، کلینیک دامپزشکی
+veterinary hospital	agriculture	بیمارستان دامپزشکی
+veterinary nurse	agriculture	پرستار دامپزشکی، تکنسین دامپزشکی
+veterinary technician	agriculture	تکنسین دامپزشکی
+small animal practice	agriculture	دامپزشکی حیوانات کوچک، کلینیک حیوانات خانگی
+companion animal	agriculture	حیوان خانگی، حیوان همدم
+livestock vaccination	agriculture	واکسیناسیون دام، مایه‌کوبی دام
+zoonotic disease	agriculture	بیماری مشترک انسان و دام
+foot-and-mouth disease	agriculture	تب برفکی
+foot and mouth disease	agriculture	تب برفکی
+fmd	agriculture	Foot-and-Mouth Disease؛ تب برفکی
+subclinical mastitis	agriculture	ورم پستان تحت‌بالینی
+brucellosis	agriculture	بروسلوز، تب مالت
+bovine tuberculosis	agriculture	سل گاوی
+bovine spongiform encephalopathy	agriculture	جنون گاوی، انسفالوپاتی اسفنجی‌شکل گاوی
+newcastle disease	agriculture	نیوکاسل (بیماری طیور)
+infectious bronchitis	agriculture	برونشیت عفونی (طیور)
+gumboro disease	agriculture	گامبورو، بورس عفونی طیور
+coccidiosis	agriculture	کوکسیدیوز
+marek's disease	agriculture	بیماری مارک (طیور)
+sheep pox	agriculture	آبلهٔ گوسفندی
+goat pox	agriculture	آبلهٔ بزی
+peste des petits ruminants	agriculture	طاعون نشخوارکنندگان کوچک
+rinderpest	agriculture	طاعون گاوی
+lumpy skin disease	agriculture	بیماری پوستی ندولار، لمپی اسکین
+bluetongue	agriculture	زبان آبی (بیماری نشخوارکنندگان)
+enterotoxemia	agriculture	انتروتوکسمی، آنتروتوکسمی، بیماری کلیهٔ نرم (گوسفند و بز)
+blackleg	agriculture	شاربن علامتی، بلک‌لگ (بیماری کلستریدیایی گاو و گوسفند)؛ ساق‌سیاه (بیماری باکتریایی سیب‌زمینی)
+bloat	agriculture	نفخ شکمبه (نشخوارکنندگان)
+milk fever	agriculture	تب شیر
+lameness	agriculture	لنگش (دام)
+foot rot	agriculture	گندیدگی سم، لنگش عفونی
+calf scours	agriculture	اسهال گوساله
+scours	agriculture	اسهال (گوساله یا بره)
+deworming	agriculture	انگل‌زدایی، ضد انگل دادن
+dewormer	agriculture	داروی ضد انگل
+drenching	agriculture	خوراندن داروی مایع (به دام)
+dipping	agriculture	حمام ضد انگل (دام)
+sheep dip	agriculture	حمام ضد کنهٔ گوسفند
+spaying	agriculture	عقیم‌سازی حیوان ماده، برداشتن تخمدان
+neutering	agriculture	عقیم‌سازی، اخته کردن
+livestock quarantine	agriculture	قرنطینهٔ دامی
+stamping out	agriculture	معدوم‌سازی دام آلوده، کشتار بهداشتی
+carcass disposal	agriculture	امحای لاشه
+meat inspection	agriculture	بازرسی گوشت
+ante-mortem inspection	agriculture	معاینهٔ قبل از کشتار
+post-mortem inspection	agriculture	معاینهٔ پس از کشتار
+veterinary certificate	agriculture	گواهی بهداشتی دامپزشکی
+withdrawal period	agriculture	دورهٔ منع مصرف (دارو در دام)، دورهٔ پرهیز
+veterinary drug	agriculture	داروی دامپزشکی
+antibiotic residue	agriculture	باقیماندهٔ آنتی‌بیوتیک
+rectal palpation	agriculture	معاینهٔ رکتال، لمس از راه راست‌روده
+pregnancy diagnosis	agriculture	تشخیص آبستنی
+retained placenta	agriculture	جفت‌ماندگی
+horseshoeing	agriculture	نعلبندی
+canine distemper	agriculture	دیستمپر سگ
+parvovirus	agriculture	پاروویروس
+kennel cough	agriculture	سرفهٔ کنل (تراکئوبرونشیت عفونی سگ)
+microchipping	agriculture	میکروچیپ‌گذاری
+animal welfare	agriculture	رفاه حیوانات
+animal health	agriculture	بهداشت دام
+veterinary public health	agriculture	بهداشت عمومی دامپزشکی
+enzootic	agriculture	انزئوتیک (بیماری بومی و پایدار در جمعیت دام یک منطقه)
+hydatid cyst	agriculture	کیست هیداتید
+hydatidosis	agriculture	هیداتیدوز، کیست هیداتید
+liver fluke	agriculture	کرم کبد، فاسیولا، کپلک
+crimean-congo hemorrhagic fever	agriculture	تب خونریزی‌دهندهٔ کریمه‌کنگو
+theileriosis	agriculture	تیلریوز
+babesiosis	agriculture	بابزیوز

@@ -1,0 +1,384 @@
+elastic potential energy	physics	انرژی پتانسیل کشسانی
+conservation of energy	physics	پایستگی انرژی، قانون بقای انرژی
+conservation of momentum	physics	پایستگی تکانه، قانون بقای اندازهٔ حرکت
+momentum conservation	physics	پایستگی تکانه، بقای اندازهٔ حرکت
+conservation of angular momentum	physics	پایستگی تکانهٔ زاویه‌ای
+linear momentum	physics	تکانهٔ خطی، اندازهٔ حرکت خطی
+static friction	physics	اصطکاک ایستایی
+normal force	physics	نیروی عمودی سطح، نیروی عمودی تکیه‌گاه
+net force	physics	نیروی خالص، برایند نیروها
+free-body diagram	physics	نمودار جسم آزاد
+newton's first law	physics	قانون اول نیوتن، قانون لختی
+newton's second law	physics	قانون دوم نیوتن
+newton's third law	physics	قانون سوم نیوتن، قانون کنش و واکنش
+law of inertia	physics	قانون لختی
+lever arm	physics	بازوی گشتاور، بازوی اهرم
+centre of mass	physics	مرکز جرم
+centre of gravity	physics	مرکز ثقل، مرکز گرانش
+projectile motion	physics	حرکت پرتابی
+uniform circular motion	physics	حرکت دایره‌ای یکنواخت
+simple pendulum	physics	آونگ ساده
+angular displacement	physics	جابه‌جایی زاویه‌ای
+average velocity	physics	سرعت متوسط
+acceleration due to gravity	physics	شتاب گرانش، شتاب جاذبه
+gravitational constant	physics	ثابت گرانش، ثابت جهانی گرانش
+work-energy theorem	physics	قضیهٔ کار و انرژی
+coefficient of restitution	physics	ضریب بازگشت (برخورد)
+hooke's law	physics	قانون هوک
+spring constant	physics	ثابت فنر
+buoyant force	physics	نیروی شناوری
+archimedes' principle	physics	اصل ارشمیدس
+pascal's principle	physics	اصل پاسکال
+bernoulli's principle	physics	اصل برنولی
+fluid dynamics	physics	دینامیک سیالات
+hydrostatic pressure	physics	فشار هیدروستاتیکی، فشار شارهٔ ساکن
+classical mechanics	physics	مکانیک کلاسیک
+frame of reference	physics	چارچوب مرجع، دستگاه مرجع
+reference frame	physics	چارچوب مرجع
+inertial frame	physics	چارچوب لخت، دستگاه مرجع لخت
+uniform motion	physics	حرکت یکنواخت
+uniformly accelerated motion	physics	حرکت با شتاب ثابت، حرکت شتاب‌دار یکنواخت
+simple machine	physics	ماشین ساده
+mechanical wave	physics	موج مکانیکی
+resonant frequency	physics	بسامد تشدید، فرکانس تشدید
+constructive interference	physics	تداخل سازنده
+destructive interference	physics	تداخل ویرانگر
+antinode	physics	شکم (موج ایستاده)، پادگره
+crest	physics	قلهٔ موج، ستیغ موج
+trough	physics	درهٔ موج
+wave speed	physics	تندی موج
+shock wave	physics	موج ضربه‌ای، موج شوک
+speed of sound	physics	سرعت صوت، تندی صوت
+refraction	physics	شکست نور، شکست موج
+snell's law	physics	قانون اسنل، قانون شکست
+total internal reflection	physics	بازتاب کلی، بازتاب کلی داخلی
+critical angle	physics	زاویهٔ حد
+diffraction pattern	physics	نقش پراش، طرح پراش
+interference pattern	physics	نقش تداخلی، طرح تداخل
+double-slit experiment	physics	آزمایش دوشکاف
+young's double-slit experiment	physics	آزمایش دوشکاف یانگ
+polarisation	physics	قطبش (نور یا موج)
+polarizer	physics	قطبنده، پلاریزور
+focal point	physics	کانون
+converging lens	physics	عدسی همگرا
+diverging lens	physics	عدسی واگرا
+concave mirror	physics	آینهٔ مقعر، آینهٔ کاو
+plane mirror	physics	آینهٔ تخت
+optical axis	physics	محور اپتیکی، محور اصلی
+lens equation	physics	معادلهٔ عدسی
+thin lens equation	physics	معادلهٔ عدسی نازک
+dispersion	physics	پاشندگی (نور)
+chromatic aberration	physics	ابیراهی رنگی
+spherical aberration	physics	ابیراهی کروی
+geometric optics	physics	اپتیک هندسی، نورشناسی هندسی
+wave optics	physics	اپتیک موجی، نورشناسی موجی
+physical optics	physics	اپتیک فیزیکی
+optical fibre	physics	فیبر نوری، تار نوری
+monochromatic light	physics	نور تک‌فام، نور تک‌رنگ
+emission spectrum	physics	طیف گسیلی
+rayleigh scattering	physics	پراکندگی ریلی
+lenz's law	physics	قانون لنز
+ampere's law	physics	قانون آمپر
+gauss's law	physics	قانون گاوس
+kirchhoff's laws	physics	قوانین کیرشهوف
+maxwell's equations	physics	معادلات ماکسول
+biot-savart law	physics	قانون بیو-ساوار
+induced emf	physics	نیروی محرکهٔ القایی
+self-inductance	physics	خودالقایی، ضریب خودالقایی
+mutual inductance	physics	القای متقابل، ضریب القای متقابل
+electric potential energy	physics	انرژی پتانسیل الکتریکی
+conservation of charge	physics	پایستگی بار الکتریکی
+electric dipole	physics	دوقطبی الکتریکی
+permittivity	physics	ضریب گذردهی، گذردهی الکتریکی
+vacuum permittivity	physics	ضریب گذردهی خلأ
+permeability	physics	تراوایی مغناطیسی، ضریب تراوایی
+solenoid	physics	سیملوله
+right-hand rule	physics	قاعدهٔ دست راست
+electric field line	physics	خط میدان الکتریکی
+magnetic field strength	physics	شدت میدان مغناطیسی
+heat engine	physics	ماشین گرمایی
+carnot engine	physics	ماشین کارنو
+thermal efficiency	physics	بازده گرمایی
+first law of thermodynamics	physics	قانون اول ترمودینامیک
+second law of thermodynamics	physics	قانون دوم ترمودینامیک
+third law of thermodynamics	physics	قانون سوم ترمودینامیک
+zeroth law of thermodynamics	physics	قانون صفرم ترمودینامیک
+laws of thermodynamics	physics	قوانین ترمودینامیک
+specific heat capacity	physics	ظرفیت گرمایی ویژه، گرمای ویژه
+thermal radiation	physics	تابش گرمایی
+ideal gas	physics	گاز کامل، گاز ایده‌آل
+ideal gas law	physics	قانون گاز کامل، معادلهٔ حالت گاز کامل
+kinetic theory of gases	physics	نظریهٔ جنبشی گازها
+boyle's law	physics	قانون بویل
+charles's law	physics	قانون شارل
+isothermal process	physics	فرایند هم‌دما
+isobaric process	physics	فرایند هم‌فشار
+isochoric process	physics	فرایند هم‌حجم
+reversible process	physics	فرایند برگشت‌پذیر
+thermal expansion	physics	انبساط گرمایی
+coefficient of thermal expansion	physics	ضریب انبساط گرمایی
+black-body radiation	physics	تابش جسم سیاه
+phase transition	physics	گذار فاز، تغییر فاز
+heat death	physics	مرگ گرمایی (جهان)
+thermodynamic equilibrium	physics	تعادل ترمودینامیکی
+wavefunction	physics	تابع موج
+heisenberg uncertainty principle	physics	اصل عدم قطعیت هایزنبرگ
+entangled	physics	(کوانتومی) درهم‌تنیده
+quantum tunnelling	physics	تونل‌زنی کوانتومی
+tunnelling	physics	تونل‌زنی (کوانتومی)
+tunneling	physics	تونل‌زنی (کوانتومی)
+principal quantum number	physics	عدد کوانتومی اصلی
+compton scattering	physics	پراکندگی کامپتون
+de broglie wavelength	physics	طول موج دوبروی
+zero-point energy	physics	انرژی نقطهٔ صفر
+quantum state	physics	حالت کوانتومی
+observable	physics	مشاهده‌پذیر، کمیت مشاهده‌پذیر
+eigenstate	physics	ویژه‌حالت
+wave function collapse	physics	فروپاشی تابع موج، رمبش تابع موج
+decoherence	physics	ناهمدوسی، واهمدوسی کوانتومی
+probability amplitude	physics	دامنهٔ احتمال
+bose-einstein condensate	physics	چگالهٔ بوز-اینشتین
+quantization	physics	کوانتش، کوانتیده شدن
+quantum jump	physics	جهش کوانتومی
+copenhagen interpretation	physics	تفسیر کپنهاگی، تعبیر کپنهاگی
+many-worlds interpretation	physics	تفسیر جهان‌های متعدد، تفسیر چندجهانی
+hidden variable	physics	متغیر پنهان
+bell's theorem	physics	قضیهٔ بل
+bohr model	physics	مدل اتمی بور
+fine structure	physics	ساختار ریز
+fine-structure constant	physics	ثابت ساختار ریز
+quantum vacuum	physics	خلأ کوانتومی
+lorentz transformation	physics	تبدیل لورنتس
+lorentz factor	physics	ضریب لورنتس، عامل لورنتس
+twin paradox	physics	پارادوکس دوقلوها
+equivalence principle	physics	اصل هم‌ارزی
+gravitational redshift	physics	انتقال به سرخ گرانشی
+curvature of spacetime	physics	خمیدگی فضازمان
+spacetime curvature	physics	خمیدگی فضازمان
+light cone	physics	مخروط نوری
+worldline	physics	خط جهانی
+world line	physics	خط جهانی
+proper time	physics	زمان ویژه
+relativity of simultaneity	physics	نسبیت هم‌زمانی
+muon	physics	میون
+fundamental force	physics	نیروی بنیادی
+fundamental interaction	physics	برهم‌کنش بنیادی
+strong nuclear force	physics	نیروی هسته‌ای قوی
+weak nuclear force	physics	نیروی هسته‌ای ضعیف
+strong force	physics	نیروی قوی
+weak force	physics	نیروی ضعیف
+strong interaction	physics	برهم‌کنش قوی
+weak interaction	physics	برهم‌کنش ضعیف
+electromagnetic force	physics	نیروی الکترومغناطیسی
+electroweak theory	physics	نظریهٔ الکتروضعیف
+gauge boson	physics	بوزون پیمانه‌ای
+up quark	physics	کوارک بالا
+down quark	physics	کوارک پایین
+strange quark	physics	کوارک شگفت
+charm quark	physics	کوارک افسون
+top quark	physics	کوارک سر
+bottom quark	physics	کوارک ته
+color charge	physics	بار رنگ
+hadron collider	physics	برخورددهندهٔ هادرونی
+radioactive decay	physics	واپاشی پرتوزا، واپاشی رادیواکتیو
+alpha decay	physics	واپاشی آلفا
+beta decay	physics	واپاشی بتا
+gamma decay	physics	واپاشی گاما
+nuclear binding energy	physics	انرژی بستگی هسته‌ای
+mass defect	physics	کاستی جرم
+nuclear physics	physics	فیزیک هسته‌ای
+decay constant	physics	ثابت واپاشی
+cosmic ray	physics	پرتو کیهانی
+pair production	physics	تولید زوج
+condensed matter physics	physics	فیزیک مادهٔ چگال
+solid-state physics	physics	فیزیک حالت جامد
+band gap	physics	گاف انرژی، شکاف نواری
+big bang theory	astronomy	نظریهٔ انفجار بزرگ، نظریهٔ مه‌بانگ
+cosmic microwave background	astronomy	تابش زمینهٔ کیهانی، تابش ریزموج زمینهٔ کیهانی
+cosmic background radiation	astronomy	تابش زمینهٔ کیهانی
+supermassive black hole	astronomy	سیاه‌چالهٔ ابرپرجرم
+stellar black hole	astronomy	سیاه‌چالهٔ ستاره‌ای
+gravitational singularity	astronomy	تکینگی گرانشی
+red shift	astronomy	انتقال به سرخ
+planetary nebula	astronomy	سحابی سیاره‌نما
+main-sequence star	astronomy	ستارهٔ رشتهٔ اصلی
+hertzsprung-russell diagram	astronomy	نمودار هرتسپرونگ-راسل
+stellar evolution	astronomy	تحول ستارگان، تکامل ستاره‌ای
+protostar	astronomy	پیش‌ستاره
+variable star	astronomy	ستارهٔ متغیر
+irregular galaxy	astronomy	کهکشان نامنظم
+interstellar medium	astronomy	محیط میان‌ستاره‌ای
+interstellar	astronomy	میان‌ستاره‌ای
+intergalactic	astronomy	میان‌کهکشانی
+expansion of the universe	astronomy	انبساط جهان
+hubble's law	astronomy	قانون هابل
+observable universe	astronomy	جهان مشاهده‌پذیر، جهان قابل مشاهده
+accretion disk	astronomy	قرص برافزایشی
+accretion disc	astronomy	قرص برافزایشی
+gravitational collapse	astronomy	رمبش گرانشی
+celestial pole	astronomy	قطب سماوی، قطب آسمان
+meteor shower	astronomy	بارش شهابی
+terrestrial planet	astronomy	سیارهٔ سنگی، سیارهٔ زمین‌سان
+goldilocks zone	astronomy	منطقهٔ گلدیلاکس، کمربند حیات
+orbital period	astronomy	دورهٔ تناوب مداری
+geosynchronous orbit	astronomy	مدار زمین‌آهنگ، مدار همگام با زمین، مدار ژئوسنکرون
+aphelion	astronomy	اوج خورشیدی
+total eclipse	astronomy	گرفت کامل، گرفت کلی
+annular eclipse	astronomy	گرفت حلقوی، خورشیدگرفتگی حلقوی
+partial eclipse	astronomy	گرفت جزئی
+coronal mass ejection	astronomy	فوران جرم تاجی
+phases of the moon	astronomy	اهلهٔ ماه، فازهای ماه، حالت‌های ماه
+lunar phase	astronomy	فاز ماه، حالت ماه
+tidal locking	astronomy	قفل گرانشی، قفل کشندی
+tidal force	astronomy	نیروی کشندی
+lagrange point	astronomy	نقطهٔ لاگرانژ
+lagrangian point	astronomy	نقطهٔ لاگرانژ
+refractor	astronomy	تلسکوپ شکستی
+reflector	astronomy	تلسکوپ بازتابی
+catadioptric telescope	astronomy	تلسکوپ کاتادیوپتریک (آینه‌ای-عدسی)
+newtonian telescope	astronomy	تلسکوپ نیوتنی
+cassegrain telescope	astronomy	تلسکوپ کاسگرین
+infrared telescope	astronomy	تلسکوپ فروسرخ
+x-ray telescope	astronomy	تلسکوپ پرتو ایکس
+aperture	astronomy	دهانه (تلسکوپ)
+focal ratio	astronomy	نسبت کانونی
+radio astronomy	astronomy	نجوم رادیویی، رادیواخترشناسی
+transit method	astronomy	روش گذر
+light curve	astronomy	منحنی نوری
+stellar parallax	astronomy	اختلاف منظر ستاره‌ای
+cepheid variable	astronomy	متغیر قیفاووسی، ستارهٔ قیفاووسی
+cosmic distance ladder	astronomy	نردبان فاصلهٔ کیهانی
+galactic halo	astronomy	هالهٔ کهکشانی
+dark matter halo	astronomy	هالهٔ مادهٔ تاریک
+gamma-ray burst	astronomy	انفجار پرتو گاما
+active galactic nucleus	astronomy	هستهٔ کهکشانی فعال
+magnetar	astronomy	مغناطیس‌اختر، مگنتار
+supercluster	astronomy	ابرخوشه
+cosmic web	astronomy	شبکهٔ کیهانی، تار کیهانی
+nucleosynthesis	astronomy	هسته‌زایی
+big bang nucleosynthesis	astronomy	هسته‌زایی مه‌بانگ
+stellar nucleosynthesis	astronomy	هسته‌زایی ستاره‌ای
+primordial black hole	astronomy	سیاه‌چالهٔ نخستین، سیاه‌چالهٔ آغازین
+spaghettification	astronomy	اسپاگتی‌شدگی (کشیدگی کشندی جسم در نزدیکی سیاه‌چاله)
+zodiacal constellation	astronomy	صورت فلکی منطقه‌البروج
+circumpolar star	astronomy	ستارهٔ دورقطبی
+synodic period	astronomy	دورهٔ هلالی (بازهٔ میان دو هم‌راستایی پیاپی جرم و خورشید از دید زمین)، دورهٔ تناوب هلالی
+precession of the equinoxes	astronomy	حرکت تقدیمی اعتدالین، تقدیم اعتدالین
+retrograde motion	astronomy	حرکت بازگشتی، حرکت رجعی
+protoplanetary disk	astronomy	قرص پیش‌سیاره‌ای
+natural satellite	astronomy	قمر، ماهوارهٔ طبیعی
+si unit	physics	یکای دستگاه بین‌المللی، یکای اس‌آی
+derived unit	physics	یکای فرعی، یکای مشتق
+dimensional analysis	physics	تحلیل ابعادی
+newton metre	physics	نیوتن‌متر
+conservative force	physics	نیروی پایستار
+non-conservative force	physics	نیروی ناپایستار
+gravitational field strength	physics	شدت میدان گرانشی
+apparent weight	physics	وزن ظاهری
+rotational kinetic energy	physics	انرژی جنبشی دورانی
+rotational motion	physics	حرکت دورانی
+rolling motion	physics	حرکت غلتشی
+forced oscillation	physics	نوسان واداشته
+wavefront	physics	جبههٔ موج
+huygens' principle	physics	اصل هویگنس
+beat frequency	physics	بسامد زنش
+beats	physics	زنش (برهم‌نهی دو موج با بسامد نزدیک)
+fundamental frequency	physics	بسامد پایه، هماهنگ اول
+infrasound	physics	فروصوت
+brewster's angle	physics	زاویهٔ بروستر
+birefringence	physics	دوشکستی، شکست مضاعف
+optical path length	physics	طول مسیر نوری
+thin-film interference	physics	تداخل لایهٔ نازک
+newton's rings	physics	حلقه‌های نیوتن
+michelson interferometer	physics	تداخل‌سنج مایکلسون
+stimulated emission	physics	گسیل القایی
+spontaneous emission	physics	گسیل خودبه‌خودی
+population inversion	physics	وارونی جمعیت
+ray diagram	physics	نمودار پرتو
+image distance	physics	فاصلهٔ تصویر
+object distance	physics	فاصلهٔ جسم
+lens power	physics	توان عدسی
+far point	physics	نقطهٔ دور (چشم)
+series circuit	physics	مدار سری، مدار متوالی
+internal resistance	physics	مقاومت درونی
+joule heating	physics	گرمایش ژول، اثر ژول
+magnetic domain	physics	حوزهٔ مغناطیسی
+charge carrier	physics	حامل بار
+faraday cage	physics	قفس فاراده
+van de graaff generator	physics	مولد وان‌دوگراف
+parallel-plate capacitor	physics	خازن تخت، خازن صفحه‌موازی
+poynting vector	physics	بردار پوئینتینگ
+elementary charge	physics	بار بنیادی، بار الکترون
+thermal insulator	physics	عایق گرمایی
+stefan-boltzmann law	physics	قانون استفان-بولتزمان
+wien's displacement law	physics	قانون جابه‌جایی وین
+mean free path	physics	مسیر آزاد میانگین
+brownian motion	physics	حرکت براونی
+maxwell-boltzmann distribution	physics	توزیع ماکسول-بولتزمان
+equipartition theorem	physics	قضیهٔ هم‌پاری انرژی
+helmholtz free energy	physics	انرژی آزاد هلمهولتز
+perpetual motion machine	physics	ماشین حرکت دائمی
+coefficient of performance	physics	ضریب عملکرد (یخچال یا پمپ گرمایی)
+plum pudding model	physics	مدل کیک کشمشی (مدل اتمی تامسون)
+electron shell	physics	لایهٔ الکترونی
+geiger counter	physics	شمارشگر گایگر
+cloud chamber	physics	اتاقک ابر، اتاقک ویلسون
+decay chain	physics	زنجیرهٔ واپاشی
+parent nucleus	physics	هستهٔ مادر
+daughter nucleus	physics	هستهٔ دختر
+quark-gluon plasma	physics	پلاسمای کوارک-گلوئون
+antiquark	physics	پادکوارک
+pion	physics	پایون، مزون پی
+kaon	physics	کائون
+w boson	physics	بوزون دبلیو
+z boson	physics	بوزون زد
+neutrino oscillation	physics	نوسان نوترینو
+feynman diagram	physics	نمودار فاینمن
+fundamental constant	physics	ثابت بنیادی
+symmetry breaking	physics	شکست تقارن
+spontaneous symmetry breaking	physics	شکست خودبه‌خودی تقارن
+conservation law	physics	قانون پایستگی
+noether's theorem	physics	قضیهٔ نوتر
+principle of least action	physics	اصل کمترین کنش
+nonlinear dynamics	physics	دینامیک غیرخطی
+mathematical physics	physics	فیزیک ریاضی
+theoretical physics	physics	فیزیک نظری
+experimental physics	physics	فیزیک تجربی
+applied physics	physics	فیزیک کاربردی
+medical physics	physics	فیزیک پزشکی
+analytical mechanics	physics	مکانیک تحلیلی
+lagrangian mechanics	physics	مکانیک لاگرانژی
+hamiltonian mechanics	physics	مکانیک هامیلتونی
+galactic center	astronomy	مرکز کهکشان
+galactic disk	astronomy	قرص کهکشانی
+spiral arm	astronomy	بازوی مارپیچی (کهکشان)
+dark nebula	astronomy	سحابی تاریک
+emission nebula	astronomy	سحابی گسیلی
+reflection nebula	astronomy	سحابی بازتابی
+supernova remnant	astronomy	بقایای ابرنواختر
+stellar wind	astronomy	باد ستاره‌ای
+planetary system	astronomy	سامانهٔ سیاره‌ای
+hot jupiter	astronomy	مشتری داغ
+rogue planet	astronomy	سیارهٔ سرگردان
+hill sphere	astronomy	کرهٔ هیل
+barycenter	astronomy	مرکز جرم مشترک، گرانیگاه سامانه
+barycentre	astronomy	مرکز جرم مشترک، گرانیگاه سامانه
+kepler's third law	astronomy	قانون سوم کپلر
+orbital eccentricity	astronomy	خروج از مرکز مداری
+orbital inclination	astronomy	میل مداری
+semi-major axis	astronomy	نیم‌قطر بزرگ (مدار)
+cosmic dawn	astronomy	سپیده‌دم کیهانی
+epoch of reionization	astronomy	دورهٔ بازیونش
+lookback time	astronomy	زمان نگاه به گذشته (مدتی که نور جرم دوردست در راه بوده است)
+comoving distance	astronomy	فاصلهٔ همراه
+steady state theory	astronomy	نظریهٔ حالت پایدار
+olbers' paradox	astronomy	پارادوکس اولبرس
+fermi paradox	astronomy	پارادوکس فرمی
+drake equation	astronomy	معادلهٔ دریک
+astrophotography	astronomy	عکاسی نجومی، اخترعکاسی
+angular resolution	astronomy	تفکیک زاویه‌ای
+adaptive optics	astronomy	اپتیک تطبیقی
+equatorial mount	astronomy	پایهٔ استوایی (تلسکوپ)
+altazimuth mount	astronomy	پایهٔ سمتی-ارتفاعی (تلسکوپ)
+dobsonian telescope	astronomy	تلسکوپ دابسونی
+light-gathering power	astronomy	توان گردآوری نور

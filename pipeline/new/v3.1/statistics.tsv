@@ -1,0 +1,393 @@
+statistic	statistics	آماره
+statistical inference	statistics	استنباط آماری
+applied statistics	statistics	آمار کاربردی
+discrete variable	statistics	متغیر گسسته
+categorical variable	statistics	متغیر کیفی، متغیر طبقه‌ای، متغیر رسته‌ای
+qualitative variable	statistics	متغیر کیفی
+quantitative variable	statistics	متغیر کمی
+ordinal variable	statistics	متغیر ترتیبی
+nominal variable	statistics	متغیر اسمی
+response variable	statistics	متغیر پاسخ
+predictor	statistics	پیش‌بین، متغیر پیش‌بین
+covariate	statistics	متغیر کمکی، متغیر همراه، هم‌متغیر
+confounder	statistics	مخدوش‌کننده، متغیر مخدوش‌کننده
+confounding	statistics	مخدوش‌شدگی، اختلاط اثر
+dummy variable	statistics	متغیر ساختگی، متغیر مجازی
+latent variable	statistics	متغیر پنهان، متغیر مکنون
+level of measurement	statistics	سطح اندازه‌گیری
+ratio scale	statistics	مقیاس نسبی، مقیاس نسبتی
+measure of central tendency	statistics	شاخص گرایش مرکزی
+central tendency	statistics	گرایش مرکزی
+trimmed mean	statistics	میانگین پیراسته
+sample mean	statistics	میانگین نمونه
+population mean	statistics	میانگین جامعه
+measure of dispersion	statistics	شاخص پراکندگی
+interquartile range	statistics	دامنهٔ میان‌چارکی
+sample variance	statistics	واریانس نمونه
+standard error of the mean	statistics	خطای معیار میانگین
+mean absolute deviation	statistics	میانگین انحراف مطلق، میانگین قدرمطلق انحرافات
+quantile	statistics	چندک
+first quartile	statistics	چارک اول
+third quartile	statistics	چارک سوم
+positively skewed	statistics	چولهٔ مثبت، چوله به راست
+negatively skewed	statistics	چولهٔ منفی، چوله به چپ
+relative frequency	statistics	فراوانی نسبی
+cumulative frequency	statistics	فراوانی تجمعی
+frequency table	statistics	جدول فراوانی
+contingency table	statistics	جدول توافقی
+cross-tabulation	statistics	جدول متقاطع
+histogram	statistics	هیستوگرام، بافت‌نگار
+pie chart	statistics	نمودار دایره‌ای
+box plot	statistics	نمودار جعبه‌ای
+boxplot	statistics	نمودار جعبه‌ای
+box-and-whisker plot	statistics	نمودار جعبه‌ای
+scatter plot	statistics	نمودار پراکنش، نمودار پراکندگی
+scatterplot	statistics	نمودار پراکنش
+stem-and-leaf plot	statistics	نمودار ساقه و برگ
+frequency polygon	statistics	چندضلعی فراوانی
+ogive	statistics	منحنی فراوانی تجمعی
+q-q plot	statistics	نمودار چندک-چندک
+five-number summary	statistics	خلاصهٔ پنج‌عددی
+summary statistics	statistics	آماره‌های خلاصه
+z-score	statistics	نمرهٔ z، نمرهٔ استاندارد
+standard score	statistics	نمرهٔ استاندارد
+sample space	statistics	فضای نمونه
+independent events	statistics	پیشامدهای مستقل
+mutually exclusive events	statistics	پیشامدهای ناسازگار
+mutually exclusive	statistics	ناسازگار، دوبه‌دو ناسازگار
+joint probability	statistics	احتمال توأم
+marginal probability	statistics	احتمال حاشیه‌ای
+law of total probability	statistics	قانون احتمال کل
+probability mass function	statistics	تابع جرم احتمال
+cumulative distribution function	statistics	تابع توزیع تجمعی
+discrete distribution	statistics	توزیع گسسته
+continuous distribution	statistics	توزیع پیوسته
+gaussian distribution	statistics	توزیع گاوسی، توزیع نرمال
+standard normal distribution	statistics	توزیع نرمال استاندارد
+bernoulli trial	statistics	آزمایش برنولی
+geometric distribution	statistics	توزیع هندسی
+hypergeometric distribution	statistics	توزیع فوق‌هندسی
+negative binomial distribution	statistics	توزیع دوجمله‌ای منفی
+multinomial distribution	statistics	توزیع چندجمله‌ای
+gamma distribution	statistics	توزیع گاما
+beta distribution	statistics	توزیع بتا
+chi-square distribution	statistics	توزیع کای‌دو، توزیع خی‌دو، توزیع کای‌اسکوئر
+chi-squared distribution	statistics	توزیع کای‌دو، توزیع خی‌دو، توزیع کای‌اسکوئر
+t-distribution	statistics	توزیع t، توزیع تی استیودنت
+student's t-distribution	statistics	توزیع t استیودنت
+f-distribution	statistics	توزیع F، توزیع فیشر
+lognormal distribution	statistics	توزیع لگ‌نرمال
+log-normal distribution	statistics	توزیع لگ‌نرمال
+weibull distribution	statistics	توزیع وایبل
+cauchy distribution	statistics	توزیع کوشی
+multivariate normal distribution	statistics	توزیع نرمال چندمتغیره
+joint distribution	statistics	توزیع توأم
+marginal distribution	statistics	توزیع حاشیه‌ای
+conditional distribution	statistics	توزیع شرطی
+heavy-tailed	statistics	دم‌سنگین
+moment generating function	statistics	تابع مولد گشتاور
+covariance matrix	statistics	ماتریس کوواریانس
+iid	statistics	independent and identically distributed؛ مستقل و هم‌توزیع
+stochastic process	statistics	فرایند تصادفی
+statistical population	statistics	جامعهٔ آماری
+sample size	statistics	حجم نمونه، اندازهٔ نمونه
+sampling frame	statistics	چارچوب نمونه‌گیری
+sampling method	statistics	روش نمونه‌گیری
+non-sampling error	statistics	خطای غیرنمونه‌گیری
+simple random sample	statistics	نمونهٔ تصادفی ساده
+simple random sampling	statistics	نمونه‌گیری تصادفی ساده
+stratified sampling	statistics	نمونه‌گیری طبقه‌ای
+stratified random sampling	statistics	نمونه‌گیری تصادفی طبقه‌ای
+systematic sampling	statistics	نمونه‌گیری منظم، نمونه‌گیری سیستماتیک
+multistage sampling	statistics	نمونه‌گیری چندمرحله‌ای
+convenience sampling	statistics	نمونه‌گیری در دسترس
+snowball sampling	statistics	نمونه‌گیری گلوله‌برفی
+purposive sampling	statistics	نمونه‌گیری هدفمند
+probability sampling	statistics	نمونه‌گیری احتمالی
+non-probability sampling	statistics	نمونه‌گیری غیراحتمالی
+sampling with replacement	statistics	نمونه‌گیری با جایگذاری
+sampling without replacement	statistics	نمونه‌گیری بدون جایگذاری
+stratum	statistics	طبقه (در نمونه‌گیری)
+survey	statistics	پیمایش، آمارگیری
+sample survey	statistics	آمارگیری نمونه‌ای
+response rate	statistics	نرخ پاسخ‌دهی، نرخ پاسخ
+nonresponse	statistics	عدم پاسخ
+nonresponse bias	statistics	سوگیری عدم پاسخ
+biased estimator	statistics	برآوردگر اریب
+design effect	statistics	اثر طرح
+estimator	statistics	برآوردگر
+interval estimation	statistics	برآورد فاصله‌ای
+unbiased estimator	statistics	برآوردگر نااریب
+consistent estimator	statistics	برآوردگر سازگار
+efficient estimator	statistics	برآوردگر کارا
+sufficient statistic	statistics	آمارهٔ بسنده، آمارهٔ کافی
+mean squared error	statistics	میانگین مربعات خطا
+maximum likelihood	statistics	حداکثر درست‌نمایی، درست‌نمایی بیشینه
+maximum likelihood estimation	statistics	برآورد حداکثر درست‌نمایی، برآورد درست‌نمایی بیشینه
+maximum likelihood estimator	statistics	برآوردگر حداکثر درست‌نمایی، برآوردگر درست‌نمایی بیشینه
+likelihood function	statistics	تابع درست‌نمایی
+log-likelihood	statistics	لگاریتم درست‌نمایی
+method of moments	statistics	روش گشتاورها
+least squares	statistics	کمترین مربعات
+ordinary least squares	statistics	کمترین مربعات معمولی
+confidence level	statistics	سطح اطمینان
+bootstrap	statistics	بوت‌استرپ (روش بازنمونه‌گیری)
+bootstrapping	statistics	بوت‌استرپ (روش بازنمونه‌گیری)، بازنمونه‌گیری بوت‌استرپ
+resampling	statistics	بازنمونه‌گیری
+jackknife	statistics	جک‌نایف (روش بازنمونه‌گیری)
+hypothesis testing	statistics	آزمون فرض، آزمون فرضیه
+hypothesis test	statistics	آزمون فرض
+statistical test	statistics	آزمون آماری
+test statistic	statistics	آمارهٔ آزمون
+alternative hypothesis	statistics	فرض مقابل، فرض جایگزین
+one-tailed test	statistics	آزمون یک‌دامنه، آزمون یک‌طرفه
+two-tailed test	statistics	آزمون دودامنه، آزمون دوطرفه
+one-sided test	statistics	آزمون یک‌طرفه
+two-sided test	statistics	آزمون دوطرفه
+level of significance	statistics	سطح معنی‌داری، سطح معناداری
+critical value	statistics	مقدار بحرانی
+rejection region	statistics	ناحیهٔ رد
+acceptance region	statistics	ناحیهٔ پذیرش
+type i error	statistics	خطای نوع اول
+statistical power	statistics	توان آماری
+power of a test	statistics	توان آزمون
+power analysis	statistics	تحلیل توان
+effect size	statistics	اندازهٔ اثر
+cohen's d	statistics	شاخص d کوهن، اندازهٔ اثر کوهن
+multiple comparisons	statistics	مقایسه‌های چندگانه
+multiple testing	statistics	آزمون‌های چندگانه
+bonferroni correction	statistics	تصحیح بونفرونی
+false discovery rate	statistics	نرخ کشف کاذب
+familywise error rate	statistics	نرخ خطای خانواده‌ای (احتمال دست‌کم یک خطای نوع اول در مجموعه‌ای از آزمون‌ها)
+post hoc test	statistics	آزمون تعقیبی
+z-test	statistics	آزمون z
+t-test	statistics	آزمون t، آزمون تی
+student's t-test	statistics	آزمون t استیودنت
+paired t-test	statistics	آزمون t زوجی
+independent samples t-test	statistics	آزمون t نمونه‌های مستقل
+one-sample t-test	statistics	آزمون t تک‌نمونه‌ای
+welch's t-test	statistics	آزمون t ولش
+chi-square test	statistics	آزمون کای‌دو، آزمون خی‌دو، آزمون کای‌اسکوئر
+chi-squared test	statistics	آزمون کای‌دو، آزمون خی‌دو، آزمون کای‌اسکوئر
+chi-square test of independence	statistics	آزمون استقلال کای‌دو
+goodness of fit	statistics	نیکویی برازش
+goodness-of-fit test	statistics	آزمون نیکویی برازش
+f-test	statistics	آزمون F
+likelihood ratio test	statistics	آزمون نسبت درست‌نمایی
+wald test	statistics	آزمون والد
+fisher's exact test	statistics	آزمون دقیق فیشر
+normality test	statistics	آزمون نرمال بودن
+shapiro-wilk test	statistics	آزمون شاپیرو-ویلک
+kolmogorov-smirnov test	statistics	آزمون کولموگوروف-اسمیرنوف
+levene's test	statistics	آزمون لون
+parametric test	statistics	آزمون پارامتری
+nonparametric test	statistics	آزمون ناپارامتری
+non-parametric test	statistics	آزمون ناپارامتری
+nonparametric statistics	statistics	آمار ناپارامتری
+nonparametric	statistics	ناپارامتری
+mann-whitney u test	statistics	آزمون یو مان-ویتنی
+mann-whitney test	statistics	آزمون مان-ویتنی
+wilcoxon signed-rank test	statistics	آزمون رتبه‌های علامت‌دار ویلکاکسون
+wilcoxon rank-sum test	statistics	آزمون مجموع رتبه‌های ویلکاکسون
+kruskal-wallis test	statistics	آزمون کروسکال-والیس
+friedman test	statistics	آزمون فریدمن
+sign test	statistics	آزمون علامت
+runs test	statistics	آزمون دنباله‌ها، آزمون گردش‌ها
+mcnemar's test	statistics	آزمون مک‌نمار
+spearman's rank correlation	statistics	همبستگی رتبه‌ای اسپیرمن
+spearman correlation	statistics	همبستگی اسپیرمن
+kendall's tau	statistics	تاو کندال
+permutation test	statistics	آزمون جایگشتی
+pearson correlation coefficient	statistics	ضریب همبستگی پیرسون
+pearson correlation	statistics	همبستگی پیرسون
+correlation does not imply causation	statistics	همبستگی به معنای علیت نیست
+causal inference	statistics	استنباط علّی
+simple linear regression	statistics	رگرسیون خطی ساده
+multiple linear regression	statistics	رگرسیون خطی چندگانه
+polynomial regression	statistics	رگرسیون چندجمله‌ای
+poisson regression	statistics	رگرسیون پواسون
+ridge regression	statistics	رگرسیون ریج، رگرسیون ستیغی
+lasso	statistics	لاسو (روش رگرسیون با جریمهٔ L1)
+lasso regression	statistics	رگرسیون لاسو
+stepwise regression	statistics	رگرسیون گام‌به‌گام
+quantile regression	statistics	رگرسیون چندکی
+line of best fit	statistics	خط بهترین برازش
+intercept	statistics	عرض از مبدأ
+residual plot	statistics	نمودار باقی‌مانده‌ها
+residual sum of squares	statistics	مجموع مربعات باقی‌مانده
+coefficient of determination	statistics	ضریب تعیین
+r-squared	statistics	ضریب تعیین (R²)
+adjusted r-squared	statistics	ضریب تعیین تعدیل‌شده
+fitted value	statistics	مقدار برازش‌شده
+predicted value	statistics	مقدار پیش‌بینی‌شده
+multicollinearity	statistics	هم‌خطی چندگانه
+collinearity	statistics	هم‌خطی
+heteroscedasticity	statistics	ناهمسانی واریانس
+heteroskedasticity	statistics	ناهمسانی واریانس
+homoscedasticity	statistics	همسانی واریانس
+homoskedasticity	statistics	همسانی واریانس
+leverage	statistics	اهرم (نقطهٔ اهرمی)
+influential point	statistics	نقطهٔ تأثیرگذار
+cook's distance	statistics	فاصلهٔ کوک
+interaction effect	statistics	اثر متقابل
+interaction term	statistics	جملهٔ تعامل، جملهٔ اثر متقابل
+main effect	statistics	اثر اصلی
+generalized linear model	statistics	مدل خطی تعمیم‌یافته
+general linear model	statistics	مدل خطی عمومی
+mixed model	statistics	مدل آمیخته
+mixed-effects model	statistics	مدل اثرات آمیخته
+fixed effects	statistics	اثرات ثابت
+random effects	statistics	اثرات تصادفی
+multilevel model	statistics	مدل چندسطحی
+link function	statistics	تابع پیوند
+odds	statistics	بخت، نسبت شانس
+odds ratio	statistics	نسبت بخت‌ها، نسبت شانس
+risk ratio	statistics	نسبت خطر
+hazard ratio	statistics	نسبت خطر
+survival analysis	statistics	تحلیل بقا
+kaplan-meier estimator	statistics	برآوردگر کاپلان-مایر
+cox regression	statistics	رگرسیون کاکس
+censoring	statistics	سانسور (داده‌ها)
+censored data	statistics	داده‌های سانسورشده
+anova	statistics	analysis of variance؛ تحلیل واریانس، آنوا
+one-way anova	statistics	تحلیل واریانس یک‌طرفه
+two-way anova	statistics	تحلیل واریانس دوطرفه
+repeated measures anova	statistics	تحلیل واریانس با اندازه‌های تکراری
+manova	statistics	multivariate analysis of variance؛ تحلیل واریانس چندمتغیره
+ancova	statistics	analysis of covariance؛ تحلیل کوواریانس
+analysis of covariance	statistics	تحلیل کوواریانس
+mean square	statistics	میانگین مربعات
+between-group variance	statistics	واریانس بین‌گروهی
+within-group variance	statistics	واریانس درون‌گروهی
+f-statistic	statistics	آمارهٔ F
+f-ratio	statistics	نسبت F
+tukey's test	statistics	آزمون توکی
+tukey's hsd	statistics	آزمون HSD توکی
+scheffe test	statistics	آزمون شفه
+bayesian statistics	statistics	آمار بیزی
+bayesian inference	statistics	استنباط بیزی
+bayesian analysis	statistics	تحلیل بیزی
+frequentist	statistics	فراوانی‌گرا
+frequentist statistics	statistics	آمار فراوانی‌گرا، آمار کلاسیک
+prior	statistics	پیشین، توزیع پیشین
+prior distribution	statistics	توزیع پیشین
+prior probability	statistics	احتمال پیشین
+posterior	statistics	پسین، توزیع پسین
+posterior distribution	statistics	توزیع پسین
+posterior probability	statistics	احتمال پسین
+conjugate prior	statistics	پیشین مزدوج
+uninformative prior	statistics	پیشین ناآگاهی‌بخش
+informative prior	statistics	پیشین آگاهی‌بخش
+credible interval	statistics	بازهٔ باورپذیر، فاصلهٔ معتبر (همتای بیزی بازهٔ اطمینان)
+bayes factor	statistics	عامل بیز
+markov chain monte carlo	statistics	مونت‌کارلوی زنجیرهٔ مارکوفی
+mcmc	statistics	Markov chain Monte Carlo؛ مونت‌کارلوی زنجیرهٔ مارکوفی
+gibbs sampling	statistics	نمونه‌گیری گیبز
+metropolis-hastings algorithm	statistics	الگوریتم متروپلیس-هستینگز
+empirical bayes	statistics	بیز تجربی
+naive bayes	statistics	بیز ساده
+experimental design	statistics	طرح آزمایش، طراحی آزمایش
+design of experiments	statistics	طراحی آزمایش‌ها
+experimental unit	statistics	واحد آزمایشی
+treatment group	statistics	گروه آزمایش، گروه تیمار
+randomized controlled trial	statistics	کارآزمایی تصادفی‌شدهٔ کنترل‌شده
+randomised controlled trial	statistics	کارآزمایی تصادفی‌شدهٔ کنترل‌شده
+completely randomized design	statistics	طرح کاملاً تصادفی
+randomized block design	statistics	طرح بلوک‌های تصادفی
+randomized complete block design	statistics	طرح بلوک‌های کامل تصادفی
+latin square	statistics	مربع لاتین
+latin square design	statistics	طرح مربع لاتین
+factorial design	statistics	طرح فاکتوریل، طرح عاملی
+factorial experiment	statistics	آزمایش فاکتوریل
+fractional factorial design	statistics	طرح فاکتوریل کسری
+split-plot design	statistics	طرح کرت‌های خردشده
+crossover design	statistics	طرح متقاطع
+repeated measures	statistics	اندازه‌های تکراری
+repeated measures design	statistics	طرح اندازه‌گیری‌های مکرر
+between-subjects design	statistics	طرح بین‌آزمودنی
+within-subjects design	statistics	طرح درون‌آزمودنی
+factor level	statistics	سطح عامل
+replicate	statistics	تکرار
+blinding	statistics	کورسازی
+single-blind	statistics	یک‌سوکور
+observational study	statistics	مطالعهٔ مشاهده‌ای
+case-control study	statistics	مطالعهٔ مورد-شاهدی
+cross-sectional study	statistics	مطالعهٔ مقطعی
+longitudinal study	statistics	مطالعهٔ طولی
+pilot study	statistics	مطالعهٔ آزمایشی، مطالعهٔ مقدماتی
+quasi-experiment	statistics	شبه‌آزمایش
+quasi-experimental design	statistics	طرح شبه‌آزمایشی
+a/b testing	statistics	آزمون A/B
+response surface methodology	statistics	روش سطح پاسخ
+time series analysis	statistics	تحلیل سری زمانی
+seasonal component	statistics	مؤلفهٔ فصلی
+seasonal adjustment	statistics	تعدیل فصلی
+cyclical component	statistics	مؤلفهٔ ادواری
+irregular component	statistics	مؤلفهٔ نامنظم
+time series decomposition	statistics	تجزیهٔ سری زمانی
+stationarity	statistics	ایستایی
+non-stationary	statistics	ناایستا، ناپایا
+unit root	statistics	ریشهٔ واحد
+unit root test	statistics	آزمون ریشهٔ واحد
+dickey-fuller test	statistics	آزمون دیکی-فولر
+differencing	statistics	تفاضل‌گیری
+lag	statistics	وقفه، تأخیر
+autocorrelation function	statistics	تابع خودهمبستگی
+partial autocorrelation function	statistics	تابع خودهمبستگی جزئی
+autoregressive model	statistics	مدل خودرگرسیون
+autoregression	statistics	خودرگرسیون
+moving average model	statistics	مدل میانگین متحرک
+arima	statistics	autoregressive integrated moving average؛ مدل آریما، خودرگرسیون میانگین متحرک انباشته
+arima model	statistics	مدل آریما
+arma model	statistics	مدل آرما
+garch	statistics	generalized autoregressive conditional heteroskedasticity؛ مدل گارچ
+exponential smoothing	statistics	هموارسازی نمایی
+forecast error	statistics	خطای پیش‌بینی
+cointegration	statistics	هم‌انباشتگی
+granger causality	statistics	علیت گرنجری
+spectral analysis	statistics	تحلیل طیفی
+panel data	statistics	داده‌های تابلویی، داده‌های پانل
+cross-sectional data	statistics	داده‌های مقطعی
+data analysis	statistics	تحلیل داده‌ها
+exploratory data analysis	statistics	تحلیل اکتشافی داده‌ها
+data cleaning	statistics	پاک‌سازی داده‌ها
+outlier	statistics	داده‌پرت، دادهٔ دورافتاده، نقطهٔ پرت
+outlier detection	statistics	تشخیص داده‌های پرت
+missing data	statistics	داده‌های گمشده
+missing value	statistics	مقدار گمشده
+imputation	statistics	جایگذاری داده‌های گمشده، جانهی (برآورد و جایگزینی مقادیر گمشده)
+multiple imputation	statistics	جایگذاری چندگانه، جانهی چندگانه
+mean imputation	statistics	جایگذاری با میانگین، جانهی میانگین
+missing at random	statistics	گمشدگی تصادفی
+missing completely at random	statistics	گمشدگی کاملاً تصادفی
+model fit	statistics	برازش مدل
+model selection	statistics	انتخاب مدل
+cross-validation	statistics	اعتبارسنجی متقابل
+k-fold cross-validation	statistics	اعتبارسنجی متقابل k‌لایه
+leave-one-out cross-validation	statistics	اعتبارسنجی متقابل حذف یکی
+holdout set	statistics	مجموعهٔ کنارگذاشته
+bias-variance tradeoff	statistics	موازنهٔ اریبی و واریانس
+akaike information criterion	statistics	معیار اطلاع آکائیکه
+aic	statistics	Akaike information criterion؛ معیار اطلاع آکائیکه
+bayesian information criterion	statistics	معیار اطلاع بیزی
+robust statistics	statistics	آمار استوار
+robustness	statistics	استواری
+multivariate analysis	statistics	تحلیل چندمتغیره
+multivariate statistics	statistics	آمار چندمتغیره
+principal component analysis	statistics	تحلیل مؤلفه‌های اصلی
+principal component	statistics	مؤلفهٔ اصلی
+exploratory factor analysis	statistics	تحلیل عاملی اکتشافی
+confirmatory factor analysis	statistics	تحلیل عاملی تأییدی
+factor loading	statistics	بار عاملی
+structural equation modeling	statistics	مدل‌سازی معادلات ساختاری
+discriminant analysis	statistics	تحلیل تشخیصی، تحلیل ممیزی
+canonical correlation	statistics	همبستگی کانونی
+correspondence analysis	statistics	تحلیل تناظر
+cronbach's alpha	statistics	آلفای کرونباخ
+internal consistency	statistics	همسانی درونی
+inter-rater reliability	statistics	پایایی بین ارزیابان
+roc curve	statistics	منحنی راک، منحنی ROC
+kernel density estimation	statistics	برآورد چگالی هسته‌ای
+empirical distribution	statistics	توزیع تجربی
+law of averages	statistics	قانون میانگین‌ها
+simpson's paradox	statistics	پارادوکس سیمپسون

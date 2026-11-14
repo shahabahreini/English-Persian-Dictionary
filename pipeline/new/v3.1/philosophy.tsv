@@ -1,0 +1,1187 @@
+tautology	philosophy	(منطق) گزارهٔ همیشه‌صادق، توتولوژی
+premise	philosophy	(منطق) مقدمه
+premiss	philosophy	(منطق) مقدمه
+inference	philosophy	(منطق) استنتاج، استدلال
+predicate	philosophy	(منطق) محمول
+contrary	philosophy	(منطق) قضیهٔ متضاد، ضد
+qua	philosophy	(فلسفه) از آن حیث که، بما هو
+per se	philosophy	(فلسفه) بالذات
+informal logic	philosophy	منطق غیرصوری
+symbolic logic	philosophy	منطق نمادین، منطق جدید
+classical logic	philosophy	منطق کلاسیک
+aristotelian logic	philosophy	منطق ارسطویی، منطق قدیم
+traditional logic	philosophy	منطق سنتی، منطق قدیم
+propositional logic	philosophy	منطق گزاره‌ها، منطق گزاره‌ای
+sentential logic	philosophy	منطق گزاره‌ها، منطق جمله‌ای
+predicate logic	philosophy	منطق محمولات
+first-order logic	philosophy	منطق مرتبهٔ اول
+second-order logic	philosophy	منطق مرتبهٔ دوم
+higher-order logic	philosophy	منطق مراتب بالاتر
+modal logic	philosophy	منطق موجهات
+deontic logic	philosophy	منطق تکلیف، منطق وظیفه
+epistemic logic	philosophy	منطق معرفتی
+temporal logic	philosophy	منطق زمان
+tense logic	philosophy	منطق زمان
+many-valued logic	philosophy	منطق چندارزشی
+three-valued logic	philosophy	منطق سه‌ارزشی
+intuitionistic logic	philosophy	منطق شهودگرا، منطق شهودی
+paraconsistent logic	philosophy	منطق فراسازگار
+relevance logic	philosophy	منطق ربط
+inductive logic	philosophy	منطق استقرایی
+deductive logic	philosophy	منطق قیاسی، منطق استنتاجی
+dialectical logic	philosophy	منطق دیالکتیکی
+predicate calculus	philosophy	حساب محمولات
+natural deduction	philosophy	استنتاج طبیعی
+proof theory	philosophy	نظریهٔ برهان
+model theory	philosophy	نظریهٔ مدل
+logical form	philosophy	صورت منطقی
+logical constant	philosophy	ثابت منطقی
+logical connective	philosophy	رابط منطقی، ادات منطقی
+logical consequence	philosophy	پیامد منطقی، نتیجهٔ منطقی
+logical truth	philosophy	صدق منطقی، حقیقت منطقی
+logical necessity	philosophy	ضرورت منطقی
+logical possibility	philosophy	امکان منطقی
+logical equivalence	philosophy	هم‌ارزی منطقی
+well-formed formula	philosophy	فرمول خوش‌ساخت
+truth table	philosophy	جدول ارزش، جدول صدق
+truth value	philosophy	ارزش صدق
+truth-functional	philosophy	تابع ارزشی، تابع صدقی
+truth function	philosophy	تابع ارزش، تابع صدق
+bivalence	philosophy	(منطق) دوارزشی، اصل دوارزشی
+principle of bivalence	philosophy	اصل دوارزشی
+material conditional	philosophy	شرطی مادی
+material implication	philosophy	استلزام مادی
+strict implication	philosophy	استلزام اکید
+biconditional	philosophy	دوشرطی، گزارهٔ دوشرطی
+exclusive disjunction	philosophy	فصل انحصاری، منفصلهٔ حقیقیه
+inclusive disjunction	philosophy	فصل غیرانحصاری، فصل شمولی، منفصلهٔ مانعه‌الخلو
+double negation	philosophy	نفی مضاعف
+entailment	philosophy	(منطق) استلزام، لزوم منطقی
+logical implication	philosophy	استلزام منطقی
+rule of inference	philosophy	قاعدهٔ استنتاج
+immediate inference	philosophy	استنتاج بی‌واسطه
+mediate inference	philosophy	استنتاج باواسطه
+modus ponens	philosophy	وضع مقدم، قاعدهٔ وضع مقدم
+modus tollens	philosophy	رفع تالی، قاعدهٔ رفع تالی
+affirming the consequent	philosophy	مغالطهٔ وضع تالی
+denying the antecedent	philosophy	مغالطهٔ رفع مقدم
+conditional proposition	philosophy	قضیهٔ شرطیه، گزارهٔ شرطی
+hypothetical proposition	philosophy	قضیهٔ شرطیه
+categorical proposition	philosophy	قضیهٔ حملیه، گزارهٔ حملی
+singular proposition	philosophy	قضیهٔ شخصیه
+indefinite proposition	philosophy	قضیهٔ مهمله
+universal proposition	philosophy	قضیهٔ کلیه
+particular proposition	philosophy	قضیهٔ جزئیه
+universal affirmative	philosophy	موجبهٔ کلیه
+universal negative	philosophy	سالبهٔ کلیه
+particular affirmative	philosophy	موجبهٔ جزئیه
+particular negative	philosophy	سالبهٔ جزئیه
+square of opposition	philosophy	مربع تقابل
+contradictories	philosophy	(منطق) نقیضان، قضایای متناقض
+contraries	philosophy	(منطق) قضایای متضاد، ضدان
+subcontrary	philosophy	(منطق) داخل تحت تضاد
+subaltern	philosophy	(منطق) متداخل، قضیهٔ متداخل
+subalternation	philosophy	(منطق) تداخل
+conversion	philosophy	(منطق) عکس، عکس مستوی
+obversion	philosophy	(منطق) نقض محمول
+contraposition	philosophy	(منطق) عکس نقیض
+contrapositive	philosophy	عکس نقیض
+syllogism	philosophy	(منطق) قیاس اقترانی
+categorical syllogism	philosophy	قیاس حملی، قیاس اقترانی حملی
+hypothetical syllogism	philosophy	قیاس شرطی، قیاس استثنایی
+disjunctive syllogism	philosophy	قیاس انفصالی، قیاس استثنایی منفصل
+syllogistic	philosophy	(منطق) نظریهٔ قیاس، منطق قیاس
+major premise	philosophy	مقدمهٔ کبری، کبری
+minor premise	philosophy	مقدمهٔ صغری، صغری
+major term	philosophy	حد اکبر
+minor term	philosophy	حد اصغر
+middle term	philosophy	حد وسط
+undistributed middle	philosophy	مغالطهٔ عدم استغراق حد وسط
+distribution of terms	philosophy	استغراق حدود
+figure of syllogism	philosophy	شکل قیاس
+mood of syllogism	philosophy	ضرب قیاس
+enthymeme	philosophy	قیاس مضمر، قیاس ضمیر
+polysyllogism	philosophy	قیاس مرکب، قیاس مرکب موصول
+sorites	philosophy	(منطق) قیاس مرکب مفصول، قیاس زنجیره‌ای؛ پارادوکس خرمن
+sorites paradox	philosophy	پارادوکس خرمن
+liar paradox	philosophy	پارادوکس دروغگو
+paradox of the heap	philosophy	پارادوکس خرمن
+dilemma	philosophy	(منطق) قیاس ذوحدین
+constructive dilemma	philosophy	قیاس ذوحدین سازنده
+destructive dilemma	philosophy	قیاس ذوحدین ویرانگر
+reductio ad absurdum	philosophy	برهان خلف، تحویل به محال
+indirect proof	philosophy	برهان غیرمستقیم، برهان خلف
+deductive reasoning	philosophy	استدلال قیاسی، استدلال استنتاجی
+abductive reasoning	philosophy	استدلال ربایشی، استنتاج بهترین تبیین، ابداکشن
+abduction	philosophy	(منطق) استدلال ربایشی، استنتاج بهترین تبیین، ابداکشن
+inference to the best explanation	philosophy	استنتاج بهترین تبیین
+analogical reasoning	philosophy	استدلال تمثیلی، تمثیل
+argument from analogy	philosophy	استدلال تمثیلی، تمثیل
+valid argument	philosophy	استدلال معتبر
+sound argument	philosophy	استدلال صحیح، استدلال درست (معتبر و با مقدمات صادق)
+axiomatic system	philosophy	دستگاه اصل موضوعی
+formal system	philosophy	دستگاه صوری، نظام صوری
+law of identity	philosophy	اصل هوهویت، اصل این‌همانی
+law of non-contradiction	philosophy	اصل امتناع تناقض، اصل عدم تناقض
+principle of non-contradiction	philosophy	اصل امتناع تناقض، اصل عدم تناقض
+law of excluded middle	philosophy	اصل طرد شق ثالث، اصل امتناع ارتفاع نقیضین
+principle of sufficient reason	philosophy	اصل جهت کافی، اصل دلیل کافی
+laws of thought	philosophy	قوانین فکر، اصول بنیادی اندیشه
+tertium non datur	philosophy	اصل طرد شق ثالث (شق سومی در کار نیست)
+quantification	philosophy	(منطق) سوردهی، تسویر
+copula	philosophy	(منطق) رابط، نسبت حکمیه
+predicables	philosophy	کلیات خمس
+differentia	philosophy	(منطق) فصل
+proprium	philosophy	(منطق) عرض خاص، خاصه
+general accident	philosophy	عرض عام
+definiendum	philosophy	معرَّف (آنچه تعریف می‌شود)
+definiens	philosophy	معرِّف (آنچه با آن تعریف می‌کنند)
+real definition	philosophy	تعریف حقیقی
+nominal definition	philosophy	تعریف لفظی، تعریف اسمی
+ostensive definition	philosophy	تعریف اشاری
+definition by genus and difference	philosophy	تعریف به جنس و فصل
+intension	philosophy	(منطق) مفهوم، معنای مفهومی
+extension	philosophy	(منطق) مصداق، ماصدق
+comprehension	philosophy	(منطق) مفهوم
+assent	philosophy	(منطق) تصدیق
+formal fallacy	philosophy	مغالطهٔ صوری
+informal fallacy	philosophy	مغالطهٔ غیرصوری، مغالطهٔ مادی
+logical fallacy	philosophy	مغالطهٔ منطقی
+ad hominem	philosophy	(منطق) مغالطهٔ توسل به شخص، حمله به شخص به جای استدلال؛ (صفت) شخصی، متوجهِ شخص نه استدلال او
+tu quoque	philosophy	(منطق) مغالطهٔ «تو هم»، طفره با اشاره به رفتار متناقض طرف مقابل
+argumentum ad populum	philosophy	مغالطهٔ توسل به عامه، توسل به اکثریت
+argumentum ad verecundiam	philosophy	مغالطهٔ توسل به مرجع، توسل به مرجعیت
+argumentum ad baculum	philosophy	مغالطهٔ توسل به زور، تهدید
+argumentum ad misericordiam	philosophy	مغالطهٔ توسل به ترحم، برانگیختن دلسوزی
+argumentum ad ignorantiam	philosophy	مغالطهٔ توسل به جهل
+petitio principii	philosophy	مصادره به مطلوب
+beg the question	philosophy	(منطق) مصادره به مطلوب کردن؛ (به‌طور عام) این پرسش را پیش کشیدن که
+circular reasoning	philosophy	استدلال دوری، دور
+circular argument	philosophy	استدلال دوری، دور
+non sequitur	philosophy	مغالطهٔ عدم تلازم، نتیجهٔ نامربوط؛ (به‌طور عام) سخن بی‌ربط
+post hoc ergo propter hoc	philosophy	مغالطهٔ «پس از آن، پس به سبب آن»، علت شمردن امر مقدم
+post hoc	philosophy	مغالطهٔ «پس از آن، پس به سبب آن»، علت شمردن امر مقدم
+false cause	philosophy	مغالطهٔ علت جعلی، علت پنداری
+red herring	philosophy	(منطق) مغالطهٔ انحراف از موضوع، رد گم کردن
+slippery slope	philosophy	(منطق) مغالطهٔ سراشیبی لغزنده، مغالطهٔ دامنهٔ لغزنده
+false dilemma	philosophy	مغالطهٔ دوراهی کاذب، دوگانهٔ کاذب
+false dichotomy	philosophy	دوگانهٔ کاذب، مغالطهٔ دوراهی کاذب
+hasty generalization	philosophy	مغالطهٔ تعمیم شتاب‌زده
+sweeping generalization	philosophy	مغالطهٔ تعمیم مفرط
+equivocation	philosophy	(منطق) مغالطهٔ اشتراک لفظ
+amphiboly	philosophy	مغالطهٔ ابهام دستوری، ابهام ساختاری
+fallacy of composition	philosophy	مغالطهٔ ترکیب
+fallacy of division	philosophy	مغالطهٔ تقسیم
+fallacy of accident	philosophy	مغالطهٔ عرض، مغالطهٔ اخذ ما بالعرض مکان ما بالذات
+genetic fallacy	philosophy	مغالطهٔ منشأ، مغالطهٔ تکوینی
+naturalistic fallacy	philosophy	مغالطهٔ طبیعت‌گرایانه
+appeal to nature	philosophy	مغالطهٔ توسل به طبیعت
+appeal to authority	philosophy	مغالطهٔ توسل به مرجع
+appeal to emotion	philosophy	مغالطهٔ توسل به احساسات
+appeal to pity	philosophy	مغالطهٔ توسل به ترحم
+appeal to force	philosophy	مغالطهٔ توسل به زور
+appeal to ignorance	philosophy	مغالطهٔ توسل به جهل
+appeal to tradition	philosophy	مغالطهٔ توسل به سنت
+appeal to popularity	philosophy	مغالطهٔ توسل به عامه، توسل به اکثریت
+bandwagon fallacy	philosophy	مغالطهٔ همرنگی با جماعت، توسل به اکثریت
+appeal to consequences	philosophy	مغالطهٔ توسل به پیامد
+complex question	philosophy	مغالطهٔ پرسش مرکب، پرسش باردار
+loaded question	philosophy	پرسش باردار، پرسش جهت‌دار (مغالطهٔ پرسش مرکب)
+gambler's fallacy	philosophy	مغالطهٔ قمارباز
+special pleading	philosophy	(منطق) مغالطهٔ استثناسازی دلبخواهانه، یک بام و دو هوا
+moving the goalposts	philosophy	مغالطهٔ جابه‌جا کردن دروازه، عوض کردن معیار در میانهٔ بحث
+ignoratio elenchi	philosophy	مغالطهٔ نتیجهٔ نامربوط، مغالطهٔ عدول از موضوع
+irrelevant conclusion	philosophy	مغالطهٔ نتیجهٔ نامربوط
+fallacy of four terms	philosophy	مغالطهٔ حدود چهارگانه
+illicit major	philosophy	مغالطهٔ استغراق نابجای حد اکبر
+illicit minor	philosophy	مغالطهٔ استغراق نابجای حد اصغر
+argument from silence	philosophy	استدلال از سکوت
+shifting the burden of proof	philosophy	مغالطهٔ جابه‌جایی بار اثبات
+cherry picking	general	گزینش دلبخواهانهٔ شواهد، گلچین کردن داده‌ها به سود ادعای خود (نوعی مغالطه)
+texas sharpshooter fallacy	philosophy	مغالطهٔ تیرانداز تگزاسی (یافتن الگو در دادهٔ تصادفی)
+no true scotsman	philosophy	مغالطهٔ «هیچ اسکاتلندی واقعی» (تغییر تعریف برای گریز از مثال نقض)
+poisoning the well	philosophy	مغالطهٔ مسموم کردن چاه
+guilt by association	philosophy	مغالطهٔ اتهام از راه معاشرت
+false equivalence	philosophy	هم‌ارزی کاذب
+false analogy	philosophy	تمثیل نادرست، قیاس مع‌الفارق
+paralogism	philosophy	(فلسفه) پارالوژیسم، قیاس فاسد ناخواسته؛ (کانت) مغالطات عقل محض
+epistemologist	philosophy	معرفت‌شناس
+theory of knowledge	philosophy	نظریهٔ معرفت، معرفت‌شناسی
+a priori	philosophy	پیشینی، ماتقدم، پیش از تجربه
+a posteriori	philosophy	پسینی، ماتأخر، پس از تجربه
+apriority	philosophy	(فلسفه) پیشینی بودن، ماتقدم بودن
+a priori knowledge	philosophy	معرفت پیشینی، شناخت ماتقدم
+a posteriori knowledge	philosophy	معرفت پسینی، شناخت ماتأخر
+synthetic a priori	philosophy	ترکیبی پیشینی، تألیفی ماتقدم
+epistemic justification	philosophy	توجیه معرفتی
+justified true belief	philosophy	باور صادق موجه
+gettier problem	philosophy	مسئلهٔ گتیه
+knowledge by acquaintance	philosophy	معرفت از راه آشنایی، معرفت مستقیم
+knowledge by description	philosophy	معرفت از راه وصف، معرفت توصیفی
+propositional knowledge	philosophy	معرفت گزاره‌ای
+knowledge-how	philosophy	معرفت مهارتی، دانستن چگونگی
+tacit knowledge	philosophy	دانش ضمنی، معرفت ضمنی
+presential knowledge	philosophy	علم حضوری
+acquired knowledge	philosophy	(فلسفهٔ اسلامی) علم حصولی؛ (به‌طور عام) دانش اکتسابی
+scepticism	philosophy	(فلسفه) شک‌گرایی، شکاکیت، اصالت شک
+pyrrhonism	philosophy	شکاکیت پورونی، شک‌گرایی پیرهونی
+pyrrhonian	philosophy	پورونی، پیرهونی (وابسته به شکاکیت پورون)
+academic skepticism	philosophy	شکاکیت آکادمیک
+global skepticism	philosophy	شکاکیت فراگیر
+radical skepticism	philosophy	شکاکیت رادیکال، شکاکیت تمام‌عیار
+methodological doubt	philosophy	شک دستوری، شک روشمند
+cartesian doubt	philosophy	شک دکارتی، شک دستوری
+evil demon	philosophy	(فلسفه) اهریمن فریبکار، شیطان فریبکار (دکارت)
+brain in a vat	philosophy	مغز در خمره
+dream argument	philosophy	برهان رؤیا
+problem of the external world	philosophy	مسئلهٔ جهان خارج
+external world	philosophy	جهان خارج، عالم خارج
+other minds	philosophy	اذهان دیگر
+problem of other minds	philosophy	مسئلهٔ اذهان دیگر
+foundationalism	philosophy	مبناگرایی
+foundationalist	philosophy	مبناگرا
+basic belief	philosophy	باور پایه
+properly basic belief	philosophy	باور واقعاً پایه
+coherentism	philosophy	انسجام‌گرایی
+coherentist	philosophy	انسجام‌گرا
+infinitism	philosophy	بی‌نهایت‌گرایی، نامتناهی‌گرایی (در توجیه معرفتی: زنجیرهٔ نامتناهی دلایل را موجه می‌داند)
+reliabilism	philosophy	اعتمادگرایی، وثاقت‌گرایی
+reliabilist	philosophy	اعتمادگرا، وثاقت‌گرا
+internalism	philosophy	درون‌گرایی (معرفتی)
+externalism	philosophy	(فلسفه) برون‌گرایی
+evidentialism	philosophy	قرینه‌گرایی
+virtue epistemology	philosophy	معرفت‌شناسی فضیلت
+social epistemology	philosophy	معرفت‌شناسی اجتماعی
+naturalized epistemology	philosophy	معرفت‌شناسی طبیعی‌شده
+feminist epistemology	philosophy	معرفت‌شناسی فمینیستی
+fallibilism	philosophy	خطاپذیرگرایی، خطاپذیرانگاری
+fallibilist	philosophy	خطاپذیرگرا، خطاپذیرانگار
+infallibilism	philosophy	(فلسفه) خطاناپذیرگرایی، خطاناپذیرانگاری
+contextualism	philosophy	زمینه‌گرایی، بافت‌گرایی
+epistemic closure	philosophy	بستار معرفتی
+closure principle	philosophy	اصل بستار
+regress argument	philosophy	برهان تسلسل
+infinite regress	philosophy	تسلسل نامتناهی، تسلسل
+munchhausen trilemma	philosophy	سه‌گانهٔ مونشهاوزن، تریلمای مونشهاوزن (بن‌بست توجیه: دور، تسلسل یا توقف دلبخواهی)
+self-evident	general	بدیهی، آشکار، بی‌نیاز از اثبات
+self-evidence	philosophy	بداهت
+self-evident truth	philosophy	حقیقت بدیهی، بدیهیه
+doxastic	philosophy	باوری، مربوط به باور
+credence	philosophy	(معرفت‌شناسی) درجهٔ باور
+degree of belief	philosophy	درجهٔ باور
+opinion	philosophy	(فلسفه) ظن، گمان (در برابر علم)، دوکسا
+doxa	philosophy	دوکسا، گمان، ظن، عقیدهٔ رایج
+episteme	philosophy	اپیستمه، معرفت (یقینی)؛ (فوکو) صورت‌بندی دانایی
+gnosis	philosophy	گنوس، معرفت باطنی
+sense data	philosophy	داده‌های حسی
+sense datum	philosophy	دادهٔ حسی
+sense perception	philosophy	ادراک حسی
+direct realism	philosophy	واقع‌گرایی مستقیم، واقع‌گرایی خام
+naive realism	philosophy	واقع‌گرایی خام
+indirect realism	philosophy	واقع‌گرایی غیرمستقیم، واقع‌گرایی بازنمودی
+representative realism	philosophy	واقع‌گرایی بازنمودی
+representationalism	philosophy	بازنمودگرایی
+primary qualities	philosophy	کیفیات اولیه
+secondary qualities	philosophy	کیفیات ثانویه
+innate ideas	philosophy	تصورات فطری، ایده‌های فطری
+innatism	philosophy	فطری‌گرایی
+nativism	philosophy	(فلسفه) فطری‌گرایی، ذاتی‌گرایی
+intellectual intuition	philosophy	شهود عقلی
+rational intuition	philosophy	شهود عقلی
+apperception	philosophy	(فلسفه) اندریافت، ادراک نفسانی
+transcendental apperception	philosophy	اندریافت استعلایی، ادراک نفسانی استعلایی
+transcendental	philosophy	(فلسفه) استعلایی، فراتجربی
+transcendental idealism	philosophy	ایدئالیسم استعلایی
+transcendental argument	philosophy	برهان استعلایی
+transcendental deduction	philosophy	استنتاج استعلایی
+transcendent	philosophy	(فلسفه) متعالی، فرارونده
+immanent	philosophy	(فلسفه) درون‌ماندگار، حلولی
+immanence	philosophy	(فلسفه) درون‌ماندگاری، حلول
+transcendence	philosophy	(فلسفه) تعالی، فراروی
+categories of understanding	philosophy	مقولات فاهمه
+understanding	philosophy	(فلسفهٔ کانت) فاهمه
+faculty of reason	philosophy	قوهٔ عقل
+analytic truth	philosophy	صدق تحلیلی
+synthetic truth	philosophy	صدق ترکیبی
+necessary truth	philosophy	حقیقت ضروری، صدق ضروری
+contingent truth	philosophy	حقیقت ممکن، صدق امکانی
+truths of reason	philosophy	حقایق عقلی
+truths of fact	philosophy	حقایق واقع
+hume's fork	philosophy	چنگال هیوم
+correspondence theory of truth	philosophy	نظریهٔ مطابقت صدق
+coherence theory of truth	philosophy	نظریهٔ انسجام صدق
+pragmatic theory of truth	philosophy	نظریهٔ عمل‌گرایانهٔ صدق
+deflationary theory of truth	philosophy	نظریهٔ تورم‌زدایی صدق، نظریهٔ کمینه‌گرای صدق (صدق را ویژگی جوهری و اساسی نمی‌داند)
+redundancy theory of truth	philosophy	نظریهٔ حشو صدق، نظریهٔ زائد بودن صدق
+truthmaker	philosophy	صدق‌ساز
+truth-bearer	philosophy	حامل صدق
+verisimilitude	philosophy	(فلسفهٔ علم) حقیقت‌نمایی، نزدیکی به صدق
+epoche	philosophy	اپوخه، تعلیق حکم
+suspension of judgment	philosophy	تعلیق حکم
+ataraxia	philosophy	آتاراکسیا، آرامش نفس، بی‌تشویشی
+metaphysics	philosophy	(فلسفه) مابعدالطبیعه، متافیزیک، فلسفهٔ اولی، الهیات بالمعنی‌الاعم
+metaphysician	philosophy	(فلسفه) متافیزیک‌دان، فیلسوف مابعدالطبیعه
+first philosophy	philosophy	فلسفهٔ اولی، مابعدالطبیعه
+ontology	philosophy	(فلسفه) وجودشناسی، انتولوژی
+ontological	philosophy	(فلسفه) وجودشناختی
+ontological commitment	philosophy	تعهد هستی‌شناختی
+ontological argument	philosophy	برهان وجودی، برهان هستی‌شناختی
+cosmological argument	philosophy	برهان جهان‌شناختی
+teleological argument	philosophy	برهان نظم، برهان غایت‌شناختی
+argument from design	philosophy	برهان نظم، برهان طراحی
+argument from contingency	philosophy	برهان امکان و وجوب
+moral argument	philosophy	(فلسفه) برهان اخلاقی (بر وجود خدا)
+problem of evil	philosophy	مسئلهٔ شر
+theodicy	philosophy	(فلسفه) عدل الهی، تئودیسه، دفاعیهٔ عدل الهی
+being qua being	philosophy	موجود بما هو موجود، وجود از آن حیث که وجود است
+nonbeing	philosophy	عدم، نیستی
+nothingness	philosophy	(فلسفه) عدم، نیستی
+existent	philosophy	(فلسفه) موجود، هستنده
+essence	philosophy	(فلسفه) ماهیت، چیستی
+haecceity	philosophy	هذیت، این‌بودگی، تشخص فردی
+thisness	philosophy	این‌بودگی، هذیت
+essentialism	philosophy	ذات‌گرایی، ذات‌باوری
+essentialist	philosophy	ذات‌گرا، ذات‌باور
+anti-essentialism	philosophy	ضدذات‌گرایی
+attribute	philosophy	(فلسفه) صفت، عرض، وصف
+mode	philosophy	(فلسفه) حالت، وجه
+substratum	philosophy	(فلسفه) موضوع، زیرنهاد، بستر (حامل اعراض)
+substantial form	philosophy	صورت جوهری، صورت نوعیه
+matter	philosophy	(فلسفه) ماده، هیولا
+prime matter	philosophy	هیولای اولی، مادهٔ نخستین
+hylomorphism	philosophy	نظریهٔ ماده و صورت، هیلومورفیسم
+hyle	philosophy	هیولا، ماده
+quantity	philosophy	(فلسفه) کم، مقولهٔ کمیت
+quality	philosophy	(فلسفه) کیف، مقولهٔ کیفیت
+relation	philosophy	(فلسفه) اضافه، نسبت
+four causes	philosophy	علل چهارگانه
+material cause	philosophy	علت مادی
+formal cause	philosophy	علت صوری
+efficient cause	philosophy	علت فاعلی
+final cause	philosophy	علت غایی
+first cause	philosophy	علت نخستین، علت‌العلل
+prime mover	philosophy	محرک نخستین، محرک اول
+unmoved mover	philosophy	محرک نامتحرک، محرک اول
+causality	philosophy	(فلسفه) علیت، اصل علیت
+principle of causality	philosophy	اصل علیت
+causal chain	philosophy	زنجیرهٔ علّی
+causal necessity	philosophy	ضرورت علّی
+necessary connection	philosophy	پیوند ضروری، ارتباط ضروری
+constant conjunction	philosophy	اقتران دائمی، همراهی همیشگی
+necessary condition	philosophy	شرط لازم
+necessary and sufficient condition	philosophy	شرط لازم و کافی
+occasionalism	philosophy	اصالت موقع، موقع‌گرایی، نظریهٔ علل موقعی (خدا را تنها علت حقیقی و رویدادهای طبیعی را فقط موقعیت فعل او می‌داند؛ قس. نفی علیت طبیعی نزد اشاعره)
+regress	philosophy	(فلسفه) تسلسل
+universals	philosophy	(فلسفه) کلیات
+problem of universals	philosophy	مسئلهٔ کلیات
+nominalism	philosophy	نام‌گرایی، اصالت تسمیه، نومینالیسم
+nominalist	philosophy	نام‌گرا، قائل به اصالت تسمیه
+conceptualism	philosophy	مفهوم‌گرایی، اصالت تصور
+platonic realism	philosophy	واقع‌گرایی افلاطونی
+platonism	philosophy	افلاطون‌گرایی، افلاطونیسم
+trope	philosophy	(فلسفه) تروپ، ویژگی جزئی، عرض جزئی
+trope theory	philosophy	نظریهٔ تروپ، نظریهٔ ویژگی‌های جزئی
+bundle theory	philosophy	نظریهٔ دسته‌ای، نظریهٔ بستهٔ اوصاف
+abstract object	philosophy	شیء انتزاعی، موجود انتزاعی
+concrete	philosophy	(فلسفه) انضمامی، عینی
+entity	philosophy	(فلسفه) هویت، موجود، هستومند
+mereology	philosophy	جزءشناسی، مریولوژی
+part-whole relation	philosophy	رابطهٔ جزء و کل
+emergence	philosophy	(فلسفه) نوخاستگی، پدیدارشدگی
+emergentism	philosophy	نوخاسته‌گرایی، نوپدیدگرایی
+emergent property	philosophy	ویژگی نوخاسته، ویژگی نوپدید
+supervenience	philosophy	(فلسفه) ابتنا، فرارویدادگی (وابستگی ویژگی‌های سطح بالاتر به ویژگی‌های پایه، چنان‌که بدون تغییر در پایه تغییری در آن‌ها رخ نمی‌دهد)
+supervene	philosophy	(فلسفه) مبتنی بودن بر، ابتنا داشتن بر
+reductionism	philosophy	(فلسفه) تحویل‌گرایی
+reductionist	philosophy	(فلسفه) تحویل‌گرا
+reduction	philosophy	(فلسفه) تحویل، فروکاست
+eliminativism	philosophy	حذف‌گرایی
+identity	philosophy	(فلسفه) این‌همانی، هوهویت
+numerical identity	philosophy	این‌همانی عددی
+qualitative identity	philosophy	این‌همانی کیفی
+personal identity	philosophy	این‌همانی شخصی، هویت شخصی
+identity of indiscernibles	philosophy	اصل این‌همانی تمیزناپذیرها
+indiscernibility of identicals	philosophy	اصل تمیزناپذیری این‌همان‌ها
+ship of theseus	philosophy	کشتی تسئوس
+persistence	philosophy	(فلسفه) دوام، پایندگی (در زمان)
+endurantism	philosophy	دوام‌گرایی (نظریه‌ای که شیء را در هر لحظه از وجودش به تمامی حاضر می‌داند)
+perdurantism	philosophy	نظریهٔ اجزای زمانی، چهاربعدگرایی (نظریه‌ای که شیء را دارای اجزای زمانی می‌داند که در طول زمان امتداد دارد)
+four-dimensionalism	philosophy	چهاربعدگرایی
+temporal parts	philosophy	اجزای زمانی
+change	philosophy	(فلسفه) حرکت، تغیر
+flux	philosophy	(فلسفه) سیلان، شدن دائم
+determinism	philosophy	(فلسفه) موجبیت، دترمینیسم
+hard determinism	philosophy	جبرگرایی سخت
+soft determinism	philosophy	جبرگرایی نرم
+indeterminism	philosophy	ناموجبیت، عدم موجبیت
+causal determinism	philosophy	موجبیت علّی
+libertarianism	philosophy	(متافیزیک) اختیارگرایی، اختیارباوری (در بحث جبر و اختیار)
+compatibilism	philosophy	سازگارگرایی (سازگاری جبر و اختیار)
+compatibilist	philosophy	سازگارگرا
+incompatibilism	philosophy	ناسازگارگرایی
+incompatibilist	philosophy	ناسازگارگرا
+fatalism	philosophy	(فلسفه) تقدیرگرایی، جبرانگاری
+moral responsibility	philosophy	مسئولیت اخلاقی
+agent causation	philosophy	علیت فاعلی
+principle of alternate possibilities	philosophy	اصل امکان‌های بدیل
+monism	philosophy	(فلسفه) یگانه‌انگاری، وحدت‌گرایی، مونیسم
+monist	philosophy	یگانه‌انگار، وحدت‌گرا
+dualist	philosophy	دوگانه‌انگار، ثنوی
+neutral monism	philosophy	یگانه‌انگاری خنثی
+panentheism	philosophy	همه‌درخدایی
+deism	philosophy	(فلسفه) خداباوری طبیعی، دئیسم
+theism	philosophy	(فلسفه) خداباوری، تئیسم
+possible world	philosophy	جهان ممکن
+actual world	philosophy	جهان بالفعل، جهان واقعی
+modal realism	philosophy	واقع‌گرایی موجهاتی
+necessity	philosophy	(فلسفه) ضرورت، وجوب
+impossibility	philosophy	(فلسفه) امتناع
+contingency	philosophy	(فلسفه) امکان (خاص)
+contingent	philosophy	(فلسفه) ممکن، امکانی
+de re	philosophy	ناظر به شیء، دِ رِه (موجهات ناظر به شیء)
+de dicto	philosophy	ناظر به گزاره، دِ دیکتو
+actuality	philosophy	(فلسفه) فعلیت
+potentiality	philosophy	(فلسفه) قوه، بالقوگی
+potency	philosophy	(فلسفه) قوه
+act	philosophy	(فلسفه) فعل، فعلیت
+actualization	philosophy	(فلسفه) فعلیت یافتن، به فعلیت رسیدن
+in potentia	philosophy	بالقوه
+in actu	philosophy	بالفعل
+entelechy	philosophy	انتلخیا، کمال اول، فعلیت تام
+teleology	philosophy	(فلسفه) غایت‌شناسی، غایت‌انگاری
+teleological	philosophy	غایت‌شناختی، غایت‌انگارانه
+mechanism	philosophy	(فلسفه) مکانیک‌انگاری، ماشین‌انگاری
+subjective idealism	philosophy	ایدئالیسم ذهنی
+objective idealism	philosophy	ایدئالیسم عینی
+absolute idealism	philosophy	ایدئالیسم مطلق
+immaterialism	philosophy	ماده‌ناباوری، انکار ماده
+solipsism	philosophy	(فلسفه) خودتنهاانگاری، من‌تنهاانگاری، سولیپسیسم
+solipsist	philosophy	خودتنهاانگار، من‌تنهاانگار
+phenomenalism	philosophy	پدیدارگرایی
+noumenon	philosophy	نومن، شیء فی‌نفسه، ذات معقول
+noumena	philosophy	(جمعِ noumenon) نومن‌ها، اشیای فی‌نفسه
+noumenal	philosophy	نومنی، فی‌نفسه
+phenomenon	philosophy	(فلسفه) فنومن، پدیدار (در برابر نومن)
+thing in itself	philosophy	شیء فی‌نفسه، چیز در خود
+appearance	philosophy	(فلسفه) نمود، پدیدار
+appearance and reality	philosophy	نمود و بود، ظاهر و واقعیت
+the absolute	philosophy	(فلسفه) مطلق، امر مطلق
+absolute spirit	philosophy	روح مطلق
+world spirit	philosophy	روح جهان
+finitude	philosophy	تناهی، متناهی بودن
+eternity	philosophy	(فلسفه) سرمدیت، ابدیت
+eternal recurrence	philosophy	بازگشت جاودان، تکرار ابدی
+eternal return	philosophy	بازگشت جاودان
+philosophy of mind	philosophy	فلسفهٔ ذهن
+mind-body problem	philosophy	مسئلهٔ ذهن و بدن، مسئلهٔ نفس و بدن
+mind-body dualism	philosophy	دوگانه‌انگاری ذهن و بدن
+cartesian dualism	philosophy	دوگانه‌انگاری دکارتی
+substance dualism	philosophy	دوگانه‌انگاری جوهری
+property dualism	philosophy	دوگانه‌انگاری ویژگی‌ها، دوگانه‌انگاری صفاتی
+interactionism	philosophy	(فلسفهٔ ذهن) تعامل‌گرایی، نظریهٔ تعامل نفس و بدن
+parallelism	philosophy	(فلسفه) توازی‌گرایی، نظریهٔ توازی نفس و بدن
+psychophysical parallelism	philosophy	توازی روانی‌فیزیکی
+epiphenomenalism	philosophy	شبه‌پدیدارگرایی، پدیدار ثانوی‌انگاری، اپی‌فنومنالیسم
+epiphenomenon	philosophy	(فلسفه) شبه‌پدیدار، پدیدار ثانوی
+physicalism	philosophy	فیزیکالیسم، فیزیک‌گرایی
+physicalist	philosophy	فیزیکالیست، فیزیک‌گرا
+non-reductive physicalism	philosophy	فیزیکالیسم غیرتحویلی
+type identity theory	philosophy	نظریهٔ این‌همانی نوعی
+identity theory	philosophy	(فلسفهٔ ذهن) نظریهٔ این‌همانی
+token identity	philosophy	این‌همانی مصداقی
+logical behaviorism	philosophy	رفتارگرایی منطقی
+eliminative materialism	philosophy	ماده‌گرایی حذف‌گرا، حذف‌گرایی
+folk psychology	philosophy	روان‌شناسی عامیانه
+computational theory of mind	philosophy	نظریهٔ محاسباتی ذهن
+multiple realizability	philosophy	تحقق‌پذیری چندگانه
+qualia	philosophy	کوالیا، کیفیات ذهنی، کیفیات پدیداری
+quale	philosophy	(فلسفه) کیفیت ذهنی، کیفیت پدیداری (مفردِ qualia)
+phenomenal consciousness	philosophy	آگاهی پدیداری
+access consciousness	philosophy	آگاهی دسترسی
+hard problem of consciousness	philosophy	مسئلهٔ دشوار آگاهی
+explanatory gap	philosophy	شکاف تبیینی
+philosophical zombie	philosophy	زامبی فلسفی
+zombie argument	philosophy	برهان زامبی
+knowledge argument	philosophy	برهان معرفت
+chinese room	philosophy	(فلسفهٔ ذهن) اتاق چینی (آزمایش فکری سرل)
+intentionality	philosophy	حیث التفاتی، قصدیت، التفات
+intentional	philosophy	(فلسفه) التفاتی، قصدی
+intentional object	philosophy	متعلَّق التفات، شیء التفاتی
+aboutness	philosophy	دربارگی، حیث التفاتی
+propositional attitude	philosophy	گرایش گزاره‌ای
+mental state	philosophy	حالت ذهنی
+mental event	philosophy	رویداد ذهنی
+mental causation	philosophy	علیت ذهنی
+mental representation	philosophy	بازنمود ذهنی
+language of thought	philosophy	زبان فکر
+privileged access	philosophy	دسترسی ممتاز
+self-knowledge	philosophy	(فلسفه) خودشناسی، معرفت به نفس
+transcendental ego	philosophy	من استعلایی
+mind	philosophy	(فلسفه) ذهن، نفس
+psyche	philosophy	(فلسفه) نفس، روان، پسوخه
+nous	philosophy	نوس، عقل
+panpsychism	philosophy	همه‌روان‌انگاری، همه‌جان‌انگاری
+panpsychist	philosophy	همه‌روان‌انگار
+anomalous monism	philosophy	یگانه‌انگاری ناهنجار، یگانه‌انگاری بی‌قاعده
+extended mind	philosophy	ذهن گسترده
+embodied cognition	philosophy	شناخت بدن‌مند، شناخت متجسد
+enactivism	philosophy	انکتیویسم (رویکردی که شناخت را برآمده از کنش و تعامل جاندار با محیط می‌داند)
+strong ai	philosophy	هوش مصنوعی قوی
+weak ai	philosophy	هوش مصنوعی ضعیف
+homunculus	philosophy	(فلسفه) آدمک درونی، هومونکولوس
+homunculus fallacy	philosophy	مغالطهٔ آدمک درونی
+cartesian theater	philosophy	تئاتر دکارتی
+ghost in the machine	philosophy	شبح درون ماشین
+category mistake	philosophy	خطای مقوله‌ای
+sentience	philosophy	(فلسفه) حس‌مندی، ذی‌شعوری
+philosophy of science	philosophy	فلسفهٔ علم
+unfalsifiable	philosophy	ابطال‌ناپذیر
+falsificationism	philosophy	ابطال‌گرایی
+falsificationist	philosophy	ابطال‌گرا
+falsification	philosophy	(فلسفهٔ علم) ابطال
+verifiability	philosophy	تحقیق‌پذیری، اثبات‌پذیری
+verification principle	philosophy	اصل تحقیق‌پذیری
+verificationism	philosophy	تحقیق‌پذیری‌گرایی، اصالت تحقیق‌پذیری
+confirmation theory	philosophy	نظریهٔ تأیید
+confirmability	philosophy	تأییدپذیری
+normal science	philosophy	علم عادی، علم متعارف
+incommensurability	philosophy	قیاس‌ناپذیری
+incommensurable	philosophy	(فلسفهٔ علم) قیاس‌ناپذیر
+research programme	philosophy	برنامهٔ پژوهشی
+hard core	philosophy	(فلسفهٔ علم) هستهٔ سخت
+protective belt	philosophy	کمربند محافظ
+progressive research programme	philosophy	برنامهٔ پژوهشی پیشرو
+degenerating research programme	philosophy	برنامهٔ پژوهشی رو به زوال، برنامهٔ پژوهشی واپس‌رونده
+problem of induction	philosophy	مسئلهٔ استقرا
+inductivism	philosophy	استقراگرایی
+inductivist	philosophy	استقراگرا
+enumerative induction	philosophy	استقرای شمارشی
+complete induction	philosophy	استقرای تام
+new riddle of induction	philosophy	معمای جدید استقرا
+grue	philosophy	(فلسفه) سبزآبی، گرو (محمول ساختگی گودمن)
+raven paradox	philosophy	پارادوکس کلاغ
+hypothetico-deductive	philosophy	فرضی‌استنتاجی
+demarcation problem	philosophy	مسئلهٔ تمییز (علم از غیرعلم)
+demarcation criterion	philosophy	معیار تمییز
+underdetermination	philosophy	تعین ناقص، فروتعینی
+duhem-quine thesis	philosophy	تز دوئم و کواین
+theory-ladenness	philosophy	گرانباری نظری، نظریه‌باری (مشاهده)
+theory-laden	philosophy	گرانبار از نظریه، نظریه‌بار
+observation sentence	philosophy	جملهٔ مشاهدتی
+protocol sentence	philosophy	جملهٔ پروتکلی
+auxiliary hypothesis	philosophy	فرضیهٔ کمکی
+ad hoc hypothesis	philosophy	فرضیهٔ موردی، فرضیهٔ اد هاک
+ad hoc	general	اد هاک، موردی، برای همین منظور، موقت
+crucial experiment	philosophy	آزمایش تعیین‌کننده، آزمایش قاطع
+thought experiment	philosophy	آزمایش فکری، آزمایش ذهنی
+scientific realism	philosophy	واقع‌گرایی علمی
+anti-realism	philosophy	ضدواقع‌گرایی
+instrumentalism	philosophy	ابزارانگاری، ابزارگرایی
+instrumentalist	philosophy	(فلسفهٔ علم) ابزارانگار
+constructive empiricism	philosophy	تجربه‌گرایی برساختی
+structural realism	philosophy	واقع‌گرایی ساختاری
+conventionalism	philosophy	قراردادگرایی
+operationalism	philosophy	عملیات‌گرایی
+no-miracles argument	philosophy	برهان عدم معجزه
+pessimistic meta-induction	philosophy	فرااستقرای بدبینانه
+scientific explanation	philosophy	تبیین علمی
+deductive-nomological model	philosophy	الگوی قیاسی‌قانونی
+covering law model	philosophy	الگوی قانون فراگیر
+law of nature	philosophy	قانون طبیعت، قانون طبیعی
+ceteris paribus law	philosophy	قانون با فرض ثبات سایر شرایط
+natural kind	philosophy	نوع طبیعی
+theoretical entity	philosophy	هویت نظری، موجود نظری
+theoretical term	philosophy	اصطلاح نظری
+observational term	philosophy	اصطلاح مشاهدتی
+bridge law	philosophy	قانون پل
+intertheoretic reduction	philosophy	تحویل بین‌نظریه‌ای
+unity of science	philosophy	وحدت علم
+epistemological anarchism	philosophy	آنارشیسم معرفت‌شناختی
+context of discovery	philosophy	مقام گردآوری، مقام کشف
+context of justification	philosophy	مقام داوری، مقام توجیه
+occam's razor	philosophy	تیغ اوکام
+principle of parsimony	philosophy	اصل امساک، اصل صرفه‌جویی
+bayesianism	philosophy	بیزگرایی
+bayesian epistemology	philosophy	معرفت‌شناسی بیزی
+philosophy of language	philosophy	فلسفهٔ زبان
+analytic proposition	philosophy	قضیهٔ تحلیلی، گزارهٔ تحلیلی
+synthetic proposition	philosophy	قضیهٔ ترکیبی، گزارهٔ ترکیبی
+analytic-synthetic distinction	philosophy	تمایز تحلیلی و ترکیبی
+analyticity	philosophy	تحلیلی بودن
+sense	philosophy	(فلسفهٔ زبان) معنا، مفاد (در برابر مرجع)
+sense and reference	philosophy	معنا و مرجع، مفاد و مصداق
+theory of meaning	philosophy	نظریهٔ معنا
+use theory of meaning	philosophy	نظریهٔ کاربردی معنا
+verification theory of meaning	philosophy	نظریهٔ تحقیق‌پذیری معنا
+truth condition	philosophy	شرط صدق
+definite description	philosophy	وصف معین، وصف خاص
+theory of descriptions	philosophy	نظریهٔ وصف‌ها، نظریهٔ توصیفات
+descriptivism	philosophy	(فلسفهٔ زبان) نظریهٔ توصیفی نام‌ها
+causal theory of reference	philosophy	نظریهٔ علّی ارجاع
+rigid designator	philosophy	دال ثابت، دال صلب
+proper name	linguistics	اسم خاص، نام خاص
+denotation	philosophy	(فلسفه) دلالت مصداقی، مصداق
+connotation	philosophy	(فلسفه) دلالت مفهومی، مفهوم
+designation	philosophy	(فلسفهٔ زبان) دلالت، اشاره
+indexical	philosophy	(فلسفهٔ زبان) نمایه‌ای، اشاری
+indexicality	philosophy	نمایه‌ای بودن، اشاری بودن
+illocutionary force	philosophy	نیروی منظوری، نیروی غیربیانی
+performative utterance	philosophy	پاره‌گفتار کنشی، گفتهٔ اجرایی
+constative	philosophy	گزارشی، اخباری (پاره‌گفتار)
+presupposition	philosophy	(فلسفهٔ زبان) پیش‌فرض، پیش‌انگاشت
+language game	philosophy	بازی زبانی
+family resemblance	philosophy	شباهت خانوادگی
+private language	philosophy	زبان خصوصی
+private language argument	philosophy	برهان زبان خصوصی
+rule-following	philosophy	پیروی از قاعده
+picture theory of meaning	philosophy	نظریهٔ تصویری معنا
+ordinary language philosophy	philosophy	فلسفهٔ زبان متعارف
+linguistic turn	philosophy	چرخش زبانی
+semantic externalism	philosophy	برون‌گرایی معنایی
+twin earth	philosophy	زمین دوقلو (آزمایش فکری)
+radical translation	philosophy	ترجمهٔ رادیکال
+indeterminacy of translation	philosophy	عدم تعین ترجمه
+inscrutability of reference	philosophy	ابهام ارجاع، تعین‌ناپذیری ارجاع
+principle of charity	philosophy	اصل حسن ظن، اصل انصاف (در تفسیر)
+compositionality	philosophy	ترکیب‌پذیری (معنا)
+context principle	philosophy	اصل بافت، اصل سیاق
+use-mention distinction	philosophy	تمایز کاربرد و ذکر
+object language	philosophy	(منطق) زبان موضوعی
+semantic paradox	philosophy	پارادوکس معنایی
+emotivism	philosophy	عاطفه‌گرایی، احساس‌گرایی
+expressivism	philosophy	ابرازگرایی، بیان‌گرایی
+prescriptivism	philosophy	(فلسفه) توصیه‌گرایی
+logical atomism	philosophy	اتمیسم منطقی
+logical positivism	philosophy	پوزیتیویسم منطقی، اثبات‌گرایی منطقی
+logical empiricism	philosophy	تجربه‌گرایی منطقی
+analytic philosophy	philosophy	فلسفهٔ تحلیلی
+continental philosophy	philosophy	فلسفهٔ قاره‌ای
+ethics	philosophy	(فلسفه) فلسفهٔ اخلاق
+moral philosophy	philosophy	فلسفهٔ اخلاق
+metaethics	philosophy	فرااخلاق
+metaethical	philosophy	فرااخلاقی
+normative ethics	philosophy	اخلاق هنجاری
+descriptive ethics	philosophy	اخلاق توصیفی
+deontological	philosophy	وظیفه‌گرایانه
+deontologist	philosophy	وظیفه‌گرا
+deontological ethics	philosophy	اخلاق وظیفه‌گرا
+consequentialism	philosophy	پیامدگرایی، نتیجه‌گرایی
+consequentialist	philosophy	پیامدگرا، نتیجه‌گرا
+act utilitarianism	philosophy	سودگرایی عمل‌نگر
+rule utilitarianism	philosophy	سودگرایی قاعده‌نگر
+preference utilitarianism	philosophy	سودگرایی ترجیحی
+negative utilitarianism	philosophy	سودگرایی سلبی
+principle of utility	philosophy	اصل فایده، اصل سودمندی
+greatest happiness principle	philosophy	اصل بیشترین خوشبختی
+felicific calculus	philosophy	حساب لذت، حساب لذت و الم
+hedonic calculus	philosophy	حساب لذت، حساب لذت و الم
+hedonism	philosophy	(فلسفه) لذت‌گرایی، لذت‌باوری
+hedonist	philosophy	(فلسفه) لذت‌گرا
+ethical hedonism	philosophy	لذت‌گرایی اخلاقی
+psychological hedonism	philosophy	لذت‌گرایی روان‌شناختی
+egoism	philosophy	(فلسفه) خودگرایی
+ethical egoism	philosophy	خودگرایی اخلاقی
+psychological egoism	philosophy	خودگرایی روان‌شناختی
+altruism	philosophy	(فلسفه) دیگرگرایی، دیگرخواهی
+virtue ethics	philosophy	اخلاق فضیلت، فضیلت‌گرایی
+cardinal virtues	philosophy	فضایل اصلی، فضایل چهارگانه
+theological virtues	philosophy	فضایل الهیاتی
+intellectual virtue	philosophy	فضیلت عقلانی
+moral virtue	philosophy	فضیلت اخلاقی
+practical wisdom	philosophy	حکمت عملی، فرزانگی عملی
+golden mean	philosophy	(فلسفه) حد وسط، اعتدال زرین
+doctrine of the mean	philosophy	نظریهٔ حد وسط، آموزهٔ اعتدال
+categorical imperative	philosophy	امر مطلق، امر تنجیزی، دستور مطلق
+hypothetical imperative	philosophy	امر شرطی، دستور مشروط
+formula of humanity	philosophy	صورت‌بندی انسانیت (امر مطلق)
+kingdom of ends	philosophy	قلمرو غایات، کشور غایات
+universalizability	philosophy	تعمیم‌پذیری
+maxim	philosophy	(فلسفهٔ کانت) قاعدهٔ عمل، آیین رفتار
+autonomy	philosophy	(فلسفه) خودآیینی، خودمختاری
+heteronomy	philosophy	دگرآیینی
+good will	philosophy	(فلسفه) ارادهٔ نیک
+prima facie duty	philosophy	وظیفهٔ در نگاه نخست، تکلیف بدوی
+supererogation	philosophy	فراوظیفه، عمل فراتر از وظیفه
+supererogatory	philosophy	فراوظیفه‌ای، فراتر از وظیفه
+moral obligation	philosophy	الزام اخلاقی، تکلیف اخلاقی
+moral agent	philosophy	فاعل اخلاقی، عامل اخلاقی
+moral patient	philosophy	کنش‌پذیر اخلاقی، متعلق ملاحظهٔ اخلاقی
+moral agency	philosophy	عاملیت اخلاقی
+moral luck	philosophy	بخت اخلاقی
+moral dilemma	philosophy	معضل اخلاقی، دوراهی اخلاقی
+ethical relativism	philosophy	نسبی‌گرایی اخلاقی
+moral realism	philosophy	واقع‌گرایی اخلاقی
+moral anti-realism	philosophy	ضدواقع‌گرایی اخلاقی
+moral objectivism	philosophy	عینیت‌گرایی اخلاقی
+moral subjectivism	philosophy	ذهنیت‌گرایی اخلاقی
+moral skepticism	philosophy	شکاکیت اخلاقی
+moral nihilism	philosophy	نیهیلیسم اخلاقی
+error theory	philosophy	نظریهٔ خطا
+cognitivism	philosophy	(فرااخلاق) شناخت‌گرایی اخلاقی
+non-cognitivism	philosophy	ناشناخت‌گرایی
+ethical naturalism	philosophy	طبیعت‌گرایی اخلاقی
+ethical non-naturalism	philosophy	ناطبیعت‌گرایی اخلاقی
+ethical intuitionism	philosophy	شهودگرایی اخلاقی
+divine command theory	philosophy	نظریهٔ امر الهی
+natural law	philosophy	(فلسفه) قانون طبیعی
+natural law theory	philosophy	نظریهٔ قانون طبیعی
+open question argument	philosophy	برهان پرسش باز، استدلال پرسش گشوده
+is-ought problem	philosophy	مسئلهٔ «هست و باید»، شکاف هست و باید
+fact-value distinction	philosophy	تمایز واقعیت و ارزش
+moral sense theory	philosophy	نظریهٔ حس اخلاقی
+sentimentalism	philosophy	(فلسفه) احساس‌گرایی اخلاقی
+contractualism	philosophy	قراردادگرایی (اخلاقی)
+contractarianism	philosophy	قراردادانگاری
+ethics of care	philosophy	اخلاق مراقبت
+situation ethics	philosophy	اخلاق موقعیت
+particularism	philosophy	(اخلاق) جزئی‌نگری، جزئی‌گرایی اخلاقی
+eudaimonism	philosophy	سعادت‌گرایی
+trolley problem	philosophy	مسئلهٔ تراموا، معضل واگن برقی
+doctrine of double effect	philosophy	اصل اثر دوگانه
+acts and omissions	philosophy	فعل و ترک فعل
+veil of ignorance	philosophy	پردهٔ جهل، حجاب جهل، پردهٔ بی‌خبری
+original position	philosophy	وضع نخستین
+reflective equilibrium	philosophy	تعادل تأملی
+the good	philosophy	خیر، امر خیر
+the right	philosophy	امر درست
+the good life	philosophy	زندگی خوب، زندگی نیک
+highest good	philosophy	خیر اعلی
+summum bonum	philosophy	خیر اعلی
+instrumental value	philosophy	ارزش ابزاری
+extrinsic value	philosophy	ارزش بیرونی، ارزش عرضی
+moral value	philosophy	ارزش اخلاقی
+value theory	philosophy	نظریهٔ ارزش، ارزش‌شناسی
+amoralism	philosophy	اخلاق‌گریزی، بی‌اعتنایی به اخلاق
+immoralism	philosophy	اخلاق‌ستیزی
+moralism	philosophy	اخلاق‌گرایی (افراطی)
+akrasia	philosophy	آکراسیا، ضعف اراده
+weakness of will	philosophy	ضعف اراده
+moral psychology	philosophy	روان‌شناسی اخلاق
+ought implies can	philosophy	«باید» مستلزم «توانستن» است
+moral law	philosophy	قانون اخلاقی
+deontic	philosophy	تکلیفی، وظیفه‌ای
+bioethicist	philosophy	متخصص اخلاق زیستی
+business ethics	philosophy	اخلاق کسب‌وکار، اخلاق تجارت
+environmental ethics	philosophy	اخلاق محیط زیست
+animal ethics	philosophy	اخلاق حیوانات
+animal rights	philosophy	حقوق حیوانات
+speciesism	philosophy	گونه‌گرایی، تبعیض گونه‌ای
+speciesist	philosophy	گونه‌گرا
+research ethics	philosophy	اخلاق پژوهش
+professional ethics	philosophy	اخلاق حرفه‌ای
+computer ethics	philosophy	اخلاق رایانه
+information ethics	philosophy	اخلاق اطلاعات
+ai ethics	philosophy	اخلاق هوش مصنوعی
+ethics of technology	philosophy	اخلاق فناوری
+neuroethics	philosophy	اخلاق عصب‌شناسی، عصب‌اخلاق
+active euthanasia	philosophy	اتانازی فعال
+passive euthanasia	philosophy	اتانازی غیرفعال
+voluntary euthanasia	philosophy	اتانازی داوطلبانه
+involuntary euthanasia	philosophy	اتانازی اجباری (برخلاف خواست بیمار)
+non-voluntary euthanasia	philosophy	اتانازی غیرداوطلبانه، اتانازی غیرارادی (بیمار توان ابراز رضایت ندارد)
+physician-assisted suicide	medicine	خودکشی با کمک پزشک
+right to die	philosophy	حق مردن، حق مرگ خودخواسته
+principlism	philosophy	(اخلاق زیستی) رویکرد اصول چهارگانه، اخلاق مبتنی بر اصول (احترام به خودمختاری، سودرسانی، عدم آسیب‌رسانی و عدالت؛ غیر از اصول‌گرایی سیاسی)
+beneficence	philosophy	(اخلاق زیستی) اصل سودرسانی، اصل احسان
+non-maleficence	philosophy	اصل عدم آسیب‌رسانی، اصل ضرر نرساندن
+respect for autonomy	philosophy	اصل احترام به خودمختاری (بیمار)
+paternalism	philosophy	(اخلاق) قیم‌مآبی، پدرسالاری
+medical paternalism	philosophy	پدرسالاری پزشکی
+sanctity of life	philosophy	تقدس حیات
+personhood	philosophy	شخص‌بودگی، شخصیت
+moral status	philosophy	منزلت اخلاقی، جایگاه اخلاقی
+human cloning	philosophy	شبیه‌سازی انسان
+human enhancement	philosophy	بهسازی انسان
+organ donation	medicine	اهدای عضو
+just war theory	philosophy	نظریهٔ جنگ عادلانه
+just war	philosophy	جنگ عادلانه
+jus ad bellum	philosophy	حق توسل به جنگ
+jus in bello	philosophy	حقوق در جنگ، اخلاق رفتار در جنگ
+retributivism	philosophy	سزاگرایی، نظریهٔ استحقاقی مجازات (کیفر را به سبب استحقاق مجرم موجه می‌داند)
+retributive justice	philosophy	عدالت سزادهنده، عدالت استحقاقی
+distributive justice	philosophy	عدالت توزیعی
+deep ecology	philosophy	بوم‌شناسی ژرف
+ecocentrism	philosophy	بوم‌محوری
+biocentrism	philosophy	زیست‌محوری
+effective altruism	philosophy	نوع‌دوستی مؤثر، دیگرخواهی اثربخش
+philosophy of art	philosophy	فلسفهٔ هنر
+the sublime	philosophy	امر والا، امر متعالی، والایی
+sublimity	philosophy	(زیبایی‌شناسی) والایی، شکوه
+the beautiful	philosophy	امر زیبا
+the picturesque	philosophy	امر خوش‌منظره، زیبایی تصویری
+aesthetic experience	philosophy	تجربهٔ زیبایی‌شناختی
+aesthetic judgment	philosophy	حکم زیبایی‌شناختی، داوری ذوقی
+judgment of taste	philosophy	حکم ذوقی
+disinterestedness	philosophy	(زیبایی‌شناسی) بی‌غرضی، فارغ‌دلی
+aesthetic attitude	philosophy	نگرش زیبایی‌شناختی
+purposiveness without purpose	philosophy	غایتمندی بی‌غایت، غایتمندی بدون غایت
+aesthetic distance	philosophy	فاصلهٔ زیبایی‌شناختی
+expressionism	philosophy	(فلسفهٔ هنر) بیان‌گرایی
+expression theory of art	philosophy	نظریهٔ بیانی هنر
+imitation theory	philosophy	نظریهٔ تقلید (در هنر)
+institutional theory of art	philosophy	نظریهٔ نهادی هنر
+artworld	philosophy	عالم هنر، جهان هنر
+aesthetic value	philosophy	ارزش زیبایی‌شناختی
+the uncanny	philosophy	امر غریب، امر ناآشنا، غرابت
+political philosophy	philosophy	فلسفهٔ سیاسی
+social contract theory	philosophy	نظریهٔ قرارداد اجتماعی
+state of nature	philosophy	وضع طبیعی، حالت طبیعی
+general will	philosophy	ارادهٔ عمومی
+will of all	philosophy	ارادهٔ همگان
+natural rights	philosophy	حقوق طبیعی
+inalienable rights	philosophy	حقوق سلب‌ناشدنی
+negative liberty	philosophy	آزادی منفی
+positive liberty	philosophy	آزادی مثبت
+harm principle	philosophy	اصل آسیب، اصل زیان
+tyranny of the majority	philosophy	استبداد اکثریت
+popular sovereignty	philosophy	حاکمیت مردم
+consent of the governed	philosophy	رضایت حکومت‌شوندگان
+political obligation	philosophy	الزام سیاسی
+leviathan	philosophy	(فلسفهٔ سیاسی) لویاتان (دولت مقتدر)
+war of all against all	philosophy	جنگ همه علیه همه
+philosopher king	philosophy	فیلسوف‌شاه
+noble lie	philosophy	دروغ شریف، دروغ مصلحتی شریف
+virtuous city	philosophy	مدینهٔ فاضله
+classical liberalism	philosophy	لیبرالیسم کلاسیک
+egalitarianism	philosophy	(فلسفهٔ سیاسی) برابری‌خواهی، مساوات‌طلبی
+communitarian	philosophy	جماعت‌گرا
+justice as fairness	philosophy	عدالت به‌مثابه انصاف
+difference principle	philosophy	اصل تفاوت
+entitlement theory	philosophy	نظریهٔ استحقاق
+minimal state	philosophy	دولت حداقلی
+night-watchman state	philosophy	دولت نگهبان شب، دولت شب‌پا، دولت حداقلی
+dialectical materialism	philosophy	ماده‌گرایی دیالکتیکی، ماتریالیسم دیالکتیک
+master-slave dialectic	philosophy	دیالکتیک خدایگان و بنده
+slave morality	philosophy	اخلاق بردگان
+master morality	philosophy	اخلاق اربابان، اخلاق سروران
+will to power	philosophy	ارادهٔ معطوف به قدرت
+ubermensch	philosophy	ابرانسان، اوبرمنش
+overman	philosophy	ابرانسان
+ressentiment	philosophy	کین‌توزی، رسانتیمان
+communicative rationality	philosophy	عقلانیت ارتباطی
+instrumental reason	philosophy	عقل ابزاری
+politics of recognition	philosophy	سیاست بازشناسی
+existence precedes essence	philosophy	وجود مقدم بر ماهیت است
+authenticity	philosophy	(فلسفه) اصالت، خودبودگی، اصیل بودن
+inauthenticity	philosophy	(فلسفه) عدم اصالت، ناخودبودگی
+bad faith	philosophy	(فلسفهٔ سارتر) فریب خویشتن، سوءنیت
+angst	philosophy	(فلسفه) اضطراب وجودی، دلهره
+existential angst	philosophy	اضطراب وجودی
+existential crisis	philosophy	بحران وجودی
+being-in-the-world	philosophy	در-جهان-بودن
+being-towards-death	philosophy	هستی رو به مرگ، بودن به‌سوی مرگ
+dasein	philosophy	دازاین، وجود انسانی، آنجا-بودن
+thrownness	philosophy	پرتاب‌شدگی، افکندگی
+facticity	philosophy	واقع‌بودگی
+being-for-itself	philosophy	هستی برای خود، وجود لنفسه
+being-in-itself	philosophy	هستی در خود، وجود فی‌نفسه
+otherness	philosophy	(فلسفه) دیگربودگی، غیریت
+alterity	philosophy	(فلسفه) دیگربودگی، غیریت
+absurdist	philosophy	(فلسفه) پوچ‌گرا، ابسوردیست
+the absurd	philosophy	(فلسفه) امر پوچ، پوچی، ابسورد
+nihilist	philosophy	(فلسفه) نیست‌انگار، هیچ‌انگار، نیهیلیست
+nihilistic	philosophy	نیست‌انگارانه، هیچ‌انگارانه، نیهیلیستی
+existential nihilism	philosophy	نیهیلیسم وجودی
+phenomenologist	philosophy	پدیدارشناس
+phenomenological reduction	philosophy	تحویل پدیدارشناختی، تقلیل پدیدارشناختی
+eidetic reduction	philosophy	تحویل ماهوی، تحویل ایدتیک
+bracketing	philosophy	(پدیدارشناسی) در پرانتز نهادن، تعلیق
+lifeworld	philosophy	زیست‌جهان
+intersubjective	philosophy	بیناذهنی، بین‌الاذهانی
+noesis	philosophy	نوئسیس، فعل ادراک (در پدیدارشناسی)
+noema	philosophy	نوئما، متعلق ادراک (در پدیدارشناسی)
+hermeneutic	philosophy	(فلسفه) هرمنوتیکی، تأویلی
+hermeneutic circle	philosophy	دور هرمنوتیکی
+fusion of horizons	philosophy	امتزاج افق‌ها
+hermeneutics of suspicion	philosophy	هرمنوتیک بدگمانی، هرمنوتیک سوءظن
+pragmatism	philosophy	(فلسفه) پراگماتیسم، عمل‌گرایی، اصالت عمل
+pragmatist	philosophy	(فلسفه) پراگماتیست، عمل‌گرا
+neopragmatism	philosophy	نوپراگماتیسم، نوعمل‌گرایی
+stoicism	philosophy	(فلسفه) رواقی‌گری، فلسفهٔ رواقی، مکتب رواقیون
+epicureanism	philosophy	(فلسفه) اپیکوریسم، فلسفهٔ اپیکوری
+epicurean	philosophy	(فلسفه) اپیکوری؛ پیرو اپیکور
+cyrenaic	philosophy	کورنایی، قورینایی (پیرو مکتب لذت‌گرای آریستیپوس)
+eleatic	philosophy	الئایی
+presocratic	philosophy	پیشاسقراطی
+atomism	philosophy	(فلسفه) اتم‌گرایی، اتمیسم؛ (کلام) جزءگرایی، نظریهٔ جزء لایتجزا
+pythagoreanism	philosophy	فیثاغورث‌گرایی، مکتب فیثاغوری
+neoplatonism	philosophy	نوافلاطونی‌گری، فلسفهٔ نوافلاطونی
+neoplatonist	philosophy	نوافلاطونی، پیرو فلسفهٔ نوافلاطونی
+middle platonism	philosophy	افلاطون‌گرایی میانه
+scholasticism	philosophy	(فلسفه) مدرسی‌گری، فلسفهٔ مدرسی، اسکولاستیسیسم
+thomism	philosophy	تومیسم، فلسفهٔ توماسی
+thomist	philosophy	تومیست، پیرو توماس آکوئینی
+neo-thomism	philosophy	نوتومیسم
+rationalist	philosophy	(فلسفه) عقل‌گرا، راسیونالیست
+continental rationalism	philosophy	عقل‌گرایی قاره‌ای
+empiricist	philosophy	(فلسفه) تجربه‌گرا، آمپریست
+british empiricism	philosophy	تجربه‌گرایی بریتانیایی
+radical empiricism	philosophy	تجربه‌گرایی رادیکال
+sensationalism	philosophy	(فلسفه) حس‌گرایی، اصالت حس
+positivism	philosophy	(فلسفه) پوزیتیویسم، اثبات‌گرایی، تحصل‌گرایی
+positivist	philosophy	(فلسفه) پوزیتیویست، اثبات‌گرا
+neopositivism	philosophy	نوپوزیتیویسم، نواثبات‌گرایی
+german idealism	philosophy	ایدئالیسم آلمانی
+british idealism	philosophy	ایدئالیسم بریتانیایی
+young hegelians	philosophy	هگلیان جوان
+neo-kantianism	philosophy	نوکانتی‌گری
+neo-kantian	philosophy	نوکانتی
+kantianism	philosophy	کانت‌گرایی، فلسفهٔ کانتی
+cartesianism	philosophy	دکارت‌گرایی، فلسفهٔ دکارتی
+spinozism	philosophy	اسپینوزاگرایی
+leibnizian	philosophy	لایبنیتسی
+humean	philosophy	هیومی
+lockean	philosophy	لاکی
+hobbesian	philosophy	هابزی
+nietzschean	philosophy	نیچه‌ای
+heideggerian	philosophy	هایدگری
+wittgensteinian	philosophy	ویتگنشتاینی
+socratic method	philosophy	روش سقراطی، دیالکتیک سقراطی
+socratic irony	philosophy	تجاهل سقراطی، آیرونی سقراطی
+socratic dialogue	philosophy	گفت‌وگوی سقراطی
+elenchus	philosophy	النخوس، ابطال سقراطی، روش پرسش و رد
+maieutics	philosophy	مامایی سقراطی، فن مامایی (روش سقراط)
+platonist	philosophy	افلاطون‌گرا، افلاطونی
+aristotelianism	philosophy	ارسطوگرایی، فلسفهٔ ارسطویی
+peripatetic	philosophy	(فلسفه) مشائی؛ فیلسوف مشاء
+averroism	philosophy	ابن‌رشدگرایی
+avicennian	philosophy	سینوی، ابن‌سینایی
+averroist	philosophy	ابن‌رشدی، پیرو ابن‌رشد
+poststructuralism	philosophy	پساساختارگرایی
+poststructuralist	philosophy	پساساختارگرا
+postmodernist	philosophy	(فلسفه) پست‌مدرنیست، پسامدرنیست
+grand narrative	philosophy	فراروایت، روایت کلان
+deconstructionism	philosophy	شالوده‌شکنی، واسازی
+deconstructionist	philosophy	شالوده‌شکن، واساز
+logocentrism	philosophy	کلام‌محوری، لوگوس‌محوری
+differance	philosophy	دیفرانس (تفاوت و تعویق معنا، نزد دریدا)، تمایز و تعویق
+simulacrum	philosophy	(فلسفه) وانموده، سیمولاکر
+simulacra	philosophy	(جمعِ simulacrum) وانموده‌ها، سیمولاکرها
+archaeology of knowledge	philosophy	دیرینه‌شناسی دانش
+rhizome	philosophy	(فلسفه) ریزوم (دلوز و گتاری)
+historicism	philosophy	(فلسفه) تاریخی‌گری، تاریخ‌گرایی
+historicist	philosophy	تاریخی‌گرا، تاریخ‌گرا
+relativist	philosophy	(فلسفه) نسبی‌گرا
+perspectivism	philosophy	چشم‌اندازگرایی، منظرگرایی
+constructivism	philosophy	(فلسفه) برساخت‌گرایی، سازه‌گرایی
+personalism	philosophy	شخص‌گرایی، پرسونالیسم
+vitalist	philosophy	حیات‌گرا
+methodological naturalism	philosophy	طبیعت‌گرایی روش‌شناختی
+metaphysical naturalism	philosophy	طبیعت‌گرایی متافیزیکی
+supernaturalism	philosophy	فراطبیعت‌گرایی
+transcendentalism	philosophy	(فلسفه) استعلاگرایی، ترانساندانتالیسم
+transcendentalist	philosophy	استعلاگرا
+the enlightenment	philosophy	عصر روشنگری
+counter-enlightenment	philosophy	ضدروشنگری
+antithesis	philosophy	(فلسفه) برابرنهاد، آنتی‌تز
+sublation	philosophy	(فلسفهٔ هگل) رفع، فرارفتن (نفی و در عین حال حفظ و ارتقا)
+geist	philosophy	(هگل) روح، گایست
+objectivism	philosophy	(فلسفه) عینیت‌گرایی
+subjectivism	philosophy	(فلسفه) ذهنیت‌گرایی، ذهن‌گرایی
+subject	philosophy	(فلسفه) فاعل شناسا، سوژه
+object	philosophy	(فلسفه) متعلق شناسایی، ابژه، عین
+psychologism	philosophy	روان‌شناسی‌گرایی، روان‌شناختی‌انگاری
+logicism	philosophy	منطق‌گرایی
+intuitionist	philosophy	(منطق و ریاضیات) شهودگرا
+process philosophy	philosophy	فلسفهٔ پویشی، فلسفهٔ فرایند
+feminist philosophy	philosophy	فلسفهٔ فمینیستی
+philosophy of religion	philosophy	فلسفهٔ دین
+philosophy of history	philosophy	فلسفهٔ تاریخ
+philosophy of mathematics	philosophy	فلسفهٔ ریاضیات
+philosophy of education	philosophy	فلسفهٔ تعلیم و تربیت
+philosophy of technology	philosophy	فلسفهٔ تکنولوژی، فلسفهٔ فناوری
+philosophy of biology	philosophy	فلسفهٔ زیست‌شناسی
+philosophy of physics	philosophy	فلسفهٔ فیزیک
+philosophy of action	philosophy	فلسفهٔ عمل
+social philosophy	philosophy	فلسفهٔ اجتماعی
+natural philosophy	philosophy	(فلسفه) فلسفهٔ طبیعی، طبیعیات
+comparative philosophy	philosophy	فلسفهٔ تطبیقی
+perennial philosophy	philosophy	حکمت خالده، حکمت جاویدان
+perennialism	philosophy	(فلسفه) سنت‌گرایی، جاویدان‌خردگرایی
+traditionalist school	philosophy	مکتب سنت‌گرایی
+eastern philosophy	philosophy	فلسفهٔ شرق
+western philosophy	philosophy	فلسفهٔ غرب
+ancient philosophy	philosophy	فلسفهٔ باستان
+medieval philosophy	philosophy	فلسفهٔ قرون وسطا
+modern philosophy	philosophy	فلسفهٔ جدید
+contemporary philosophy	philosophy	فلسفهٔ معاصر
+philosophize	philosophy	فلسفه‌بافی کردن، فلسفیدن، تفلسف کردن
+philosopher	philosophy	(فلسفه) فیلسوف، حکیم
+islamic philosophy	philosophy	فلسفهٔ اسلامی، حکمت اسلامی
+illuminationism	philosophy	حکمت اشراق، فلسفهٔ اشراقی
+illuminationist	philosophy	اشراقی؛ حکیم اشراقی
+ishraq	philosophy	اشراق
+light of lights	philosophy	نورالانوار
+transcendent theosophy	philosophy	حکمت متعالیه
+transcendent philosophy	philosophy	حکمت متعالیه
+peripatetic philosophy	philosophy	حکمت مشاء، فلسفهٔ مشائی
+avicennism	philosophy	فلسفهٔ سینوی، ابن‌سیناگرایی
+primacy of existence	philosophy	اصالت وجود
+principality of existence	philosophy	اصالت وجود
+primacy of quiddity	philosophy	اصالت ماهیت
+principality of quiddity	philosophy	اصالت ماهیت
+gradation of existence	philosophy	تشکیک وجود (ذومراتب بودن حقیقت واحد وجود، نزد ملاصدرا)
+modulation of being	philosophy	تشکیک وجود (ذومراتب بودن حقیقت واحد وجود، نزد ملاصدرا)
+unity of existence	philosophy	وحدت وجود
+unity of being	philosophy	وحدت وجود
+wahdat al-wujud	philosophy	وحدت وجود
+substantial motion	philosophy	حرکت جوهری
+necessary being	philosophy	واجب‌الوجود
+necessary existent	philosophy	واجب‌الوجود
+necessary through another	philosophy	واجب بالغیر
+contingent being	philosophy	ممکن‌الوجود
+impossible being	philosophy	ممتنع‌الوجود
+essence-existence distinction	philosophy	تمایز وجود و ماهیت، زیادت وجود بر ماهیت
+mental existence	philosophy	وجود ذهنی
+external existence	philosophy	وجود خارجی
+primary intelligibles	philosophy	معقولات اولی
+secondary intelligibles	philosophy	معقولات ثانیه
+philosophical secondary intelligible	philosophy	معقول ثانی فلسفی
+logical secondary intelligible	philosophy	معقول ثانی منطقی
+union of the intellect and the intelligible	philosophy	اتحاد عاقل و معقول
+active intellect	philosophy	عقل فعال
+agent intellect	philosophy	عقل فعال
+material intellect	philosophy	عقل هیولانی
+habitual intellect	philosophy	عقل بالملکه
+acquired intellect	philosophy	عقل مستفاد
+potential intellect	philosophy	عقل بالقوه
+actual intellect	philosophy	عقل بالفعل
+first intellect	philosophy	عقل اول
+ten intellects	philosophy	عقول عشره، عقول دهگانه
+theoretical intellect	philosophy	عقل نظری
+practical intellect	philosophy	عقل عملی
+theoretical philosophy	philosophy	حکمت نظری، فلسفهٔ نظری
+practical philosophy	philosophy	حکمت عملی، فلسفهٔ عملی
+household management	philosophy	(حکمت عملی) تدبیر منزل
+emanation	philosophy	(فلسفه) فیض، صدور
+emanationism	philosophy	نظریهٔ فیض، فیض‌گرایی
+rule of the one	philosophy	قاعدهٔ الواحد
+flying man	philosophy	انسان معلق (در فضا)، انسان معلق ابن‌سینا
+floating man	philosophy	انسان معلق (در فضا)
+proof of the truthful	philosophy	برهان صدیقین
+kalam cosmological argument	philosophy	برهان حدوث، برهان کلامی جهان‌شناختی
+argument from motion	philosophy	برهان حرکت
+temporal origination	philosophy	حدوث زمانی
+essential origination	philosophy	حدوث ذاتی
+eternity of the world	philosophy	قدم عالم
+pre-eternity	philosophy	(فلسفه) ازلیت، قدم
+complete cause	philosophy	علت تامه
+incomplete cause	philosophy	علت ناقصه
+impossibility of infinite regress	philosophy	امتناع تسلسل، بطلان تسلسل
+priority and posteriority	philosophy	تقدم و تأخر
+imaginal world	philosophy	عالم مثال، عالم خیال
+world of intellects	philosophy	عالم عقول
+arc of descent	philosophy	قوس نزول
+arc of ascent	philosophy	قوس صعود
+great chain of being	philosophy	زنجیرهٔ بزرگ هستی، سلسله‌مراتب وجود
+perfect man	philosophy	انسان کامل
+knowledge by presence	philosophy	علم حضوری
+kalam	philosophy	علم کلام، کلام اسلامی
+islamic theology	philosophy	کلام اسلامی، علم کلام
+mutakallim	philosophy	متکلم
+falsafa	philosophy	فلسفه (اسلامی)
+hikma	philosophy	حکمت
+theosophy	philosophy	(فلسفه) حکمت الهی، تئوسوفی
+divine wisdom	philosophy	حکمت الهی
+irfan	philosophy	عرفان، عرفان نظری
+theoretical mysticism	philosophy	عرفان نظری
+practical mysticism	philosophy	عرفان عملی
+mutazila	philosophy	معتزله
+mutazilite	philosophy	معتزلی
+asharism	philosophy	اشعری‌گری، مذهب اشاعره
+asharite	philosophy	اشعری
+four elements	philosophy	(فلسفه) عناصر اربعه، چهار عنصر
+fifth element	philosophy	(فلسفه) عنصر پنجم، اثیر
+sublunary world	philosophy	عالم تحت قمر، عالم کون و فساد
+generation and corruption	philosophy	کون و فساد
+celestial spheres	philosophy	افلاک
+intelligible	philosophy	(فلسفه) معقول
+intelligible world	philosophy	عالم معقول
+sensible world	philosophy	عالم محسوس
+universal concept	philosophy	مفهوم کلی
+particular concept	philosophy	مفهوم جزئی
+univocity of being	philosophy	اشتراک معنوی وجود
+equivocity of being	philosophy	اشتراک لفظی وجود
+univocal	philosophy	(فلسفه) مشترک معنوی، متواطی
+equivocal	philosophy	(فلسفه) مشترک لفظی
+analogy of being	philosophy	آنالوژی وجود، اشتراک تمثیلی وجود (نظریهٔ توماس آکوئینی: وجود نه به اشتراک لفظی و نه به اشتراک معنوی، بلکه به نحو تمثیلی بر خدا و مخلوقات حمل می‌شود؛ قس. تشکیک وجود)
+analogical	philosophy	(فلسفه) تمثیلی، آنالوژیک (در حمل تمثیلی)
+telos	philosophy	تلوس، غایت
+eudaimonia	philosophy	ائودایمونیا، سعادت، نیک‌بختی
+eudaimonic	philosophy	سعادت‌محور، ائودایمونیک
+arete	philosophy	آرته، فضیلت، برتری
+phronesis	philosophy	فرونسیس، حکمت عملی، فرزانگی
+sophia	philosophy	(فلسفه) سوفیا، حکمت نظری
+techne	philosophy	تخنه، فن، صناعت
+poiesis	philosophy	پوئیسیس، ساختن، آفرینش
+theoria	philosophy	تئوریا، نظر، تأمل نظری
+ethos	philosophy	(فلسفه) خلق، منش
+apatheia	philosophy	آپاتئیا، بی‌انفعالی (رواقی)
+aporia	philosophy	حیرت فلسفی، بن‌بست فکری
+aporetic	philosophy	آپوریایی، حیرت‌افزا
+dianoia	philosophy	دیانویا، فکر استدلالی
+ousia	philosophy	اوسیا، جوهر، ذات
+physis	philosophy	فوسیس، طبیعت
+nomos	philosophy	نوموس، قانون، عرف
+arche	philosophy	آرخه، مبدأ، اصل نخستین
+demiurge	philosophy	(فلسفه) دمیورژ، صانع، صانع جهان
+anamnesis	philosophy	(فلسفه) آنامنسیس، یادآوری، تذکار
+theory of forms	philosophy	نظریهٔ مثل، نظریهٔ صور
+platonic forms	philosophy	مثل افلاطونی
+allegory of the cave	philosophy	تمثیل غار
+divided line	philosophy	تمثیل خط منقسم
+agape	philosophy	(فلسفه) آگاپه، محبت
+philia	philosophy	(فلسفه) فیلیا، دوستی
+paideia	philosophy	پایدیا، تربیت (یونانی)
+polis	philosophy	(فلسفه) پولیس، دولت‌شهر
+zoon politikon	philosophy	حیوان سیاسی، انسان مدنی بالطبع
+sophrosyne	philosophy	سوفروسونه، خویشتن‌داری، اعتدال
+hexis	philosophy	هکسیس، ملکه، حالت پایدار
+energeia	philosophy	انرگیا، فعلیت
+dynamis	philosophy	دونامیس، قوه
+eidos	philosophy	ایدوس، صورت، مثال
+methexis	philosophy	متکسیس، بهره‌مندی (از مثل)
+apeiron	philosophy	آپایرون، بی‌کران، نامتعین
+pneuma	philosophy	پنوما، دم، روح
+hypostasis	philosophy	(فلسفه) اقنوم، ذات قائم‌به‌خود
+isosthenia	philosophy	تکافؤ ادله، هم‌وزنی ادله
+tabula rasa	philosophy	لوح سفید، لوح نانوشته، تابولا راسا
+cogito ergo sum	philosophy	می‌اندیشم پس هستم
+cogito	philosophy	کوگیتو، می‌اندیشم
+volksgeist	philosophy	روح ملی، روح قومی
+sub specie aeternitatis	philosophy	از منظر ابدیت
+causa sui	philosophy	علت خود، خودعلت
+natura naturans	philosophy	طبیعت طبیعت‌ساز، طبیعت خلاق
+natura naturata	philosophy	طبیعت طبیعت‌یافته، طبیعت مخلوق
+deus sive natura	philosophy	خدا یا طبیعت
+conatus	philosophy	کوناتوس، کوشش (برای ماندن در هستی)
+amor fati	philosophy	عشق به تقدیر
+esse est percipi	philosophy	بودن یعنی ادراک شدن
+esse	philosophy	(فلسفه) وجود، بودن
+creatio ex nihilo	philosophy	خلق از عدم
+ex nihilo nihil fit	philosophy	از عدم هیچ پدید نمی‌آید
+ex nihilo	philosophy	از عدم، از هیچ
+ex hypothesi	philosophy	بنابر فرض
+credo ut intelligam	philosophy	ایمان می‌آورم تا بفهمم
+fides quaerens intellectum	philosophy	ایمان در جست‌وجوی فهم
+docta ignorantia	philosophy	جهل عالمانه، نادانی آگاهانه
+coincidentia oppositorum	philosophy	جمع اضداد، وحدت اضداد
+via negativa	philosophy	الهیات سلبی، راه سلبی
+negative theology	philosophy	الهیات سلبی
+apophatic	philosophy	سلبی (در الهیات)
+cataphatic	philosophy	ایجابی (در الهیات)
+vita contemplativa	philosophy	زندگی تأملی، حیات نظری
+vita activa	philosophy	زندگی عملی، حیات فعال
+ready-to-hand	philosophy	تودستی، دم‌دستی (هایدگر)
+present-at-hand	philosophy	فرادستی (هایدگر)
+gelassenheit	philosophy	وارستگی، رهاشدگی
+verstehen	philosophy	فهم، تفهم (روش تفهمی)
+gestell	philosophy	گشتل، چارچوب‌بندی (هایدگر)
+aletheia	philosophy	آلتئیا، ناپوشیدگی، حقیقت
+pascal's wager	philosophy	شرط‌بندی پاسکال
+buridan's ass	philosophy	خر بوریدان
+euthyphro dilemma	philosophy	معضل اوثیفرون
+zeno's paradoxes	philosophy	پارادوکس‌های زنون
+experience machine	philosophy	ماشین تجربه
+socratic paradox	philosophy	پارادوکس سقراطی
+know thyself	philosophy	خود را بشناس (اندرز معبد دلفی)

@@ -1,0 +1,750 @@
+geoscience	earth	علوم زمین
+igneous rock	earth	سنگ آذرین
+sedimentary rock	earth	سنگ رسوبی
+metamorphic rock	earth	سنگ دگرگونی
+intrusive rock	earth	سنگ آذرین نفوذی
+extrusive rock	earth	سنگ آذرین بیرونی، سنگ آتشفشانی
+plutonic rock	earth	سنگ آذرین درونی، سنگ پلوتونیک
+volcanic rock	earth	سنگ آتشفشانی
+rock cycle	earth	چرخهٔ سنگ
+parent rock	earth	سنگ مادر
+bedrock	earth	سنگ بستر، سنگ کف
+outcrop	earth	رخنمون
+andesite	earth	آندزیت
+diorite	earth	دیوریت
+peridotite	earth	پریدوتیت
+obsidian	earth	ابسیدین، شیشهٔ آتشفشانی
+pumice	earth	پامیس، سنگ پا، پوکهٔ معدنی
+tuff	earth	توف
+scoria	earth	اسکوری، پوکهٔ آتشفشانی سیاه
+pegmatite	earth	پگماتیت
+porphyry	earth	پورفیری، سنگ پورفیری
+shale	earth	شیل
+siltstone	earth	سیلت‌سنگ
+breccia	earth	برش (سنگ)
+chalk	earth	چاک (سنگ آهکی نرم و سفید)
+chert	earth	چرت
+evaporite	earth	سنگ تبخیری، نهشتهٔ تبخیری
+lignite	earth	لیگنیت، زغال قهوه‌ای
+anthracite	earth	آنتراسیت
+peat	earth	تورب، پیت
+slate	earth	سنگ لوح، اسلیت
+schist	earth	شیست
+phyllite	earth	فیلیت
+hornfels	earth	هورنفلس
+serpentinite	earth	سرپانتینیت
+foliation	earth	برگوارگی
+clastic	earth	آواری
+clastic rock	earth	سنگ آواری
+lithification	earth	سنگ‌شدگی، سنگ‌زایی
+diagenesis	earth	دیاژنز
+deposition	earth	نهشت، رسوب‌گذاری
+alluvium	earth	آبرفت
+alluvial	earth	آبرفتی
+colluvium	earth	واریزه
+loess	earth	لس، خاک بادرفتی
+till	earth	یخرفت، تیل
+grain size	earth	اندازهٔ دانه
+sorting	earth	جورشدگی
+mineralogy	earth	کانی‌شناسی
+mineralogist	earth	کانی‌شناس
+crystal habit	earth	ریخت بلور، عادت بلور
+cleavage	earth	رخ، سطح رخ
+streak	earth	خاکه، رنگ خاکه
+mohs scale	earth	مقیاس موس (سختی کانی‌ها)
+feldspar	earth	فلدسپار
+orthoclase	earth	ارتوکلاز
+biotite	earth	بیوتیت
+muscovite	earth	مسکوویت
+pyroxene	earth	پیروکسن
+amphibole	earth	آمفیبول
+hornblende	earth	هورنبلند
+garnet	earth	گارنت
+gypsum	earth	ژیپس، سنگ گچ
+halite	earth	هالیت، نمک سنگی
+pyrite	earth	پیریت
+talc	earth	تالک
+corundum	earth	کرندوم
+silicate mineral	earth	کانی سیلیکاتی
+clay mineral	earth	کانی رسی
+ore	earth	کانسنگ، سنگ معدن
+ore deposit	earth	کانسار
+gangue	earth	باطله
+placer deposit	earth	کانسار پلاسری
+gemstone	earth	سنگ قیمتی، گوهر
+fossilization	earth	فسیل‌شدگی، سنگواره‌شدگی
+index fossil	earth	سنگوارهٔ راهنما، فسیل شاخص
+trace fossil	earth	اثرفسیل، اثرسنگواره
+fossil record	earth	شواهد سنگواره‌ای، سنگواره‌نگاشت
+plate tectonics	earth	زمین‌ساخت ورقه‌ای، تکتونیک صفحه‌ای
+tectonics	earth	زمین‌ساخت، تکتونیک
+tectonic plate	earth	ورقهٔ زمین‌ساختی، صفحهٔ تکتونیکی
+lithospheric plate	earth	ورقهٔ سنگ‌کره‌ای
+seafloor spreading	earth	گسترش بستر اقیانوس
+plate boundary	earth	مرز ورقه
+divergent boundary	earth	مرز واگرا
+convergent boundary	earth	مرز همگرا
+transform boundary	earth	مرز تراگذر، مرز امتدادلغز
+transform fault	earth	گسل تراگذر، گسل ترادیسی
+subduction zone	earth	پهنهٔ فرورانش، منطقهٔ فرورانش
+mid-ocean ridge	earth	پشتهٔ میان‌اقیانوسی
+oceanic ridge	earth	پشتهٔ اقیانوسی
+ocean trench	earth	گودال اقیانوسی، ترانشهٔ اقیانوسی
+oceanic trench	earth	گودال اقیانوسی
+rift	earth	کافت، ریفت
+rift valley	earth	درهٔ کافتی، درهٔ ریفتی
+rifting	earth	کافت‌زایی
+continental rift	earth	کافت قاره‌ای
+mantle plume	earth	ستون گوشته‌ای، پلوم گوشته
+island arc	earth	کمان جزیره‌ای
+volcanic arc	earth	کمان آتشفشانی
+back-arc basin	earth	حوضهٔ پشت‌کمان
+accretionary wedge	earth	منشور برافزایشی، گوهٔ برافزایشی
+orogeny	earth	کوه‌زایی
+orogenic belt	earth	کمربند کوه‌زایی
+mountain building	earth	کوه‌زایی
+collision zone	earth	پهنهٔ برخورد
+ophiolite	earth	افیولیت
+supercontinent	earth	ابرقاره
+gondwana	earth	گندوانا (ابرقارهٔ کهن جنوبی)
+laurasia	earth	لوراسیا (ابرقارهٔ کهن شمالی)
+craton	earth	کراتون (بخش کهن و پایدار پوستهٔ قاره)
+continental shield	earth	سپر قاره‌ای
+lithosphere	earth	سنگ‌کره، لیتوسفر
+asthenosphere	earth	سست‌کره، آستنوسفر
+continental crust	earth	پوستهٔ قاره‌ای
+oceanic crust	earth	پوستهٔ اقیانوسی
+upper mantle	earth	گوشتهٔ بالایی
+lower mantle	earth	گوشتهٔ پایینی
+outer core	earth	هستهٔ بیرونی
+inner core	earth	هستهٔ درونی
+moho	earth	موهو، ناپیوستگی موهوروویچ
+mohorovicic discontinuity	earth	ناپیوستگی موهوروویچ، موهو
+mantle convection	earth	همرفت گوشته
+isostasy	earth	هم‌ایستایی، ایزوستازی
+isostatic rebound	earth	بازجهش هم‌ایستایی، برخاست ایزوستاتیک
+paleomagnetism	earth	دیرینه‌مغناطیس، مغناطیس دیرینه
+magnetic reversal	earth	وارونگی مغناطیسی
+geomagnetic reversal	earth	وارونگی میدان مغناطیسی زمین
+geomagnetism	earth	زمین‌مغناطیس، مغناطیس زمین
+stratigrapher	earth	چینه‌شناس
+strata	earth	(جمعِ stratum) چینه‌ها، لایه‌ها
+bedding plane	earth	سطح لایه‌بندی
+cross-bedding	earth	چینه‌بندی مورب، لایه‌بندی متقاطع
+graded bedding	earth	لایه‌بندی تدریجی
+lamination	earth	لامیناسیون، لایه‌بندی نازک
+geological formation	earth	سازند زمین‌شناسی
+lithostratigraphy	earth	سنگ‌چینه‌نگاری
+biostratigraphy	earth	زیست‌چینه‌نگاری
+chronostratigraphy	earth	زمان‌چینه‌نگاری
+law of superposition	earth	اصل برهم‌نهی لایه‌ها، قانون برهم‌نهی
+original horizontality	earth	اصل افقی بودن اولیهٔ لایه‌ها
+cross-cutting relationships	earth	اصل روابط قطع‌شدگی
+unconformity	earth	ناپیوستگی چینه‌ای، دگرشیبی
+angular unconformity	earth	دگرشیبی زاویه‌دار
+disconformity	earth	دگرشیبی موازی، ناپیوستگی موازی (سطح فرسایشی میان لایه‌های رسوبی موازی)
+nonconformity	earth	دگرشیبی آذرین، ناپیوستگی آذرین (رسوب روی سنگ آذرین یا دگرگونی)
+relative dating	earth	سن‌یابی نسبی
+absolute dating	earth	سن‌یابی مطلق
+radiometric dating	earth	سن‌یابی پرتوسنجی، سن‌سنجی رادیومتری
+radiocarbon dating	earth	سن‌یابی با کربن ۱۴، سن‌یابی رادیوکربنی
+geochronology	earth	ژئوکرونولوژی، سن‌سنجی زمین‌شناختی
+geologic time scale	earth	مقیاس زمان زمین‌شناسی
+geological time scale	earth	مقیاس زمان زمین‌شناسی
+deep time	earth	زمان ژرف (زمان زمین‌شناختی)
+eon	earth	ابردوران
+epoch	earth	دور، عهد (واحد زمان زمین‌شناسی)
+precambrian	earth	پرکامبرین
+paleozoic	earth	پالئوزوئیک، دوران اول (دیرینه‌زیستی)
+mesozoic	earth	مزوزوئیک، دوران دوم (میانه‌زیستی)
+devonian	earth	دونین
+carboniferous	earth	کربونیفر
+permian	earth	پرمین
+cretaceous	earth	کرتاسه
+paleogene	earth	پالئوژن
+quaternary	earth	کواترنری
+tertiary	earth	ترشیاری، دوران سوم
+mass extinction	earth	انقراض جمعی، انقراض گروهی
+structural geology	earth	زمین‌شناسی ساختمانی
+fault plane	earth	سطح گسل
+fault zone	earth	پهنهٔ گسلی
+fault scarp	earth	پرتگاه گسلی
+normal fault	earth	گسل عادی، گسل نرمال
+reverse fault	earth	گسل معکوس
+thrust fault	earth	گسل رانده، گسل راندگی
+thrust	earth	راندگی
+strike-slip fault	earth	گسل امتدادلغز
+oblique-slip fault	earth	گسل مورب‌لغز
+active fault	earth	گسل فعال
+hanging wall	earth	فرادیواره، دیوارهٔ بالایی گسل
+footwall	earth	فرودیواره، دیوارهٔ پایینی گسل
+horst	earth	هورست، فرازمین
+graben	earth	گرابن، فروزمین
+strike	earth	امتداد (لایه یا گسل)
+strike and dip	earth	امتداد و شیب
+monocline	earth	تک‌شیب، مونوکلاین
+fold axis	earth	محور چین
+fold limb	earth	یال چین
+axial plane	earth	سطح محوری
+recumbent fold	earth	چین خوابیده
+overturned fold	earth	چین برگشته
+plunging fold	earth	چین میل‌دار
+salt dome	earth	گنبد نمکی
+diapir	earth	دیاپیر (تودهٔ بالاآمده مانند گنبد نمکی)
+nappe	earth	سفرهٔ رورانده، ناپ
+jointing	earth	درزه‌داری، درزه‌خوردگی
+ductile deformation	earth	دگرشکلی شکل‌پذیر
+brittle deformation	earth	دگرشکلی شکننده
+shear zone	earth	پهنهٔ برشی
+uplift	earth	بالاآمدگی، برخاستگی
+geomorphology	earth	ژئومورفولوژی، زمین‌ریخت‌شناسی
+landform	earth	لندفرم، شکل زمین، عارضهٔ زمین
+physical weathering	earth	هوازدگی فیزیکی
+mechanical weathering	earth	هوازدگی مکانیکی
+frost wedging	earth	یخ‌شکافت، گوه‌زنی یخ
+exfoliation	earth	پوسته‌پوسته شدن، ورقه‌ورقه شدن (سنگ)
+mass wasting	earth	حرکت دامنه‌ای، جابه‌جایی توده‌ای
+mass movement	earth	حرکت توده‌ای
+rockfall	earth	سنگ‌ریزش
+mudflow	earth	گل‌روانه، جریان گلی
+debris flow	earth	جریان واریزه‌ای
+soil creep	earth	خزش خاک
+slump	earth	لغزش چرخشی
+talus	earth	واریزه، سنگ‌ریزهٔ دامنه
+scree	earth	واریزه
+water erosion	earth	فرسایش آبی
+sheet erosion	earth	فرسایش ورقه‌ای
+gully	earth	آبکند، خندق
+denudation	earth	برهنه‌سازی، فرسایش سطحی
+aeolian	earth	بادی
+eolian	earth	بادی
+sand dune	earth	تپهٔ ماسه‌ای، تلماسه
+dune	earth	تلماسه، تپهٔ شنی
+barchan	earth	برخان
+yardang	earth	یاردانگ، کلوت
+playa	earth	پلایا، دشت رسی
+inselberg	earth	کوه جزیره‌ای، اینزلبرگ
+mesa	earth	مسا، فلات کوچک میزی
+butte	earth	تپهٔ میزی کوچک
+escarpment	earth	پرتگاه
+river terrace	earth	پادگانهٔ رودخانه‌ای، پادگانهٔ آبرفتی
+meander	earth	پیچان‌رود، مئاندر
+oxbow lake	earth	دریاچهٔ نعل‌اسبی
+estuary	earth	مصب، خور
+levee	earth	خاکریز طبیعی، دیوارهٔ کناررود
+braided river	earth	رود شریانی، رود گیسویی
+canyon	earth	کانیون
+v-shaped valley	earth	درهٔ V شکل
+u-shaped valley	earth	درهٔ U شکل، درهٔ ناوی‌شکل
+watershed divide	earth	خط تقسیم آب
+peneplain	earth	دشت‌گون، پنه‌پلن
+karst topography	earth	توپوگرافی کارستی، چشم‌انداز کارستی
+sinkhole	earth	فروچاله، چاهک کارستی
+doline	earth	دولین، فروچاله
+stalactite	earth	چکنده، استالاکتیت
+stalagmite	earth	چکیده، استالاگمیت
+speleothem	earth	غارسنگ، اسپلئوتم
+glaciation	earth	یخبندان، یخچال‌زایی
+glaciology	earth	یخچال‌شناسی
+cirque	earth	سیرک، چالهٔ یخچالی
+moraine	earth	مورن، یخرفت
+terminal moraine	earth	مورن پایانی
+lateral moraine	earth	مورن کناری
+drumlin	earth	درملین
+esker	earth	اسکر
+erratic	earth	تخته‌سنگ سرگردان
+glacial erratic	earth	تخته‌سنگ سرگردان یخچالی
+fjord	earth	فیورد
+arete	earth	تیغهٔ یخچالی، آرت
+horn	earth	هورن، قلهٔ هرمی یخچالی
+ice sheet	earth	ورقهٔ یخی، یخ‌پوش قاره‌ای
+ice shelf	earth	سکوی یخی
+permafrost	earth	پرمافراست، یخ‌بندان دائمی
+periglacial	earth	مجاور یخچالی، پیرایخچالی
+interglacial	earth	میان‌یخچالی
+coastal erosion	earth	فرسایش ساحلی
+sea cliff	earth	پرتگاه دریایی، صخرهٔ ساحلی
+wave-cut platform	earth	سکوی موج‌بر
+sea stack	earth	ستون دریایی
+spit	earth	زبانهٔ ماسه‌ای
+sandbar	earth	پشتهٔ ماسه‌ای
+barrier island	earth	جزیرهٔ سدی
+lagoon	earth	تالاب ساحلی، لاگون
+tombolo	earth	تومبولو، زبانهٔ پیونددهنده
+volcanologist	earth	آتشفشان‌شناس
+active volcano	earth	آتشفشان فعال
+dormant volcano	earth	آتشفشان نیمه‌فعال، آتشفشان خفته
+extinct volcano	earth	آتشفشان خاموش
+shield volcano	earth	آتشفشان سپری
+stratovolcano	earth	آتشفشان چینه‌ای، آتشفشان مرکب
+composite volcano	earth	آتشفشان مرکب، آتشفشان چینه‌ای
+cinder cone	earth	مخروط خاکستری، مخروط اسکوری
+volcanic cone	earth	مخروط آتشفشانی
+vent	earth	دهانهٔ آتشفشانی، مجرای خروجی
+fissure eruption	earth	فوران شکافی
+volcanic eruption	earth	فوران آتشفشانی
+explosive eruption	earth	فوران انفجاری
+effusive eruption	earth	فوران آرام، فوران روانه‌ای
+plinian eruption	earth	فوران پلینی
+magma chamber	earth	آشیانهٔ ماگمایی، مخزن ماگما
+lava flow	earth	روانهٔ گدازه
+pillow lava	earth	گدازهٔ بالشی
+pahoehoe	earth	پاهوهو (گدازهٔ طنابی)
+lava tube	earth	تونل گدازه
+lava dome	earth	گنبد گدازه‌ای
+pyroclastic	earth	آذرآواری
+pyroclastic flow	earth	جریان آذرآواری
+pyroclastic material	earth	مواد آذرآواری
+tephra	earth	تفرا، مواد آذرآواری
+volcanic ash	earth	خاکستر آتشفشانی
+volcanic bomb	earth	بمب آتشفشانی
+lapilli	earth	لاپیلی
+lahar	earth	لاهار، گل‌روانهٔ آتشفشانی
+volcanic gas	earth	گاز آتشفشانی
+fumarole	earth	فومرول، دودخان
+geothermal gradient	earth	شیب زمین‌گرمایی
+dike	earth	دایک
+dyke	earth	دایک
+sill	earth	سیل (تودهٔ نفوذی افقی)
+pluton	earth	پلوتون، تودهٔ نفوذی
+intrusion	earth	نفوذ، تودهٔ نفوذی
+volcanism	earth	فعالیت آتشفشانی، ولکانیسم
+volcanic activity	earth	فعالیت آتشفشانی
+ring of fire	earth	حلقهٔ آتش، کمربند آتش (کمربند آتشفشانی و لرزه‌ای پیرامون اقیانوس آرام)
+seismologist	earth	لرزه‌شناس
+quake	earth	زمین‌لرزه، زلزله
+tremor	earth	لرزه، لرزش خفیف زمین
+foreshock	earth	پیش‌لرزه
+mainshock	earth	لرزهٔ اصلی
+main shock	earth	لرزهٔ اصلی
+earthquake swarm	earth	زمین‌لرزه‌های دسته‌ای، دسته‌لرزه
+hypocenter	earth	کانون زمین‌لرزه، کانون ژرفی
+focal depth	earth	عمق کانونی
+seismic wave	earth	موج لرزه‌ای
+body wave	earth	موج حجمی
+surface wave	earth	موج سطحی
+p-wave	earth	موج P، موج اولیه
+s-wave	earth	موج S، موج ثانویه
+primary wave	earth	موج اولیه، موج P
+secondary wave	earth	موج ثانویه، موج S
+love wave	earth	موج لاو
+rayleigh wave	earth	موج ریلی
+shadow zone	earth	منطقهٔ سایه (لرزه‌ای)
+seismometer	earth	لرزه‌سنج
+moment magnitude	earth	بزرگای گشتاوری
+moment magnitude scale	earth	مقیاس بزرگای گشتاوری
+mercalli scale	earth	مقیاس مرکالی
+seismic hazard	earth	خطر لرزه‌ای
+seismic risk	earth	ریسک لرزه‌ای، خطرپذیری لرزه‌ای
+seismicity	earth	لرزه‌خیزی
+seismic zone	earth	پهنهٔ لرزه‌ای
+earthquake-prone	earth	زلزله‌خیز، لرزه‌خیز
+liquefaction	earth	روانگرایی (خاک)
+ground motion	earth	جنبش زمین
+peak ground acceleration	earth	بیشینهٔ شتاب زمین
+elastic rebound	earth	بازگشت کشسان
+seismic gap	earth	شکاف لرزه‌ای
+microzonation	earth	ریزپهنه‌بندی
+seismic microzonation	earth	ریزپهنه‌بندی لرزه‌ای
+early warning system	earth	سامانهٔ هشدار زودهنگام
+atmospheric science	earth	علوم جو
+tropopause	earth	وردایست، تروپوپوز
+stratopause	earth	پوشن‌ایست، استراتوپوز
+exosphere	earth	برون‌سپهر، اگزوسفر
+ionosphere	earth	یون‌سپهر، یونوسفر
+ozone depletion	earth	کاهش ازن، تخریب لایهٔ ازن
+weather front	earth	جبههٔ هوا
+occluded front	earth	جبههٔ بسته
+stationary front	earth	جبههٔ ساکن
+frontal system	earth	سامانهٔ جبهه‌ای
+low pressure	earth	کم‌فشار، فشار کم
+high-pressure system	earth	سامانهٔ پرفشار
+low-pressure system	earth	سامانهٔ کم‌فشار
+anticyclone	earth	واچرخند، پرفشار، آنتی‌سیکلون
+extratropical cyclone	earth	چرخند برون‌حاره‌ای
+tropical cyclone	earth	چرخند حاره‌ای
+trough	earth	ناوه (کم‌فشار)
+pressure gradient	earth	شیو فشار، گرادیان فشار
+coriolis effect	earth	اثر کوریولیس
+jet stream	earth	رودباد، جریان جتی
+trade winds	earth	بادهای تجاری، بادهای بسامان
+westerlies	earth	بادهای غربی
+land breeze	earth	نسیم خشکی
+foehn	earth	باد فون
+katabatic wind	earth	باد کاتاباتیک، باد فروشیب
+inversion	earth	وارونگی دما
+lapse rate	earth	آهنگ کاهش دما با ارتفاع
+advection	earth	فرارفت
+dew point	earth	نقطهٔ شبنم
+cumulus	earth	کومولوس، ابر کومه‌ای
+cumulonimbus	earth	کومولونیمبوس، ابر کومه‌ای باران‌زا
+stratus	earth	استراتوس، ابر لایه‌ای
+stratocumulus	earth	استراتوکومولوس
+nimbostratus	earth	نیمبواستراتوس
+cirrus	earth	سیروس، ابر پرمانند
+cirrostratus	earth	سیرواستراتوس
+cirrocumulus	earth	سیروکومولوس
+altostratus	earth	آلتواستراتوس
+altocumulus	earth	آلتوکومولوس
+cloud cover	earth	پوشش ابر، ابرناکی
+anvil cloud	earth	ابر سندانی
+snowfall	earth	بارش برف
+freezing rain	earth	باران یخ‌زن
+mist	earth	مه رقیق، غبارمه
+haze	earth	غبار رقیق، کدری هوا (ناشی از ذرات معلق)
+dust storm	earth	توفان گرد و خاک
+sandstorm	earth	توفان شن
+squall	earth	تندباد
+squall line	earth	خط تندباد
+tornado	earth	گردباد قیفی، تورنادو
+eye of the storm	earth	چشم توفان
+eyewall	earth	دیوارهٔ چشم توفان
+storm surge	earth	خیزاب توفان، کشند توفان
+cold wave	earth	موج سرما
+cold snap	earth	موج سرمای ناگهانی
+weather forecast	earth	پیش‌بینی هوا، پیش‌بینی وضع هوا
+weather forecasting	earth	پیش‌بینی هوا
+numerical weather prediction	earth	پیش‌بینی عددی وضع هوا
+synoptic meteorology	earth	هواشناسی همدید
+synoptic	earth	همدیدی، سینوپتیک
+weather balloon	earth	بالن هواشناسی
+radiosonde	earth	رادیوسوند
+weather satellite	earth	ماهوارهٔ هواشناسی
+weather radar	earth	رادار هواشناسی
+psychrometer	earth	سایکرومتر، رطوبت‌سنج (با دماسنج‌های خشک و مرطوب)
+stevenson screen	earth	جعبهٔ استیونسن، اسکرین هواشناسی (پناهگاه دماسنج‌ها)
+beaufort scale	earth	مقیاس بوفورت
+wind chill	earth	سوز باد، دمای احساسی ناشی از باد
+heat index	earth	شاخص گرما
+microclimate	earth	خرداقلیم، ریزاقلیم
+mesoscale	earth	میان‌مقیاس
+climate zone	earth	منطقهٔ اقلیمی، پهنهٔ آب‌وهوایی
+climate classification	earth	طبقه‌بندی اقلیمی
+koppen climate classification	earth	طبقه‌بندی اقلیمی کوپن
+arid climate	earth	اقلیم خشک
+semi-arid	earth	نیمه‌خشک
+semi-arid climate	earth	اقلیم نیمه‌خشک
+humid climate	earth	اقلیم مرطوب
+mediterranean climate	earth	اقلیم مدیترانه‌ای
+tropical climate	earth	اقلیم حاره‌ای، اقلیم گرمسیری
+polar climate	earth	اقلیم قطبی
+paleoclimate	earth	دیرینه‌اقلیم
+paleoclimatology	earth	دیرینه‌اقلیم‌شناسی
+ice core	earth	مغزهٔ یخ
+proxy data	earth	داده‌های نیابتی، داده‌های جانشین (اقلیمی)
+global cooling	earth	سرمایش جهانی
+greenhouse gas emissions	earth	انتشار گازهای گلخانه‌ای
+carbon dioxide emissions	earth	انتشار دی‌اکسید کربن
+methane emissions	earth	انتشار متان
+radiative forcing	earth	واداشت تابشی
+climate forcing	earth	واداشت اقلیمی
+climate sensitivity	earth	حساسیت اقلیمی
+albedo	earth	آلبدو، سپیدایی، بازتاب‌پذیری
+ice-albedo feedback	earth	بازخورد یخ-سپیدایی
+climate tipping point	earth	نقطهٔ بی‌بازگشت اقلیمی، نقطهٔ گذار اقلیمی
+carbon source	earth	منبع کربن
+net-zero emissions	earth	انتشار خالص صفر
+low-carbon economy	earth	اقتصاد کم‌کربن
+carbon sequestration	earth	ترسیب کربن، جذب و ذخیرهٔ کربن
+carbon storage	earth	ذخیره‌سازی کربن
+emission reduction	earth	کاهش انتشار
+emissions target	earth	هدف کاهش انتشار
+mitigation	earth	کاهش اثرات تغییر اقلیم، کاهش انتشار، تعدیل
+climate resilience	earth	تاب‌آوری اقلیمی
+climate risk	earth	ریسک اقلیمی، خطر اقلیمی
+general circulation model	earth	مدل گردش عمومی
+climate projection	earth	پیش‌نگری اقلیمی، تصویرسازی اقلیمی
+emission scenario	earth	سناریوی انتشار
+climate scenario	earth	سناریوی اقلیمی
+extreme weather event	earth	رویداد حدی آب‌وهوایی
+sea-level rise	earth	بالا آمدن سطح دریا، افزایش تراز آب دریا
+glacial retreat	earth	عقب‌نشینی یخچال‌ها
+ocean warming	earth	گرمایش اقیانوس
+heat island	earth	جزیرهٔ گرمایی
+aridification	earth	خشکی‌زایی
+climate refugee	earth	پناهندهٔ اقلیمی
+climate finance	earth	تأمین مالی اقلیمی
+climate policy	earth	سیاست اقلیمی
+nationally determined contribution	earth	مشارکت ملی معین
+solar radiation management	earth	مدیریت تابش خورشیدی
+enso	earth	El Niño–Southern Oscillation؛ انسو، نوسان جنوبی ال‌نینو
+el nino southern oscillation	earth	نوسان جنوبی ال‌نینو، انسو
+north atlantic oscillation	earth	نوسان اطلس شمالی
+teleconnection	earth	پیوند از دور، دورپیوند
+milankovitch cycles	earth	چرخه‌های میلانکوویچ
+insolation	earth	تابش خورشیدی دریافتی، آفتاب‌گیری
+solar radiation	earth	تابش خورشیدی
+infrared radiation	earth	تابش فروسرخ
+energy balance	earth	تراز انرژی
+radiation budget	earth	بودجهٔ تابشی، بیلان تابشی
+aerosol	earth	هواویز، آئروسل
+physical oceanography	earth	اقیانوس‌شناسی فیزیکی
+marine geology	earth	زمین‌شناسی دریایی
+surface current	earth	جریان سطحی
+deep-water current	earth	جریان آب‌های ژرف
+gyre	earth	چرخاب اقیانوسی، گردش چرخشی
+ocean gyre	earth	چرخاب اقیانوسی
+thermohaline circulation	earth	گردش گرما-شوری، گردش ترموهالاین
+meridional overturning circulation	earth	گردش واژگونی نصف‌النهاری
+global conveyor belt	earth	نوار نقالهٔ جهانی اقیانوس (گردش ترموهالاین)
+ekman transport	earth	ترابرد اکمن
+ekman spiral	earth	مارپیچ اکمن
+upwelling	earth	فراجوشی، بالاآمدگی آب
+downwelling	earth	فروجوشی، فرونشینی آب
+boundary current	earth	جریان مرزی
+western boundary current	earth	جریان مرزی غربی
+rip current	earth	جریان شکافنده، جریان برگشتی ساحلی
+longshore current	earth	جریان کرانه‌ای
+longshore drift	earth	رانش کرانه‌ای
+low tide	earth	جزر
+spring tide	earth	مهکشند، کشند بیشینه (هنگام ماه نو و ماه کامل)
+tidal range	earth	دامنهٔ کشند، دامنهٔ جزر و مد
+intertidal zone	earth	پهنهٔ بین‌کشندی، منطقهٔ بین جزر و مدی
+tidal flat	earth	پهنهٔ کشندی
+halocline	earth	هالوکلاین (لایه‌ای که شوری آب در آن با عمق به‌سرعت تغییر می‌کند)
+pycnocline	earth	پیکنوکلاین (لایه‌ای که چگالی آب در آن با عمق به‌سرعت تغییر می‌کند)
+mixed layer	earth	لایهٔ آمیخته
+sea surface temperature	earth	دمای سطح دریا
+seawater	earth	آب دریا
+brackish water	earth	آب لب‌شور
+continental rise	earth	خیز قاره
+continental margin	earth	حاشیهٔ قاره
+passive margin	earth	حاشیهٔ غیرفعال
+active margin	earth	حاشیهٔ فعال
+abyssal plain	earth	دشت مغاکی، جلگهٔ ژرف
+abyssal	earth	مغاکی، ژرف‌دریایی
+abyssal zone	earth	منطقهٔ مغاکی
+bathyal zone	earth	منطقهٔ باتیال، منطقهٔ نیم‌ژرف
+hadal zone	earth	منطقهٔ هادال (ژرف‌ترین)
+pelagic zone	earth	منطقهٔ دریای آزاد، پهنهٔ پلاژیک
+benthic zone	earth	منطقهٔ کفزی
+photic zone	earth	منطقهٔ نوری
+aphotic zone	earth	منطقهٔ بی‌نور
+euphotic zone	earth	منطقهٔ نورانی
+neritic zone	earth	منطقهٔ نریتیک، منطقهٔ کم‌ژرفای ساحلی
+guyot	earth	کوه دریایی تخت‌سر، گایوت
+submarine canyon	earth	درهٔ زیردریایی
+hydrothermal vent	earth	دهانهٔ گرمابی، چشمهٔ گرمابی زیردریایی
+black smoker	earth	دودکش سیاه (دهانهٔ گرمابی)
+bathymetry	earth	ژرفاسنجی، عمق‌سنجی
+marine sediment	earth	رسوب دریایی
+ooze	earth	لجن دریایی، اوز
+turbidity current	earth	جریان گل‌آلود، جریان توربیدیتی
+turbidite	earth	توربیدیت
+atoll	earth	آتول، جزیرهٔ مرجانی حلقوی
+swell	earth	خیزاب، موج دورآ
+wave height	earth	ارتفاع موج
+breaker	earth	موج شکننده
+storm wave	earth	موج توفانی
+pack ice	earth	یخ دریایی فشرده
+marine heatwave	earth	موج گرمای دریایی
+hydrology	earth	آب‌شناسی، هیدرولوژی
+hydrologist	earth	آب‌شناس، هیدرولوژیست
+hydrogeology	earth	هیدروژئولوژی، آب‌زمین‌شناسی
+hydrological cycle	earth	چرخهٔ آب، چرخهٔ هیدرولوژیکی
+infiltration rate	earth	سرعت نفوذ
+percolation	earth	تراوش، نفوذ عمقی
+surface runoff	earth	رواناب سطحی
+overland flow	earth	جریان سطحی
+streamflow	earth	جریان رودخانه، دبی رود
+baseflow	earth	جریان پایه
+hydrograph	earth	آب‌نمود، هیدروگراف
+unit hydrograph	earth	آب‌نمود واحد
+flood frequency	earth	فراوانی سیلاب
+return period	earth	دورهٔ بازگشت
+drainage basin	earth	حوضهٔ آبریز
+catchment	earth	حوضهٔ آبریز
+catchment area	earth	حوضهٔ آبریز
+river basin	earth	حوضهٔ رودخانه
+drainage divide	earth	خط تقسیم آب
+drainage pattern	earth	الگوی زهکشی
+drainage density	earth	تراکم زهکشی
+tributary	earth	شاخهٔ فرعی، رود فرعی
+headwater	earth	سرشاخه
+confluence	earth	محل تلاقی رودها
+stream order	earth	رتبهٔ آبراهه
+confined aquifer	earth	آبخوان محبوس، آبخوان تحت فشار
+unconfined aquifer	earth	آبخوان آزاد
+aquitard	earth	لایهٔ نیمه‌تراوا، آکی‌تارد (لایه‌ای که آب را به‌کندی از خود عبور می‌دهد)
+aquiclude	earth	لایهٔ ناتراوا، آکی‌کلود (لایه‌ای که آب را در خود دارد ولی عبور نمی‌دهد)
+groundwater recharge	earth	تغذیهٔ آب زیرزمینی، تغذیهٔ آبخوان
+recharge area	earth	ناحیهٔ تغذیه
+groundwater depletion	earth	افت آب زیرزمینی، تخلیهٔ آبخوان
+overdraft	earth	برداشت بی‌رویه (آب زیرزمینی)
+unsaturated zone	earth	منطقهٔ غیراشباع
+vadose zone	earth	منطقهٔ وادوز، منطقهٔ غیراشباع
+capillary fringe	earth	حاشیهٔ مویینه
+hydraulic conductivity	earth	هدایت هیدرولیکی، رسانایی هیدرولیکی
+hydraulic head	earth	بار هیدرولیکی، بار آبی
+cone of depression	earth	مخروط افت
+artesian well	earth	چاه آرتزین
+artesian	earth	آرتزین (آب تحت فشار)
+well	earth	چاه
+spring discharge	earth	آبدهی چشمه
+water budget	earth	بودجهٔ آبی، بیلان آب
+water resources	earth	منابع آب
+water security	earth	امنیت آبی
+sedimentation rate	earth	نرخ رسوب‌گذاری
+sediment load	earth	بار رسوبی
+suspended load	earth	بار معلق
+bed load	earth	بار بستر
+soil science	earth	خاک‌شناسی
+pedology	earth	خاک‌شناسی، پدولوژی
+soil profile	earth	نیمرخ خاک، پروفیل خاک
+soil horizon	earth	افق خاک
+topsoil	earth	خاک سطحی، خاک رویی
+subsoil	earth	خاک زیرین، زیرخاک
+humus	earth	هوموس، گیاخاک
+organic matter	earth	مادهٔ آلی
+soil texture triangle	earth	مثلث بافت خاک
+silt	earth	سیلت، لای
+loam	earth	لوم، خاک لومی
+soil salinization	earth	شور شدن خاک
+alkalinity	earth	قلیاییت
+soil degradation	earth	تخریب خاک
+cation exchange capacity	earth	ظرفیت تبادل کاتیونی
+soil formation	earth	خاک‌زایی، تشکیل خاک
+pedogenesis	earth	خاک‌زایی
+soil classification	earth	طبقه‌بندی خاک
+soil taxonomy	earth	رده‌بندی خاک
+laterite	earth	لاتریت
+podzol	earth	پودزول
+chernozem	earth	چرنوزم
+regolith	earth	رگولیت، سنگ‌پوش
+parent material	earth	مادهٔ مادری
+soil biota	earth	موجودات زندهٔ خاک، زیستمندان خاک
+ecosystem services	earth	خدمات اکوسیستمی، خدمات بوم‌سازگان
+microhabitat	earth	ریززیستگاه
+ecological niche	earth	آشیان بوم‌شناختی، آشیان اکولوژیک
+population ecology	earth	بوم‌شناسی جمعیت
+community ecology	earth	بوم‌شناسی اجتماع
+landscape ecology	earth	بوم‌شناسی سیمای سرزمین
+biotic	earth	زیستی
+biotic factor	earth	عامل زیستی
+abiotic factor	earth	عامل غیرزیستی
+trophic level	earth	سطح غذایی، سطح تغذیه‌ای
+trophic cascade	earth	آبشار غذایی
+primary producer	earth	تولیدکنندهٔ اولیه
+primary consumer	earth	مصرف‌کنندهٔ اول
+secondary consumer	earth	مصرف‌کنندهٔ دوم
+tertiary consumer	earth	مصرف‌کنندهٔ سوم
+detritivore	earth	ریزه‌خوار
+predator-prey relationship	earth	رابطهٔ شکارگر و شکار
+commensalism	earth	همسفرگی
+interspecific competition	earth	رقابت میان‌گونه‌ای
+intraspecific competition	earth	رقابت درون‌گونه‌ای
+competitive exclusion	earth	طرد رقابتی، حذف رقابتی
+logistic growth	earth	رشد لجستیک
+indicator species	earth	گونهٔ شاخص
+flagship species	earth	گونهٔ پرچم‌دار
+umbrella species	earth	گونهٔ چتری
+alien species	earth	گونهٔ غیربومی، گونهٔ بیگانه
+endemic species	earth	گونهٔ بومزاد، گونهٔ اندمیک
+endemic	earth	بومزاد، اندمیک
+pioneer species	earth	گونهٔ پیشگام
+ecological succession	earth	توالی بوم‌شناختی
+primary succession	earth	توالی نخستین
+secondary succession	earth	توالی ثانویه
+climax community	earth	اجتماع اوج
+seral stage	earth	مرحلهٔ توالی
+biodiversity hotspot	earth	کانون تنوع زیستی
+species richness	earth	غنای گونه‌ای
+species diversity	earth	تنوع گونه‌ای
+genetic diversity	earth	تنوع ژنتیکی
+ecosystem diversity	earth	تنوع بوم‌سازگانی
+primary productivity	earth	تولید اولیه، تولید نخستین
+net primary productivity	earth	تولید خالص اولیه
+gross primary productivity	earth	تولید ناخالص اولیه
+ecological pyramid	earth	هرم بوم‌شناختی
+energy pyramid	earth	هرم انرژی
+nutrient cycling	earth	چرخهٔ مواد مغذی
+biogeochemical cycle	earth	چرخهٔ زیست‌زمین‌شیمیایی
+nitrogen cycle	earth	چرخهٔ نیتروژن
+phosphorus cycle	earth	چرخهٔ فسفر
+eutrophication	earth	پرغذایی، اوتروفیکاسیون
+edge effect	earth	اثر حاشیه، اثر لبه
+ecotone	earth	بوم‌گذر، اکوتون
+habitat fragmentation	earth	چندپارگی زیستگاه، تکه‌تکه شدن زیستگاه
+habitat loss	earth	از دست رفتن زیستگاه، تخریب زیستگاه
+wildlife corridor	earth	دالان حیات‌وحش، کریدور زیستی
+ecosystem engineer	earth	مهندس بوم‌سازگان
+boreal forest	earth	جنگل شمالگان، جنگل بوریال، تایگا
+tropical rainforest	earth	جنگل بارانی حاره‌ای
+temperate forest	earth	جنگل معتدل
+deciduous forest	earth	جنگل خزان‌کننده
+grassland	earth	علفزار، مرتع
+steppe	earth	استپ
+mangrove forest	earth	جنگل حرا، جنگل مانگرو
+estuarine	earth	مصبی، وابسته به مصب و خور
+riparian	earth	کنارآبی، ساحلی (رودخانه)
+riparian zone	earth	منطقهٔ کنارآبی
+environmental science	earth	علوم محیط زیست
+conservation biology	earth	زیست‌شناسی حفاظت
+nature conservation	earth	حفاظت از طبیعت
+wildlife conservation	earth	حفاظت از حیات وحش
+wildlife refuge	earth	پناهگاه حیات وحش
+wildlife sanctuary	earth	پناهگاه حیات وحش
+marine protected area	earth	منطقهٔ حفاظت‌شدهٔ دریایی
+threatened species	earth	گونهٔ در معرض تهدید
+vulnerable species	earth	گونهٔ آسیب‌پذیر
+red list	earth	فهرست سرخ
+extinct in the wild	earth	منقرض در طبیعت
+captive breeding	earth	تکثیر در اسارت
+habitat restoration	earth	احیای زیستگاه
+ecological restoration	earth	احیای بوم‌شناختی
+overexploitation	earth	بهره‌برداری بی‌رویه
+land-use change	earth	تغییر کاربری زمین
+environmental impact	earth	اثر زیست‌محیطی، پیامد زیست‌محیطی
+environmental policy	earth	سیاست زیست‌محیطی
+environmental law	earth	حقوق محیط زیست
+environmental protection	earth	حفاظت محیط زیست
+environmental management	earth	مدیریت محیط زیست
+environmental monitoring	earth	پایش محیط زیست
+environmental degradation	earth	تخریب محیط زیست
+environmental justice	earth	عدالت زیست‌محیطی
+polluter pays principle	earth	اصل پرداخت آلوده‌کننده
+precautionary principle	earth	اصل احتیاط
+natural resource	earth	منبع طبیعی
+renewable resource	earth	منبع تجدیدپذیر
+nonrenewable resource	earth	منبع تجدیدناپذیر
+non-renewable resource	earth	منبع تجدیدناپذیر
+wind energy	earth	انرژی بادی
+tidal energy	earth	انرژی کشندی، انرژی جزر و مدی
+wave energy	earth	انرژی موج
+bioenergy	earth	زیست‌انرژی، انرژی زیستی
+fossil fuels	earth	سوخت‌های فسیلی
+soil pollution	earth	آلودگی خاک
+soil contamination	earth	آلودگی خاک
+marine pollution	earth	آلودگی دریایی
+point source pollution	earth	آلودگی نقطه‌ای
+nonpoint source pollution	earth	آلودگی غیرنقطه‌ای
+emissions	earth	انتشار (آلاینده‌ها)، گسیل
+fine dust	earth	ریزگرد
+acid deposition	earth	نهشت اسیدی
+photochemical smog	earth	مه‌دود فتوشیمیایی
+ground-level ozone	earth	ازن سطحی، ازن تروپوسفری
+heavy metals	earth	فلزات سنگین
+bioaccumulation	earth	انباشت زیستی، تجمع زیستی
+biomagnification	earth	بزرگ‌نمایی زیستی
+persistent organic pollutant	earth	آلایندهٔ آلی پایدار
+solid waste	earth	پسماند جامد
+municipal solid waste	earth	پسماند جامد شهری
+sanitary landfill	earth	دفن بهداشتی پسماند
+leachate	earth	شیرابه
+incineration	earth	زباله‌سوزی، سوزاندن پسماند
+waste-to-energy	earth	تبدیل پسماند به انرژی
+electronic waste	earth	پسماند الکترونیکی
+wastewater treatment	earth	تصفیهٔ فاضلاب
+effluent	earth	پساب
+bioremediation	earth	زیست‌پالایی
+phytoremediation	earth	گیاه‌پالایی
+reduce reuse recycle	earth	کاهش، استفادهٔ مجدد، بازیافت
+biodegradation	earth	تجزیهٔ زیستی، زیست‌تخریبی
+environmental footprint	earth	ردپای زیست‌محیطی
+virtual water	earth	آب مجازی
+environmental sustainability	earth	پایداری زیست‌محیطی
+natural hazard	earth	مخاطرهٔ طبیعی
+natural disaster	earth	بلای طبیعی، سانحهٔ طبیعی
+disaster risk reduction	earth	کاهش خطر بلایا
+hazard map	earth	نقشهٔ خطر، نقشهٔ مخاطره
+geographic information system	earth	سامانهٔ اطلاعات جغرافیایی، جی‌آی‌اس

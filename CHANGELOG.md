@@ -1,5 +1,15 @@
 # Changelog
 
+## 3.1.0
+Subject expansion. See [docs/report.html](docs/report.html) for the report and [data/changelog.tsv](data/changelog.tsv) for the per-entry changes (entries marked `subject-sense-added` or `new-entry` with a v3.1 section).
+
+- 164,524 entries (v3.0: 154,439): 10,085 new entries and 3,589 subject senses added to existing entries.
+- Twelve new subject sections: Philosophy & logic, Earth & environmental sciences, Statistics, Arts, Literature, History & archaeology, Sociology & anthropology, Education, Agriculture & veterinary science, Transport & logistics, Media & communication, Fashion & textiles.
+- Deeper coverage in Informal & slang (1,045 → 2,456), Mathematics, Physics, Astronomy, Psychology, Linguistics, Music, Architecture, Civil engineering and Sports, plus about 1,800 everyday compounds, idioms, phrasal verbs and proverbs.
+- On an existing word the subject sense is appended after the current definition; no v3.0 definition was removed or reworded.
+- Pipeline: v3.1 inputs live in `pipeline/new/v3.1/` and are read in a separate pass after the v3.0 inputs; `scripts/lint31.py` checks them; the Kindle sources are split into several content files so kindlegen does not stall on the larger dictionary; `export.py` now also writes the master TSV.
+- Files renamed from `v3.0` to `v3.1`.
+
 ## 3.0.0
 Revision and expansion of English-Persian Dictionary v2.4. See [docs/report.html](docs/report.html) for the full before/after report and [data/changelog.tsv](data/changelog.tsv) for the per-entry changes.
 

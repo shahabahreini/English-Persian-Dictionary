@@ -1,0 +1,409 @@
+unison	music	هم‌صدایی، اونیسون
+octave	music	اکتاو، هنگام
+perfect fifth	music	پنجم درست
+perfect fourth	music	چهارم درست
+major third	music	سوم بزرگ
+minor third	music	سوم کوچک
+major second	music	دوم بزرگ
+minor second	music	دوم کوچک
+major sixth	music	ششم بزرگ
+minor sixth	music	ششم کوچک
+major seventh	music	هفتم بزرگ
+minor seventh	music	هفتم کوچک
+tritone	music	تریتون، چهارم افزوده
+diminished fifth	music	پنجم کاسته
+augmented fourth	music	چهارم افزوده
+semitone	music	نیم‌پرده
+whole tone	music	پرده، یک پرده
+quarter tone	music	ربع‌پرده
+microtone	music	ریزپرده، میکروتون
+koron	music	کرن (علامت کاهش ربع‌پرده در موسیقی ایرانی)
+sori	music	سری (علامت افزایش ربع‌پرده در موسیقی ایرانی)
+chord	music	آکورد
+triad	music	آکورد سه‌صدایی، تریاد
+major chord	music	آکورد ماژور
+minor chord	music	آکورد مینور
+diminished chord	music	آکورد کاسته
+augmented chord	music	آکورد افزوده
+seventh chord	music	آکورد هفتم
+dominant seventh	music	آکورد هفتم دومینانت، آکورد هفتم نمایان
+power chord	music	پاورکورد
+suspended chord	music	آکورد معلق
+inversion	music	وارونگی آکورد
+root	music	ریشهٔ آکورد، نت پایهٔ آکورد
+arpeggio	music	آرپژ
+broken chord	music	آکورد شکسته
+chord progression	music	توالی آکوردها، پیشرفت آکوردی
+counterpoint	music	کنترپوان
+polyphony	music	پلی‌فونی
+homophony	music	هوموفونی
+monophony	music	مونوفونی، تک‌صدایی
+cadence	music	کادانس، فرود (در موسیقی ایرانی)
+perfect cadence	music	کادانس کامل
+authentic cadence	music	کادانس کامل
+plagal cadence	music	کادانس پلاگال
+half cadence	music	نیم‌کادانس
+deceptive cadence	music	کادانس فریبنده
+modulation	music	مدولاسیون، تغییر مایه
+transposition	music	انتقال، ترانسپوزیسیون
+key signature	music	سرکلید، علامت‌های سرکلید
+time signature	music	کسر میزان، میزان‌نما
+metre	music	متر
+bar line	music	خط میزان
+downbeat	music	ضرب اول، ضرب قوی
+upbeat	music	آناکروز، ضرب بالا (ضرب ضعیف پیش از ضرب اول میزان)
+offbeat	music	ضدضرب، ضرب ضعیف
+syncopation	music	سنکوپ
+syncopated	music	سنکوپه
+polyrhythm	music	چندریتمی، پلی‌ریتم
+tempo	music	تمپو، سرعت اجرا
+major scale	music	گام ماژور
+minor scale	music	گام مینور
+natural minor	music	مینور طبیعی
+harmonic minor	music	مینور هارمونیک
+melodic minor	music	مینور ملودیک
+chromatic scale	music	گام کروماتیک
+pentatonic scale	music	گام پنتاتونیک
+blues scale	music	گام بلوز
+whole-tone scale	music	گام تمام‌پرده
+diatonic	music	دیاتونیک
+chromatic	music	کروماتیک
+chromaticism	music	کروماتیسم
+modal	music	مدال
+dorian	music	مد دورین
+phrygian	music	مد فریژین
+lydian	music	مد لیدین
+mixolydian	music	مد میکسولیدین
+aeolian	music	مد ائولین
+locrian	music	مد لوکرین
+ionian	music	مد ایونین
+tonic	music	تونیک، درجهٔ اول، نت پایه
+subdominant	music	ساب‌دومینانت، زیرنمایان
+leading tone	music	محسوس
+leading note	music	محسوس
+mediant	music	مدیانت
+tonality	music	تونالیته
+atonality	music	آتونالیته
+atonal	music	آتونال
+twelve-tone	music	دوازده‌نتی، دودکافونیک
+serialism	music	سریالیسم
+relative minor	music	مینور نسبی
+relative major	music	ماژور نسبی
+circle of fifths	music	دایرهٔ پنجم‌ها
+accidental	music	علامت عرضی
+double sharp	music	دوبل‌دیز
+double flat	music	دوبل‌بمل
+treble clef	music	کلید سل
+bass clef	music	کلید فا
+alto clef	music	کلید دو
+ledger line	music	خط اضافه
+half note	music	نت سفید
+quarter note	music	نت سیاه
+eighth note	music	نت چنگ
+sixteenth note	music	نت دولاچنگ
+thirty-second note	music	نت سه‌لاچنگ
+semibreve	music	نت گرد
+minim	music	نت سفید
+crotchet	music	نت سیاه
+quaver	music	نت چنگ
+semiquaver	music	نت دولاچنگ
+dotted note	music	نت نقطه‌دار
+slur	music	خط اتصال
+triplet	music	تریوله
+fermata	music	فرمات، کشش آزاد
+grace note	music	نت زینت، نت تزیینی
+trill	music	تریل
+mordent	music	موردنت
+appoggiatura	music	آپوژیاتور
+tremolo	music	ترمولو، ریز (در موسیقی ایرانی)
+pizzicato	music	پیتزیکاتو
+arco	music	آرکو، با آرشه
+legato	music	لگاتو، پیوسته
+staccato	music	استاکاتو، بریده
+leitmotif	music	لایت‌موتیف، بن‌مایهٔ اصلی
+theme and variations	music	تم و واریاسیون
+ostinato	music	اوستیناتو
+drone	music	بوردون، صدای ممتد زیرین، واخوان
+pedal point	music	نت پدال
+dissonance	music	دیسونانس، ناهمخوانی
+consonance	music	کنسونانس، همخوانی
+timbre	music	طنین، رنگ صدا
+pitch	music	زیروبمی، ارتفاع صدا
+register	music	محدودهٔ صدا، رجیستر
+concert pitch	music	کوک استاندارد، دیاپازون استاندارد
+metronome	music	مترونوم
+equal temperament	music	تعدیل مساوی، گام معتدل
+sight-reading	music	دشیفراژ، نت‌خوانی در نگاه اول
+solfege	music	سلفژ
+ear training	music	تربیت شنوایی
+music theory	music	تئوری موسیقی
+orchestration	music	ارکستراسیون، سازبندی
+arranger	music	تنظیم‌کننده
+sheet music	music	نت موسیقی، نت چاپی
+notation	music	نت‌نویسی
+transcription	music	نت‌برداری (از روی اجرا)؛ تنظیم قطعه برای ساز یا گروه دیگر
+figured bass	music	باس شماره‌دار
+basso continuo	music	باسو کنتینوئو
+improvisation	music	بداهه‌نوازی، بداهه‌خوانی
+largo	music	لارگو، بسیار آهسته و باشکوه
+lento	music	لنتو، آهسته
+adagio	music	آداجیو، آهسته
+andante	music	آندانته، با حرکت آرام
+andantino	music	آندانتینو، کمی تندتر از آندانته
+moderato	music	مودراتو، با سرعت متوسط
+allegro	music	آلگرو، تند و شاد
+vivace	music	ویواچه، تند و سرزنده
+presto	music	پرستو، بسیار تند
+prestissimo	music	پرستیسیمو، با نهایت سرعت
+accelerando	music	آچلراندو، تندشونده
+ritardando	music	ریتارداندو، کندشونده
+rallentando	music	رالنتاندو، کندشونده
+rubato	music	روباتو، آزادی ضرب
+a tempo	music	آتمپو، بازگشت به سرعت اول
+crescendo	music	کرشندو، قوی‌شونده
+decrescendo	music	دکرشندو، ضعیف‌شونده
+diminuendo	music	دیمینوئندو، ضعیف‌شونده
+forte	music	فورته، قوی
+fortissimo	music	فورتیسیمو، بسیار قوی
+pianissimo	music	پیانیسیمو، بسیار آهسته و نرم
+mezzo-forte	music	متسو فورته، نیمه‌قوی
+mezzo-piano	music	متسو پیانو، نیمه‌آرام
+sforzando	music	اسفورتساندو، با تأکید ناگهانی
+dynamics	music	دینامیک، شدت و ضعف صدا
+cantabile	music	کانتابیله، آوازگونه
+dolce	music	دولچه، لطیف و شیرین
+maestoso	music	مائستوسو، باشکوه
+sostenuto	music	سوستنوتو، کشیده
+tutti	music	توتی، همهٔ نوازندگان با هم
+da capo	music	داکاپو، از ابتدا
+sonata	music	سونات
+sonata form	music	فرم سونات
+fugue	music	فوگ
+concerto	music	کنسرتو
+concerto grosso	music	کنسرتو گروسو
+overture	music	اورتور
+prelude	music	پرلود، پیش‌درآمد
+etude	music	اتود
+nocturne	music	نوکتورن
+serenade	music	سرناد
+minuet	music	منوئت
+scherzo	music	اسکرتسو
+waltz	music	والس
+requiem	music	رکوئیم
+oratorio	music	اوراتوریو
+cantata	music	کانتات
+aria	music	آریا
+recitative	music	رسیتاتیو
+libretto	music	لیبرتو
+operetta	music	اپرت
+madrigal	music	مادریگال
+motet	music	موتت
+chorale	music	کرال
+fantasia	music	فانتزی
+rhapsody	music	راپسودی
+symphonic poem	music	پوئم سمفونیک، شعر سمفونیک
+tone poem	music	پوئم سمفونیک
+exposition	music	بخش معرفی، اکسپوزیسیون (در فرم سونات)
+development	music	بخش گسترش، بسط (در فرم سونات)
+recapitulation	music	بازگشت، رکاپیتولاسیون (در فرم سونات)
+coda	music	کدا
+refrain	music	ترجیع‌بند
+interlude	music	اینترلود
+lied	music	لید (آواز هنری آلمانی)
+art song	music	آواز هنری
+gregorian chant	music	سرود گریگوری، آواز گریگوری
+binary form	music	فرم دوبخشی
+ternary form	music	فرم سه‌بخشی
+cadenza	music	کادنزا
+string instrument	music	ساز زهی
+stringed instrument	music	ساز زهی
+brass instrument	music	ساز بادی برنجی
+percussion instrument	music	ساز کوبه‌ای
+keyboard instrument	music	ساز کلاویه‌ای
+wind instrument	music	ساز بادی
+plucked string instrument	music	ساز زهی زخمه‌ای
+bowed string instrument	music	ساز زهی آرشه‌ای
+lute	music	لوت (ساز زهی اروپایی هم‌خانوادهٔ عود)
+oud	music	عود، بربط
+harpsichord	music	هارپسیکورد، کلاوسن
+pipe organ	music	ارگ بادی، ارگ کلیسا
+piccolo	music	پیکولو
+oboe	music	ابوا
+cor anglais	music	کرآنگله
+english horn	music	کرآنگله
+bassoon	music	فاگوت، باسون
+saxophone	music	ساکسیفون
+recorder	music	رکوردر، فلوت رکوردر، بلک‌فلوت
+french horn	music	هورن، کر
+trumpet	music	ترومپت
+tuba	music	توبا
+timpani	music	تیمپانی
+snare drum	music	طبل کوچک، اسنیر
+bass drum	music	طبل بزرگ، بیس‌درام
+hi-hat	music	های‌هت
+drum kit	music	درامز، ست درام
+marimba	music	ماریمبا
+glockenspiel	music	گلوکن‌اشپیل
+tambourine	music	دایره‌زنگی، تامبورین
+castanets	music	قاشقک، کاستانیت
+synthesizer	music	سینتی‌سایزر
+electric guitar	music	گیتار الکتریک
+bass guitar	music	گیتار باس
+acoustic guitar	music	گیتار آکوستیک
+classical guitar	music	گیتار کلاسیک
+fingerboard	music	دسته، صفحهٔ انگشت‌گذاری (ساز زهی)
+fretboard	music	دستهٔ گیتار، صفحهٔ پرده‌دار
+fret	music	پرده، دستان (روی دستهٔ ساز)
+tuning peg	music	گوشی (ساز)
+soundboard	music	صفحهٔ رویی ساز، صفحهٔ صدا (صفحهٔ تشدیدکنندهٔ صدا در پیانو و سازهای زهی)
+soundhole	music	دهانهٔ ساز، سوراخ صدا
+f-hole	music	سوراخ اف (در ویولن)
+rosin	music	کلیفون
+chin rest	music	چانه‌گیر
+mute	music	سوردین، صداخفه‌کن
+plectrum	music	مضراب، پیک
+mouthpiece	music	دهنی (ساز بادی)
+sustain pedal	music	پدال کشش، پدال راست
+damper	music	دمپر، صداگیر
+drumstick	music	چوب درام، چوب طبل
+mallet	music	مضراب، چکش (ساز کوبه‌ای)
+open string	music	سیم دست‌باز
+dastgah	music	دستگاه (موسیقی ایرانی)
+radif	music	ردیف موسیقی (در موسیقی دستگاهی ایرانی)
+gusheh	music	گوشه (موسیقی ایرانی)
+avaz	music	آواز (زیرمجموعهٔ دستگاه)؛ آوازخوانی
+shur	music	دستگاه شور
+mahur	music	دستگاه ماهور
+homayun	music	دستگاه همایون
+segah	music	دستگاه سه‌گاه
+chahargah	music	دستگاه چهارگاه
+nava	music	دستگاه نوا
+rast-panjgah	music	دستگاه راست‌پنجگاه
+abu ata	music	آواز ابوعطا
+bayat-e tork	music	آواز بیات ترک
+afshari	music	آواز افشاری
+dashti	music	آواز دشتی
+bayat-e esfahan	music	آواز بیات اصفهان
+daramad	music	درآمد
+forud	music	فرود
+tahrir	music	تحریر
+tasnif	music	تصنیف
+pishdaramad	music	پیش‌درآمد
+chaharmezrab	music	چهارمضراب
+reng	music	رنگ (قطعهٔ ضربی رقص‌گونه در پایان اجرا)
+tar	music	تار
+setar	music	سه‌تار
+santur	music	سنتور
+kamancheh	music	کمانچه
+daf	music	دف
+tombak	music	تنبک، ضرب
+zarb	music	ضرب، تنبک
+ney	music	نی
+qanun	music	قانون (ساز)
+dotar	music	دوتار
+tanbur	music	تنبور
+barbat	music	بربط
+qeychak	music	قیچک
+sorna	music	سرنا
+dohol	music	دهل
+naqqara	music	نقاره
+mezrab	music	مضراب
+maqam	music	مقام
+persian classical music	music	موسیقی دستگاهی ایرانی، موسیقی سنتی ایرانی
+symphony orchestra	music	ارکستر سمفونیک
+chamber orchestra	music	ارکستر مجلسی
+string orchestra	music	ارکستر زهی
+philharmonic	music	فیلارمونیک
+chamber music	music	موسیقی مجلسی
+string quartet	music	کوارتت زهی
+quartet	music	کوارتت، چهارنوازی
+quintet	music	کوئینتت، پنج‌نوازی
+trio	music	تریو، سه‌نوازی
+duet	music	دوئت، دونوازی، دوصدایی
+duo	music	دوئو، دونوازی
+sextet	music	سکستت، شش‌نوازی
+ensemble	music	گروه‌نوازی، آنسامبل
+big band	music	بیگ‌بند
+brass band	music	گروه سازهای بادی برنجی
+marching band	music	گروه موزیک رژه
+rhythm section	music	بخش ریتم
+conductor	music	رهبر ارکستر
+baton	music	چوب رهبری
+concertmaster	music	کنسرت‌مایستر، ویولن اول ارکستر
+accompanist	music	نوازندهٔ همراه
+accompaniment	music	همراهی، آکومپانیمان
+virtuoso	music	نوازندهٔ چیره‌دست، ویرتوئوز
+soprano	music	سوپرانو
+mezzo-soprano	music	متسوسوپرانو
+contralto	music	کنترآلتو
+tenor	music	تنور
+baritone	music	باریتون
+bass	music	باس (صدای بم)
+countertenor	music	کنترتنور
+recital	music	رسیتال، تک‌اجرا
+encore	music	آنکور، اجرای دوباره به درخواست تماشاگران
+mixing console	music	میز میکس، کنسول میکس
+mixing desk	music	میز میکس
+mastering	music	مسترینگ
+reverb	music	ریورب، طنین‌افزایی
+delay	music	دیلی (افکت تأخیر)
+equalizer	music	اکولایزر، ای‌کیو
+equalization	music	اکولایز کردن، تنظیم فرکانس‌ها
+compression	music	کمپرس، فشرده‌سازی دینامیک
+limiter	music	لیمیتر
+distortion	music	دیستورشن
+overdrive	music	اوردرایو
+multitrack recording	music	ضبط چندترکی، ضبط چندکاناله
+overdub	music	اوردوب، ضبط افزوده روی ضبط قبلی
+stem	music	استم (گروهی از ترک‌های میکس)
+session musician	music	نوازندهٔ استودیو، نوازندهٔ سشن
+recording studio	music	استودیوی ضبط
+sound engineer	music	صدابردار، مهندس صدا
+audio engineer	music	مهندس صدا
+record producer	music	تهیه‌کنندهٔ موسیقی، پرودیوسر
+music producer	music	تهیه‌کنندهٔ موسیقی، پرودیوسر
+condenser microphone	music	میکروفون خازنی، میکروفون کندانسور
+dynamic microphone	music	میکروفون دینامیک
+pop filter	music	پاپ‌فیلتر
+studio monitor	music	مانیتور استودیو
+click track	music	کلیک‌ترک
+loop	music	لوپ
+sample	music	نمونهٔ صوتی
+sampler	music	سمپلر
+digital audio workstation	music	ایستگاه کاری صوتی دیجیتال، نرم‌افزار ضبط و میکس
+pitch correction	music	تصحیح کوک، اصلاح زیر و بمی
+panning	music	پن، توزیع صدا بین چپ و راست
+crossfade	music	کراس‌فید
+gain	music	گین
+headroom	music	هدروم (حاشیهٔ دینامیک)
+clipping	music	کلیپینگ، بریدگی سیگنال (اعوجاج ناشی از اشباع)
+noise gate	music	نویزگیت
+lo-fi	music	لوفای
+demo	music	دمو، نسخهٔ آزمایشی
+ep	music	extended play؛ ای‌پی، آلبوم کوتاه
+live recording	music	ضبط زنده
+backing track	music	ترک همراهی، بک‌ترک
+backing vocals	music	همخوانی پس‌زمینه، بک‌وکال
+lead vocals	music	صدای خوانندهٔ اصلی، لیدوکال
+classical music	music	موسیقی کلاسیک
+baroque music	music	موسیقی باروک
+blues	music	بلوز
+rock and roll	music	راک‌اندرول
+rock music	music	موسیقی راک
+heavy metal	music	هوی‌متال
+punk rock	music	پانک راک
+hip hop	music	هیپ‌هاپ
+rhythm and blues	music	ریتم‌اندبلوز، آراندبی
+soul music	music	موسیقی سول
+country music	music	موسیقی کانتری
+folk music	music	موسیقی محلی، موسیقی فولک
+pop music	music	موسیقی پاپ
+electronic music	music	موسیقی الکترونیک
+house music	music	موسیقی هاوس
+ambient music	music	موسیقی امبینت
+ragtime	music	رگتایم
+bossa nova	music	بوسانوا
+world music	music	موسیقی ملل، موسیقی جهان
+film score	music	موسیقی فیلم، موسیقی متن
+traditional music	music	موسیقی سنتی
+musique concrete	music	موسیقی کنکرت

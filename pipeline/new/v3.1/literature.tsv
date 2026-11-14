@@ -1,0 +1,520 @@
+novella	literature	نوولا، داستان بلند (میان داستان کوتاه و رمان)
+bildungsroman	literature	رمان تربیتی، رمان رشد، بیلدونگس‌رومان (رمان شکل‌گیری شخصیت قهرمان)
+coming-of-age novel	literature	رمان بلوغ، رمان رشد و شکل‌گیری شخصیت
+epistolary novel	literature	رمان نامه‌ای، رمان مکاتبه‌ای (رمانی که به صورت نامه نوشته شده است)
+picaresque	literature	پیکارسک، قلندرانه (رمان ماجراهای قهرمانی ولگرد و حقه‌باز)
+picaresque novel	literature	رمان پیکارسک، رمان قلندرانه
+ode	literature	اود (شعر ستایشی غنایی در ادبیات اروپایی)
+elegy	literature	سوگ‌سروده، رثا
+elegist	literature	مرثیه‌سرا، سوگ‌سرا
+sonnet	literature	سونِت، غزلواره (شعر چهارده‌سطری با قافیه‌بندی معین)
+sonneteer	literature	سونِت‌سرا
+petrarchan sonnet	literature	سونِت پترارکی، سونِت ایتالیایی
+shakespearean sonnet	literature	سونِت شکسپیری، سونِت انگلیسی
+sonnet sequence	literature	مجموعهٔ سونِت‌ها، رشتهٔ سونِت
+qasida	literature	قصیده، چکامه
+rubai	literature	رباعی (قالب شعر چهارمصراعی با وزن ویژه)
+rubaiyat	literature	رباعیات
+masnavi	literature	مثنوی (قالب شعر با قافیهٔ مستقل در هر بیت)
+mathnawi	literature	مثنوی
+divan	literature	دیوان شعر (مجموعهٔ اشعار یک شاعر)
+quatrain	literature	چهارپاره، بند چهارمصراعی
+tarji-band	literature	ترجیع‌بند
+lyric poetry	literature	شعر غنایی
+lyric poem	literature	شعر غنایی، قطعهٔ غنایی
+epic poetry	literature	شعر حماسی، حماسه‌سرایی
+epic poem	literature	منظومهٔ حماسی، حماسه
+mock epic	literature	حماسهٔ مضحک، نقیضهٔ حماسی
+mock-heroic	literature	حماسهٔ مضحک، به شیوهٔ نقیضهٔ حماسی
+narrative poem	literature	منظومهٔ داستانی، شعر روایی
+narrative poetry	literature	شعر روایی، منظومه‌سرایی داستانی
+didactic poetry	literature	شعر تعلیمی
+didactic literature	literature	ادبیات تعلیمی
+romance	literature	رمانس (داستان پهلوانی و عاشقانهٔ قرون وسطایی)
+chivalric romance	literature	رمانس پهلوانی، داستان شوالیه‌ای
+gothic novel	literature	رمان گوتیک
+gothic fiction	literature	ادبیات گوتیک، داستان گوتیک
+historical novel	literature	رمان تاریخی
+historical fiction	literature	داستان تاریخی، ادبیات داستانی تاریخی
+detective fiction	literature	داستان کارآگاهی، ادبیات پلیسی
+detective novel	literature	رمان کارآگاهی، رمان پلیسی
+crime fiction	literature	ادبیات جنایی، داستان جنایی
+psychological novel	literature	رمان روان‌شناختی
+novel of manners	literature	رمان آداب و رسوم، رمان آداب
+campus novel	literature	رمان دانشگاهی
+roman a clef	literature	رمان کلیددار (رمانی با شخصیت‌های واقعی در پوشش نام‌های ساختگی)
+nouveau roman	literature	رمان نو
+autofiction	literature	خودداستان، اتوفیکشن (داستان خودزندگی‌نامه‌ای)
+verse novel	literature	رمان منظوم
+flash fiction	literature	داستانک، داستان کوتاه‌کوتاه، داستان مینیمال
+microfiction	literature	داستانک، داستان مینیمال
+short-story writer	literature	داستان‌کوتاه‌نویس
+novelette	literature	داستان بلند، نوولت
+speculative fiction	literature	داستان گمانه‌زن، ادبیات گمانه‌ای
+magical realism	literature	رئالیسم جادویی، واقع‌گرایی جادویی
+magic realism	literature	رئالیسم جادویی
+literary realism	literature	رئالیسم ادبی، واقع‌گرایی ادبی
+dystopian fiction	literature	ادبیات ویران‌شهری، داستان دیستوپیایی
+utopian literature	literature	ادبیات آرمان‌شهری
+lampoon	literature	هجونامه، هجویه
+parody	literature	نقیضه، پارودی
+burlesque	literature	بورلسک، نقیضهٔ مضحک
+travesty	literature	نقیضهٔ مضحک، تقلید مسخره‌آمیز (از اثری جدی)
+pastoral	literature	شعر شبانی، ادبیات شبانی، پاستورال
+eclogue	literature	اکلوگ، شعر شبانی (به صورت گفت‌وگوی چوپانان)
+idyll	literature	ایدیل، شعر روستایی
+georgic	literature	شعر کشاورزی (شعر تعلیمی دربارهٔ کشت و کار)
+ballad	literature	بالاد، تصنیف داستانی، منظومهٔ عامیانهٔ روایی
+ballade	literature	بالاد (قالب شعر فرانسوی)
+limerick	literature	لیمریک (شعر طنز پنج‌سطری)
+villanelle	literature	ویلانل (شعر نوزده‌سطری با دو ترجیع)
+sestina	literature	سستینا (شعر سی‌ونه‌سطری با تکرار شش واژهٔ پایانی)
+rondeau	literature	روندو (قالب شعر فرانسوی با ترجیع)
+triolet	literature	تریوله (شعر هشت‌سطری با تکرار سطرها)
+terza rima	literature	ترتسا ریما (بندهای سه‌سطری با قافیهٔ زنجیره‌ای)
+ottava rima	literature	اوتاوا ریما (بند هشت‌سطری)
+epigram	literature	اپیگرام، نکته‌گویی منظوم
+aphorism	literature	گزین‌گویه، سخن قصار
+prose poem	literature	شعر منثور
+prose poetry	literature	شعر منثور
+concrete poetry	literature	شعر دیداری، شعر کانکریت
+free verse	literature	شعر آزاد، شعر سپید (شعر بدون وزن و قافیهٔ منظم)
+blank verse	literature	شعر مرسل، شعر موزون بی‌قافیه (به‌ویژه در وزن پنتامتر آیامبیک)
+memoir	literature	خاطره‌نویسی، خاطرات (ژانر ادبی)
+autobiography	literature	زندگی‌نامهٔ خودنوشت، خودزندگی‌نامه
+travelogue	literature	سفرنامه
+travel writing	literature	سفرنامه‌نویسی، ادبیات سفر
+personal essay	literature	جستار شخصی
+essayist	literature	جستارنویس، مقاله‌نویس
+belles-lettres	literature	ادبیات محض، ادب، بل‌لتر
+fairy tale	literature	قصهٔ پریان، افسانهٔ پریان
+folktale	literature	قصهٔ عامیانه، افسانهٔ عامیانه
+folk tale	literature	قصهٔ عامیانه، افسانهٔ عامیانه
+frame story	literature	داستان قاب، داستان در داستان، روایت قابی
+frame narrative	literature	روایت قابی، داستان در داستان
+panegyric	literature	مدیحه، ستایش‌نامه
+panegyrist	literature	مدیحه‌سرا، مداح
+encomium	literature	مدیحه، ستایش‌نامه
+threnody	literature	مرثیه، سوگ‌سرود
+dirge	literature	نوحه، سوگ‌سرود
+elegiac	literature	مرثیه‌وار، سوگ‌وار، مرثیه‌ای
+hagiography	literature	زندگی‌نامهٔ قدیسان، تذکرهٔ اولیا؛ ستایش‌نامه (زندگی‌نامهٔ اغراق‌آمیز و ستایشی)
+vignette	literature	طرح، تصویر کوتاه (قطعهٔ ادبی کوتاه و توصیفی)
+anecdote	literature	حکایت، لطیفه
+fable	literature	فابل، حکایت (حکایت اخلاقی از زبان حیوانات)
+fabulist	literature	حکایت‌نویس، افسانه‌پرداز
+parable	literature	حکایت تمثیلی
+allegory	literature	تمثیل، داستان تمثیلی، دگرنمون
+saga	literature	سرگذشت‌نامه، حماسهٔ خاندانی؛ ساگا (حماسهٔ اسکاندیناویایی)
+legend	literature	افسانه، روایت افسانه‌ای
+epithalamium	literature	شعر عروسی، تهنیت‌نامهٔ ازدواج
+hymn	literature	سرود مذهبی، نیایش‌نامه
+children's literature	literature	ادبیات کودک
+young adult fiction	literature	ادبیات نوجوان، داستان نوجوان
+genre fiction	literature	داستان ژانری، ادبیات عامه‌پسند ژانری
+literary fiction	literature	ادبیات داستانی جدی، داستان ادبی
+pulp fiction	literature	داستان‌های عامه‌پسند ارزان، ادبیات زرد
+nonfiction	literature	ادبیات غیرداستانی، ناداستان
+creative nonfiction	literature	ناداستان خلاق
+prose	literature	نثر
+prose fiction	literature	داستان منثور
+poem	literature	شعر، سروده
+poetics	literature	بوطیقا، فن شعر، شعرشناسی
+prosody	literature	عروض، وزن‌شناسی شعر
+aruz	literature	عروض (علم وزن شعر فارسی و عربی)
+prosodist	literature	عروض‌دان، عروضی
+metre	literature	وزن (شعر)، بحر
+metrical	literature	عروضی، موزون
+metrics	literature	عروض، وزن‌شناسی
+quantitative metre	literature	وزن کمّی (مبتنی بر کشش هجاها)
+quantitative verse	literature	شعر کمّی
+accentual verse	literature	شعر تکیه‌ای
+accentual-syllabic verse	literature	شعر تکیه‌ای ـ هجایی
+syllabic verse	literature	شعر هجایی
+syllabic metre	literature	وزن هجایی
+foot	literature	رکن (عروضی)، پایه (وزن)
+metrical foot	literature	رکن عروضی، پایهٔ وزنی
+iamb	literature	آیامب، پایهٔ آیامبیک (هجای کوتاه یا بی‌تکیه و سپس بلند یا تکیه‌دار)
+iambus	literature	آیامب، پایهٔ آیامبیک
+iambic	literature	آیامبیک
+iambic pentameter	literature	پنتامتر آیامبیک (وزن پنج‌پایهٔ آیامبیک)
+trochee	literature	تروکی، پایهٔ تروکائیک (هجای تکیه‌دار و سپس بی‌تکیه)
+trochaic	literature	تروکائیک
+dactyl	literature	داکتیل (یک هجای تکیه‌دار و دو هجای بی‌تکیه)
+dactylic	literature	داکتیلی
+anapest	literature	آناپست (دو هجای بی‌تکیه و یک هجای تکیه‌دار)
+anapaest	literature	آناپست
+anapestic	literature	آناپستی
+spondee	literature	اسپاندی (دو هجای تکیه‌دار)
+spondaic	literature	اسپاندیک
+pyrrhic	literature	پیریک (پایهٔ دو هجای بی‌تکیه)
+amphibrach	literature	آمفیبراک (پایهٔ سه‌هجایی با تکیه بر هجای میانی)
+monometer	literature	مونومتر (مصراع یک‌پایه‌ای)
+dimeter	literature	دیمتر (مصراع دوپایه‌ای)
+trimeter	literature	تریمتر (مصراع سه‌پایه‌ای)
+tetrameter	literature	تترامتر (مصراع چهارپایه‌ای)
+pentameter	literature	پنتامتر (مصراع پنج‌پایه‌ای)
+hexameter	literature	هگزامتر (مصراع شش‌پایه‌ای)
+heptameter	literature	هپتامتر (مصراع هفت‌پایه‌ای)
+alexandrine	literature	الکساندرین (مصراع دوازده‌هجایی)
+scansion	literature	تقطیع (شعر)
+catalectic	literature	ناقص، محذوف (مصراع با پایهٔ ناتمام)
+caesura	literature	درنگ، سزور (مکث در میانهٔ مصراع یا سطر)
+enjambment	literature	موقوف‌المعانی، انژامبمان (ادامهٔ جمله از یک سطر یا بیت به سطر یا بیت بعد)
+enjambement	literature	موقوف‌المعانی، انژامبمان (ادامهٔ جمله از یک سطر یا بیت به سطر یا بیت بعد)
+end-stopped line	literature	سطر بسته (سطری که معنا در پایانش تمام می‌شود)
+stanza	literature	استانزا
+strophe	literature	استروف، بند
+antistrophe	literature	آنتی‌استروف (بند پاسخ در اود یا همسرایی یونانی)
+couplet	literature	بیت (دو سطر پیاپی، معمولاً هم‌قافیه)
+heroic couplet	literature	بیت پهلوانی، بیت حماسی (دو سطر هم‌قافیه در پنتامتر آیامبیک)
+tercet	literature	بند سه‌سطری
+triplet	literature	بند سه‌سطری هم‌قافیه
+sestet	literature	بند شش‌سطری (به‌ویژه شش سطر پایانی سونِت)
+octave	literature	بند هشت‌سطری (به‌ویژه هشت سطر آغازین سونِت)
+octet	literature	بند هشت‌سطری
+spenserian stanza	literature	بند اسپنسری
+rhyme royal	literature	رایم رویال (بند هفت‌سطری در پنتامتر آیامبیک)
+ballad stanza	literature	بند بالادی
+common metre	literature	وزن متداول (بند چهارسطری سرودهای کلیسایی با تناوب سطرهای چهارپایه و سه‌پایه)
+verse paragraph	literature	بند شعری
+line	literature	سطر، مصراع
+rhyme scheme	literature	طرح قافیه، الگوی قافیه‌بندی
+internal rhyme	literature	قافیهٔ درونی
+end rhyme	literature	قافیهٔ پایانی
+slant rhyme	literature	قافیهٔ ناقص، قافیهٔ نیم‌آوا
+half rhyme	literature	قافیهٔ ناقص
+near rhyme	literature	قافیهٔ ناقص
+eye rhyme	literature	قافیهٔ دیداری (هم‌شکل در نوشتار ولی نه در تلفظ)
+masculine rhyme	literature	قافیهٔ مذکر (قافیه در هجای پایانی تکیه‌دار)
+feminine rhyme	literature	قافیهٔ مؤنث (قافیهٔ دوهجایی با هجای پایانی بی‌تکیه)
+rhyming couplet	literature	بیت هم‌قافیه، دوسطری مقفا
+monorhyme	literature	تک‌قافیه (شعر با یک قافیه در همهٔ سطرها)
+radif	literature	ردیف (تکرار واژه یا عبارت پس از قافیه)
+refrain	literature	ترجیع، برگردان
+rhymester	literature	قافیه‌باف، شاعرک
+versification	literature	نظم، شعرسرایی، وزن‌پردازی
+versify	literature	به نظم درآوردن، منظوم کردن
+versifier	literature	ناظم، نظم‌پرداز
+poetic licence	literature	اختیارات شاعری، ضرورت شعری
+poetic license	literature	اختیارات شاعری، ضرورت شعری
+alliteration	literature	واج‌آرایی (تکرار صامت آغازین)
+assonance	literature	واج‌آرایی مصوت‌ها، هم‌صدایی
+consonance	literature	هم‌صامتی، واج‌آرایی صامت‌ها
+onomatopoeia	literature	نام‌آوا، نام‌آوایی
+euphony	literature	خوش‌آوایی، خوش‌آهنگی
+cacophony	literature	ناخوش‌آوایی، تنافر حروف
+cadence	literature	آهنگ کلام، ضرب‌آهنگ
+metrical pattern	literature	الگوی وزنی
+rhymed verse	literature	شعر مقفا، نظم قافیه‌دار
+unrhymed verse	literature	شعر بی‌قافیه
+long syllable	literature	هجای بلند
+short syllable	literature	هجای کوتاه
+figure of speech	literature	آرایهٔ ادبی، صنعت ادبی
+rhetorical device	literature	آرایهٔ ادبی، شگرد بلاغی
+rhetorical figure	literature	آرایهٔ بلاغی، صنعت بدیعی
+figurative language	literature	زبان مجازی، زبان تصویری
+literal meaning	literature	معنای حقیقی، معنای تحت‌اللفظی
+figurative meaning	literature	معنای مجازی
+trope	literature	مجاز، صورت خیال؛ مضمون تکراری، کلیشهٔ روایی
+rhetoric	literature	بلاغت، علم معانی و بیان؛ فن خطابه
+rhetorical	literature	بلاغی
+rhetorician	literature	عالم بلاغت، سخن‌شناس
+eloquence	literature	بلاغت، فصاحت
+extended metaphor	literature	استعارهٔ گسترده
+dead metaphor	literature	استعارهٔ مرده
+mixed metaphor	literature	استعارهٔ آمیخته، استعارهٔ ناهمگون
+conceit	literature	تشبیه غریب، مضمون باریک، استعارهٔ دور از ذهن
+metaphysical conceit	literature	تشبیه غریب متافیزیکی
+irony	literature	آیرونی، طنز (ادبی)، تهکم
+dramatic irony	literature	آیرونی نمایشی، طنز نمایشی (آگاهی تماشاگر از چیزی که شخصیت نمی‌داند)
+situational irony	literature	آیرونی موقعیت، طنز موقعیت
+verbal irony	literature	آیرونی کلامی، طنز کلامی
+cosmic irony	literature	آیرونی تقدیر، طنز تقدیر
+litotes	literature	لیتوتس، کم‌گفت (تأکید با نفی ضد، مانند «بد نیست» به‌جای «خوب است»)
+understatement	literature	کم‌گفت (در بلاغت)
+meiosis	literature	کم‌گفت (در بلاغت)
+chiasmus	literature	طرد و عکس، کیاسموس (وارونه‌سازی ترتیب اجزا در دو عبارت قرینه)
+zeugma	literature	زئوگما (به‌کار بردن یک واژه برای دو واژهٔ دیگر در دو معنای متفاوت)
+syllepsis	literature	استخدام، زئوگما
+oxymoron	literature	متناقض‌نما، ترکیب پارادوکسی
+paradox	literature	متناقض‌نما، پارادوکس
+apostrophe	literature	خطاب، ندا (خطاب به غایب یا شیء بی‌جان)
+allusion	literature	تلمیح
+personification	literature	تشخیص، جان‌بخشی، انسان‌انگاری
+prosopopoeia	literature	تشخیص، جان‌بخشی
+anaphora	literature	تکرار آغازین (تکرار واژه در آغاز جمله‌ها یا سطرهای پیاپی)
+epistrophe	literature	تکرار پایانی
+epiphora	literature	تکرار پایانی
+anadiplosis	literature	تشابه‌الاطراف (تکرار پایان عبارت یا بیت در آغاز عبارت یا بیت بعد)
+antithesis	literature	طباق، تضاد
+pun	literature	جناس، ایهام، بازی با واژه‌ها
+ambiguity	literature	ایهام، ابهام
+double entendre	literature	ایهام، سخن دوپهلو
+dysphemism	literature	بدتعبیری، تعبیر زننده (به‌کاربردن واژهٔ زننده به‌جای واژهٔ خنثی؛ مقابل حسن تعبیر)
+rhetorical question	literature	پرسش بلاغی، استفهام انکاری
+climax	literature	نقطهٔ اوج (داستان)؛ تدرج، اوج‌گیری (ترتیب صعودی واژه‌ها در بلاغت)
+anticlimax	literature	فرود ناگهانی، افت (پس از اوج)
+bathos	literature	سقوط ناگهانی از والا به مبتذل، سخن مبتذل‌نما
+pathos	literature	پاتوس، توسل به عواطف، رقت‌انگیزی
+ethos	literature	اتوس، اعتبار گوینده
+logos	literature	لوگوس، استدلال منطقی (در بلاغت)
+ellipsis	literature	ایجاز حذف
+periphrasis	literature	درازگویی، بیان غیرمستقیم
+circumlocution	literature	درازگویی، اطناب
+concision	literature	ایجاز
+imagery	literature	تصویرپردازی، صور خیال
+image	literature	تصویر (شعری)، صورت خیال
+poetic image	literature	تصویر شعری، صورت خیال
+motif	literature	بن‌مایه
+theme	literature	درون‌مایه، مضمون
+transferred epithet	literature	صفت انتقالی، اسناد مجازی صفت (نسبت دادن صفت به واژه‌ای جز موصوف حقیقی، مانند «شب بی‌قرار»)
+kenning	literature	کنایهٔ مرکب (در شعر کهن ژرمنی)
+synaesthesia	literature	حس‌آمیزی
+synesthesia	literature	حس‌آمیزی
+pathetic fallacy	literature	مغالطهٔ عاطفی (نسبت دادن احساسات انسانی به طبیعت)
+inversion	literature	قلب نحوی، جابه‌جایی ارکان جمله
+hyperbaton	literature	قلب نحوی، جابه‌جایی ارکان
+parallelism	literature	توازن، موازنه، ترصیع
+isocolon	literature	موازنه، ترصیع
+innuendo	literature	تعریض، کنایه
+allusive	literature	تلمیحی، کنایه‌آمیز
+invocation	literature	نیایش آغازین، استمداد از الههٔ شعر
+amplification	literature	بسط، اطناب
+aposiopesis	literature	قطع کلام، سکوت ناگهانی
+hendiadys	literature	هندیادیس (بیان یک مفهوم با دو واژهٔ هم‌پایه)
+malapropism	literature	غلط‌گویی خنده‌دار (به‌کاربردن نادرست واژهٔ هم‌آوا)
+spoonerism	literature	جابه‌جایی خنده‌دار حروف آغازین
+narration	literature	روایتگری
+narratology	literature	روایت‌شناسی
+narratologist	literature	روایت‌شناس
+narratee	literature	روایت‌شنو
+point of view	literature	زاویهٔ دید
+narrative perspective	literature	زاویهٔ دید، منظر روایی
+first-person narrator	literature	راوی اول‌شخص
+first-person narrative	literature	روایت اول‌شخص
+third-person narrative	literature	روایت سوم‌شخص
+second-person narrative	literature	روایت دوم‌شخص
+omniscient narrator	literature	راوی دانای کل
+third-person omniscient	literature	دانای کل سوم‌شخص
+limited omniscience	literature	دانای کل محدود
+third-person limited	literature	دانای کل محدود
+unreliable narrator	literature	راوی غیرقابل‌اعتماد، راوی نامعتبر
+intrusive narrator	literature	راوی مداخله‌گر
+stream of consciousness	literature	جریان سیال ذهن
+interior monologue	literature	تک‌گویی درونی
+free indirect discourse	literature	گفتار غیرمستقیم آزاد
+free indirect speech	literature	گفتار غیرمستقیم آزاد
+focalization	literature	کانونی‌سازی، کانونی‌شدگی
+focalizer	literature	کانونی‌گر
+implied author	literature	نویسندهٔ ضمنی، مؤلف مستتر
+implied reader	literature	خوانندهٔ ضمنی، خوانندهٔ مستتر
+metafiction	literature	فراداستان
+metafictional	literature	فراداستانی
+mise en abyme	literature	میزانابیم، تصویر در تصویر (بازتاب اثر یا داستان در درون خودش)
+flashback	literature	بازگشت به گذشته، فلش‌بک
+flash-forward	literature	پرش به آینده، فلش‌فوروارد
+analepsis	literature	بازگشت زمانی، گذشته‌نگری
+prolepsis	literature	پیش‌نگری، پرش به آینده
+foreshadowing	literature	زمینه‌چینی، پیش‌نمایی، پیش‌آگاهی (اشارهٔ ضمنی به رویدادهای آینده)
+foreshadow	literature	زمینه‌چینی کردن (برای رویدادی در داستان)
+denouement	literature	گره‌گشایی، فرجام
+twist ending	literature	پایان غافلگیرکننده
+subplot	literature	پیرنگ فرعی
+exposition	literature	مقدمه‌چینی، معرفی (بخش آغازین پیرنگ)
+rising action	literature	کنش فزاینده، اوج‌گیری
+falling action	literature	کنش نزولی، فرود
+resolution	literature	گره‌گشایی، فرجام
+complication	literature	گره‌افکنی
+open ending	literature	پایان باز
+closed ending	literature	پایان بسته
+in medias res	literature	از میانهٔ ماجرا، از وسط ماجرا (آغاز روایت از میانهٔ رویدادها)
+deus ex machina	literature	دئوس اکس ماکینا، گره‌گشایی غیبی، گره‌گشای ناگهانی (حل ناگهانی و ساختگی گره داستان با رویداد یا شخصیتی بی‌مقدمه)
+red herring	literature	سرنخ گمراه‌کننده
+chekhov's gun	literature	تفنگ چخوف (اصل ضرورت هر جزء در روایت)
+narrative arc	literature	قوس روایی
+character arc	literature	قوس شخصیت، تحول شخصیت
+story arc	literature	قوس داستانی
+fabula	literature	فابولا، داستان (توالی زمانی رویدادها)
+syuzhet	literature	سوژت، پیرنگ (ترتیب ارائهٔ رویدادها)
+chronotope	literature	زمان‌مکان، کرونوتوپ
+characterization	literature	شخصیت‌پردازی
+characterisation	literature	شخصیت‌پردازی
+protagonist	literature	شخصیت اصلی، قهرمان
+antagonist	literature	شخصیت مخالف، آنتاگونیست (رقیب یا دشمن قهرمان)
+round character	literature	شخصیت جامع، شخصیت چندبعدی
+flat character	literature	شخصیت ساده، شخصیت تک‌بعدی
+dynamic character	literature	شخصیت پویا
+static character	literature	شخصیت ایستا
+stock character	literature	تیپ، شخصیت قالبی
+foil	literature	شخصیت مقابل، شخصیت متضاد (برای برجسته کردن ویژگی‌های شخصیت دیگر)
+voice	literature	صدای روایی، لحن نویسنده
+monologue	literature	تک‌گویی، مونولوگ
+dramatic monologue	literature	تک‌گویی نمایشی
+hero's journey	literature	سفر قهرمان
+monomyth	literature	تک‌اسطوره، سفر قهرمان
+verisimilitude	literature	حقیقت‌مانندی، واقع‌نمایی
+suspension of disbelief	literature	تعلیق ناباوری، تعلیق داوطلبانهٔ ناباوری
+epilogue	literature	مؤخره، پی‌گفتار
+narrative structure	literature	ساختار روایت
+nonlinear narrative	literature	روایت غیرخطی
+linear narrative	literature	روایت خطی
+embedded narrative	literature	روایت درونه‌ای، داستان درونه‌ای
+plotline	literature	خط داستان، پیرنگ
+literary criticism	literature	نقد ادبی
+literary critic	literature	منتقد ادبی
+literary theory	literature	نظریهٔ ادبی
+new criticism	literature	نقد نو
+new critics	literature	منتقدان نو، پیروان نقد نو
+close reading	literature	خوانش دقیق، خوانش نزدیک
+reader-response criticism	literature	نقد خواننده‌محور، نقد واکنش خواننده
+reader-response theory	literature	نظریهٔ واکنش خواننده
+reception theory	literature	نظریهٔ دریافت، زیبایی‌شناسی دریافت
+horizon of expectations	literature	افق انتظارات
+deconstructive	literature	شالوده‌شکنانه
+formalism	literature	فرمالیسم، صورت‌گرایی
+russian formalism	literature	فرمالیسم روسی، صورت‌گرایی روسی
+formalist	literature	فرمالیست، صورت‌گرا
+defamiliarization	literature	آشنایی‌زدایی
+defamiliarisation	literature	آشنایی‌زدایی
+estrangement	literature	آشنایی‌زدایی، بیگانه‌سازی
+foregrounding	literature	برجسته‌سازی
+literariness	literature	ادبیت
+intertextuality	literature	بینامتنیت
+intertextual	literature	بینامتنی
+canon	literature	کانن ادبی، مجموعهٔ آثار معیار
+literary canon	literature	کانن ادبی، آثار معیار ادبیات
+canonical	literature	شاخص، معتبر (پذیرفته در کانن ادبی)
+feminist criticism	literature	نقد فمینیستی
+marxist criticism	literature	نقد مارکسیستی
+psychoanalytic criticism	literature	نقد روانکاوانه
+postcolonial criticism	literature	نقد پسااستعماری
+postcolonial theory	literature	نظریهٔ پسااستعماری
+new historicism	literature	تاریخ‌گرایی نو
+cultural materialism	literature	ماده‌گرایی فرهنگی
+ecocriticism	literature	نقد بوم‌گرا، نقد زیست‌محیطی
+archetypal criticism	literature	نقد کهن‌الگویی
+mythological criticism	literature	نقد اسطوره‌ای
+biographical criticism	literature	نقد زندگی‌نامه‌ای
+historical criticism	literature	نقد تاریخی
+sociological criticism	literature	نقد جامعه‌شناختی
+moral criticism	literature	نقد اخلاقی
+practical criticism	literature	نقد عملی
+textual criticism	literature	تصحیح انتقادی متون، نقد متنی
+critical edition	literature	تصحیح انتقادی، چاپ انتقادی
+comparative literature	literature	ادبیات تطبیقی
+world literature	literature	ادبیات جهان
+death of the author	literature	مرگ مؤلف
+authorial intent	literature	نیت مؤلف
+intentional fallacy	literature	مغالطهٔ نیت مؤلف، مغالطهٔ قصدی
+affective fallacy	literature	مغالطهٔ عاطفی، مغالطهٔ تأثیر (داوری اثر بر پایهٔ تأثیر عاطفی آن بر خواننده)
+polyphony	literature	چندصدایی
+dialogism	literature	منطق گفت‌وگویی، گفت‌وگومندی
+dialogic	literature	گفت‌وگویی، گفت‌وگومند (در نظریهٔ باختین)
+heteroglossia	literature	دگرزبانی، ناهمگونی زبانی، هتروگلاسیا (هم‌زیستی گونه‌ها و صداهای زبانی متفاوت در یک متن؛ باختین)
+carnivalesque	literature	کارناوالی، کارناوال‌وار
+anxiety of influence	literature	اضطراب تأثیر
+paratext	literature	پیرامتن
+hypertext	literature	بیش‌متن (متن برگرفته از متنی پیشین)
+hypotext	literature	پیش‌متن (متن مبدأ یک اثر برگرفته)
+transtextuality	literature	ترامتنیت
+mimesis	literature	محاکات، تقلید، میمسیس
+diegesis	literature	جهان داستانی، روایت
+diegetic	literature	درون‌داستانی
+objective correlative	literature	معادل عینی، همبستهٔ عینی
+negative capability	literature	قابلیت منفی (اصطلاح کیتس: توانایی ماندن در تردید بی‌اصرار بر یقین)
+organic unity	literature	وحدت اندام‌وار، وحدت ارگانیک
+literary genre	literature	نوع ادبی، ژانر ادبی
+subgenre	literature	زیرژانر، زیرگونه
+literary style	literature	سبک ادبی
+misreading	literature	بدخوانی
+binary opposition	literature	تقابل دوگانه، تقابل دوتایی
+aporia	literature	آپوریا، بن‌بست معنایی
+authorship	literature	مؤلفیت، تألیف
+textuality	literature	متنیت
+literary movement	literature	جنبش ادبی، مکتب ادبی
+literary school	literature	مکتب ادبی
+imagism	literature	ایماژیسم، تصویرگرایی
+aestheticism	literature	زیبایی‌گرایی، هنر برای هنر
+decadence	literature	دکادانس، انحطاط‌گرایی (جنبش ادبی)
+dramatic literature	literature	ادبیات نمایشی
+tragicomedy	literature	تراژی‌کمدی، تراژدی‌کمدی، سوگ‌خنده
+tragic hero	literature	قهرمان تراژیک
+tragic flaw	literature	خطای تراژیک، نقص تراژیک
+hamartia	literature	هامارتیا، خطای تراژیک
+hubris	literature	هیوبریس، نخوت (غرور بیش از حد قهرمان تراژیک)
+catharsis	literature	کاتارسیس، پالایش عاطفی (در تراژدی)
+anagnorisis	literature	بازشناخت، کشف (در تراژدی)
+peripeteia	literature	دگرگونی، واژگونی بخت
+farce	literature	فارس، مضحکه، نمایش مضحک، کمدی سبک
+melodrama	literature	ملودرام
+comedy of manners	literature	کمدی آداب، کمدی رفتار
+black comedy	literature	کمدی سیاه
+dark comedy	literature	کمدی سیاه
+comedy of errors	literature	کمدی اشتباهات
+satyr play	literature	نمایش ساتیری
+morality play	literature	نمایش اخلاقی
+mystery play	literature	نمایش مذهبی قرون وسطایی (دربارهٔ داستان‌های کتاب مقدس)
+miracle play	literature	نمایش معجزه (دربارهٔ زندگی قدیسان)
+masque	literature	ماسک (نمایش درباری با رقص و آواز)
+alienation effect	literature	فاصله‌گذاری
+one-act play	literature	نمایشنامهٔ تک‌پرده‌ای
+well-made play	literature	نمایشنامهٔ خوش‌ساخت
+kitchen sink drama	literature	درام آشپزخانه‌ای (درام رئالیستی زندگی طبقهٔ کارگر)
+verse drama	literature	نمایشنامهٔ منظوم
+poetic drama	literature	نمایشنامهٔ منظوم
+soliloquy	literature	حدیث نفس، تک‌گویی (نمایشی)
+aside	literature	کنارگویی (سخن بازیگر خطاب به تماشاگران)، گفتار جانبی
+stage direction	literature	توضیح صحنه، دستور صحنه
+three unities	literature	وحدت‌های سه‌گانه (زمان، مکان، کنش)
+unity of action	literature	وحدت کنش، وحدت موضوع
+unity of time	literature	وحدت زمان
+unity of place	literature	وحدت مکان
+dramatic structure	literature	ساختار نمایشی
+freytag's pyramid	literature	هرم فرایتاگ (الگوی ساختار نمایشی)
+dramatic tension	literature	تنش نمایشی
+interlude	literature	میان‌پرده
+autograph manuscript	literature	نسخهٔ به خط مؤلف، دست‌نوشتهٔ مؤلف
+anthology	literature	گزیده، گزیدهٔ ادبی
+anthologist	literature	گردآورندهٔ گزیده
+afterword	literature	پس‌گفتار، مؤخره
+dedication	literature	تقدیم‌نامه
+acknowledgments	literature	سپاسگزاری، قدردانی
+acknowledgements	literature	سپاسگزاری، قدردانی
+frontispiece	literature	تصویر روبه‌روی صفحهٔ عنوان، صفحهٔ آغازین مصور
+title page	literature	صفحهٔ عنوان
+pen name	literature	نام قلمی؛ تخلص (نام شعری شاعر)
+ghostwriter	literature	نویسندهٔ سایه، سایه‌نویس
+collected works	literature	کلیات، مجموعهٔ آثار
+complete works	literature	کلیات، مجموعهٔ کامل آثار
+first edition	literature	چاپ نخست، چاپ اول
+recension	literature	تحریر، روایت (یک متن)
+variant reading	literature	نسخه‌بدل
+annotated edition	literature	چاپ با حواشی و توضیحات
+tazkira	literature	تذکره (کتاب شرح حال و گزیدهٔ اشعار شاعران یا شرح حال عارفان)
+serialization	literature	انتشار دنباله‌دار، پاورقی
+serial	literature	پاورقی (داستان دنباله‌دار در نشریه)
+serialized novel	literature	رمان پاورقی
+literary agent	literature	کارگزار ادبی، نمایندهٔ ادبی
+literary prize	literature	جایزهٔ ادبی
+literary circle	literature	محفل ادبی، انجمن ادبی
+literary salon	literature	محفل ادبی، سالن ادبی
+poetry reading	literature	شعرخوانی، شب شعر
+man of letters	literature	ادیب، اهل قلم
+writer's block	literature	قفل نویسندگی، ناتوانی در نوشتن
+creative writing	literature	نویسندگی خلاق
+writing workshop	literature	کارگاه نویسندگی، کارگاه داستان‌نویسی
+literary forgery	literature	جعل ادبی
+troubadour	literature	تروبادور (شاعر و خنیاگر دوره‌گرد)
+oral literature	literature	ادبیات شفاهی
+oral tradition	literature	سنت شفاهی
+folk literature	literature	ادبیات عامه، ادبیات عامیانه
+classical literature	literature	ادبیات کلاسیک
+contemporary literature	literature	ادبیات معاصر
+persian literature	literature	ادبیات فارسی
+literary work	literature	اثر ادبی
+literary device	literature	شگرد ادبی، آرایهٔ ادبی
+literary language	literature	زبان ادبی
+poetic diction	literature	زبان شعری، واژگان شعری
+poetic justice	literature	عدالت شاعرانه، مکافات به‌جا
+tadhkira	literature	تذکره (کتاب شرح حال و گزیدهٔ اشعار شاعران یا شرح حال عارفان)

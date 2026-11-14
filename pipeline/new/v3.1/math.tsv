@@ -1,0 +1,369 @@
+quadratic formula	math	فرمول کلی حل معادلهٔ درجهٔ دوم، روش دلتا
+leading coefficient	math	ضریب پیشرو، ضریب جملهٔ با بزرگ‌ترین توان
+system of equations	math	دستگاه معادلات
+system of linear equations	math	دستگاه معادلات خطی
+cubic equation	math	معادلهٔ درجهٔ سوم
+quartic equation	math	معادلهٔ درجهٔ چهارم
+factorisation	math	تجزیه به عوامل، فاکتورگیری، تجزیه
+factorise	math	تجزیه کردن، فاکتور گرفتن، به عوامل تجزیه کردن
+prime factorisation	math	تجزیه به عوامل اول
+prime factorization	math	تجزیه به عوامل اول
+real root	math	ریشهٔ حقیقی
+complex root	math	ریشهٔ مختلط
+double root	math	ریشهٔ مضاعف
+repeated root	math	ریشهٔ مضاعف، ریشهٔ تکراری
+constant term	math	جملهٔ ثابت، جملهٔ مستقل از متغیر
+algebraic expression	math	عبارت جبری
+like terms	math	جمله‌های متشابه
+algebraic identity	math	اتحاد جبری
+difference of squares	math	اتحاد مزدوج، تفاضل دو مربع
+perfect square	math	مربع کامل
+completing the square	math	مربع کامل کردن، روش مربع کامل
+synthetic division	math	تقسیم ترکیبی، روش هورنر
+remainder theorem	math	قضیهٔ باقی‌مانده
+factor theorem	math	قضیهٔ عامل
+fundamental theorem of algebra	math	قضیهٔ اساسی جبر
+linear inequality	math	نامعادلهٔ خطی
+system of inequalities	math	دستگاه نامعادلات
+laws of exponents	math	قوانین توان
+common logarithm	math	لگاریتم اعشاری، لگاریتم معمولی (در پایهٔ ده)
+rational expression	math	عبارت گویا
+rational function	math	تابع گویا
+complex conjugate	math	مزدوج مختلط
+polar form	math	شکل قطبی (عدد مختلط)
+imaginary unit	math	واحد موهومی، یکهٔ موهومی
+arithmetic sequence	math	دنبالهٔ حسابی
+geometric sequence	math	دنبالهٔ هندسی
+arithmetic progression	math	تصاعد حسابی، دنبالهٔ حسابی
+geometric progression	math	تصاعد هندسی، دنبالهٔ هندسی
+common ratio	math	قدرنسبت (دنبالهٔ هندسی)
+common difference	math	قدرنسبت (دنبالهٔ حسابی)
+arithmetic series	math	سری حسابی
+geometric series	math	سری هندسی
+infinite series	math	سری نامتناهی
+power series	math	سری توانی
+maclaurin series	math	سری مک‌لورن
+fourier series	math	سری فوریه
+laplace transform	math	تبدیل لاپلاس
+eigenspace	math	فضای ویژه، ویژه‌فضا
+vector space	math	فضای برداری
+linear independence	math	استقلال خطی
+linearly independent	math	مستقل خطی
+linear dependence	math	وابستگی خطی
+linearly dependent	math	وابستهٔ خطی
+linear transformation	math	تبدیل خطی
+linear map	math	نگاشت خطی
+null space	math	فضای پوچ، هستهٔ ماتریس
+column space	math	فضای ستونی
+row space	math	فضای سطری
+orthogonal matrix	math	ماتریس متعامد
+orthonormal	math	متعامد یکه، راست‌هنجار
+orthonormal basis	math	پایهٔ متعامد یکه، پایهٔ راست‌هنجار
+cross product	math	ضرب خارجی، ضرب برداری
+row reduction	math	تحویل سطری، کاهش سطری
+gaussian elimination	math	روش حذفی گاوس، حذف گاوسی
+gauss-jordan elimination	math	روش حذفی گاوس-جردن
+echelon form	math	شکل پلکانی
+row echelon form	math	شکل پلکانی سطری
+reduced row echelon form	math	شکل پلکانی سطری تحویل‌یافته
+diagonalization	math	قطری‌سازی
+diagonalisation	math	قطری‌سازی
+diagonalizable	math	قطری‌شدنی، قطری‌پذیر
+matrix multiplication	math	ضرب ماتریس‌ها، ضرب ماتریسی
+characteristic polynomial	math	چندجمله‌ای مشخصه
+upper triangular matrix	math	ماتریس بالامثلثی
+lower triangular matrix	math	ماتریس پایین‌مثلثی
+zero matrix	math	ماتریس صفر
+row vector	math	بردار سطری
+column vector	math	بردار ستونی
+unit vector	math	بردار یکه، بردار واحد
+zero vector	math	بردار صفر
+position vector	math	بردار مکان
+adjoint matrix	math	ماتریس الحاقی
+cramer's rule	math	قاعدهٔ کرامر
+cofactor	math	همسازه (دترمینان)
+trace	math	اثر ماتریس، رد ماتریس
+span	math	پوشش خطی، فضای تولیدشده (توسط چند بردار)؛ تولید کردن (فضا)
+basis	math	پایهٔ فضای برداری
+field	math	میدان (ساختار جبری)، هیئت
+commutative	math	جابه‌جایی، جابه‌جاپذیر
+distributive	math	توزیع‌پذیر، پخشی
+commutative property	math	خاصیت جابه‌جایی
+associative property	math	خاصیت شرکت‌پذیری
+distributive property	math	خاصیت توزیع‌پذیری، خاصیت پخشی
+identity element	math	عضو خنثی، عضو همانی
+inverse element	math	عضو وارون، عضو معکوس
+monomial	math	یک‌جمله‌ای
+trinomial	math	سه‌جمله‌ای
+discriminant	math	مبین، دلتا (معادلهٔ درجهٔ دوم)
+root	math	ریشهٔ معادله، صفر تابع
+surd	math	عدد گنگ رادیکالی، ریشهٔ گنگ
+conjugate	math	مزدوج (عدد مختلط یا عبارت رادیکالی)
+differentiable	math	مشتق‌پذیر
+integrable	math	انتگرال‌پذیر
+definite integral	math	انتگرال معین
+indefinite integral	math	انتگرال نامعین
+improper integral	math	انتگرال ناسره، انتگرال غیرعادی
+double integral	math	انتگرال دوگانه
+triple integral	math	انتگرال سه‌گانه
+line integral	math	انتگرال خطی، انتگرال منحنی‌الخط
+surface integral	math	انتگرال سطحی، انتگرال رویه‌ای
+integration by parts	math	انتگرال‌گیری جزءبه‌جزء، روش جزءبه‌جزء
+integration by substitution	math	انتگرال‌گیری با تغییر متغیر، روش جانشانی
+partial fractions	math	کسرهای جزئی، تجزیه به کسرهای ساده
+antiderivative	math	پادمشتق، تابع اولیه
+primitive	math	تابع اولیه، پادمشتق
+fundamental theorem of calculus	math	قضیهٔ اساسی حسابان، قضیهٔ اساسی حساب دیفرانسیل و انتگرال
+chain rule	math	قاعدهٔ زنجیره‌ای، قاعدهٔ مشتق تابع مرکب
+product rule	math	قاعدهٔ مشتق حاصل‌ضرب
+quotient rule	math	قاعدهٔ مشتق خارج‌قسمت
+power rule	math	قاعدهٔ توان (در مشتق‌گیری)
+l'hopital's rule	math	قاعدهٔ هوپیتال
+partial derivative	math	مشتق جزئی، مشتق نسبی
+higher-order derivative	math	مشتق مرتبهٔ بالاتر
+implicit differentiation	math	مشتق‌گیری ضمنی
+implicit function	math	تابع ضمنی
+explicit function	math	تابع صریح
+directional derivative	math	مشتق جهتی، مشتق سویی
+gradient	math	بردار گرادیان؛ شیب (خط)
+divergence	math	دیورژانس (میدان برداری)
+curl	math	کرل، تاو (میدان برداری)
+laplacian	math	لاپلاسین، عملگر لاپلاس
+jacobian	math	ژاکوبین، ماتریس ژاکوبی
+hessian	math	ماتریس هسین، هسین
+ordinary differential equation	math	معادلهٔ دیفرانسیل معمولی
+linear differential equation	math	معادلهٔ دیفرانسیل خطی
+first-order differential equation	math	معادلهٔ دیفرانسیل مرتبهٔ اول
+initial value problem	math	مسئلهٔ مقدار اولیه
+boundary value problem	math	مسئلهٔ مقدار مرزی
+boundary condition	math	شرط مرزی
+separation of variables	math	جداسازی متغیرها، روش تفکیک متغیرها
+general solution	math	جواب عمومی
+particular solution	math	جواب خصوصی
+convergent series	math	سری همگرا
+divergent series	math	سری واگرا
+radius of convergence	math	شعاع همگرایی
+interval of convergence	math	بازهٔ همگرایی
+ratio test	math	آزمون نسبت
+root test	math	آزمون ریشه
+comparison test	math	آزمون مقایسه
+integral test	math	آزمون انتگرال
+absolute convergence	math	همگرایی مطلق
+conditional convergence	math	همگرایی مشروط
+uniform convergence	math	همگرایی یکنواخت
+one-sided limit	math	حد یک‌طرفه
+left-hand limit	math	حد چپ
+right-hand limit	math	حد راست
+limit at infinity	math	حد در بی‌نهایت
+infinite limit	math	حد بی‌نهایت، حد نامتناهی
+squeeze theorem	math	قضیهٔ فشردگی، قضیهٔ ساندویچ
+intermediate value theorem	math	قضیهٔ مقدار میانی
+mean value theorem	math	قضیهٔ مقدار میانگین
+rolle's theorem	math	قضیهٔ رول
+extreme value theorem	math	قضیهٔ مقدار اکسترمم
+local maximum	math	ماکزیمم نسبی، بیشینهٔ موضعی
+local minimum	math	مینیمم نسبی، کمینهٔ موضعی
+absolute maximum	math	ماکزیمم مطلق، بیشینهٔ مطلق
+absolute minimum	math	مینیمم مطلق، کمینهٔ مطلق
+extremum	math	اکسترمم، نقطهٔ فرین
+stationary point	math	نقطهٔ ایستا، نقطهٔ مانا
+vertical asymptote	math	مجانب قائم
+horizontal asymptote	math	مجانب افقی
+oblique asymptote	math	مجانب مایل
+tangent line	math	خط مماس
+normal line	math	خط قائم (بر منحنی)
+rate of change	math	آهنگ تغییر
+instantaneous rate of change	math	آهنگ لحظه‌ای تغییر
+average rate of change	math	آهنگ متوسط تغییر
+riemann sum	math	مجموع ریمان
+area under the curve	math	سطح زیر منحنی، مساحت زیر نمودار
+solid of revolution	math	جسم دوار
+volume of revolution	math	حجم جسم دوار
+arc length	math	طول قوس، طول کمان
+differential calculus	math	حساب دیفرانسیل
+integral calculus	math	حساب انتگرال
+multivariable calculus	math	حسابان چندمتغیره، حساب دیفرانسیل و انتگرال چندمتغیره
+vector calculus	math	حسابان برداری، آنالیز برداری
+real analysis	math	آنالیز حقیقی
+complex analysis	math	آنالیز مختلط
+numerical analysis	math	آنالیز عددی، محاسبات عددی
+functional analysis	math	آنالیز تابعی
+epsilon-delta definition	math	تعریف اپسیلون-دلتا (حد)
+monotonic	math	یکنوا
+monotonic function	math	تابع یکنوا
+composite function	math	تابع مرکب
+composition of functions	math	ترکیب توابع
+codomain	math	هم‌دامنه، مجموعهٔ مقصد
+one-to-one	math	یک‌به‌یک
+injective	math	یک‌به‌یک، انژکتیو
+surjective	math	پوشا
+bijective	math	دوسویی، یک‌به‌یک و پوشا
+bijection	math	تناظر یک‌به‌یک، تابع دوسویی
+surjection	math	تابع پوشا
+piecewise function	math	تابع چندضابطه‌ای
+floor function	math	تابع جزء صحیح، تابع کف
+ceiling function	math	تابع سقف
+periodic function	math	تابع متناوب
+odd function	math	تابع فرد
+inverse trigonometric function	math	تابع وارون مثلثاتی، تابع معکوس مثلثاتی
+hyperbolic function	math	تابع هذلولوی
+logistic function	math	تابع لجستیک
+congruent	math	هم‌نهشت؛ قابل انطباق (شکل هندسی)
+congruence	math	هم‌نهشتی (در هندسه و حساب)
+congruent triangles	math	مثلث‌های هم‌نهشت
+similar triangles	math	مثلث‌های متشابه
+pythagorean theorem	math	قضیهٔ فیثاغورس
+angle bisector	math	نیمساز زاویه
+perpendicular bisector	math	عمودمنصف
+centroid	math	محل تلاقی میانه‌ها، مرکز ثقل مثلث
+circumcenter	math	مرکز دایرهٔ محیطی
+circumcentre	math	مرکز دایرهٔ محیطی
+incenter	math	مرکز دایرهٔ محاطی
+incentre	math	مرکز دایرهٔ محاطی
+orthocenter	math	مرکز ارتفاعی، محل تلاقی ارتفاع‌ها
+circumscribed circle	math	دایرهٔ محیطی
+inscribed circle	math	دایرهٔ محاطی
+inscribed angle	math	زاویهٔ محاطی
+central angle	math	زاویهٔ مرکزی
+secant	math	سکانت؛ خط قاطع
+cosecant	math	کسکانت
+sine rule	math	قانون سینوس‌ها، قضیهٔ سینوس‌ها
+law of sines	math	قانون سینوس‌ها، قضیهٔ سینوس‌ها
+cosine rule	math	قانون کسینوس‌ها، قضیهٔ کسینوس‌ها
+law of cosines	math	قانون کسینوس‌ها، قضیهٔ کسینوس‌ها
+trigonometric identity	math	اتحاد مثلثاتی
+trigonometric ratio	math	نسبت مثلثاتی
+unit circle	math	دایرهٔ مثلثاتی، دایرهٔ واحد
+complementary angles	math	زاویه‌های متمم
+supplementary angles	math	زاویه‌های مکمل
+vertical angles	math	زاویه‌های متقابل به رأس
+vertically opposite angles	math	زاویه‌های متقابل به رأس
+adjacent angles	math	زاویه‌های مجاور
+alternate angles	math	زاویه‌های متبادل
+corresponding angles	math	زاویه‌های متناظر
+exterior angle	math	زاویهٔ خارجی
+interior angle	math	زاویهٔ داخلی
+reflex angle	math	زاویهٔ مقعر (بزرگ‌تر از ۱۸۰ و کوچک‌تر از ۳۶۰ درجه)
+straight angle	math	زاویهٔ نیم‌صفحه، زاویهٔ ۱۸۰ درجه
+equilateral triangle	math	مثلث متساوی‌الاضلاع
+scalene triangle	math	مثلث مختلف‌الاضلاع
+right triangle	math	مثلث قائم‌الزاویه
+obtuse triangle	math	مثلث منفرجه‌الزاویه
+acute triangle	math	مثلث حاده‌الزاویه
+trapezoid	math	ذوزنقه
+trapezium	math	ذوزنقه (در کاربرد بریتانیایی)
+regular polygon	math	چندضلعی منتظم
+convex polygon	math	چندضلعی محدب
+concave polygon	math	چندضلعی مقعر
+regular polyhedron	math	چندوجهی منتظم
+platonic solid	math	جسم افلاطونی، چندوجهی منتظم
+polyhedron	math	چندوجهی
+cuboid	math	مکعب مستطیل
+surface area	math	مساحت کل، مساحت رویه
+lateral surface area	math	مساحت جانبی
+cross section	math	سطح مقطع، مقطع
+coordinate geometry	math	هندسهٔ تحلیلی، هندسهٔ مختصاتی
+euclidean geometry	math	هندسهٔ اقلیدسی
+cylindrical coordinates	math	مختصات استوانه‌ای
+coordinate plane	math	صفحهٔ مختصات
+quadrant	math	ناحیه (صفحهٔ مختصات)، ربع
+y-intercept	math	عرض از مبدأ
+x-intercept	math	طول از مبدأ
+directrix	math	خط هادی
+dilation	math	تجانس (تبدیل هندسی)
+reflection	math	بازتاب، تقارن محوری (تبدیل هندسی)
+line of symmetry	math	محور تقارن
+rotational symmetry	math	تقارن دورانی
+tessellation	math	کاشی‌کاری (صفحه)، فرش‌کردن صفحه
+geometric construction	math	ترسیم هندسی
+straightedge	math	خط‌کش بی‌درجه
+collinear	math	هم‌خط
+concurrent	math	همرس
+parallel lines	math	خط‌های موازی
+perpendicular lines	math	خط‌های عمود بر هم
+transversal	math	خط مورب، خط قاطع (دو خط موازی)
+apothem	math	سهم (چندضلعی منتظم)، فاصلهٔ مرکز تا ضلع
+torus	math	چنبره، تروس
+greatest common divisor	math	بزرگ‌ترین مقسوم‌علیه مشترک، ب.م.م
+greatest common factor	math	بزرگ‌ترین شمارندهٔ مشترک، ب.م.م
+highest common factor	math	بزرگ‌ترین مقسوم‌علیه مشترک، ب.م.م
+least common multiple	math	کوچک‌ترین مضرب مشترک، ک.م.م
+lowest common multiple	math	کوچک‌ترین مضرب مشترک، ک.م.م
+lowest common denominator	math	کوچک‌ترین مخرج مشترک
+modular arithmetic	math	حساب پیمانه‌ای، حساب هم‌نهشتی
+composite number	math	عدد مرکب
+coprime	math	نسبت به هم اول، متباین
+relatively prime	math	نسبت به هم اول، متباین
+divisibility rule	math	قاعدهٔ بخش‌پذیری
+euclidean algorithm	math	الگوریتم اقلیدس
+sieve of eratosthenes	math	غربال اراتستن
+fundamental theorem of arithmetic	math	قضیهٔ اساسی حساب
+perfect number	math	عدد تام، عدد کامل
+fermat's little theorem	math	قضیهٔ کوچک فرما
+diophantine equation	math	معادلهٔ سیاله، معادلهٔ دیوفانتی
+twin primes	math	اعداد اول دوقلو
+mersenne prime	math	عدد اول مرسن
+residue	math	مانده (حساب همنهشتی)
+pascal's triangle	math	مثلث خیام، مثلث خیام‌ـپاسکال، مثلث پاسکال
+square number	math	عدد مربع
+triangular number	math	عدد مثلثی
+whole number	math	عدد حسابی؛ عدد صحیح
+irrational number	math	عدد گنگ، عدد اصم
+proper subset	math	زیرمجموعهٔ سره، زیرمجموعهٔ محض
+superset	math	ابرمجموعه، مجموعهٔ شامل
+power set	math	مجموعهٔ توانی
+set difference	math	تفاضل مجموعه‌ها
+symmetric difference	math	تفاضل متقارن
+universal set	math	مجموعهٔ مرجع
+finite set	math	مجموعهٔ متناهی
+infinite set	math	مجموعهٔ نامتناهی
+countable	math	شمارا
+uncountable	math	ناشمارا
+countable set	math	مجموعهٔ شمارا
+cardinality	math	عدد اصلی (مجموعه)، کاردینالیتی
+cartesian product	math	ضرب دکارتی، حاصل‌ضرب دکارتی
+ordered pair	math	زوج مرتب
+equivalence class	math	کلاس هم‌ارزی، ردهٔ هم‌ارزی
+graph theory	math	نظریهٔ گراف
+bipartite graph	math	گراف دوبخشی
+spanning tree	math	درخت فراگیر، درخت پوشا
+pigeonhole principle	math	اصل لانهٔ کبوتری
+inclusion-exclusion principle	math	اصل شمول و عدم شمول، اصل طرد و شمول
+mathematical induction	math	استقرای ریاضی
+proof by induction	math	اثبات به روش استقرا
+proof by contradiction	math	برهان خلف
+counterexample	math	مثال نقض
+lemma	math	لم
+boolean algebra	math	جبر بول
+recurrence relation	math	رابطهٔ بازگشتی
+quantifier	math	سور
+universal quantifier	math	سور عمومی، سور کلی
+existential quantifier	math	سور وجودی
+topological space	math	فضای توپولوژیک
+topology	math	توپولوژی، هندسهٔ وضعی (شاخه‌ای از ریاضی)
+open set	math	مجموعهٔ باز
+closed set	math	مجموعهٔ بسته
+homeomorphism	math	همسان‌ریختی، همئومورفیسم
+homeomorphic	math	همسان‌ریخت
+compactness	math	فشردگی
+connectedness	math	همبندی
+metric space	math	فضای متری
+mobius strip	math	نوار موبیوس
+klein bottle	math	بطری کلاین
+hausdorff space	math	فضای هاسدورف
+times table	math	جدول ضرب
+improper fraction	math	کسر بزرگ‌تر از واحد، کسر ناسره (صورت بزرگ‌تر از مخرج یا برابر با آن)
+proper fraction	math	کسر کوچک‌تر از واحد، کسر سره
+mixed number	math	عدد مخلوط
+equivalent fractions	math	کسرهای مساوی، کسرهای هم‌ارز
+decimal place	math	رقم اعشار
+significant figures	math	ارقام بامعنا، ارقام معنادار
+order of operations	math	ترتیب انجام عملیات
+number line	math	محور اعداد
+negative number	math	عدد منفی
+direct proportion	math	تناسب مستقیم
+inverse proportion	math	تناسب معکوس
+ratio and proportion	math	نسبت و تناسب
+mental arithmetic	math	حساب ذهنی
+word problem	math	مسئلهٔ کلامی، مسئلهٔ متنی
+long division	math	تقسیم چندرقمی (به روش نوشتاری گام‌به‌گام)

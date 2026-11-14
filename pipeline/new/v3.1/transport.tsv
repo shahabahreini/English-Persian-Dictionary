@@ -1,0 +1,724 @@
+timing belt	transport	تسمه‌تایم
+timing chain	transport	زنجیر تایم
+alternator	transport	دینام، آلترناتور
+clutch pedal	transport	پدال کلاچ
+clutch plate	transport	صفحهٔ کلاچ (صفحهٔ اصطکاکی)
+clutch disc	transport	صفحهٔ کلاچ (صفحهٔ اصطکاکی)
+pressure plate	transport	دیسک کلاچ (صفحهٔ فشاری)
+gearbox	transport	گیربکس، جعبه‌دنده
+gear stick	transport	دستهٔ دنده
+gearshift	transport	تعویض دنده
+manual transmission	transport	گیربکس دستی، دندهٔ دستی
+automatic transmission	transport	گیربکس اتوماتیک، دندهٔ اتوماتیک
+continuously variable transmission	transport	گیربکس سی‌وی‌تی، گیربکس با نسبت متغیر پیوسته
+cvt	transport	continuously variable transmission؛ گیربکس سی‌وی‌تی
+coil spring	transport	فنر لول
+leaf spring	transport	فنر شمشی
+brake pad	transport	لنت ترمز
+brake disc	transport	دیسک ترمز
+brake drum	transport	کاسهٔ ترمز
+brake shoe	transport	لنت کفشکی، کفشک ترمز
+brake caliper	transport	کالیپر ترمز
+brake fluid	transport	روغن ترمز
+brake pedal	transport	پدال ترمز
+parking brake	transport	ترمز دستی
+drum brake	transport	ترمز کاسه‌ای
+anti-lock braking system	transport	سیستم ترمز ضدقفل، ای‌بی‌اس
+master cylinder	transport	پمپ ترمز بالا، سیلندر اصلی ترمز
+brake booster	transport	بوستر ترمز
+catalytic converter	transport	کاتالیزور، مبدل کاتالیستی
+exhaust manifold	transport	منیفولد دود، منیفولد اگزوز
+intake manifold	transport	منیفولد هوا
+muffler	transport	انباری اگزوز، صداخفه‌کن
+silencer	transport	انباری اگزوز، صداخفه‌کن
+tailpipe	transport	سرِ اگزوز، لولهٔ انتهایی اگزوز
+tachometer	transport	دورسنج، دورشمار موتور
+fuel gauge	transport	آمپر بنزین، نشانگر سوخت
+temperature gauge	transport	آمپر آب، نشانگر دمای موتور
+instrument cluster	transport	صفحهٔ آمپر، پشت‌آمپر
+instrument panel	transport	صفحهٔ آمپر، داشبورد
+windscreen wiper	transport	برف‌پاک‌کن
+wiper blade	transport	تیغهٔ برف‌پاک‌کن
+rear window	transport	شیشهٔ عقب
+head gasket	transport	واشر سرسیلندر
+valve cover	transport	درِ سوپاپ، قالپاق سوپاپ
+oil pan	transport	کارتل روغن
+sump	transport	کارتل روغن
+oil filter	transport	فیلتر روغن
+air filter	transport	فیلتر هوا
+fuel filter	transport	فیلتر بنزین، فیلتر سوخت
+fuel injector	transport	انژکتور
+fuel injection	transport	سوخت‌پاشی، سیستم انژکتوری
+carburettor	transport	کاربراتور
+carburetor	transport	کاربراتور
+throttle body	transport	دریچهٔ گاز
+throttle	transport	دریچهٔ گاز؛ پدال گاز
+ignition coil	transport	کوئل
+starter motor	transport	استارت، موتور استارت
+ignition	transport	سوئیچ (خودرو)؛ سیستم جرقه، سیستم احتراق
+ignition key	transport	سوئیچ خودرو
+water pump	transport	واتر پمپ، پمپ آب
+coolant	transport	ضدیخ، مایع خنک‌کننده
+radiator cap	transport	درِ رادیاتور
+cooling fan	transport	فن رادیاتور
+fan belt	transport	تسمهٔ پروانه، تسمهٔ دینام
+serpentine belt	transport	تسمهٔ دینام، تسمهٔ چندشیارهٔ یکسره
+turbocharger	transport	توربوشارژر
+supercharger	transport	سوپرشارژر
+drive shaft	transport	میل‌گاردان، پلوس
+driveshaft	transport	میل‌گاردان، پلوس
+propeller shaft	transport	میل‌گاردان
+cv joint	transport	سرپلوس
+half shaft	transport	پلوس
+wheel hub	transport	توپی چرخ
+tie rod	transport	میل‌فرمان
+control arm	transport	طبق
+wishbone	transport	طبق
+steering wheel	transport	فرمان، غربیلک فرمان
+steering column	transport	ستون فرمان
+power steering	transport	فرمان هیدرولیک
+rack and pinion	transport	جعبه‌فرمان شانه‌ای
+steering rack	transport	جعبه‌فرمان
+anti-roll bar	transport	میل‌موجگیر
+stabilizer bar	transport	میل‌موجگیر
+sway bar	transport	میل‌موجگیر
+strut	transport	کمک‌فنر (مک‌فرسون)، استرات
+mcpherson strut	transport	کمک‌فنر مک‌فرسون
+engine mount	transport	دسته‌موتور
+gearbox mount	transport	دسته‌گیربکس
+mudguard	transport	گل‌پخش‌کن، گلگیر
+mud flap	transport	گل‌پخش‌کن
+grille	transport	جلوپنجره
+radiator grille	transport	جلوپنجره
+headlamp	transport	چراغ جلو
+dipped headlights	transport	نور پایین
+fog light	transport	چراغ مه‌شکن
+fog lamp	transport	چراغ مه‌شکن
+brake light	transport	چراغ ترمز
+hazard lights	transport	فلاشر، چراغ خطر
+hazard warning lights	transport	فلاشر، چراغ خطر
+reversing light	transport	چراغ دنده‌عقب
+side mirror	transport	آینهٔ بغل
+wing mirror	transport	آینهٔ بغل
+rear-view mirror	transport	آینهٔ وسط، آینهٔ عقب‌نما
+rearview mirror	transport	آینهٔ وسط، آینهٔ عقب‌نما
+glovebox	transport	داشبورد (جعبهٔ جلوی صندلی کمک‌راننده)
+seat belt	transport	کمربند ایمنی
+child seat	transport	صندلی کودک (خودرو)
+car seat	transport	صندلی خودرو؛ صندلی کودک (خودرو)
+body shell	transport	اتاق خودرو، بدنه
+bodywork	transport	بدنه، صافکاری و نقاشی
+monocoque	transport	بدنهٔ یکپارچه، مونوکوک
+door handle	transport	دستگیرهٔ در
+central locking	transport	قفل مرکزی
+immobilizer	transport	ایموبلایزر، قفل الکترونیکی موتور
+immobiliser	transport	ایموبلایزر، قفل الکترونیکی موتور
+car alarm	transport	دزدگیر خودرو
+car battery	transport	باتری خودرو
+jump-start	transport	باتری به باتری کردن، با کابل روشن کردن
+ecu	transport	engine control unit؛ ای‌سی‌یو، کامپیوتر خودرو، یونیت کنترل موتور
+engine control unit	transport	ای‌سی‌یو، کامپیوتر خودرو، یونیت کنترل موتور
+check engine light	transport	چراغ چک موتور
+obd	transport	on-board diagnostics؛ عیب‌یاب داخلی خودرو، اوبی‌دی
+diagnostic tool	transport	دستگاه دیاگ، دیاگ
+oxygen sensor	transport	سنسور اکسیژن
+lambda sensor	transport	سنسور اکسیژن، سنسور لامبدا
+mass airflow sensor	transport	سنسور جریان هوا، ماف
+cruise control	transport	کروز کنترل
+parking sensor	transport	سنسور پارک
+reversing camera	transport	دوربین دنده‌عقب
+backup camera	transport	دوربین دنده‌عقب
+tread	transport	آج لاستیک
+tyre tread	transport	آج لاستیک
+tyre pressure	transport	باد لاستیک، فشار باد تایر
+tire pressure	transport	باد لاستیک، فشار باد تایر
+flat tyre	transport	پنچری، لاستیک پنچر
+flat tire	transport	پنچری، لاستیک پنچر
+puncture	transport	پنچری
+tubeless tyre	transport	لاستیک تیوبلس
+inner tube	transport	تیوب
+alloy wheel	transport	رینگ اسپرت، رینگ آلومینیومی
+hubcap	transport	قالپاق
+wheel alignment	transport	تنظیم فرمان، میزان کردن فرمان، تنظیم زوایای چرخ
+wheel balancing	transport	بالانس چرخ
+tread depth	transport	عمق آج
+snow chains	transport	زنجیر چرخ
+wheel wrench	transport	آچار چرخ
+lug nut	transport	مهرهٔ چرخ
+wheel nut	transport	مهرهٔ چرخ
+tow bar	transport	قلاب یدک‌کش، میلهٔ یدک‌کش
+towbar	transport	قلاب یدک‌کش، میلهٔ یدک‌کش
+tow hitch	transport	قلاب یدک‌کش
+roof rack	transport	باربند
+roof box	transport	باکس سقفی
+gear oil	transport	واسکازین، روغن گیربکس
+transmission fluid	transport	روغن گیربکس اتوماتیک
+dipstick	transport	گیج روغن، میلهٔ اندازه‌گیری روغن
+service interval	transport	فاصلهٔ سرویس دوره‌ای
+car service	transport	سرویس خودرو
+tune-up	transport	تنظیم موتور، سرویس تنظیم موتور
+overhaul	transport	تعمیر اساسی، اورهال
+engine overhaul	transport	تعمیر اساسی موتور، اورهال موتور
+car wash	transport	کارواش
+horsepower	transport	اسب بخار، قدرت موتور
+displacement	transport	حجم موتور
+engine capacity	transport	حجم موتور
+v8	transport	موتور هشت‌سیلندر خورجینی، وی‌هشت
+idling	transport	درجا کار کردن موتور، دور آرام
+idle	transport	درجا کار کردن موتور، دور آرام
+backfire	transport	پس‌زدن موتور، ترکیدن اگزوز
+misfire	transport	ریپ زدن موتور، میس‌فایر، احتراق ناقص
+knock	transport	ناک زدن موتور، کوبش
+engine knock	transport	ناک زدن موتور، کوبش موتور
+octane rating	transport	عدد اکتان
+fuel economy	transport	مصرف سوخت، بهینگی سوخت
+sport utility vehicle	transport	شاسی‌بلند، اس‌یووی
+crossover	transport	کراس‌اوور (خودرو)
+convertible	transport	کروک، کانورتیبل
+cabriolet	transport	کروک، کابریولت
+roadster	transport	رودستر (خودروی کروک دونفره)
+mpv	transport	multi-purpose vehicle؛ مینی‌ون، خودروی چندمنظوره
+pick-up	transport	وانت
+semi-trailer	transport	نیم‌تریلر، تریلی
+tractor unit	transport	کشنده، تریلی کشنده
+tipper truck	transport	کامیون کمپرسی، کمپرسی
+tanker truck	transport	تانکر، کامیون تانکر
+flatbed truck	transport	کامیون کفی، کفی
+breakdown truck	transport	یدک‌کش، امداد خودرو
+car transporter	transport	خودروبر، تریلی خودروبر
+refrigerated truck	transport	کامیون یخچال‌دار
+reefer	transport	کامیون یخچال‌دار؛ کانتینر یخچالی
+scooter	transport	اسکوتر، موتور اسکوتر
+quad bike	transport	موتور چهارچرخ
+all-terrain vehicle	transport	موتور چهارچرخ، خودروی همه‌جارو
+four-wheel drive	transport	چهارچرخ محرک، دودیفرانسیل
+4x4	transport	دودیفرانسیل، چهارچرخ محرک
+all-wheel drive	transport	چهارچرخ محرک دائم، تمام‌چرخ محرک
+front-wheel drive	transport	دیفرانسیل جلو
+rear-wheel drive	transport	دیفرانسیل عقب
+two-wheel drive	transport	تک‌دیفرانسیل
+off-roader	transport	خودروی آفرود
+off-road vehicle	transport	خودروی آفرود
+sports car	transport	خودروی اسپرت
+supercar	transport	سوپرکار، خودروی سوپراسپرت
+limousine	transport	لیموزین
+minicab	transport	آژانس (تاکسی تلفنی)
+carpool	transport	هم‌سفری، اشتراک خودرو
+carpooling	transport	هم‌سفری، اشتراک خودرو
+commercial vehicle	transport	خودروی تجاری
+heavy goods vehicle	transport	خودروی سنگین باری
+hgv	transport	heavy goods vehicle؛ خودروی سنگین باری
+light commercial vehicle	transport	خودروی سبک تجاری
+used car	transport	ماشین دست‌دوم، خودروی کارکرده
+second-hand car	transport	ماشین دست‌دوم
+new car	transport	خودروی صفر، ماشین صفر
+car dealership	transport	نمایندگی خودرو
+showroom	transport	نمایشگاه خودرو
+parking space	transport	جای پارک
+parking meter	transport	پارکومتر
+parking ticket	transport	جریمهٔ پارک
+parallel parking	transport	پارک دوبل
+double parking	transport	دوبله پارک کردن، توقف دوبله
+valet parking	transport	سرویس پارک‌بان، پارک خودرو توسط متصدی
+battery electric vehicle	transport	خودروی تمام‌برقی
+hybrid vehicle	transport	خودروی هیبریدی
+plug-in	transport	پلاگین هیبرید، هیبرید شارژی (قابل شارژ از برق شهری)
+mild hybrid	transport	هیبرید ملایم، مایلد هیبرید
+full hybrid	transport	هیبرید کامل
+charge point	transport	نقطهٔ شارژ، ایستگاه شارژ
+rapid charger	transport	شارژر سریع
+wallbox	transport	شارژر دیواری
+charging cable	transport	کابل شارژ
+driving range	transport	برد (خودروی برقی)، پیمایش با یک شارژ
+traction battery	transport	باتری کششی
+zero-emission vehicle	transport	خودروی بدون آلایندگی
+hydrogen fuel cell vehicle	transport	خودروی پیل سوختی هیدروژنی
+fuel cell vehicle	transport	خودروی پیل سوختی
+driverless car	transport	خودروی بی‌راننده، خودروی خودران
+lane-keeping assist	transport	دستیار حفظ خط
+adaptive cruise control	transport	کروز کنترل تطبیقی
+blind-spot monitoring	transport	هشدار نقطهٔ کور
+emergency braking	transport	ترمز اضطراری
+cng	transport	compressed natural gas؛ سی‌ان‌جی، گاز طبیعی فشرده
+bi-fuel	transport	دوگانه‌سوز
+dual-fuel	transport	دوگانه‌سوز
+emissions test	transport	معاینهٔ فنی آلایندگی، تست آلایندگی
+emission standard	transport	استاندارد آلایندگی
+fuel cap	transport	درِ باک
+petrol station	transport	جایگاه سوخت
+gas station	transport	جایگاه سوخت
+service station	transport	جایگاه سوخت؛ مجتمع خدمات رفاهی بین‌راهی
+fuel card	transport	کارت سوخت
+unleaded	transport	بنزین بدون سرب
+premium petrol	transport	بنزین سوپر
+odometer reading	transport	کارکرد، عدد کیلومترشمار
+vehicle identification number	transport	شمارهٔ شاسی، شمارهٔ شناسایی خودرو
+chassis number	transport	شمارهٔ شاسی
+engine number	transport	شمارهٔ موتور
+registration plate	transport	پلاک
+vehicle registration	transport	شماره‌گذاری خودرو؛ سند خودرو
+logbook	transport	سند خودرو (بریتانیایی)؛ دفترچهٔ سرویس
+vehicle registration document	transport	سند خودرو، برگ سبز
+car insurance	transport	بیمهٔ خودرو
+comprehensive insurance	transport	بیمهٔ بدنه
+no-claims bonus	transport	تخفیف عدم خسارت
+road tax	transport	عوارض سالانهٔ خودرو
+no overtaking	transport	سبقت ممنوع
+fast lane	transport	خط سبقت، لاین سرعت
+slow lane	transport	خط کندرو
+bus lane	transport	خط ویژهٔ اتوبوس
+cycle lane	transport	مسیر دوچرخه
+bike lane	transport	مسیر دوچرخه
+lane change	transport	تغییر خط، تغییر لاین
+lane discipline	transport	رعایت خط، حرکت در خط
+speed hump	transport	سرعت‌گیر
+congestion	transport	ترافیک سنگین، ازدحام ترافیک
+traffic congestion	transport	ترافیک سنگین، ازدحام ترافیک
+peak hours	transport	ساعات اوج
+off-peak	transport	غیرساعات اوج، خارج از ساعت شلوغی
+bottleneck	transport	گلوگاه ترافیکی
+tailback	transport	صف ترافیک
+tailgating	transport	چسبیدن به خودروی جلویی، رعایت نکردن فاصلهٔ طولی
+following distance	transport	فاصلهٔ طولی، فاصلهٔ ایمن
+driver's licence	transport	گواهی‌نامهٔ رانندگی، گواهی‌نامه
+provisional licence	transport	گواهی‌نامهٔ موقت
+driving school	transport	آموزشگاه رانندگی
+driving instructor	transport	مربی رانندگی
+driving lesson	transport	جلسهٔ آموزش رانندگی
+mot	transport	(بریتانیایی) معاینهٔ فنی سالانهٔ خودرو
+mot test	transport	معاینهٔ فنی خودرو
+vehicle inspection	transport	معاینهٔ فنی خودرو
+roadworthiness	transport	سلامت فنی خودرو
+roadworthy	transport	دارای سلامت فنی، قابل تردد
+roadside assistance	transport	امداد خودرو
+breakdown service	transport	امداد خودرو
+traffic lights	transport	چراغ راهنمایی
+run a red light	transport	از چراغ قرمز رد شدن، چراغ قرمز رد کردن
+amber light	transport	چراغ زرد
+traffic sign	transport	تابلوی راهنمایی و رانندگی، علامت راهنمایی
+road sign	transport	تابلوی جاده‌ای، علامت راهنمایی
+give way	transport	حق تقدم دادن؛ رعایت حق تقدم
+stop sign	transport	تابلوی ایست
+no entry	transport	ورود ممنوع
+one-way street	transport	خیابان یک‌طرفه
+no parking	transport	توقف ممنوع، پارک ممنوع
+no stopping	transport	توقف مطلقاً ممنوع
+u-turn	transport	دور زدن، یوترن
+no u-turn	transport	دور زدن ممنوع
+speeding	transport	سرعت غیرمجاز، تخلف سرعت
+speeding ticket	transport	جریمهٔ سرعت غیرمجاز
+speed camera	transport	دوربین کنترل سرعت
+traffic camera	transport	دوربین ترافیکی، دوربین ثبت تخلف
+traffic police	transport	پلیس راهنمایی و رانندگی، راهور
+traffic warden	transport	مأمور پارکینگ، مأمور کنترل پارک
+traffic offence	transport	تخلف رانندگی
+traffic violation	transport	تخلف رانندگی
+traffic ticket	transport	برگ جریمه
+penalty points	transport	نمرهٔ منفی (گواهی‌نامه)
+drink-driving	transport	رانندگی در حالت مستی
+drunk driving	transport	رانندگی در حالت مستی
+breathalyser	transport	دستگاه تست الکل
+breathalyzer	transport	دستگاه تست الکل
+hit-and-run	transport	تصادف و فرار، فرار از صحنهٔ تصادف
+road rage	transport	خشم جاده‌ای، پرخاشگری در رانندگی
+reckless driving	transport	رانندگی خطرناک، رانندگی بی‌احتیاط
+dangerous driving	transport	رانندگی خطرناک
+defensive driving	transport	رانندگی تدافعی
+pelican crossing	transport	گذرگاه عابر پیاده با چراغ
+pedestrian	transport	عابر پیاده
+road accident	transport	تصادف جاده‌ای
+car crash	transport	تصادف رانندگی
+rear-end collision	transport	تصادف از پشت
+head-on collision	transport	تصادف شاخ‌به‌شاخ
+pile-up	transport	تصادف زنجیره‌ای
+write-off	transport	خسارت کلی (خودرو)، خودروی غیرقابل تعمیر
+accident report	transport	گزارش تصادف، کروکی
+traffic flow	transport	جریان ترافیک
+traffic volume	transport	حجم ترافیک
+traffic calming	transport	آرام‌سازی ترافیک
+traffic management	transport	مدیریت ترافیک
+traffic island	transport	جزیرهٔ ترافیکی
+road markings	transport	خط‌کشی جاده
+double yellow lines	transport	دو خط زرد (توقف ممنوع)
+solid line	transport	خط ممتد
+broken line	transport	خط منقطع
+cat's eye	transport	گل‌میخ جاده، چشم گربه‌ای
+hitchhiking	transport	اتواستاپ
+hitchhike	transport	اتواستاپ زدن
+hitchhiker	transport	اتواستاپ‌زن
+learner	transport	نوآموز رانندگی
+motorist	transport	راننده
+commuter	transport	رفت‌وآمدکنندهٔ روزانه
+handbrake turn	transport	دور زدن با ترمز دستی
+skid	transport	سُر خوردن، لیز خوردن (خودرو)
+aquaplaning	transport	آب‌لغزی (لغزیدن خودرو روی آب)
+hydroplaning	transport	آب‌لغزی (لغزیدن خودرو روی آب)
+oversteer	transport	اوراستیر
+understeer	transport	آندراستیر
+three-point turn	transport	دور زدن سه‌مرحله‌ای
+reverse parking	transport	پارک با دنده‌عقب
+reverse gear	transport	دنده‌عقب
+first gear	transport	دندهٔ یک
+downshift	transport	دنده معکوس کشیدن، دنده کم کردن
+interchange	transport	تقاطع غیرهم‌سطح، تبادل؛ ایستگاه تبادلی (مترو)
+toll road	transport	آزادراه عوارضی، جادهٔ عوارضی
+toll booth	transport	باجهٔ عوارضی، عوارضی
+tollbooth	transport	باجهٔ عوارضی، عوارضی
+toll plaza	transport	عوارضی
+electronic toll collection	transport	دریافت الکترونیکی عوارض
+pedestrian bridge	transport	پل عابر پیاده
+footbridge	transport	پل عابر پیاده
+t-junction	transport	سه‌راهی
+y-junction	transport	دوراهی
+cloverleaf interchange	transport	تقاطع شبدری
+grade separation	transport	غیرهم‌سطح‌سازی (تقاطع)
+freeway	transport	آزادراه، اتوبان
+expressway	transport	بزرگراه
+carriageway	transport	سواره‌رو
+single carriageway	transport	جادهٔ دوطرفهٔ بدون جداکننده
+bypass	transport	کمربندی، جادهٔ کنارگذر
+slip road	transport	رمپ، راه ورودی و خروجی
+on-ramp	transport	رمپ ورودی
+off-ramp	transport	رمپ خروجی
+exit ramp	transport	رمپ خروجی
+service road	transport	کندرو، راه دسترسی
+frontage road	transport	کندرو
+median strip	transport	رفوژ، بلوار وسط
+central reservation	transport	رفوژ، بلوار وسط
+crash barrier	transport	گاردریل
+guardrail	transport	گاردریل
+jersey barrier	transport	نیوجرسی (جداکنندهٔ بتنی)
+pavement	transport	(آمریکایی) روسازی راه، آسفالت
+road surface	transport	سطح راه، رویهٔ آسفالت
+road works	transport	عملیات راهسازی، تعمیرات جاده
+roadworks	transport	عملیات راهسازی، تعمیرات جاده
+road closure	transport	انسداد جاده
+rest area	transport	مجتمع خدمات رفاهی بین‌راهی، توقفگاه
+lay-by	transport	توقفگاه کنار جاده، پارکینگ حاشیهٔ جاده
+truck stop	transport	توقفگاه کامیون‌ها
+causeway	transport	راه میان‌گذر (روی آب یا باتلاق)
+hairpin bend	transport	پیچ تند، پیچ سنجاقی
+blind bend	transport	پیچ کور
+road network	transport	شبکهٔ راه‌ها
+arterial road	transport	راه شریانی، معبر شریانی
+side road	transport	راه فرعی، خیابان فرعی
+dirt road	transport	جادهٔ خاکی
+gravel road	transport	جادهٔ شنی
+unpaved road	transport	جادهٔ آسفالت‌نشده، جادهٔ خاکی
+rural road	transport	جادهٔ روستایی
+road safety	transport	ایمنی جاده‌ای، ایمنی ترافیک
+road user	transport	کاربر جاده، استفاده‌کنندهٔ راه
+road haulage	transport	حمل‌ونقل جاده‌ای بار
+road transport	transport	حمل‌ونقل جاده‌ای
+transport infrastructure	transport	زیرساخت حمل‌ونقل
+transport hub	transport	قطب حمل‌ونقل، مرکز تبادل
+rail transport	transport	حمل‌ونقل ریلی
+rolling stock	transport	ناوگان ریلی، وسایل نقلیهٔ ریلی
+diesel locomotive	transport	لوکوموتیو دیزلی
+electric locomotive	transport	لوکوموتیو برقی
+steam locomotive	transport	لوکوموتیو بخار
+bogie	transport	بوژی
+wheelset	transport	چرخ و محور (واگن)
+track gauge	transport	عرض خط
+standard gauge	transport	خط با عرض استاندارد، عرض خط استاندارد
+broad gauge	transport	خط عریض
+narrow gauge	transport	خط باریک
+break of gauge	transport	تغییر عرض خط
+railroad tie	transport	تراورس
+crosstie	transport	تراورس
+permanent way	transport	روسازی خط آهن
+level crossing	transport	تقاطع هم‌سطح راه‌آهن، گذرگاه ریلی
+grade crossing	transport	تقاطع هم‌سطح راه‌آهن
+railroad crossing	transport	تقاطع هم‌سطح راه‌آهن
+signal box	transport	پست فرمان، کابین سوزن‌بانی
+signalling	transport	علائم‌دهی، سیگنالینگ (راه‌آهن)
+signalman	transport	سوزن‌بان، متصدی علائم
+railroad switch	transport	سوزن (خط آهن)
+turnout	transport	سوزن، انشعاب خط
+siding	transport	خط فرعی، خط جانبی
+marshalling yard	transport	ایستگاه مانور، محوطهٔ مانور قطار
+rail yard	transport	محوطهٔ مانور
+coupling	transport	قلاب (واگن)، کوپلر
+buffer stop	transport	ضربه‌گیر انتهای خط
+overhead line	transport	خط بالاسری، شبکهٔ برق بالاسری
+catenary	transport	شبکهٔ بالاسری، کاتنری
+third rail	transport	ریل سوم
+electrification	transport	برقی‌سازی (خط آهن)
+metro line	transport	خط مترو
+metro station	transport	ایستگاه مترو
+subway station	transport	ایستگاه مترو
+light rail	transport	قطار سبک شهری
+light rail transit	transport	قطار سبک شهری
+tramway	transport	تراموا، خط تراموا
+high-speed rail	transport	قطار سریع‌السیر، راه‌آهن پرسرعت
+high-speed train	transport	قطار سریع‌السیر، قطار پرسرعت
+bullet train	transport	قطار سریع‌السیر
+commuter rail	transport	قطار حومه‌ای
+commuter train	transport	قطار حومه‌ای
+suburban railway	transport	قطار حومه‌ای
+intercity train	transport	قطار بین‌شهری
+passenger train	transport	قطار مسافری
+freight train	transport	قطار باری
+goods train	transport	قطار باری
+express train	transport	قطار سریع‌السیر
+night train	transport	قطار شبانه
+sleeper train	transport	قطار خواب‌دار
+sleeping car	transport	واگن خواب‌دار، کوپهٔ خواب
+restaurant car	transport	واگن رستوران
+railcar	transport	واگن خودکشش؛ واگن
+boxcar	transport	واگن مسقف باری
+tank car	transport	واگن مخزن‌دار
+flatcar	transport	واگن مسطح، واگن کفی
+hopper car	transport	واگن هاپر، واگن قیفی
+terminus	transport	ایستگاه پایانی
+bus station	transport	ترمینال اتوبوس
+bus terminal	transport	پایانهٔ اتوبوس، ترمینال
+ticket office	transport	باجهٔ فروش بلیت، گیشه
+ticket barrier	transport	گیت بلیت، گیت ورودی
+departure board	transport	تابلوی حرکت
+departures	transport	خروجی‌ها، عزیمت‌ها
+conductor	transport	رئیس قطار، مأمور بلیت (قطار یا اتوبوس)
+ticket inspector	transport	کنترل‌چی بلیت، بازرس بلیت
+train driver	transport	لکوموتیوران، رانندهٔ قطار
+engine driver	transport	لکوموتیوران
+train crew	transport	خدمهٔ قطار
+train collision	transport	برخورد قطار
+railway accident	transport	سانحهٔ ریلی
+rail freight	transport	بار ریلی، حمل بار با راه‌آهن
+rail network	transport	شبکهٔ ریلی
+double track	transport	خط دوخطه، خط دوبانده
+single track	transport	خط یک‌خطه، تک‌خطه
+railway line	transport	خط راه‌آهن
+rail link	transport	اتصال ریلی
+railway tunnel	transport	تونل راه‌آهن
+cog railway	transport	راه‌آهن دنده‌ای
+funicular	transport	فونیکولار، قطار کابلی شیب‌دار
+cable car	transport	تله‌کابین
+gondola lift	transport	تله‌کابین
+chairlift	transport	تله‌سیژ
+aerial tramway	transport	تله‌کابین
+public transportation	transport	حمل‌ونقل عمومی
+mass transit	transport	حمل‌ونقل انبوه، حمل‌ونقل عمومی
+rapid transit	transport	حمل‌ونقل سریع شهری (مترو)
+bus rapid transit	transport	اتوبوس تندرو، بی‌آرتی
+brt	transport	bus rapid transit؛ اتوبوس تندرو، بی‌آرتی
+double-decker	transport	اتوبوس دوطبقه
+double-decker bus	transport	اتوبوس دوطبقه
+articulated bus	transport	اتوبوس آکاردئونی، اتوبوس دوکابین
+shuttle bus	transport	اتوبوس شاتل، سرویس رفت‌وبرگشت
+school bus	transport	سرویس مدرسه، اتوبوس مدرسه
+trolleybus	transport	اتوبوس برقی، ترولی‌بوس
+electric bus	transport	اتوبوس برقی
+bus shelter	transport	سایبان ایستگاه اتوبوس
+bus route	transport	خط اتوبوس، مسیر اتوبوس
+bus driver	transport	رانندهٔ اتوبوس
+shared taxi	transport	تاکسی خطی
+route taxi	transport	تاکسی خطی
+bus fare	transport	کرایهٔ اتوبوس
+fare zone	transport	منطقهٔ کرایه
+season ticket	transport	بلیت مدت‌دار، بلیت فصلی
+travelcard	transport	کارت سفر، بلیت روزانه
+smart card	transport	کارت بلیت هوشمند، بلیت الکترونیک
+concession fare	transport	کرایهٔ تخفیف‌دار
+ridership	transport	تعداد مسافران، میزان استفاده از حمل‌ونقل عمومی
+headway	transport	سرفاصلهٔ حرکت
+frequency	transport	تواتر حرکت، فاصلهٔ حرکت
+park and ride	transport	پارک‌سوار
+transfer	transport	تعویض خط، تبادل
+change trains	transport	قطار عوض کردن
+interchange station	transport	ایستگاه تبادلی
+water taxi	transport	تاکسی آبی
+electric scooter	transport	اسکوتر برقی
+bike sharing	transport	دوچرخهٔ اشتراکی
+bike-sharing	transport	دوچرخهٔ اشتراکی
+rickshaw	transport	ریکشا
+auto rickshaw	transport	ریکشای موتوری
+scm	transport	supply chain management؛ مدیریت زنجیرهٔ تأمین
+freight forwarder	transport	فورواردر، شرکت حمل‌ونقل بین‌المللی، کارگزار حمل
+freight forwarding	transport	فورواردینگ، خدمات حمل‌ونقل بین‌المللی
+forwarding agent	transport	فورواردر، کارگزار حمل
+haulier	transport	شرکت حمل‌ونقل جاده‌ای، باربری
+haulage	transport	حمل بار، باربری؛ کرایهٔ حمل
+haulage company	transport	شرکت حمل‌ونقل جاده‌ای، باربری
+trucking	transport	حمل بار با کامیون، باربری
+trucking company	transport	شرکت باربری
+freight company	transport	شرکت باربری
+shipper	transport	فرستندهٔ بار
+consignment note	transport	بارنامهٔ جاده‌ای، رسید محموله
+b/l	transport	bill of lading؛ بارنامه
+master bill of lading	transport	بارنامهٔ مادر، مستر بارنامه
+house bill of lading	transport	بارنامهٔ فورواردر، هاوس بارنامه
+air waybill	transport	بارنامهٔ هوایی
+cmr	transport	Convention on the Contract for the International Carriage of Goods by Road؛ کنوانسیون سی‌ام‌آر (حمل بین‌المللی کالا از راه جاده)؛ بارنامهٔ سی‌ام‌آر، بارنامهٔ جاده‌ای بین‌المللی
+delivery note	transport	رسید تحویل، حواله
+proof of delivery	transport	رسید تحویل، تأییدیهٔ تحویل
+last-mile delivery	transport	تحویل مایل آخر، تحویل تا درِ منزل
+last mile	transport	مایل آخر (مرحلهٔ پایانی تحویل)
+first mile	transport	مایل اول (مرحلهٔ آغازین حمل)
+door-to-door delivery	transport	تحویل درب به درب
+parcel delivery	transport	ارسال بسته، تحویل مرسوله
+order fulfilment	transport	پردازش و ارسال سفارش
+order fulfillment	transport	پردازش و ارسال سفارش
+fulfilment centre	transport	مرکز پردازش سفارش
+fulfillment center	transport	مرکز پردازش سفارش
+distribution centre	transport	مرکز توزیع
+distribution center	transport	مرکز توزیع
+bonded warehouse	transport	انبار گمرکی، انبار تحت نظارت گمرک
+warehouse keeper	transport	انباردار
+stocktaking	transport	انبارگردانی
+stock count	transport	انبارگردانی، شمارش موجودی
+safety stock	transport	موجودی اطمینان، ذخیرهٔ احتیاطی
+stockout	transport	اتمام موجودی، کمبود موجودی
+backorder	transport	سفارش معوق
+jit	transport	just-in-time؛ به‌هنگام، جاست‌این‌تایم
+cross-docking	transport	کراس‌داکینگ، بارگیری متقاطع (انتقال مستقیم بار بدون انبارش)
+loading dock	transport	سکوی بارگیری، داک بارگیری
+loading bay	transport	سکوی بارگیری
+dock door	transport	درِ سکوی بارگیری
+palletize	transport	پالت‌بندی کردن
+palletization	transport	پالت‌بندی
+euro pallet	transport	یوروپالت
+pallet jack	transport	جک پالت، جک دستی
+pallet truck	transport	جک پالت، جک دستی
+forklift	transport	لیفتراک
+forklift truck	transport	لیفتراک
+reach truck	transport	لیفتراک ریچ‌تراک
+racking	transport	قفسه‌بندی، رک انبار
+order picking	transport	برداشت سفارش، جمع‌آوری اقلام سفارش
+packing list	transport	لیست عدل‌بندی، پکینگ لیست
+shrink wrap	transport	شرینک، نایلون شرینک
+stretch wrap	transport	استرچ، نایلون استرچ
+stock keeping unit	transport	کد کالا، واحد نگهداری موجودی
+warehouse management system	transport	سامانهٔ مدیریت انبار
+wms	transport	warehouse management system؛ سامانهٔ مدیریت انبار
+third-party logistics	transport	لجستیک طرف سوم
+3pl	transport	third-party logistics؛ لجستیک طرف سوم، تری‌پی‌ال
+reverse logistics	transport	لجستیک معکوس
+cold chain	transport	زنجیرهٔ سرد
+fleet management	transport	مدیریت ناوگان
+route planning	transport	مسیریابی، برنامه‌ریزی مسیر
+route optimization	transport	بهینه‌سازی مسیر
+tracking number	transport	کد رهگیری، شمارهٔ رهگیری
+tracking	transport	رهگیری (مرسوله)
+shipment tracking	transport	رهگیری محموله
+shipping container	transport	کانتینر
+twenty-foot equivalent unit	transport	واحد معادل بیست فوت، تی‌ای‌یو
+teu	transport	twenty-foot equivalent unit؛ تی‌ای‌یو، واحد معادل کانتینر بیست فوتی
+feu	transport	forty-foot equivalent unit؛ واحد معادل کانتینر چهل فوتی
+full container load	transport	بار کانتینری کامل، اف‌سی‌ال
+fcl	transport	full container load؛ بار کامل کانتینری، اف‌سی‌ال
+less than container load	transport	بار خرده (کانتینری)، ال‌سی‌ال
+lcl	transport	less than container load؛ بار خرده، ال‌سی‌ال
+groupage	transport	بار تجمیعی، گروپاژ
+consolidation	transport	تجمیع بار
+container terminal	transport	پایانهٔ کانتینری، ترمینال کانتینری
+container yard	transport	محوطهٔ کانتینری
+container depot	transport	دپوی کانتینر
+dry port	transport	بندر خشک
+inland container depot	transport	بندر خشک، دپوی کانتینری داخلی
+intermodal	transport	چندوجهی، ترکیبی (حمل‌ونقل)
+intermodal transport	transport	حمل‌ونقل چندوجهی
+multimodal transport	transport	حمل‌ونقل چندوجهی، حمل ترکیبی
+combined transport	transport	حمل ترکیبی
+piggyback	transport	حمل تریلر روی واگن
+transshipment	transport	ترانشیپ، تخلیه و بارگیری مجدد
+transit goods	transport	کالای ترانزیتی
+transit trade	transport	ترانزیت کالا
+break bulk	transport	بار متفرقه (غیرکانتینری)، جنرال کارگو
+breakbulk	transport	بار متفرقه (غیرکانتینری)، جنرال کارگو
+dangerous goods	transport	کالای خطرناک
+hazardous materials	transport	مواد خطرناک
+oversized cargo	transport	بار ترافیکی، بار حجیم
+out-of-gauge cargo	transport	بار ترافیکی، بار خارج از ابعاد
+gross vehicle weight	transport	وزن ناخالص خودرو
+axle load	transport	بار محوری
+tare weight	transport	وزن خالی، وزن ظرف (تارا)
+weighbridge	transport	باسکول
+offloading	transport	تخلیهٔ بار
+backhaul	transport	بار برگشت
+empty running	transport	حرکت خالی، تردد بدون بار
+customs clearance	transport	ترخیص کالا، ترخیص گمرکی
+clear customs	transport	ترخیص کردن کالا، از گمرک گذراندن
+customs broker	transport	ترخیص‌کار، کارگزار گمرکی
+customs agent	transport	ترخیص‌کار، کارگزار گمرکی
+clearing agent	transport	ترخیص‌کار
+customs duty	transport	حقوق گمرکی، عوارض گمرکی
+import duty	transport	حقوق ورودی، تعرفهٔ واردات
+tariff code	transport	کد تعرفه، شمارهٔ تعرفهٔ گمرکی
+hs code	transport	کد تعرفهٔ نظام هماهنگ، کد اچ‌اس
+harmonized system	transport	نظام هماهنگ توصیف و کدگذاری کالا
+customs valuation	transport	ارزش‌گذاری گمرکی
+customs inspection	transport	بازرسی گمرکی، ارزیابی
+customs warehouse	transport	انبار گمرک
+customs bond	transport	ضمانت‌نامهٔ گمرکی
+port of entry	transport	مبادی ورودی، گمرک ورودی
+point of entry	transport	مبادی ورودی
+border crossing	transport	گذرگاه مرزی، مرز
+border checkpoint	transport	پاسگاه مرزی
+cargo manifest	transport	مانیفست بار
+special economic zone	transport	منطقهٔ ویژهٔ اقتصادی
+in bond	transport	تحت نظارت گمرک (پیش از پرداخت حقوق)
+temporary admission	transport	ورود موقت
+transit declaration	transport	اظهارنامهٔ ترانزیت
+tir carnet	transport	کارنهٔ تیر
+commercial invoice	transport	سیاههٔ تجاری، فاکتور تجاری
+pro forma invoice	transport	پیش‌فاکتور، پروفورما
+letter of credit	transport	اعتبار اسنادی، ال‌سی
+import licence	transport	مجوز واردات
+incoterms	transport	اینکوترمز، اصطلاحات بین‌المللی تجارت
+incoterm	transport	اینکوترم، شرط تحویل
+fob	transport	free on board؛ فوب، تحویل روی عرشه
+free on board	transport	فوب، تحویل روی عرشه
+cif	transport	cost insurance and freight؛ سیف، قیمت با بیمه و کرایه
+cost insurance and freight	transport	سیف، قیمت با بیمه و کرایه
+cfr	transport	cost and freight؛ سی‌اف‌آر، قیمت با کرایه
+cost and freight	transport	سی‌اف‌آر، قیمت با کرایه
+ex works	transport	تحویل درب کارخانه
+fca	transport	free carrier؛ تحویل به حمل‌کننده
+free alongside ship	transport	تحویل در کنار کشتی
+cpt	transport	carriage paid to؛ کرایه پرداخت‌شده تا
+cip	transport	carriage and insurance paid to؛ کرایه و بیمه پرداخت‌شده تا
+dap	transport	delivered at place؛ تحویل در محل
+ddp	transport	delivered duty paid؛ تحویل با حقوق گمرکی پرداخت‌شده
+delivered duty paid	transport	تحویل با حقوق گمرکی پرداخت‌شده
+dpu	transport	delivered at place unloaded؛ تحویل در محل تخلیه‌شده
+demurrage	transport	دموراژ، خسارت تأخیر (در تخلیه یا بارگیری)
+detention	transport	(حمل کانتینری) دیتنشن، جریمهٔ دیرکرد عودت کانتینر (پس از مهلت آزاد)
+storage charges	transport	هزینهٔ انبارداری، انبارداری
+port charges	transport	عوارض بندری، هزینه‌های بندری
+terminal handling charge	transport	هزینهٔ تخلیه و بارگیری در پایانه، تی‌اچ‌سی
+thc	transport	terminal handling charge؛ هزینهٔ تخلیه و بارگیری در پایانه
+freight prepaid	transport	کرایه پیش‌پرداخت
+freight collect	transport	پس‌کرایه، کرایه در مقصد
+cash on delivery	transport	پرداخت در محل
+cargo insurance	transport	بیمهٔ باربری
+general average	maritime	خسارت مشترک، آوار عمومی
+freight insurance	transport	بیمهٔ باربری
+port of loading	transport	بندر بارگیری
+port of discharge	transport	بندر تخلیه
+place of delivery	transport	محل تحویل
+shipping agent	transport	نمایندهٔ کشتیرانی
+shipping line	maritime	خط کشتیرانی، شرکت کشتیرانی
+container ship	maritime	کشتی کانتینربر
+bulk carrier	maritime	کشتی فله‌بر
+roll-on/roll-off	maritime	رورو، کشتی خودروبر
+ro-ro	maritime	رورو، کشتی خودروبر
+feeder vessel	maritime	کشتی فیدر
+stevedoring	maritime	تخلیه و بارگیری (بندر)
+gantry crane	maritime	جرثقیل دروازه‌ای، گنتری کرین
+ship-to-shore crane	maritime	جرثقیل اسکله‌ای، جرثقیل ساحلی
+straddle carrier	maritime	استرادل کریر
+charter party	maritime	قرارداد اجارهٔ کشتی، چارترپارتی
+laytime	maritime	زمان مجاز تخلیه و بارگیری، لی‌تایم
+freight ton	maritime	تن باری، تن حمل
+air freight	aviation	بار هوایی، حمل هوایی
+cargo plane	aviation	هواپیمای باری
+freighter aircraft	aviation	هواپیمای باری
+uld	aviation	unit load device؛ یو‌ال‌دی، پالت و کانتینر هوایی
+sea freight	transport	حمل دریایی، بار دریایی
+ocean freight	transport	حمل دریایی
+road freight	transport	حمل جاده‌ای بار
+land transport	transport	حمل‌ونقل زمینی
+coupe	transport	(خودرو) کوپه، خودروی دودر سقف‌ثابت
+tie rod end	transport	سیبک فرمان، سرِ میل‌فرمان
+stabilizer link	transport	میل‌تعادل (رابط میل‌موجگیر و کمک‌فنر)

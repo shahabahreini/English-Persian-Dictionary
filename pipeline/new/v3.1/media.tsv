@@ -1,0 +1,376 @@
+dateline	media	سطر تاریخ و محل خبر
+lede	media	لید، سرآغاز خبر
+banner headline	media	تیتر یک، تیتر سراسری
+front page	media	صفحهٔ اول
+splash	media	تیتر یک، خبر اصلی صفحهٔ اول
+kicker	media	روتیتر
+strapline	media	سوتیتر؛ شعار تبلیغاتی
+subheading	media	عنوان فرعی، میان‌تیتر
+subhead	media	میان‌تیتر
+deck	media	سوتیتر، زیرتیتر
+crosshead	media	میان‌تیتر
+standfirst	media	سوتیتر، لید (چکیدهٔ کوتاه زیر تیتر)
+pull quote	media	نقل‌قول برجسته
+feature	media	فیچر، گزارش توصیفی (غیرخبری)
+feature story	media	فیچر، گزارش توصیفی
+news story	media	خبر، گزارش خبری
+hard news	media	خبر سخت، اخبار جدی
+soft news	media	خبر نرم
+human-interest story	media	گزارش انسانی، خبر با جاذبهٔ انسانی
+news flash	media	خبر فوری
+news bulletin	media	بخش خبری، بولتن خبری
+fact check	media	راستی‌آزمایی
+embargo	media	ممنوعیت انتشار تا زمان مقرر
+news embargo	media	ممنوعیت انتشار تا زمان مقرر
+on background	media	قابل استفاده بدون ذکر نام منبع
+deep background	media	قابل استفاده بدون هرگونه اشاره به منبع
+not for attribution	media	بدون ذکر نام منبع
+news release	media	بیانیهٔ مطبوعاتی، اطلاعیهٔ خبری
+press statement	media	بیانیهٔ مطبوعاتی
+foreign correspondent	media	خبرنگار خارجی، خبرنگار مقیم خارج
+war correspondent	media	خبرنگار جنگ
+special correspondent	media	خبرنگار ویژه
+stringer	media	خبرنگار حق‌التحریری، خبرنگار پاره‌وقت
+freelance journalist	media	روزنامه‌نگار آزاد، خبرنگار آزاد
+investigative reporter	media	روزنامه‌نگار تحقیقی، خبرنگار تحقیقی
+citizen journalist	media	خبرنگار شهروندی
+tabloid journalism	media	روزنامه‌نگاری زرد، روزنامه‌نگاری جنجالی
+gutter press	media	مطبوعات زرد
+the press	media	مطبوعات
+press card	media	کارت خبرنگاری
+press pass	media	کارت خبرنگاری
+press corps	media	خبرنگاران، جمع خبرنگاران
+editorial board	media	هیئت تحریریه
+editor-in-chief	media	سردبیر
+managing editor	media	مدیر تحریریه
+news editor	media	دبیر خبر
+section editor	media	دبیر سرویس
+sub-editor	media	ویراستار تحریریه، دبیر
+desk	media	سرویس (تحریریه)
+news desk	media	سرویس خبر
+masthead	media	شناسنامهٔ نشریه؛ لوگوی نام روزنامه
+nameplate	media	سرلوحهٔ نام روزنامه
+readership	media	خوانندگان، شمار خوانندگان
+beat	media	حوزهٔ خبری
+news source	media	منبع خبری
+anonymous source	media	منبع ناشناس
+informed source	media	منبع آگاه
+news value	media	ارزش خبری
+newsworthy	media	دارای ارزش خبری
+news cycle	media	چرخهٔ خبری
+24-hour news	media	اخبار ۲۴ساعته
+rolling news	media	اخبار پیوسته، پوشش خبری مداوم
+news coverage	media	پوشش خبری
+press coverage	media	پوشش مطبوعاتی
+interviewer	media	مصاحبه‌کننده، مصاحبه‌گر
+press briefing	media	نشست خبری، جلسهٔ توجیهی
+press office	media	دفتر روابط عمومی، دفتر مطبوعاتی
+press secretary	media	سخنگو، دبیر مطبوعاتی
+obituary	media	درگذشت‌نامه، یادنامه (مطلب دربارهٔ زندگی متوفی)
+retraction	media	پس گرفتن خبر، اصلاحیه
+right of reply	media	حق پاسخگویی، جوابیه
+press censorship	media	سانسور مطبوعات
+media blackout	media	بایکوت خبری، سکوت خبری
+news blackout	media	بایکوت خبری، سکوت خبری
+journalistic ethics	media	اخلاق روزنامه‌نگاری
+media bias	media	سوگیری رسانه‌ای
+sensationalism	media	جنجال‌آفرینی، جنجال‌سازی رسانه‌ای
+churnalism	media	کپی‌پیست خبری، روزنامه‌نگاری رونویسی (بازنشر بیانیه‌ها و خبرهای خبرگزاری بدون بررسی)
+newsworthiness	media	ارزش خبری
+inverted pyramid	media	هرم وارونه
+five ws	media	پرسش‌های پنج‌گانهٔ خبر، عناصر خبر (چه کسی، چه چیزی، کجا، کی، چرا)
+attribution	media	ذکر منبع، استناد
+publishing	media	نشر، انتشارات
+publishing house	media	انتشارات، بنگاه نشر
+page proof	media	نمونهٔ صفحه‌بندی‌شده
+galley	media	نمونهٔ اولیهٔ حروف‌چینی، گالی
+galley proof	media	نمونهٔ اولیهٔ حروف‌چینی، گالی
+print run	media	تیراژ، شمارگان
+imprint	media	نشان ناشر، زیرمجموعهٔ انتشاراتی؛ شناسنامهٔ کتاب
+colophon	media	شناسنامهٔ کتاب؛ نشان ناشر
+international standard book number	media	شابک
+copy editor	media	ویراستار
+copyediting	media	ویرایش
+copy-editing	media	ویرایش
+line editing	media	ویرایش زبانی
+developmental editing	media	ویرایش محتوایی، ویرایش ساختاری
+page layout	media	صفحه‌آرایی
+layout artist	media	صفحه‌آرا
+point size	media	اندازهٔ قلم
+justification	media	تراز کردن سطرها
+justified text	media	متن تراز دوطرفه
+gutter	media	حاشیهٔ عطف، فاصلهٔ بین ستون‌ها
+running head	media	سرصفحه، سرصفحهٔ متغیر
+endnote	media	یادداشت پایانی
+folio	media	شمارهٔ صفحه؛ قطع رحلی
+spread	media	دوصفحهٔ روبه‌رو (در مجله)
+double-page spread	media	دوصفحهٔ روبه‌رو
+centrefold	media	دوصفحهٔ وسط مجله
+trim size	media	قطع (کتاب)
+paperback	media	شومیز، جلد شومیز
+dust jacket	media	روکش جلد
+blurb	media	متن پشت جلد، معرفی کوتاه
+spine	media	عطف (کتاب)
+offset printing	media	چاپ افست
+print shop	media	چاپخانه
+prepress	media	پیش از چاپ، لیتوگرافی
+royalties	media	حق‌التألیف
+advance	media	پیش‌پرداخت حق‌التألیف
+copyright page	media	صفحهٔ شناسنامه
+publication date	media	تاریخ انتشار
+self-publishing	media	نشر شخصی، خودنشری
+vanity press	media	نشر با هزینهٔ مؤلف
+book launch	media	رونمایی کتاب
+book review	media	نقد کتاب، معرفی کتاب
+book fair	media	نمایشگاه کتاب
+editorial line	media	خط مشی تحریریه، خط سردبیری
+style guide	media	شیوه‌نامه
+house style	media	شیوه‌نامهٔ داخلی
+copy desk	media	میز ویرایش، بخش ویرایش
+broadcaster	media	سازمان پخش، شبکهٔ پخش
+public broadcaster	media	رسانهٔ عمومی، سازمان پخش عمومی
+public service broadcasting	media	پخش خدمت عمومی، رسانهٔ خدمت عمومی
+prime time	media	ساعات پربیننده، پرایم‌تایم
+peak time	media	ساعات پربیننده
+anchorwoman	media	مجری زن خبر
+newscaster	media	گویندهٔ خبر
+presenter	media	مجری، مجری برنامه
+co-host	media	مجری همراه
+live broadcast	media	پخش زنده
+recorded broadcast	media	پخش ضبط‌شده
+rerun	media	تکرار (برنامه)
+viewing figures	media	شمار بینندگان
+audience share	media	سهم مخاطب
+on air	media	روی آنتن
+off air	media	خارج از آنتن
+newsreel	media	فیلم خبری، اخبار سینمایی
+chat show	media	تاک‌شو
+call-in show	media	برنامهٔ تلفنی، برنامهٔ تماس مخاطبان
+phone-in	media	برنامهٔ تلفنی، برنامهٔ تماس مخاطبان
+quiz show	media	مسابقهٔ تلویزیونی
+current affairs	media	برنامهٔ رویدادهای روز، مسائل روز
+news programme	media	برنامهٔ خبری
+news channel	media	شبکهٔ خبری
+television channel	media	شبکهٔ تلویزیونی
+tv channel	media	شبکهٔ تلویزیونی
+television network	media	شبکهٔ تلویزیونی
+affiliate	media	شبکهٔ وابسته
+radio station	media	ایستگاه رادیویی
+television station	media	ایستگاه تلویزیونی
+satellite television	media	تلویزیون ماهواره‌ای
+satellite channel	media	شبکهٔ ماهواره‌ای
+cable television	media	تلویزیون کابلی
+terrestrial television	media	تلویزیون زمینی
+digital television	media	تلویزیون دیجیتال
+broadcast journalism	media	روزنامه‌نگاری رادیویی و تلویزیونی
+outside broadcast	media	پخش برون‌استودیویی
+outside broadcast van	media	ماشین پخش، واحد سیار پخش
+control room	media	اتاق فرمان
+teleprompter	media	تله‌پرامپتر، نمایشگر متن
+autocue	media	تله‌پرامپتر، نمایشگر متن
+programme schedule	media	جدول پخش
+schedule	media	جدول پخش
+soundbite	media	گزیده‌گفتار، جملهٔ کوتاه و گیرای نقل‌شده (در خبر)
+archive footage	media	تصاویر آرشیوی
+piece to camera	media	گزارش جلوی دوربین (استندآپ)
+stand-up	media	گزارش جلوی دوربین (استندآپ)
+ticker	media	زیرنویس متحرک خبر
+news ticker	media	زیرنویس متحرک خبر
+crawl	media	زیرنویس متحرک
+lower third	media	زیرنویس نام و عنوان (یک‌سوم پایین تصویر)
+broadcasting licence	media	مجوز پخش
+ad agency	media	آژانس تبلیغاتی
+advertising campaign	media	کمپین تبلیغاتی
+hoarding	media	بیلبورد، تابلوی تبلیغاتی (بریتانیایی)
+outdoor advertising	media	تبلیغات محیطی
+out-of-home advertising	media	تبلیغات محیطی
+flyer	media	تراکت، بروشور
+leaflet	media	تراکت، بروشور
+slogan	media	شعار تبلیغاتی، اسلوگان
+jingle	media	جینگل، آهنگ تبلیغاتی
+commercial	media	آگهی بازرگانی، تیزر تبلیغاتی
+tv commercial	media	آگهی تلویزیونی
+television commercial	media	آگهی تلویزیونی
+radio commercial	media	آگهی رادیویی
+ad break	media	وقفهٔ تبلیغاتی، پخش آگهی
+commercial break	media	وقفهٔ تبلیغاتی، پخش آگهی
+reach	media	ریچ، دامنهٔ دسترسی (شمار مخاطبانی که آگهی یا پست را دیده‌اند)
+impressions	media	تعداد نمایش آگهی، ایمپرشن
+cost per click	media	هزینه به ازای هر کلیک
+cost per mille	media	هزینه به ازای هزار نمایش
+cpm	media	cost per mille؛ هزینه به ازای هزار نمایش
+banner ad	media	بنر تبلیغاتی
+display advertising	media	تبلیغات نمایشی، تبلیغات بنری
+search advertising	media	تبلیغات در موتور جست‌وجو
+native advertising	media	تبلیغات بومی، تبلیغات نیتیو (آگهی هم‌شکل با محتوای رسانه)
+sponsored content	media	محتوای حمایت‌شده، محتوای اسپانسری، رپرتاژ آگهی
+advertorial	media	رپرتاژ آگهی
+celebrity endorsement	media	تبلیغ با چهرهٔ مشهور
+testimonial	media	نظر مشتری، رضایت‌نامهٔ مشتری (در تبلیغ)
+ad copy	media	متن آگهی
+creative director	media	مدیر خلاقیت
+account executive	media	مدیر حساب مشتری
+media buying	media	خرید رسانه
+media buyer	media	خریدار رسانه
+media planning	media	برنامه‌ریزی رسانه‌ای
+media plan	media	برنامهٔ رسانه‌ای
+media mix	media	ترکیب رسانه‌ای
+brand image	media	تصویر برند
+mascot	media	نماد تبلیغاتی، ماسکوت
+marketing communications	media	ارتباطات بازاریابی
+integrated marketing communication	media	ارتباطات یکپارچهٔ بازاریابی
+direct marketing	media	بازاریابی مستقیم
+direct mail	media	تبلیغات پستی
+social media marketing	media	بازاریابی در شبکه‌های اجتماعی
+search engine optimization	media	بهینه‌سازی برای موتور جست‌وجو، سئو
+search engine marketing	media	بازاریابی موتور جست‌وجو
+retargeting	media	ریتارگتینگ، هدف‌گیری مجدد
+remarketing	media	بازاریابی مجدد، ریمارکتینگ
+adblocker	media	مسدودکنندهٔ تبلیغات
+subliminal advertising	media	تبلیغات زیرآستانه‌ای، تبلیغ پنهان
+misleading advertising	media	تبلیغات گمراه‌کننده
+false advertising	media	تبلیغات دروغین
+comparative advertising	media	تبلیغات مقایسه‌ای
+classified ad	media	آگهی نیازمندی
+classified advertisement	media	آگهی نیازمندی
+classifieds	media	نیازمندی‌ها
+display ad	media	آگهی نمایشی
+full-page ad	media	آگهی تمام‌صفحه
+ad space	media	فضای تبلیغاتی
+advertising revenue	media	درآمد تبلیغات، درآمد آگهی
+rate card	media	تعرفهٔ آگهی
+pr agency	media	شرکت روابط عمومی
+pr campaign	media	کمپین روابط عمومی
+publicist	media	مسئول تبلیغات، مسئول روابط عمومی
+press agent	media	مسئول تبلیغات، نمایندهٔ مطبوعاتی
+news conference	media	نشست خبری، کنفرانس خبری
+press kit	media	بستهٔ خبری
+media kit	media	بستهٔ رسانه‌ای
+photo opportunity	media	فرصت عکس، موقعیت عکاسی
+photo op	media	فرصت عکس، موقعیت عکاسی
+spin	media	جهت‌دهی خبری، تحریف رسانه‌ای
+spin doctor	media	متخصص جهت‌دهی خبری، اسپین‌دکتر
+crisis communication	media	ارتباطات بحران
+damage control	media	مهار خسارت، کنترل آسیب
+reputation management	media	مدیریت شهرت، مدیریت اعتبار
+image management	media	مدیریت تصویر
+media relations	media	ارتباط با رسانه‌ها
+media coverage	media	پوشش رسانه‌ای
+media event	media	رویداد رسانه‌ای
+talking points	media	نکات کلیدی (برای مصاحبه)
+key messages	media	پیام‌های کلیدی
+messaging	media	پیام‌رسانی
+corporate communications	media	ارتباطات سازمانی
+internal communications	media	ارتباطات درون‌سازمانی
+public affairs	media	امور عمومی
+social media platform	media	پلتفرم شبکهٔ اجتماعی، سکوی شبکهٔ اجتماعی
+digital media	media	رسانه‌های دیجیتال
+online media	media	رسانه‌های برخط
+alternative media	media	رسانه‌های جایگزین
+legacy media	media	رسانه‌های سنتی
+traditional media	media	رسانه‌های سنتی
+news media	media	رسانه‌های خبری
+media outlet	media	رسانه، کانال رسانه‌ای
+state media	media	رسانه‌های دولتی، رسانهٔ حکومتی
+micro-influencer	media	میکرواینفلوئنسر
+content creation	media	تولید محتوا
+engagement rate	media	نرخ تعامل
+virality	media	ویروسی شدن، فراگیری
+trending topic	media	ترند، موضوع داغ
+cheapfake	media	ویدئوی دستکاری‌شدهٔ ساده
+hoax	media	خبر جعلی، شایعهٔ ساختگی
+livestreaming	media	پخش زندهٔ اینترنتی
+short-form video	media	ویدئوی کوتاه
+microblogging	media	میکروبلاگ‌نویسی
+thread	media	رشته‌توییت، ترد
+handle	media	نام کاربری، آیدی
+fake account	media	حساب جعلی، اکانت فیک
+online community	media	جامعهٔ برخط، اجتماع آنلاین
+subreddit	media	ساب‌ردیت
+monetization	media	کسب درآمد (از محتوا)، مانیتایز
+monetize	media	کسب درآمد کردن، مانیتایز کردن
+creator economy	media	اقتصاد تولیدکنندگان محتوا
+organic reach	media	دسترسی ارگانیک
+metrics	media	سنجه‌ها، شاخص‌ها
+page views	media	بازدید صفحه
+pageview	media	بازدید صفحه
+unique visitors	media	بازدیدکنندگان یکتا
+web traffic	media	ترافیک وب
+online newspaper	media	روزنامهٔ برخط
+news website	media	پایگاه خبری، سایت خبری
+news portal	media	پرتال خبری
+news aggregator	media	خبرخوان، جمع‌آورندهٔ اخبار
+rss feed	media	خوراک آراس‌اس
+digital subscription	media	اشتراک دیجیتال
+metered paywall	media	دیوار پرداخت سهمیه‌ای (چند مطلب رایگان، سپس اشتراک)
+infographic	media	اینفوگرافیک
+motion graphics	media	موشن‌گرافیک
+information literacy	media	سواد اطلاعاتی
+digital footprint	media	ردپای دیجیتال
+shadowban	media	شدوبن، محدودسازی پنهان (حساب کاربری)
+deplatforming	media	حذف از پلتفرم
+communication studies	media	علوم ارتباطات، مطالعات ارتباطات
+mass communication	media	ارتباطات جمعی
+interpersonal communication	media	ارتباطات میان‌فردی
+intercultural communication	media	ارتباطات میان‌فرهنگی
+political communication	media	ارتباطات سیاسی
+media studies	media	مطالعات رسانه
+agenda-setting	media	برجسته‌سازی، تعیین دستور کار
+gatekeeper	media	دروازه‌بان خبر
+two-step flow	media	جریان دومرحله‌ای ارتباطات
+two-step flow of communication	media	جریان دومرحله‌ای ارتباطات
+opinion leader	media	رهبر فکری، رهبر افکار
+cultivation theory	media	نظریهٔ کاشت
+spiral of silence	media	مارپیچ سکوت
+uses and gratifications	media	استفاده و رضامندی
+uses and gratifications theory	media	نظریهٔ استفاده و رضامندی
+hypodermic needle model	media	نظریهٔ گلولهٔ جادویی، نظریهٔ تزریقی
+magic bullet theory	media	نظریهٔ گلولهٔ جادویی
+media effects	media	تأثیرات رسانه
+media ownership	media	مالکیت رسانه
+media concentration	media	تمرکز مالکیت رسانه
+media conglomerate	media	غول رسانه‌ای، مجتمع رسانه‌ای
+media empire	media	امپراتوری رسانه‌ای
+media mogul	media	غول رسانه‌ای، سلطان رسانه
+media landscape	media	فضای رسانه‌ای
+media ecosystem	media	زیست‌بوم رسانه‌ای
+media convergence	media	همگرایی رسانه‌ای
+convergence	media	همگرایی رسانه‌ای
+media consumption	media	مصرف رسانه‌ای
+media diet	media	سبد مصرف رسانه‌ای
+media pluralism	media	تکثر رسانه‌ای
+media regulation	media	تنظیم‌گری رسانه
+the medium is the message	media	رسانه همان پیام است
+global village	media	دهکدهٔ جهانی
+media imperialism	media	امپریالیسم رسانه‌ای
+psyop	media	عملیات روانی
+counter-narrative	media	روایت مقابل، ضدروایت
+audience research	media	مخاطب‌پژوهی
+audience measurement	media	سنجش مخاطب
+audience fragmentation	media	چندپارگی مخاطبان
+active audience	media	مخاطب فعال
+selective exposure	media	مواجههٔ گزینشی
+information overload	media	انفجار اطلاعات، بار اضافهٔ اطلاعات
+participatory culture	media	فرهنگ مشارکتی
+citizen media	media	رسانه‌های شهروندی
+community radio	media	رادیوی محلی
+pirate radio	media	رادیوی غیرمجاز
+underground press	media	مطبوعات زیرزمینی
+samizdat	media	نشر زیرزمینی، سامیزدات
+fifth estate	media	رکن پنجم
+infotainment	media	سرگرمی خبری، اینفوتینمنت
+edutainment	media	آموزش سرگرم‌کننده
+news anchor	media	مجری خبر، گویندهٔ خبر
+media personality	media	چهرهٔ رسانه‌ای
+paparazzo	media	پاپاراتزی
+gossip column	media	ستون شایعات
+press baron	media	سلطان مطبوعات
+newsprint	media	کاغذ روزنامه
+news kiosk	media	دکهٔ روزنامه‌فروشی
+subscription rate	media	حق اشتراک
+back issue	media	شمارهٔ قدیمی، شمارهٔ پیشین
+special issue	media	ویژه‌نامه
+press clipping	media	بریدهٔ جراید، بریدهٔ مطبوعات
+press review	media	مرور مطبوعات
+media monitoring	media	پایش رسانه‌ای
+copy editing	media	ویرایش

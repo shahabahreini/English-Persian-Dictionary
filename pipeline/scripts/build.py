@@ -3,7 +3,9 @@ import sys,re,os,json,glob,collections
 sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
 import fanorm
 S=sys.argv[1]
-DOM={'general':'عمومی','computing':'رایانه','electronics':'الکترونیک','engineering':'مهندسی','medicine':'پزشکی','biology':'زیست‌شناسی','chemistry':'شیمی','physics':'فیزیک','math':'ریاضی','law':'حقوق','business':'بازرگانی و اقتصاد','military':'نظامی','aviation':'هوانوردی','maritime':'دریانوردی','architecture':'معماری','civil':'عمران','sports':'ورزش','botany':'گیاه‌شناسی','zoology':'جانورشناسی','astronomy':'نجوم','anatomy':'کالبدشناسی','psychology':'روان‌شناسی','music':'موسیقی','geography':'جغرافیا','politics':'سیاست','religion':'دین','linguistics':'زبان‌شناسی','food':'خوراک','slang':'عامیانه','abbr':'کوته‌نوشت'}
+DOM={'general':'عمومی','computing':'رایانه','electronics':'الکترونیک','engineering':'مهندسی','medicine':'پزشکی','biology':'زیست‌شناسی','chemistry':'شیمی','physics':'فیزیک','math':'ریاضی','law':'حقوق','business':'بازرگانی و اقتصاد','military':'نظامی','aviation':'هوانوردی','maritime':'دریانوردی','architecture':'معماری','civil':'عمران','sports':'ورزش','botany':'گیاه‌شناسی','zoology':'جانورشناسی','astronomy':'نجوم','anatomy':'کالبدشناسی','psychology':'روان‌شناسی','music':'موسیقی','geography':'جغرافیا','politics':'سیاست','religion':'دین','linguistics':'زبان‌شناسی','food':'خوراک','slang':'عامیانه','abbr':'کوته‌نوشت',
+     # v3.1 sections
+     'philosophy':'فلسفه و منطق','earth':'علوم زمین و محیط زیست','statistics':'آمار','arts':'هنر','literature':'ادبیات','history':'تاریخ و باستان‌شناسی','sociology':'جامعه‌شناسی و مردم‌شناسی','education':'آموزش','agriculture':'کشاورزی و دامپزشکی','transport':'حمل‌ونقل','media':'رسانه و ارتباطات','fashion':'پوشاک و نساجی'}
 OLDTAG={'علوم مهندسی':'engineering','کامپیوتر':'computing','ورزش':'sports','قانون ـ فقه':'law','شیمی':'chemistry','بازرگانی':'business','الکترونیک':'electronics','علوم نظامی':'military','معماری':'architecture','علوم هوایی':'aviation','عمران':'civil','گیاه شناسی':'botany','علوم دریایی':'maritime','جانور شناسی':'zoology','زیست شناسی':'biology','نجوم':'astronomy','کالبد شکافی':'anatomy'}
 PAREN={'پزشکی':'medicine','جراحی':'medicine','طب':'medicine','شیمی':'chemistry','موسیقی':'music','حقوق':'law','علوم نظامی':'military','زیست شناسی':'biology','نجوم':'astronomy','ریاضی':'math','هندسه':'math','در ریاضیات':'math','فیزیک':'physics','روان شناسی':'psychology','برق':'electronics','مکانیک':'engineering','معماری':'architecture','دستور زبان':'linguistics','زبان عامیانه':'slang','گیاه شناسی':'botany','جانور شناسی':'zoology','جغرافی':'geography','در کالبدشناسی':'anatomy','منطق':'general'}
 PAREN_RW={'زیست شناسی':'زیست‌شناسی','روان شناسی':'روان‌شناسی','گیاه شناسی':'گیاه‌شناسی','جانور شناسی':'جانورشناسی','زبان عامیانه':'عامیانه','جغرافی':'جغرافیا','در کالبدشناسی':'کالبدشناسی','درامار':'آمار','در آمار':'آمار','در امار':'آمار','مج':'مجازی','درجمع':'در جمع','افسانه ء یونان':'افسانهٔ یونان','افسانهٔ یونان':'افسانهٔ یونان','ز.ع -.امر.':'عامیانهٔ آمریکایی','گ.ش -.ج.ش.':'گیاه‌شناسی، جانورشناسی','ج.ش -.گ.ش.':'جانورشناسی، گیاه‌شناسی','انگلیس':'بریتانیایی','امریکایی':'آمریکایی'}
@@ -64,6 +66,17 @@ def dedup_senses(t):
         k=p.replace('‌','').replace(' ','')
         if p and k not in seen: seen.add(k); o.append(p)
     return '، '.join(o)
+def split_items(t):
+    """split a definition into (item, separator) pairs on ، and ؛ outside parentheses"""
+    out=[]; buf=''; depth=0
+    for ch in t:
+        if ch=='(': depth+=1
+        elif ch==')': depth=max(0,depth-1)
+        if depth==0 and ch in '،؛':
+            out.append((buf.strip(),ch)); buf=''
+        else: buf+=ch
+    out.append((buf.strip(),''))
+    return [(x,sp) for x,sp in out if x]
 def main():
     rows=[l.rstrip('\n').split('\t',1) for l in open(S+'/unpacked/v24.tsv',encoding='utf-8')]
     typo={}
@@ -156,6 +169,33 @@ def main():
         else:
             E[h]={'head':h,'segs':[['dom' if dm!='general' else None, dm if dm!='general' else None, df]],'doms':{dm},'v24':[],'status':'new','alts':set(),'inl':set(),'was':None}
             st['new_entry']+=1; log.append(('new-entry',h,'',df,dm))
+    # v3.1 subject expansion: runs after the v3.0 inputs so their results are unchanged.
+    # A new headword becomes a new entry; on an existing headword the subject sense is
+    # appended (never prepended), keeping only the equivalents the entry does not have yet.
+    norm=lambda x:re.sub(r'[\s\u200c\u0654\u064b-\u0652-]','',re.sub(r'\([^)]*\)|\[[^\]]*\]','',x)).replace('آ','ا').replace('أ','ا').replace('ة','ه').replace('ؤ','و')
+    for f in sorted(glob.glob(S+'/new/v3.1/*.tsv')):
+        for l in open(f,encoding='utf-8'):
+            p=l.rstrip('\n').split('\t')
+            if len(p)!=3: st['v31_badline']+=1; continue
+            h,dm,df=p[0].strip().lower(),p[1].strip(),' '.join(fanorm.basic(p[2].strip()).split())
+            if dm not in DOM or not h or not re.search(r'[؀-ۿ]',df): st['v31_badline']+=1; continue
+            lab=['dom' if dm!='general' else None, dm if dm!='general' else None]
+            if h not in E:
+                E[h]={'head':h,'segs':[lab+[df]],'doms':{dm},'v24':[],'status':'new','alts':set(),'inl':set(),'was':None}
+                st['v31_new_entry']+=1; log.append(('new-entry',h,'',df,dm)); continue
+            e=E[h]
+            if not e['doms']: e['doms']={'general'}  # what the end of the build would have given it
+            e['doms'].add(dm)
+            have={norm(x) for sg in e['segs'] for x in re.split(r'[،؛]',sg[2])}
+            items=split_items(df)
+            keep=[(x,sp) for x,sp in items if norm(x) and norm(x) not in have]
+            if not keep or len(keep)*2<len(items): st['v31_already_present']+=1; continue
+            txt=''.join(x+(sp+' ' if sp else '') for x,sp in keep).strip(' ،؛')
+            if e['status']!='new': e.setdefault('before',render(e['segs']))
+            old=render(e['segs'])
+            e['segs'].append(lab+[txt])
+            if e['status'] in ('v2.4',): e['status']='improved'
+            st['v31_sense_added']+=1; log.append(('subject-sense-added',e['head'],old,txt,dm))
     # alternate lookup forms
     web={}
     for i,l in enumerate(open(S+'/ref/count_1w.txt')): web[l.split('\t')[0]]=i
@@ -185,7 +225,7 @@ def main():
     out.sort(key=lambda e:(re.sub(r'[^a-z0-9]','',e['head'].lower()),e['head']))
     json.dump(out,open(S+'/master.json','w',encoding='utf-8'),ensure_ascii=False)
     with open(S+'/changelog.tsv','w',encoding='utf-8') as f:
-        f.write('change\theadword\tv2.4\tv3.0\tnote\n')
+        f.write('change\theadword\tv2.4\t%s\tnote\n'%os.environ.get('DICT_VER','v3.0'))
         for r in log: f.write('\t'.join(x.replace('\t',' ') for x in r)+'\n')
     st['total']=len(out); st['alts']=sum(len(e['alts']) for e in out)
     st.update({'status_'+k:v for k,v in collections.Counter(e['status'] for e in out).items()})

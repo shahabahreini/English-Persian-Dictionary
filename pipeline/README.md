@@ -1,8 +1,8 @@
 # Pipeline
 
-Scripts and editorial data used to turn v2.4 into v3.0. Use this to audit how an entry was produced, to rebuild after you edit the inputs, or to produce another format.
+Scripts and editorial data used to turn v2.4 into v3.0, and v3.0 into v3.1. Use this to audit how an entry was produced, to rebuild after you edit the inputs, or to produce another format.
 
-Rebuilding `master.json`, `changelog.tsv` and both Kindle sources (`content.html`) from these inputs was tested and gives output identical to what ships in `dist/` and `data/`.
+Rebuilding `master.json`, `changelog.tsv`, the master TSV and both Kindle sources from these inputs was tested and gives output identical to what ships in `data/` and `dist/`. With `new/v3.1/` moved aside, the same scripts still reproduce the v3.0 TSV and changelog byte for byte.
 
 ## What is here
 
@@ -13,15 +13,17 @@ Rebuilding `master.json`, `changelog.tsv` and both Kindle sources (`content.html
 | `scripts/build.py` | Applies typo fixes, merges duplicates, resolves cross-references, applies rewrites and additions, indexes inflected forms. Writes `master.json`, `changelog.tsv` |
 | `scripts/export.py` | Writes the tab files and the Kindle sources (classic and RTL) |
 | `scripts/glos.py` | StarDict and Kobo writers (via pyglossary) |
-| `scripts/verify.py`, `scripts/chk_mobi.py` | Read-back checks. `verify.py` expects the author's output layout (`<dest>/StarDict/English-Persian-v3.0/`, `<dest>/Kobo/`) and needs `idzip`; `chk_mobi.py` (run with `calibre-debug scripts/chk_mobi.py -- file.mobi`) counts headwords in a compiled `.mobi` |
+| `scripts/verify.py`, `scripts/chk_mobi.py` | Read-back checks. `verify.py` expects the author's output layout (`<dest>/StarDict/English-Persian-v<version>/`, `<dest>/Kobo/`) and takes the version as a second argument (`verify.py <dest> 3.1`) and uses `idzip` if installed, otherwise plain gzip; `chk_mobi.py` (run with `calibre-debug scripts/chk_mobi.py -- file.mobi`) counts headwords in a compiled `.mobi` |
 | `scripts/report.py`, `scripts/site.py`, `scripts/build_site.py` | Generate the change report, wrap it as `docs/report.html`, and build the English and Persian landing pages |
 | `scripts/gap.py`, `typocand.py`, `slices.py`, `revprep.py`, `salvage.py` | Helpers that found missing words and typo candidates and prepared and merged the AI-written batches |
-| `new/` | New entries (`gap_*`, `manual_a`) and modern senses added to existing entries (`theme_*`) |
+| `new/` | New entries (`gap_*`, `manual_a`) and modern senses added to existing entries (`theme_*`) for v3.0 |
+| `new/v3.1/` | v3.1 subject glossaries, one file per subject (`philosophy.tsv`, `earth.tsv`, `slang.tsv`, `general_a.tsv` …). Read in a separate pass after everything else, so v3.0 results do not change |
+| `scripts/lint31.py` | Checks the v3.1 files (format, domain codes, ی/ک, half-spaces, separators, duplicates) and reports whether each line is a new entry, adds a sense, or repeats what the entry already has |
 | `review/merged/` | Rewritten definitions for the 7,016 most frequent words |
 | `typo/` | Headword spelling fixes (`fix_*.tsv`) and the candidate lists they came from |
 | `report/` | Report template and the static text (device table, limits) |
 | `site/` | Project site: stylesheet, script, structured data, logos and the social preview image source |
-| `guidelines/` | The written specs given to the AI writers (`SPEC.md` for new entries, `REVIEW.md` for rewrites) |
+| `guidelines/` | The written specs given to the AI writers (`SPEC.md` for new entries, with the v3.1 addendum at the end; `REVIEW.md` for rewrites) |
 
 ## Rebuild
 
@@ -43,17 +45,18 @@ calibre-debug scripts/unpack.py -- "English-Persian Dictionary v2.4.mobi" unpack
 python3 scripts/mkv24.py unpacked/raw.html unpacked/v24.tsv        # 145075 entries
 
 # 3. Build the master data
-DICT_REF="$PWD/ref" python3 scripts/build.py "$PWD"                  # master.json, changelog.tsv
+DICT_VER=v3.1 DICT_REF="$PWD/ref" python3 scripts/build.py "$PWD"     # master.json, changelog.tsv (DICT_VER labels the changelog column)
 
 # 4. Export
-python3 scripts/export.py "$PWD" "$PWD/out" 3.0                     # tab files + Kindle sources
+python3 scripts/export.py "$PWD" "$PWD/out" 3.1                     # master TSV, tab files, Kindle sources
 ```
 
 ### StarDict and Kobo
 ```bash
-pip install pyglossary marisa-trie
-python3 scripts/glos.py out/en-fa.html.tabfile.txt out/sd/English-Persian-v3.0.ifo Stardict          # HTML definitions
-python3 scripts/glos.py out/en-fa.tabfile.txt out/sd-plain/English-Persian-v3.0-plaintext.ifo StardictPlain
+pip install pyglossary marisa-trie python-idzip   # python-idzip gives the .dict.dz compression
+mkdir -p out/sd/English-Persian-v3.1 out/sd-plain/English-Persian-v3.1-plaintext
+python3 scripts/glos.py out/en-fa.html.tabfile.txt out/sd/English-Persian-v3.1/English-Persian-v3.1.ifo Stardict          # HTML definitions
+python3 scripts/glos.py out/en-fa.tabfile.txt out/sd-plain/English-Persian-v3.1-plaintext/English-Persian-v3.1-plaintext.ifo StardictPlain
 python3 scripts/glos.py out/en-fa.kobo.tabfile.txt out/dicthtml-en-fa.zip Kobo
 ```
 Use `en-fa.kobo.tabfile.txt` for Kobo: it lists alternate forms with a different first two letters as separate entries, which the Kobo writer otherwise turns into look-ups that cannot be found.
@@ -68,13 +71,14 @@ The landing pages (`docs/index.html`, `docs/fa/index.html`) are generated, not h
 ### Compile the Kindle dictionary
 ```bash
 cd out/kindle-classic-src      # or kindle-rtl-src
-kindlegen dict.opf -c1 -dont_append_source -o English-Persian.Dictionary.v3.0.mobi
+kindlegen dict.opf -c1 -dont_append_source -o English-Persian.Dictionary.v3.1.mobi
 ```
 `kindlegen` is inside Kindle Previewer, for example `/Applications/Kindle Previewer 4.app/Contents/Resources/KFXGen/bin/kindlegen` on macOS. Exit code 1 with "built with WARNINGS" (no cover image) is normal.
 
-**Size limit:** kindlegen stalls at 0% CPU, with no error, when the source `content.html` is much over about 40 MB. An earlier RTL source with `align="right"` on every paragraph (41 MB) did exactly that; `export.py` now writes `<p dir="rtl">` only (39 MB), which compiles in about 30 seconds. If you add markup to the sources, keep an eye on their size.
+**Size limit:** kindlegen stalls at 0% CPU, with no error, when a single source HTML file is much over about 40 MB (a 42.8 MB test file never got past "Parsing files"). `export.py` therefore writes the Kindle sources as several files of 40,000 entries each (`content0.html` …), listed in `dict.opf`; v3.1 compiles in about 35 seconds per build and keeps all headwords. It also writes `<p dir="rtl">` only, without `align="right"`, to keep the sources small.
 
 ## Editing entries
+- To change a v3.1 subject entry, edit its line in `new/v3.1/<subject>.tsv`, run `python3 scripts/lint31.py new/v3.1/*.tsv` (it must report 0 errors), then re-run steps 3 and 4.
 - To change a rewritten word, edit its line in `review/merged/out_*.tsv`. To change an added entry, edit `new/*.tsv`. A headword spelling fix goes in `typo/fix_*.tsv`. Then re-run steps 3 and 4.
 - Persian text is stored in reading order everywhere except the classic Kindle source, which `export.py` converts to visual order.
 - Keep subject labels in the form the existing files use; `build.py` maps them to Persian section names.

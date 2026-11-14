@@ -1,9 +1,12 @@
 import sys,struct,gzip,zipfile,re,io
 import xml.etree.ElementTree as ET
-from idzip import IdzipFile
-D=sys.argv[1]
+try: from idzip import IdzipFile
+except ImportError:  # .dict.dz is gzip-compatible; read it whole when idzip is not installed
+    class IdzipFile(io.BytesIO):
+        def __init__(self,p): super().__init__(gzip.open(p).read())
+D=sys.argv[1]; V=sys.argv[2] if len(sys.argv)>2 else '3.0'
 # StarDict: parse idx/syn, decode via .dict.dz
-base=D+'/StarDict/English-Persian-v3.0/English-Persian-v3.0'
+base=D+'/StarDict/English-Persian-v%s/English-Persian-v%s'%(V,V)
 ifo=dict(l.strip().split('=',1) for l in open(base+'.ifo',encoding='utf-8') if '=' in l)
 idx=open(base+'.idx','rb').read(); words=[]; p=0
 while p<len(idx):
@@ -21,7 +24,7 @@ def look(w):
     elif w in syns: o,s=words[syns[w]][1:]; w=w+' → '+words[syns[w]][0]
     else: return w+' : NOT FOUND'
     dz.seek(o); return w+' : '+dz.read(s).decode()[:140]
-for w in ['internet','walked','theurgical','set','smartphone','went','figure out','illustrious','leukaemia']: print('  ',look(w))
+for w in ['internet','walked','theurgical','set','smartphone','went','figure out','illustrious','leukaemia','epistemology','a priori','sus','crop rotation','mise en scene','haute couture','freight forwarder','chiaroscuro']: print('  ',look(w))
 # Kobo
 z=zipfile.ZipFile(D+'/Kobo/dicthtml-en-fa.zip'); names=z.namelist()
 print('kobo: files',len(names),names[:6])
@@ -31,11 +34,13 @@ try: txt=gzip.decompress(blob).decode()
 except Exception: txt=blob.decode('utf-8','replace')
 print('  sample',txt[:300].replace('\n',' '))
 # Kindle sources well-formed
+import glob
 for v in ['source-classic','source-rtl']:
-    f=D+'/Kindle/'+v+'/content.html'
-    try:
-        root=ET.parse(f).getroot(); ns='{https://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf}'
-        ent=root.iter(ns+'entry'); n=sum(1 for _ in ent)
-        print('kindle',v,'well-formed XML, entries',n)
-    except ET.ParseError as e: print('kindle',v,'PARSE ERROR',e)
+    n=0
+    for f in sorted(glob.glob(D+'/Kindle/'+v+'/content*.html')):
+        try:
+            root=ET.parse(f).getroot(); ns='{https://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf}'
+            n+=sum(1 for _ in root.iter(ns+'entry'))
+        except ET.ParseError as e: print('kindle',v,f,'PARSE ERROR',e)
+    print('kindle',v,'well-formed XML, entries',n)
     ET.parse(D+'/Kindle/'+v+'/dict.opf')

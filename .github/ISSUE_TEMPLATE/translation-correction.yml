@@ -13,7 +13,7 @@ body:
     id: current
     attributes:
       label: Current definition
-      description: Paste it from the dictionary or from data/English-Persian.v3.0.tsv
+      description: Paste it from the dictionary or from data/English-Persian.v3.1.tsv
     validations:
       required: true
   - type: textarea

@@ -11,3 +11,10 @@ pipeline/ref/
 pipeline/unpacked/
 *.mobi.orig
 .vscode/settings.json
+pipeline/master.json
+pipeline/changelog.tsv
+pipeline/stats_build.json
+pipeline/out*/
+pipeline/work31/
+pipeline/report/dictionary-v3-report.html
+pipeline/report/summary.json

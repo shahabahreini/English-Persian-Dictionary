@@ -1,0 +1,430 @@
+offside trap	sports	تله آفساید، تاکتیک آفساید (جلو آمدن هم‌زمان مدافعان برای آفساید کردن مهاجم)
+set piece	sports	(فوتبال) موقعیت ایستگاهی، ضربهٔ ایستگاهی (کرنر، ضربهٔ آزاد و پرتاب اوت)
+stoppage time	sports	وقت تلف‌شده، وقت اضافهٔ تلف‌شده (افزوده به پایان هر نیمه)
+added time	sports	وقت تلف‌شده، دقایق افزوده
+penalty shootout	sports	ضربات پنالتی (برای تعیین برنده پس از تساوی)، پنالتی‌ها
+penalty box	sports	محوطهٔ جریمه، محوطهٔ پنالتی؛ (هاکی روی یخ) جایگاه بازیکنان اخراجی موقت
+clean sheet	sports	(فوتبال) کلین‌شیت، دروازهٔ بسته، گل نخوردن در یک بازی
+hat-trick	sports	هت‌تریک (سه گل یک بازیکن در یک بازی)؛ (کریکت) گرفتن سه ویکت با سه پرتاب پیاپی؛ سه موفقیت پیاپی
+hat trick	sports	هت‌تریک (سه گل یک بازیکن در یک بازی)
+var	sports	Video Assistant Referee؛ وی‌ای‌آر، کمک‌داور ویدئویی
+video assistant referee	sports	کمک‌داور ویدئویی، وی‌ای‌آر
+through ball	sports	پاس در عمق، پاس پشت مدافعان
+nutmeg	sports	(فوتبال) لایی، لایی زدن (رد کردن توپ از میان پاهای حریف)
+futsal	sports	فوتسال، فوتبال سالنی
+free kick	sports	ضربهٔ آزاد، ضربهٔ ایستگاهی
+corner kick	sports	ضربهٔ کرنر، کرنر
+throw-in	sports	پرتاب اوت، اوت (در فوتبال)
+slide tackle	sports	تکل لغزشی، تکل با سُر خوردن
+yellow card	sports	کارت زرد، اخطار
+sending-off	sports	اخراج (بازیکن از زمین)
+half-time	sports	بین دو نیمه، استراحت بین دو نیمه؛ پایان نیمهٔ اول
+kick-off	sports	شروع بازی، ضربهٔ شروع؛ (مجازی) آغاز، شروع (رویداد)
+centre-forward	sports	مهاجم نوک، مهاجم میانی، سانتر فوروارد
+full-back	sports	مدافع کناری، بک (چپ یا راست)
+wing-back	sports	وینگ‌بک، مدافع کناری هجومی
+centre-back	sports	مدافع میانی، دفاع وسط
+defensive midfielder	sports	هافبک دفاعی
+attacking midfielder	sports	هافبک هجومی
+captain's armband	sports	بازوبند کاپیتانی
+starting lineup	sports	ترکیب اصلی، ترکیب ابتدایی
+starting eleven	sports	ترکیب اصلی، یازده بازیکن اصلی
+line-up	sports	ترکیب تیم، ترکیب بازیکنان
+line-up	general	صف شناسایی مظنونان (در ادارهٔ پلیس)؛ فهرست برنامه‌ها یا اجراکنندگان (جشنواره یا کنسرت)
+counter-attack	sports	ضدحمله، حملهٔ متقابل
+high press	sports	پرس از جلو، فشار از بالای زمین
+man-marking	sports	یارگیری نفر به نفر، یارگیری انفرادی
+zonal marking	sports	دفاع منطقه‌ای، یارگیری منطقه‌ای
+goal line	sports	خط دروازه
+centre circle	sports	دایرهٔ وسط زمین
+six-yard box	sports	محوطهٔ کوچک دروازه، محوطهٔ شش‌قدم
+golden goal	sports	گل طلایی
+away goal	sports	گل زده در خانهٔ حریف، گل خارج از خانه
+away goals rule	sports	قانون گل زده در خانهٔ حریف
+first leg	sports	بازی رفت
+second leg	sports	بازی برگشت
+home and away	sports	رفت و برگشت (بازی در خانه و خارج از خانه)
+local derby	sports	شهرآورد، دربی محلی
+park the bus	sports	(عامیانه، فوتبال) اتوبوس پارک کردن (دفاع بسته با همهٔ بازیکنان)
+dropped ball	sports	توپ داور (از سرگیری بازی با رها کردن توپ)
+goalless draw	sports	تساوی بدون گل
+tiki-taka	sports	تیکی‌تاکا (سبک بازی با پاس‌های کوتاه پیاپی)
+false nine	sports	مهاجم کاذب، شمارهٔ ۹ کاذب (مهاجمی که برای گرفتن توپ به میانهٔ زمین عقب می‌آید)
+target man	sports	مهاجم هدف، مهاجم بلندقامت و سرزن (مهاجمی که توپ‌های بلند را می‌گیرد و برای هم‌تیمی‌ها نگه می‌دارد)
+box-to-box	sports	(هافبک) باکس تو باکس، هافبک پرتحرک (که در هر دو محوطه، دفاع و حمله، حضور دارد)
+holding midfielder	sports	هافبک دفاعی، هافبک نگهدارنده
+libero	sports	لیبرو؛ (فوتبال) بک آزاد؛ (والیبال) بازیکن دفاعی ویژه با پیراهن متفاوت
+centre half	sports	مدافع میانی
+own half	sports	زمین خودی، نیمهٔ خودی
+back pass	sports	بک‌پاس، پاس به عقب (به‌ویژه به دروازه‌بان)
+step-over	sports	(فوتبال) قیچی، حرکت قیچی (چرخاندن پا دور توپ برای فریب حریف)
+rabona	sports	(فوتبال) رابونا (ضربه با پای ضربه‌زن از پشت پای تکیه‌گاه)
+panenka	sports	(فوتبال) پنالتی پاننکا، پنالتی چیپ آرام به وسط دروازه
+open goal	sports	دروازهٔ خالی
+man of the match	sports	بهترین بازیکن زمین، مرد مسابقه
+player of the match	sports	بهترین بازیکن زمین
+golden boot	sports	کفش طلا (جایزهٔ آقای گل)
+golden ball	sports	توپ طلا (جایزهٔ بهترین بازیکن تورنمنت)
+top scorer	sports	آقای گل، بهترین گلزن
+goal difference	sports	تفاضل گل
+relegation zone	sports	منطقهٔ سقوط
+relegation battle	sports	نبرد برای فرار از سقوط
+title race	sports	رقابت قهرمانی، مسابقه بر سر عنوان قهرمانی
+play-off	sports	پلی‌آف، بازی تعیین‌کننده، بازی‌های حذفی پایان فصل
+group stage	sports	مرحلهٔ گروهی
+round of 16	sports	مرحلهٔ یک‌هشتم نهایی
+quarter-final	sports	یک‌چهارم نهایی
+semi-final	sports	نیمه‌نهایی
+final whistle	sports	سوت پایان (بازی)
+assistant referee	sports	کمک‌داور، داور خط
+fourth official	sports	داور چهارم
+match official	sports	داور مسابقه، عضو تیم داوری
+goal-line technology	sports	فناوری خط دروازه
+spot-kick	sports	ضربهٔ پنالتی
+keepy-uppy	sports	(گفتاری، بریتانیایی) روپایی، روپایی زدن (نگه داشتن توپ در هوا با پا)
+shin pad	sports	ساق‌بند
+home kit	sports	لباس اول تیم، پیراهن خانگی
+away kit	sports	لباس دوم تیم، پیراهن خارج از خانه
+technical area	sports	محوطهٔ فنی (کنار زمین برای مربی)
+fixture list	sports	برنامهٔ مسابقات، جدول زمان‌بندی بازی‌ها
+matchday	sports	روز مسابقه؛ (لیگ) هفته
+ultras	sports	اولتراها (هواداران متعصب و سازمان‌یافتهٔ تیم)
+football hooliganism	sports	هولیگانیسم، اوباشی‌گری هواداران فوتبال
+pitch invader	sports	تماشاگری که بی‌اجازه به داخل زمین مسابقه می‌دود، تماشاگر متخلف واردشده به زمین
+mexican wave	sports	موج مکزیکی (در ورزشگاه)
+curler	sports	(فوتبال) شوت پیچ‌دار، ضربهٔ چرخشی
+screamer	sports	(فوتبال، گفتاری) شوت سهمگین، سوپرگل، گل تماشایی از راه دور
+sitter	sports	(فوتبال، گفتاری) موقعیت صددرصد گل، موقعیت مسلم (به‌ویژه موقعیتی که هدر می‌رود)
+tap-in	sports	(فوتبال) گل از فاصلهٔ خیلی نزدیک، تمام کردن ساده
+fixture	sports	مسابقه، بازی (برنامه‌ریزی‌شده در تقویم مسابقات)
+three-pointer	sports	(بسکتبال) پرتاب سه‌امتیازی، سه‌امتیازی
+three-point line	sports	خط سه‌امتیازی
+free-throw line	sports	خط پرتاب آزاد، خط پنالتی
+alley-oop	sports	(بسکتبال) آلی‌اوپ (پاس بلند که بازیکن در هوا آن را دانک یا وارد سبد می‌کند)
+offensive rebound	sports	ریباند هجومی
+rebound	sports	(بسکتبال) گرفتن توپ برگشتی؛ (فوتبال) توپ برگشتی (از تیرک یا دروازه‌بان)
+tip-off	general	خبر محرمانه، اطلاع پنهانی (به‌ویژه به پلیس)، سرنخ
+tip-off	sports	(بسکتبال) جامپ‌بال شروع بازی
+shooting guard	sports	(بسکتبال) شوتینگ گارد، گارد شمارهٔ ۲
+small forward	sports	(بسکتبال) اسمال فوروارد، فوروارد کوچک
+buzzer beater	sports	پرتاب ثانیهٔ آخر، پرتاب هم‌زمان با بوق پایان
+buzzer-beater	sports	پرتاب ثانیهٔ آخر، پرتاب هم‌زمان با بوق پایان
+pick and roll	sports	(بسکتبال) پیک اند رول، پرده و چرخش
+full-court press	sports	پرس تمام‌زمین
+zone defense	sports	دفاع منطقه‌ای
+man-to-man defense	sports	دفاع نفر به نفر، دفاع یار به یار
+triple-double	sports	(بسکتبال) تریپل‌دابل (رقم دورقمی در سه شاخص آماری)
+double-double	sports	(بسکتبال) دابل‌دابل (رقم دورقمی در دو شاخص آماری)
+paint	sports	(بسکتبال) زیر سبد، منطقهٔ رنگی، منطقهٔ سه‌ثانیه
+one-two	sports	(فوتبال) یک‌دو، پاس یک‌دو
+backheel	sports	(فوتبال) پاس یا ضربهٔ پاشنه
+linesman	sports	کمک‌داور، داور خط
+pressing	sports	(فوتبال) پرس، فشار روی توپ‌دار حریف
+woodwork	sports	(فوتبال، عامیانه) تیرک دروازه (hit the woodwork: به تیرک زدن)
+brace	sports	(فوتبال) دبل، دو گل یک بازیکن در یک بازی
+volley	sports	(فوتبال) ضربهٔ والی، ضربه به توپ در هوا؛ (تنیس) والی
+dunk	sports	(بسکتبال) دانک، اسلم‌دانک
+setter	sports	(والیبال) پاسور
+dig	sports	(والیبال) دفاع روی آبشار، توپ‌گیری (برگرداندن آبشار حریف با ساعد)
+jump serve	sports	(والیبال) سرویس پرشی
+float serve	sports	(والیبال) سرویس فلوت، سرویس بی‌چرخش
+side out	sports	(والیبال) گرفتن حق سرویس، ساید اوت
+rally scoring	sports	(والیبال) سیستم رالی پوینت (امتیاز گرفتن در هر رالی، چه سرویس با تیم باشد چه نه)
+outside hitter	sports	(والیبال) قدرتی‌زن، قدرتی (مهاجم کناری که بیشتر از منطقهٔ ۴ حمله می‌کند)
+opposite hitter	sports	(والیبال) قطرپاسور، دیاگونال
+middle blocker	sports	(والیبال) سرعتی‌زن، سرعتی (بازیکن وسط تور که دفاع روی تور و حملهٔ سریع را بر عهده دارد)
+beach volleyball	sports	والیبال ساحلی
+net violation	sports	خطای تور
+break point	sports	(تنیس) بریک‌پوینت، امتیاز برای بردن گیم سرویس حریف
+tiebreak	sports	(تنیس) تای‌بریک
+tiebreaker	sports	تای‌بریک؛ (عمومی) معیار تعیین برنده در حالت تساوی
+winner	sports	(تنیس) ضربهٔ برنده، وینر (ضربه‌ای که حریف به آن نمی‌رسد)
+grand slam	sports	(تنیس، گلف) گرند اسلم (هر یک از چهار تورنمنت بزرگ یا قهرمانی در همهٔ آن‌ها)
+two-handed backhand	sports	بک‌هند دودستی
+unforced error	sports	خطای غیراجباری، خطای ناشی از اشتباه خود بازیکن
+clay court	sports	زمین خاکی (تنیس)
+grass court	sports	زمین چمن (تنیس)
+hard court	sports	زمین سخت (تنیس)
+line judge	sports	داور خط
+chair umpire	sports	داور صندلی، داور اصلی (تنیس)
+serve and volley	sports	(تنیس) سرویس و والی (سبک بازی با سرویس و رفتن فوری به پشت تور)
+ping-pong	sports	پینگ‌پنگ، تنیس روی میز
+freestyle wrestling	sports	کشتی آزاد
+greco-roman wrestling	sports	کشتی فرنگی
+headlock	sports	(کشتی) سرزیربغل؛ (رزمی) قفل سر
+half nelson	sports	(کشتی) نیم‌نلسون
+full nelson	sports	(کشتی) نلسون کامل (قفل کردن گردن حریف با هر دو دست از پشت)
+single-leg takedown	sports	(کشتی) زیر یک‌خم (گرفتن یک پای حریف و خاک کردن او)
+double-leg takedown	sports	(کشتی) زیر دوخم (گرفتن هر دو پای حریف و خاک کردن او)
+leg lace	sports	(کشتی) فیتو (قفل کردن پاهای حریف در خاک و چرخاندن او)
+weigh-in	sports	وزن‌کشی (پیش از مسابقه)
+weight class	sports	وزن، ردهٔ وزنی، دستهٔ وزنی
+weight category	sports	ردهٔ وزنی، دستهٔ وزنی
+kung fu	sports	کونگ‌فو
+wushu	sports	ووشو
+muay thai	sports	موای‌تای، بوکس تایلندی
+mixed martial arts	sports	هنرهای رزمی ترکیبی، ام‌ام‌ای
+jiu-jitsu	sports	جوجیتسو
+brazilian jiu-jitsu	sports	جوجیتسوی برزیلی
+brown belt	sports	کمربند قهوه‌ای
+tko	sports	technical knockout؛ ناک‌اوت فنی
+orthodox stance	sports	(بوکس) گارد ارتدوکس، گارد راست‌دست (پای چپ و دست چپ جلو)
+chokehold	sports	قفل گردن، فن خفه کردن، چوک (در رزمی)
+armbar	sports	(رزمی) قفل بازو، آرم‌بار
+ground and pound	sports	(رزمی) گراند اند پاوند (به زمین زدن حریف و ضربه زدن به او روی زمین)
+unanimous decision	sports	(بوکس، رزمی) رأی مطلق داوران، پیروزی به اتفاق آرای داوران
+points decision	sports	(بوکس) برد امتیازی
+undercard	sports	مسابقات مقدماتی (پیش از مبارزهٔ اصلی)
+title fight	sports	مبارزهٔ قهرمانی، مسابقه بر سر کمربند
+cruiserweight	sports	(بوکس) کروزرویت (رده‌ای بین نیم‌سنگین و سنگین)
+octagon	sports	(هنرهای رزمی ترکیبی) قفس هشت‌ضلعی، اکتاگون
+clinch	sports	(بوکس) کلینچ، گلاویز شدن، در آغوش گرفتن حریف؛ قطعی کردن (قهرمانی یا پیروزی)
+jab	sports	(بوکس) جب، مشت مستقیم کوتاه با دست جلو
+sparring	sports	(بوکس، رزمی) اسپارینگ، مبارزهٔ تمرینی
+medley	sports	(شنا) امدادی مختلط
+butterfly stroke	sports	شنای پروانه
+front crawl	sports	شنای کرال سینه
+tumble turn	sports	(شنا) برگشت با غلت، سالتو در انتهای استخر
+lane rope	sports	(شنا) طناب جداکنندهٔ خطوط شنا، طناب شناور خط
+swim cap	sports	کلاه شنا
+swimming goggles	sports	عینک شنا
+goggles	sports	عینک شنا؛ عینک اسکی
+diving board	sports	تختهٔ شیرجه، سکوی شیرجه
+platform diving	sports	شیرجه از سکو، شیرجهٔ سکوی ده‌متری
+synchronized swimming	sports	شنای موزون، شنای هماهنگ
+artistic swimming	sports	شنای هنری، شنای موزون
+open water swimming	sports	شنای آب‌های آزاد
+ultramarathon	sports	اولترا ماراتن، فراماراتن (دوی استقامت با مسافتی بیش از ماراتن)
+baton pass	sports	تعویض باتوم (در دوی امدادی)
+hurdles	sports	دوی با مانع
+heptathlon	sports	هفت‌گانه
+season's best	sports	بهترین رکورد فصل
+world record	sports	رکورد جهانی، رکورد جهان
+starting blocks	sports	تختهٔ استارت
+starting pistol	sports	تپانچهٔ شروع مسابقه
+discus	sports	پرتاب دیسک؛ دیسک (وسیلهٔ پرتاب)
+pacemaker	sports	(دو) پیس‌میکر، دوندهٔ تعیین‌کنندهٔ سرعت، خرگوش
+cross-country	sports	صحرانوردی، دوی صحرایی؛ (اسکی) اسکی صحرانوردی
+split time	sports	زمان میانی، زمان مقطعی (در هر بخش از مسیر)
+anchor leg	sports	آخرین دور امدادی، دوندهٔ آخر امدادی
+home straight	sports	خط مستقیم پایانی (پیست)
+yellow jersey	sports	پیراهن زرد (نشان نفر اول تور دوفرانس)
+mountain biking	sports	دوچرخه‌سواری کوهستان
+road bike	sports	دوچرخهٔ جاده‌ای، دوچرخهٔ کورسی
+mountain bike	sports	دوچرخهٔ کوهستان
+sprint finish	sports	پایان سرعتی، دوی سرعت پایانی
+cadence	sports	(دوچرخه‌سواری) آهنگ رکاب زدن (دور در دقیقه)؛ (دو) آهنگ گام
+breakaway	sports	(دوچرخه‌سواری) فرار، گروه جداشده از پلوتون؛ (فوتبال، هاکی) فرار از مدافعان و رسیدن به موقعیت تک‌به‌تک
+super-g	sports	(اسکی) سوپر جی (رشتهٔ سرعتی اسکی آلپاین، میان اسلالوم بزرگ و دانهیل)
+ski jumping	sports	پرش با اسکی
+cross-country skiing	sports	اسکی صحرانوردی
+ski slope	sports	پیست اسکی
+ski pass	sports	بلیت فصلی یا روزانهٔ پیست اسکی، کارت تله‌اسکی
+apres-ski	sports	اوقات فراغت پس از اسکی (در پیست یا هتل)
+off-piste	sports	خارج از پیست، اسکی در برف بکر
+black run	sports	پیست سیاه (دشوارترین پیست اسکی)
+nursery slope	sports	پیست مبتدی‌ها
+bunny slope	sports	پیست مبتدی‌ها
+moguls	sports	(اسکی) ماگول، اسکی روی پشته‌های برفی
+ski resort	sports	پیست اسکی، مجموعهٔ تفریحی اسکی
+snowplough	sports	(اسکی) حالت گوه‌ای، ترمز گوه‌ای (نوک اسکی‌ها به هم)
+crampon	sports	(کوهنوردی) کرامپون
+harness	sports	(کوهنوردی) هارنس، کمربند ایمنی
+chalk	sports	پودر منیزیم (برای خشک کردن دست ورزشکار)
+chalk bag	sports	کیسهٔ پودر منیزیم
+climbing shoes	sports	کفش سنگ‌نوردی
+top rope	sports	(سنگ‌نوردی) تاپ‌روپ، صعود با طناب از بالا
+lead climbing	sports	سرطنابی، صعود سرطناب
+free solo	sports	صعود انفرادی بدون طناب، فری‌سولو
+sport climbing	sports	سنگ‌نوردی ورزشی
+via ferrata	sports	ویافراتا، مسیر صعود با کابل و پله‌های فلزی
+summit push	sports	حمله به قله، تلاش نهایی برای صعود به قله
+rope team	sports	گروه هم‌طناب، تیم طناب (کوهنوردانی که به یک طناب بسته شده‌اند)
+avalanche beacon	sports	بیپر بهمن، دستگاه ردیاب بهمن‌زدگان
+oxygen tank	general	کپسول اکسیژن
+death zone	sports	منطقهٔ مرگ (ارتفاع بالای ۸۰۰۰ متر)
+castling	sports	(شطرنج) قلعه رفتن، قلعه
+middlegame	sports	(شطرنج) وسط بازی
+elo rating	sports	(شطرنج) ریتینگ، رده‌بندی الو، امتیاز الو
+blitz chess	sports	شطرنج برق‌آسا، شطرنج بلیتس
+rapid chess	sports	شطرنج سریع، شطرنج رپید
+bullet chess	sports	شطرنج بولت، شطرنج گلوله‌ای (بسیار سریع، معمولاً یک‌دقیقه‌ای)
+threefold repetition	sports	(شطرنج) تکرار سه‌باره (موجب تساوی)
+bishop pair	sports	(شطرنج) جفت فیل
+back-rank mate	sports	(شطرنج) مات ردیف آخر
+pin	sports	(شطرنج) آچمز، آچمز کردن
+skewer	sports	(شطرنج) سیخ، حملهٔ سیخ (حمله به دو مهره در یک امتداد)
+plank	sports	(ورزش) حرکت پلانک (نگه داشتن بدن صاف روی ساعدها و پنجهٔ پا)
+jumping jack	sports	(ورزش) جامپینگ جک، پروانه (حرکت پرش و باز و بسته کردن دست و پا)
+core strength	sports	قدرت عضلات مرکزی بدن، قدرت میان‌تنه
+biceps curl	sports	جلوبازو، جلوبازو با دمبل
+tricep dip	sports	دیپ پشت‌بازو
+leg press	sports	پرس پا
+calf raise	sports	ساق پا ایستاده، بالا آمدن روی پنجه
+shoulder press	sports	پرس سرشانه
+overhead press	sports	پرس بالای سر، پرس سرشانه با هالتر
+lat pulldown	sports	زیربغل سیم‌کش، لت از جلو
+one-rep max	sports	حداکثر یک تکرار، وان‌رپ‌مکس (سنگین‌ترین وزنه‌ای که یک بار می‌توان زد)
+muscle failure	sports	واماندگی عضلانی، ناتوانی عضلانی (رسیدن به حدی که تکرار دیگر ممکن نیست)
+superset	sports	(بدنسازی) سوپرست (اجرای پیاپی دو حرکت بی‌استراحت)
+bodyweight exercise	sports	تمرین با وزن بدن
+clean and jerk	sports	(وزنه‌برداری) دوضرب
+lean muscle	sports	عضلهٔ خشک، عضلهٔ بدون چربی
+whey protein	sports	پروتئین وی، پروتئین آب پنیر
+post-workout	sports	پس از تمرین؛ مکمل پس از تمرین
+heart rate monitor	sports	ضربان‌سنج، دستگاه پایش ضربان قلب
+resting heart rate	sports	ضربان قلب در حال استراحت
+max heart rate	sports	حداکثر ضربان قلب
+vo2 max	sports	VO2 max؛ حداکثر اکسیژن مصرفی، وی‌اُتو مکس
+delayed onset muscle soreness	sports	کوفتگی تأخیری عضلات
+doms	sports	delayed onset muscle soreness؛ کوفتگی تأخیری عضلات، درد عضلانی پس از ورزش
+muscle cramp	sports	گرفتگی عضله
+runner's knee	sports	زانوی دونده (درد جلوی زانو)
+hamstring injury	sports	آسیب همسترینگ، مصدومیت عضلهٔ پشت ران
+torn ligament	sports	پارگی رباط
+acl tear	sports	پارگی رباط صلیبی قدامی
+cruciate ligament	sports	رباط صلیبی
+anti-doping test	sports	آزمایش دوپینگ، تست ضد دوپینگ
+doping test	sports	آزمایش دوپینگ، تست دوپینگ
+drug test	sports	آزمایش دوپینگ؛ آزمایش اعتیاد، تست مواد مخدر
+banned substance	sports	مادهٔ ممنوعه، داروی غیرمجاز
+performance-enhancing drugs	sports	داروهای نیروزا، داروهای افزایش‌دهندهٔ عملکرد
+therapeutic use exemption	sports	مجوز مصرف درمانی (دارو برای ورزشکار)
+positive test	sports	تست مثبت (دوپینگ)
+transfer window	sports	پنجرهٔ نقل‌وانتقالات، فصل نقل‌وانتقالات
+transfer fee	sports	مبلغ انتقال، رقم انتقال (بازیکن)
+free transfer	sports	انتقال آزاد، انتقال بدون رضایت‌نامه
+loan deal	sports	قرارداد قرضی
+loan spell	sports	دورهٔ قرضی
+on loan	sports	قرضی (بازیکن)
+release clause	sports	بند فسخ قرارداد
+buyout clause	sports	بند فسخ، بند خرید قرارداد
+signing-on fee	sports	پاداش امضای قرارداد
+relegation	sports	سقوط (به دستهٔ پایین‌تر)
+league table	sports	جدول لیگ، جدول رده‌بندی
+knockout stage	sports	مرحلهٔ حذفی
+knockout round	sports	دور حذفی
+qualifier	sports	بازی مقدماتی، مسابقهٔ انتخابی؛ تیم یا بازیکن راه‌یافته
+qualifiers	sports	مسابقات مقدماتی، دور مقدماتی
+qualifying round	sports	مرحلهٔ مقدماتی، دور انتخابی
+paralympics	sports	پارالمپیک، بازی‌های پارالمپیک
+paralympic games	sports	بازی‌های پارالمپیک
+sports federation	sports	فدراسیون ورزشی
+lifetime ban	sports	محرومیت مادام‌العمر
+disciplinary committee	sports	کمیتهٔ انضباطی
+match-fixing	sports	تبانی، تبانی در نتیجهٔ مسابقه
+spot-fixing	sports	تبانی در جزئیات بازی (مثل زمان کارت یا خطا)
+financial fair play	sports	فیرپلی مالی، قانون بازی جوانمردانهٔ مالی
+salary cap	sports	سقف حقوق، سقف دستمزد
+draft pick	sports	انتخاب درفت، بازیکن انتخاب‌شده در درفت
+trade deadline	sports	مهلت پایانی نقل‌وانتقالات
+caretaker manager	sports	سرمربی موقت
+interim coach	sports	سرمربی موقت
+technical director	sports	مدیر فنی
+sporting director	sports	مدیر ورزشی
+youth academy	sports	آکادمی باشگاه، آکادمی پایه
+youth team	sports	تیم پایه، تیم جوانان
+reserve team	sports	تیم دوم، تیم ب، تیم ذخیره‌ها
+squad rotation	sports	چرخش بازیکنان، روتیشن (استفاده از بازیکنان مختلف در بازی‌های پیاپی)
+national team	sports	تیم ملی
+national squad	sports	تیم ملی، اردوی تیم ملی
+call-up	sports	دعوت (به تیم ملی)؛ احضار (به خدمت)
+home advantage	sports	مزیت میزبانی، برتری بازی در خانه
+home ground	sports	ورزشگاه خانگی، زمین خودی
+home game	sports	بازی خانگی
+away game	sports	بازی خارج از خانه
+neutral venue	sports	زمین بی‌طرف
+sell-out	general	فروش همهٔ بلیت‌ها، سالن یا ورزشگاه پُر (مسابقه یا کنسرت)؛ (عامیانه) خودفروخته، کسی که اصولش را به خاطر پول کنار گذاشته
+pre-season	sports	پیش‌فصل، اردوی پیش‌فصل
+winter break	sports	تعطیلات زمستانی (لیگ)
+runner-up	sports	نایب‌قهرمان، تیم یا نفر دوم
+podium	sports	سکوی قهرمانی، سکوی اهدای مدال
+podium finish	sports	رسیدن به سکو، کسب یکی از سه رتبهٔ نخست
+silver medal	sports	مدال نقره
+medal table	sports	جدول مدال‌ها
+medal count	sports	شمار مدال‌ها
+world champion	sports	قهرمان جهان
+reigning champion	sports	قهرمان فعلی، مدافع عنوان قهرمانی
+underdog	sports	تیم کم‌شانس، تیم یا بازیکن ضعیف‌تر
+treble	sports	سه‌گانه (کسب سه جام در یک فصل)
+double	sports	دوگانه، دبل (کسب دو جام در یک فصل)
+whitewash	sports	شکست مطلق حریف، بردن همهٔ بازی‌ها
+thrashing	sports	شکست سنگین، برد پرگل
+giant killing	sports	غول‌کشی، پیروزی تیم ضعیف بر تیم بزرگ
+winning streak	sports	روند پیروزی، بردهای پیاپی
+losing streak	sports	روند شکست، باخت‌های پیاپی
+unbeaten run	sports	روند بدون شکست، رکورد شکست‌ناپذیری
+clean sweep	sports	پیروزی در همهٔ بازی‌ها یا کسب همهٔ عناوین؛ (عمومی) پیروزی کامل
+narrow win	sports	برد شکننده، برد حداقلی، برد با اختلاف کم
+nail-biter	sports	(گفتاری) بازی نفس‌گیر، مسابقهٔ پرهیجان و تنگاتنگ
+group of death	sports	گروه مرگ
+home leg	sports	بازی خانگی (در دیدار رفت و برگشت)
+head-to-head	sports	رودررو، دیدار مستقیم؛ نتایج رودررو (معیار رده‌بندی)
+points table	sports	جدول امتیازات
+points deduction	sports	کسر امتیاز
+forfeit	sports	باخت فنی، باختن به‌علت عدم حضور؛ واگذار کردن بازی
+comeback	sports	کامبک، بازگشت به بازی، جبران نتیجه
+testimonial	sports	بازی خداحافظی، بازی تجلیل (برای بازیکن)
+debut	sports	(ورزش) اولین بازی (بازیکن برای تیم یا تیم ملی)
+campervan	transport	ون کمپینگ، کمپر، خودروی مسکونی کوچک
+caravan site	general	محل کمپ کاروان، کمپ خودروهای مسکونی
+tent peg	general	میخ چادر
+sleeping mat	general	زیرانداز، فوم زیر کیسه‌خواب
+camping stove	general	گاز پیک‌نیکی، اجاق سفری
+hiking boots	sports	کفش کوهنوردی، پوتین کوهنوردی
+trekking	sports	ترکینگ، کوه‌پیمایی چندروزه، طبیعت‌گردی پیاده
+trekking poles	sports	باتوم کوهنوردی، عصای کوهپیمایی
+walking poles	sports	باتوم کوهنوردی، عصای پیاده‌روی
+daypack	sports	کولهٔ یک‌روزه، کوله‌پشتی کوچک
+waymark	sports	نشانهٔ مسیر، علامت راهنمای مسیر کوهپیمایی
+hill walking	sports	کوه‌پیمایی، تپه‌نوردی
+wild camping	sports	کمپ در طبیعت (خارج از کمپ رسمی)، طبیعت‌گردی با چادر
+bushcraft	sports	مهارت‌های بقا و زندگی در طبیعت
+orienteering	sports	جهت‌یابی (ورزش مسیریابی با نقشه و قطب‌نما)
+head torch	general	چراغ پیشانی
+headlamp	general	چراغ پیشانی
+hydration pack	sports	کولهٔ آب، مخزن آب کوله‌ای
+rafting	sports	رفتینگ، قایق‌سواری در رودخانه
+white-water rafting	sports	رفتینگ در آب‌های خروشان
+paddleboarding	sports	پدل‌بورد، پدل‌بوردسواری
+stand-up paddleboarding	sports	پدل‌بورد ایستاده
+kitesurfing	sports	کایت‌سرفینگ، کایت‌سواری روی آب
+snorkelling	sports	غواصی سطحی، اسنورکلینگ
+paragliding	sports	پاراگلایدر، پرواز با پاراگلایدر
+hang gliding	sports	هنگ‌گلایدر، پرواز با هنگ‌گلایدر (بال سه‌گوش بی‌موتور)
+bungee jumping	sports	بانجی‌جامپینگ، پرش با طناب کشسان
+zip line	sports	زیپ‌لاین (سُر خوردن با قرقره روی کابل کشیده‌شده)
+zipline	sports	زیپ‌لاین (سُر خوردن با قرقره روی کابل کشیده‌شده)
+potholing	sports	(بریتانیایی) غارنوردی
+canyoning	sports	دره‌نوردی، کنیونینگ
+nature trail	sports	مسیر طبیعت‌گردی
+scramble	sports	(کوهنوردی) سنگ‌نوردی ساده با دست و پا؛ (موتورسواری) موتورکراس
+equestrian	sports	سوارکاری؛ (صفت) مربوط به سوارکاری
+backflip	sports	پشتک وارو، پشتک
+pommel horse	sports	(ژیمناستیک) خرک حلقه
+uneven bars	sports	(ژیمناستیک) پارالل نامتقارن
+freediving	sports	غواصی آزاد، غواصی با حبس نفس
+base jumping	sports	بیس‌جامپینگ، پرش با چتر از ارتفاعات ثابت
+skateboarding	sports	اسکیت‌بورد، اسکیت‌بوردسواری
+skatepark	sports	پارک اسکیت
+roller skating	sports	اسکیت، اسکیت چرخ‌دار
+ice skating	sports	اسکیت روی یخ
+ten-pin bowling	sports	بولینگ
+lineout	sports	(راگبی) لاین‌اوت، پرتاب اوت از کنار زمین
+fantasy football	sports	فوتبال فانتزی (بازی مجازی انتخاب بازیکنان)
+sports betting	sports	شرط‌بندی ورزشی
+zurkhaneh	sports	زورخانه (محل ورزش باستانی و پهلوانی ایرانی)
+zoorkhaneh	sports	زورخانه
+varzesh-e pahlavani	sports	ورزش پهلوانی، ورزش زورخانه‌ای
+varzesh-e bastani	sports	ورزش باستانی، ورزش زورخانه‌ای
+koshti pahlavani	sports	کشتی پهلوانی
+pahlavan	sports	پهلوان
+pahlavani	sports	پهلوانی، ورزش پهلوانی
+persian clubs	sports	میل (زورخانه)، میل‌های چوبی ورزش باستانی
+meel	sports	میل (زورخانه)، میل چوبی (گرز چوبی بزرگی که ورزشکار زورخانه با آن میل‌گیری می‌کند)
+morshed	sports	مرشد زورخانه (کسی که با ضرب و زنگ و آواز، ورزش زورخانه را هدایت می‌کند)
+gowd	sports	گود زورخانه (میدان گود و معمولاً هشت‌ضلعی وسط زورخانه که ورزشکاران در آن ورزش می‌کنند)
+chogan	sports	چوگان (بازی سنتی ایرانی با اسب و چوب، شبیه پولو)
+indian clubs	sports	میل، میل‌های ورزشی (میل‌های چوبی گرزمانند برای تمرین بازو و شانه)
+hand-to-hand combat	general	نبرد تن‌به‌تن، مبارزهٔ بی‌سلاح
+self-defense	general	دفاع شخصی؛ (حقوق) دفاع مشروع

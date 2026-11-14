@@ -1,14 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this dictionary, please cite it as below and credit the upstream project it is based on."
 type: dataset
-title: "English–Persian Dictionary v3.0"
+title: "English–Persian Dictionary v3.1"
 abstract: >-
-  A free, offline English-to-Persian (Farsi) dictionary with 154,439 entries and 31,227 indexed
+  A free, offline English-to-Persian (Farsi) dictionary with 164,524 entries and 31,189 indexed
   inflected forms for Kindle, Kobo, KOReader, Onyx Boox and StarDict apps. A revision and expansion
   of English-Persian Dictionary v2.4. New and rewritten wording was produced by AI language models
   and has not been reviewed by a human Persian editor.
-version: 3.0.0
-date-released: 2026-11-13
+version: 3.1.0
+date-released: 2026-11-14
 license: MIT
 authors:
   - alias: "shahabahreini"

@@ -14,16 +14,17 @@
   {
    "@type": "Dataset",
    "@id": "https://shahabahreini.github.io/English-Persian-Dictionary/#dataset",
-   "name": "English–Persian Dictionary v3.0",
+   "name": "English–Persian Dictionary v3.1",
    "alternateName": [
     "English-Persian dictionary for Kindle",
     "دیکشنری انگلیسی به فارسی"
    ],
-   "description": "An English-to-Persian (Farsi) bilingual dictionary of 154,439 entries and 31,227 indexed inflected forms, revised and expanded from English-Persian Dictionary v2.4. Distributed as Kindle .mobi (classic and right-to-left), Kobo dicthtml, StarDict (HTML and plain text) and a tab-separated master file, with a before/after change report.",
+   "description": "An English-to-Persian (Farsi) bilingual dictionary of 164,524 entries and 31,189 indexed inflected forms, revised and expanded from English-Persian Dictionary v2.4. Distributed as Kindle .mobi (classic and right-to-left), Kobo dicthtml, StarDict (HTML and plain text) and a tab-separated master file, with a before/after change report.",
    "url": "https://shahabahreini.github.io/English-Persian-Dictionary/",
    "sameAs": "https://github.com/shahabahreini/English-Persian-Dictionary",
-   "version": "3.0.0",
+   "version": "3.1.0",
    "datePublished": "2026-11-13",
+   "dateModified": "2026-11-14",
    "inLanguage": [
     "en",
     "fa"
@@ -65,13 +66,13 @@
      "@type": "DataDownload",
      "name": "Kindle .mobi (classic)",
      "encodingFormat": "application/x-mobipocket-ebook",
-     "contentUrl": "https://github.com/shahabahreini/English-Persian-Dictionary/raw/main/dist/kindle/English-Persian.Dictionary.v3.0-classic.mobi"
+     "contentUrl": "https://github.com/shahabahreini/English-Persian-Dictionary/raw/main/dist/kindle/English-Persian.Dictionary.v3.1-classic.mobi"
     },
     {
      "@type": "DataDownload",
      "name": "Kindle .mobi (right-to-left)",
      "encodingFormat": "application/x-mobipocket-ebook",
-     "contentUrl": "https://github.com/shahabahreini/English-Persian-Dictionary/raw/main/dist/kindle/English-Persian.Dictionary.v3.0-rtl.mobi"
+     "contentUrl": "https://github.com/shahabahreini/English-Persian-Dictionary/raw/main/dist/kindle/English-Persian.Dictionary.v3.1-rtl.mobi"
     },
     {
      "@type": "DataDownload",
@@ -83,19 +84,19 @@
      "@type": "DataDownload",
      "name": "StarDict (HTML)",
      "encodingFormat": "application/zip",
-     "contentUrl": "https://github.com/shahabahreini/English-Persian-Dictionary/raw/main/dist/stardict/English-Persian-v3.0-stardict.zip"
+     "contentUrl": "https://github.com/shahabahreini/English-Persian-Dictionary/raw/main/dist/stardict/English-Persian-v3.1-stardict.zip"
     },
     {
      "@type": "DataDownload",
      "name": "StarDict (plain text)",
      "encodingFormat": "application/zip",
-     "contentUrl": "https://github.com/shahabahreini/English-Persian-Dictionary/raw/main/dist/stardict/English-Persian-v3.0-stardict-plaintext.zip"
+     "contentUrl": "https://github.com/shahabahreini/English-Persian-Dictionary/raw/main/dist/stardict/English-Persian-v3.1-stardict-plaintext.zip"
     },
     {
      "@type": "DataDownload",
      "name": "Master TSV (all entries)",
      "encodingFormat": "text/tab-separated-values",
-     "contentUrl": "https://github.com/shahabahreini/English-Persian-Dictionary/raw/main/data/English-Persian.v3.0.tsv"
+     "contentUrl": "https://github.com/shahabahreini/English-Persian-Dictionary/raw/main/data/English-Persian.v3.1.tsv"
     }
    ]
   },
@@ -107,7 +108,7 @@
      "name": "How do I install an English–Persian dictionary on a Kindle?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Connect the Kindle by USB, copy English-Persian.Dictionary.v3.0-classic.mobi into the documents/dictionaries folder, and eject. In a book, long-press a word, tap the dictionary name in the pop-up and choose English-Persian Dictionary v3.0, or set it under Settings > Language & Dictionaries > Dictionaries > English."
+      "text": "Connect the Kindle by USB, copy English-Persian.Dictionary.v3.1-classic.mobi into the documents/dictionaries folder, and eject. In a book, long-press a word, tap the dictionary name in the pop-up and choose English-Persian Dictionary v3.1, or set it under Settings > Language & Dictionaries > Dictionaries > English."
      }
     },
     {
@@ -123,7 +124,7 @@
      "name": "Does it work with KOReader, Onyx Boox and PocketBook?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes, through the StarDict build. Unzip English-Persian-v3.0-stardict.zip into koreader/data/dict/ for KOReader (which runs on Kindle, Kobo, PocketBook, Boox, reMarkable and Android), or into the dictionaries folder of GoldenDict, Moon+ Reader and other StarDict apps. PocketBook's built-in dictionary uses its own format, which is not provided; use KOReader there."
+      "text": "Yes, through the StarDict build. Unzip English-Persian-v3.1-stardict.zip into koreader/data/dict/ for KOReader (which runs on Kindle, Kobo, PocketBook, Boox, reMarkable and Android), or into the dictionaries folder of GoldenDict, Moon+ Reader and other StarDict apps. PocketBook's built-in dictionary uses its own format, which is not provided; use KOReader there."
      }
     },
     {
@@ -144,10 +145,10 @@
     },
     {
      "@type": "Question",
-     "name": "What is new in v3.0 compared with v2.4?",
+     "name": "What is new in v3.1 compared with v2.4?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "154,439 entries instead of 145,075, including 11,493 new entries (internet, smartphone, podcast and other modern vocabulary, plus science, medicine, business, phrasal verbs, idioms and slang). The 7,016 most frequent words were rewritten with the most common sense first. Persian spelling was normalised in 106,983 entries, 3,120 misspelled headwords were corrected, 2,128 duplicates were merged, and 31,227 inflected forms were indexed so that looking up 'walked' opens 'walk'."
+      "text": "164,524 entries instead of 145,075, including 21,578 new entries. v3.0 added modern vocabulary (internet, smartphone, podcast), science, medicine, business, phrasal verbs, idioms and slang; v3.1 added twelve subject sections (philosophy and logic, earth and environmental sciences, statistics, arts, literature, history and archaeology, sociology and anthropology, education, agriculture and veterinary science, transport and logistics, media, fashion and textiles), much more slang, and 3,589 subject senses on existing words. The 7,016 most frequent words were rewritten with the most common sense first. Persian spelling was normalised in 106,983 entries, 3,120 misspelled headwords were corrected, 2,128 duplicates were merged, and 31,189 inflected forms were indexed so that looking up 'walked' opens 'walk'."
      }
     },
     {
