@@ -10,3 +10,4 @@ work/
 pipeline/ref/
 pipeline/unpacked/
 *.mobi.orig
+.vscode/settings.json
