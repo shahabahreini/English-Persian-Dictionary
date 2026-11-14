@@ -63,7 +63,7 @@ Use `en-fa.kobo.tabfile.txt` for Kobo: it lists alternate forms with a different
 python3 scripts/report.py "$PWD"                                     # report fragment: report/dictionary-v3-report.html
 python3 scripts/site.py report/dictionary-v3-report.html ../docs/report.html   # wrap it as a complete, indexable page
 ```
-The landing pages (`docs/index.html`, `docs/fa/index.html`) are hand-written. `site/og-image.html` is the source of the social preview image (`docs/assets/og-image.png`); render it at 1200×630 with any headless browser.
+The landing pages (`docs/index.html`, `docs/fa/index.html`) are hand-written. `site/og-image.html` is the source of the social preview images: `docs/assets/github-social-preview.png` (1280×640, uploaded by hand under the repo's Settings › Social preview) and `docs/assets/og-image.png` (1200×630, used by the pages' Open Graph tags). Render it at those sizes with a headless browser, e.g. Chrome with `--window-size=1280,640 --virtual-time-budget=8000 --screenshot=…` so the web fonts finish loading.
 
 ### Compile the Kindle dictionary
 ```bash
