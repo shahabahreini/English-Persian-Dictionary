@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/github-social-preview.png" alt="English–Persian Dictionary v3.1: 164,524 entries for Kindle, Kobo, KOReader, Onyx Boox and StarDict. Free, offline, MIT licence." width="860">
+  <a href="https://shahabahreini.github.io/English-Persian-Dictionary/"><img src="docs/assets/github-social-preview.png" alt="English–Persian Dictionary v3.1: 164,524 entries for Kindle, Kobo, KOReader, Onyx Boox and StarDict. Free, offline, MIT licence." width="860"></a>
 </p>
 
 <p align="center">
@@ -13,7 +13,18 @@
 
 A free, offline **English-to-Persian (Farsi) dictionary** with **164,524 entries** and 31,189 indexed inflected forms, packaged for e-readers: **Kindle** (`.mobi`), **Kobo**, **KOReader**, **Onyx Boox**, GoldenDict and other **StarDict** apps. Long-press a word in a book and read the Persian meaning, with no internet connection.
 
-[**Download v3.1**](https://github.com/shahabahreini/English-Persian-Dictionary/releases/tag/v3.1.0) · [Website](https://shahabahreini.github.io/English-Persian-Dictionary/) · [صفحهٔ فارسی](https://shahabahreini.github.io/English-Persian-Dictionary/fa/) · [Change report](https://shahabahreini.github.io/English-Persian-Dictionary/report.html) · [FAQ](#frequently-asked-questions) · [فارسی ↓](#فارسی)
+### 👉 [**Open the website: pick your device and download**](https://shahabahreini.github.io/English-Persian-Dictionary/)
+
+The [project website](https://shahabahreini.github.io/English-Persian-Dictionary/) is the easiest place to start: choose your e-reader (Kindle, Kobo, KOReader, Onyx Boox) and it shows the right file with step-by-step install instructions. A Persian version is at [شروع از صفحهٔ فارسی](https://shahabahreini.github.io/English-Persian-Dictionary/fa/).
+
+| Where to click | What you get |
+|---|---|
+| [**Website**](https://shahabahreini.github.io/English-Persian-Dictionary/) | Device picker, install guides, FAQ |
+| [**Release v3.1.0**](https://github.com/shahabahreini/English-Persian-Dictionary/releases/tag/v3.1.0) | Direct downloads of every file |
+| [Change report](https://shahabahreini.github.io/English-Persian-Dictionary/report.html) | Every new and corrected entry, searchable |
+| [صفحهٔ فارسی](https://shahabahreini.github.io/English-Persian-Dictionary/fa/) | Persian site with installation guide |
+
+[Download table](#download) · [FAQ](#frequently-asked-questions) · [فارسی ↓](#فارسی)
 
 > **Read this first:** the new and rewritten Persian wording was produced by AI language models and has **not been reviewed by a human Persian editor**. See [Known limits](#known-limits). Corrections are very welcome.
 
