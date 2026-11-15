@@ -1,48 +1,80 @@
-# English–Persian Dictionary for Kindle, Kobo & KOReader (v3.1)
+<p align="center">
+  <img src="docs/assets/github-social-preview.png" alt="English–Persian Dictionary v3.1: 164,524 entries for Kindle, Kobo, KOReader, Onyx Boox and StarDict. Free, offline, MIT licence." width="860">
+</p>
 
-A free, offline **English-to-Persian (Farsi) dictionary** with **164,524 entries** and 31,189 indexed inflected forms, packaged for e-readers: **Kindle** (`.mobi`), **Kobo** (`dicthtml`), **KOReader**, **Onyx Boox**, GoldenDict and other **StarDict** apps.
+<p align="center">
+  <a href="https://github.com/shahabahreini/English-Persian-Dictionary/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/shahabahreini/English-Persian-Dictionary?label=release&color=0b7f86"></a>
+  <img alt="164,524 entries" src="https://img.shields.io/badge/entries-164%2C524-0b7f86">
+  <img alt="Works offline" src="https://img.shields.io/badge/works-offline-0b7f86">
+  <a href="LICENSE"><img alt="MIT licence" src="https://img.shields.io/badge/licence-MIT-0b7f86"></a>
+</p>
 
-It is a revision and expansion of *English-Persian Dictionary v2.4* by H. Yazdani, as published by [hossein1376/English-Persian-Kindle-Custom-Dictionary](https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary), and is released under the MIT licence like that project. See [CREDITS.md](CREDITS.md).
+# English–Persian Dictionary for Kindle, Kobo & KOReader
 
-[**Website**](https://shahabahreini.github.io/English-Persian-Dictionary/) · [**صفحهٔ فارسی**](https://shahabahreini.github.io/English-Persian-Dictionary/fa/) · [**Change report**](https://shahabahreini.github.io/English-Persian-Dictionary/report.html) · [Download](#download) · [FAQ](#frequently-asked-questions) · [فارسی ↓](#فارسی)
+A free, offline **English-to-Persian (Farsi) dictionary** with **164,524 entries** and 31,189 indexed inflected forms, packaged for e-readers: **Kindle** (`.mobi`), **Kobo**, **KOReader**, **Onyx Boox**, GoldenDict and other **StarDict** apps. Long-press a word in a book and read the Persian meaning, with no internet connection.
 
-The [change report](https://shahabahreini.github.io/English-Persian-Dictionary/report.html) (source: [`docs/report.html`](docs/report.html)) lists every new, rewritten and corrected entry with the v2.4 text beside the new one, entry counts per subject section, and a search box.
+[**Download v3.1**](https://github.com/shahabahreini/English-Persian-Dictionary/releases/tag/v3.1.0) · [Website](https://shahabahreini.github.io/English-Persian-Dictionary/) · [صفحهٔ فارسی](https://shahabahreini.github.io/English-Persian-Dictionary/fa/) · [Change report](https://shahabahreini.github.io/English-Persian-Dictionary/report.html) · [FAQ](#frequently-asked-questions) · [فارسی ↓](#فارسی)
 
-## Contents
-[Download](#download) · [New in v3.1](#whats-new-in-v31) · [What changed](#what-changed-from-v24) · [Entry format](#entry-format) · [FAQ](#frequently-asked-questions) · [Known limits](#known-limits) · [Building](#building-the-kindle-files) · [Contributing](#contributing) · [Cite](#cite-this-work) · [Licence](#licence) · [فارسی](#فارسی)
+> **Read this first:** the new and rewritten Persian wording was produced by AI language models and has **not been reviewed by a human Persian editor**. See [Known limits](#known-limits). Corrections are very welcome.
 
----
+## At a glance
+
+| | |
+|---|---|
+| **Entries** | 164,524 headwords, 31,189 inflected forms (looking up *walked* opens *walk*) |
+| **Direction** | English → Persian |
+| **Devices** | Kindle, Kobo, KOReader (Kindle, Kobo, PocketBook, Boox, reMarkable, Android), Onyx Boox, GoldenDict, Moon+ Reader, any StarDict app |
+| **Subjects** | General vocabulary plus over 40 subject sections, from computing and medicine to philosophy and fashion |
+| **Licence** | MIT, free to use and redistribute |
+| **Based on** | *English-Persian Dictionary v2.4* by H. Yazdani, via [hossein1376/English-Persian-Kindle-Custom-Dictionary](https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary). See [CREDITS.md](CREDITS.md) |
 
 ## Download
 
+Pick your device, download the file (also attached to the [v3.1.0 release](https://github.com/shahabahreini/English-Persian-Dictionary/releases/tag/v3.1.0)) and follow the install step.
+
 | Your device | File | Install |
 |---|---|---|
-| **Kindle** (E Ink, all generations that showed Persian in v2.4) | [`dist/kindle/English-Persian.Dictionary.v3.1-classic.mobi`](dist/kindle/English-Persian.Dictionary.v3.1-classic.mobi) | Copy to the Kindle's `documents/dictionaries/` folder. In a book, long-press a word, tap the dictionary name, choose *English-Persian Dictionary v3.1*. Or set it in *Settings › Language & Dictionaries › Dictionaries › English*. |
-| **Kindle**, if the classic build shows sentences reversed (apps and firmware that handle right-to-left text) | [`dist/kindle/English-Persian.Dictionary.v3.1-rtl.mobi`](dist/kindle/English-Persian.Dictionary.v3.1-rtl.mobi) | Same as above. |
-| **Kobo** (firmware 4.24+) | [`dist/kobo/dicthtml-en-fa.zip`](dist/kobo/dicthtml-en-fa.zip) | Copy to `.kobo/custom-dict/` (create the folder if needed), eject, then pick it under *Settings › Language and dictionaries*. |
-| **KOReader** (Kindle, Kobo, PocketBook, Boox, reMarkable, Android), **Onyx Boox**, GoldenDict, Moon+ Reader, other StarDict apps | [`dist/stardict/English-Persian-v3.1-stardict.zip`](dist/stardict/English-Persian-v3.1-stardict.zip) | Unzip into `koreader/data/dict/` (KOReader) or the app's dictionary folder (Boox: `dicts/`). |
-| Readers that print HTML tags as text (CoolReader, early PocketBook / Onyx firmware) | [`dist/stardict/English-Persian-v3.1-stardict-plaintext.zip`](dist/stardict/English-Persian-v3.1-stardict-plaintext.zip) | Same as above. |
-| Your own tools | [`data/English-Persian.v3.1.tsv`](data/English-Persian.v3.1.tsv) | Tab-separated: headword, definition, sections, status, alternate forms. |
+| **Kindle** (E Ink) | [`English-Persian.Dictionary.v3.1-classic.mobi`](dist/kindle/English-Persian.Dictionary.v3.1-classic.mobi) | Copy to `documents/dictionaries/` on the Kindle. In a book, long-press a word, tap the dictionary name and choose *English-Persian Dictionary v3.1*. Or set it under *Settings › Language & Dictionaries › Dictionaries › English*. |
+| **Kindle**, if the classic build shows sentences reversed | [`English-Persian.Dictionary.v3.1-rtl.mobi`](dist/kindle/English-Persian.Dictionary.v3.1-rtl.mobi) | Same as above. For apps and firmware that handle right-to-left text. |
+| **Kobo** (firmware 4.24+) | [`dicthtml-en-fa.zip`](dist/kobo/dicthtml-en-fa.zip) | Copy to `.kobo/custom-dict/` (create it if needed), eject, then pick it under *Settings › Language and dictionaries*. |
+| **KOReader**, **Onyx Boox**, GoldenDict, Moon+ Reader, other StarDict apps | [`English-Persian-v3.1-stardict.zip`](dist/stardict/English-Persian-v3.1-stardict.zip) | Unzip into `koreader/data/dict/` (KOReader) or the app's dictionary folder (Boox: `dicts/`). |
+| Readers that print HTML tags as text (CoolReader, early PocketBook / Onyx firmware) | [`English-Persian-v3.1-stardict-plaintext.zip`](dist/stardict/English-Persian-v3.1-stardict-plaintext.zip) | Same as above. |
+| Your own tools | [`English-Persian.v3.1.tsv`](data/English-Persian.v3.1.tsv) | Tab-separated: headword, definition, sections, status, alternate forms. |
 
-### Why there are two Kindle builds
-Kindle dictionary pop-ups on E Ink devices lay text out left to right and do not reorder right-to-left scripts. Following v2.4, the **classic** build stores each definition with its words in reverse order so it *displays* correctly. The **RTL** build stores natural reading order in right-to-left paragraphs, for Kindle apps and firmware that handle bidirectional text. Try classic first; switch to RTL if sentences look reversed. The StarDict, Kobo and TSV files use normal reading order.
+**Which Kindle file?** Kindle pop-ups on E Ink lay text out left to right and do not reorder right-to-left scripts. Following v2.4, the **classic** build stores each definition with its words in reverse order so it *displays* correctly. The **RTL** build keeps natural order in right-to-left paragraphs. Try classic first; switch to RTL if sentences look reversed. The StarDict, Kobo and TSV files use normal reading order.
 
-> **Kindle tip:** if the old v2.4 dictionary is still installed, the two appear side by side. You can delete v2.4 once you are happy with v3.1. An installed v3.0 can be replaced the same way.
+> **Upgrading?** If v2.4 or v3.0 is still on the Kindle, delete it once you are happy with v3.1, or leave both and choose in the pop-up.
+
+## What an entry looks like
+
+```
+internet      [رایانه]       اینترنت، شبکهٔ جهانی
+smartphone    [الکترونیک]    گوشی هوشمند، تلفن هوشمند
+walked → walk [v.]           راه رفتن، قدم زدن، گام زدن
+```
+
+- `[n.]`, `[v.]`, `[adj.]` … part of speech. `[رایانه]`, `[پزشکی]`, `[حقوق]` … subject section.
+- `▪` separates sense groups (plain-text builds use `|`), `،` separates equivalents, `؛` separates distinct senses.
+- `(= colour)` is a cross-reference; `(گذشتهٔ go)`, `(جمعِ child)` mark irregular forms.
 
 ## What's new in v3.1
-Twelve new subject sections and a deeper vocabulary in existing ones, about 13,700 lines of new glossary material in all:
 
-- **10,085 new entries** and **3,589 subject senses** added to existing words (always after the current definition, never ahead of it).
-- **New sections:** Philosophy & logic, Earth & environmental sciences, Statistics, Arts (visual arts, photography, film, theatre, dance), Literature, History & archaeology, Sociology & anthropology, Education, Agriculture & veterinary science, Transport & logistics, Media & communication, Fashion & textiles.
-- **Deeper sections:** Informal & slang (1,045 → 2,514), Mathematics, Physics, Astronomy, Psychology, Linguistics, Music, Architecture, Civil engineering, Sports, plus about 1,800 everyday compounds, idioms, phrasal verbs and proverbs (given with the matching Persian proverb where one exists).
-- Each subject glossary was written to [`pipeline/guidelines/SPEC.md`](pipeline/guidelines/SPEC.md) and then reviewed line by line in a separate pass for wrong equivalents, calques, false friends, register and spelling. No v3.0 definition was removed or reworded: a check confirms every v3.0 entry is still present and starts with its v3.0 text.
+Twelve new subject sections and a deeper vocabulary in existing ones, about 13,700 lines of new glossary material.
+
+- **10,085 new entries** and **3,589 subject senses** added to existing words, always after the current definition, never ahead of it.
+- **New sections:** Philosophy & logic, Earth & environmental sciences, Statistics, Arts, Literature, History & archaeology, Sociology & anthropology, Education, Agriculture & veterinary science, Transport & logistics, Media & communication, Fashion & textiles.
+- **Deeper sections:** Informal & slang (1,045 → 2,514), Mathematics, Physics, Astronomy, Psychology, Linguistics, Music, Architecture, Civil engineering, Sports, plus about 1,800 everyday compounds, idioms, phrasal verbs and proverbs (with the matching Persian proverb where one exists).
+- **Fix:** 94 entries that showed a stray subject code such as `slang|` at the start of a sense are corrected.
+- **Checked:** each glossary was written to [`pipeline/guidelines/SPEC.md`](pipeline/guidelines/SPEC.md), then reviewed line by line in a separate pass. A check confirms every v3.0 entry is still present and starts with its v3.0 text.
+
+Full details: [CHANGELOG.md](CHANGELOG.md).
 
 ## What changed from v2.4
 
 | | |
 |---|---|
 | Entries | 145,075 → 154,439 (v3.0) → **164,524** (v3.1) |
-| New entries | **21,578**: 11,493 in v3.0 (modern vocabulary such as internet, smartphone, podcast; science, medicine, business, phrasal verbs, idioms, slang) and 10,085 in v3.1 (subject glossaries above) |
+| New entries | **21,578**: 11,493 in v3.0 (internet, smartphone, podcast; science, medicine, business, phrasal verbs, idioms, slang) and 10,085 in v3.1 |
 | Core definitions rewritten | **7,016** of the most frequent words: most common sense first, senses grouped by part of speech, wrong equivalents removed |
 | Existing definitions improved or extended | **5,344** entries, including 2,210 modern senses (v3.0), 3,589 subject senses (v3.1) and 535 very short definitions replaced |
 | Orthography normalised | **106,983** entries: Persian ی/ک, restored آ, half-spaces (می‌, ‌ها, ‌ترین), tanvin, ezafe marks, quotation marks |
@@ -50,11 +82,14 @@ Twelve new subject sections and a deeper vocabulary in existing ones, about 13,7
 | Duplicates merged | 2,128 |
 | Garbled headwords cleaned | 97 |
 | Cross-references resolved | 85 |
-| Inflected forms indexed | 31,189, so looking up *walked* opens *walk* |
+| Inflected forms indexed | 31,189 |
 | Corrupted numbers fixed | e.g. «¹¹6» → 600 |
 | Unchanged | 25,882 |
 
-### Entries by subject section
+<details>
+<summary><b>Entries by subject section</b> (v2.4 → v3.0 → v3.1)</summary>
+
+<br>
 
 | Section | v2.4 | v3.0 | v3.1 |
 |---|---:|---:|---:|
@@ -92,13 +127,11 @@ Twelve new subject sections and a deeper vocabulary in existing ones, about 13,7
 | Abbreviations | – | 275 | 301 |
 | Religion | – | 165 | 165 |
 
-An entry with senses in several sections is counted in each. The [report](https://shahabahreini.github.io/English-Persian-Dictionary/report.html) has the full table, including smaller sections.
+An entry with senses in several sections is counted in each.
 
-## Entry format
-- `[n.]`, `[v.]`, `[adj.]` … part of speech.
-- `[رایانه]`, `[پزشکی]`, `[حقوق]` … subject section.
-- `▪` separates sense groups (plain-text builds use `|`), `،` separates equivalents, `؛` separates distinct senses.
-- `(= colour)` is a cross-reference; `(گذشتهٔ go)`, `(جمعِ child)` mark irregular forms.
+</details>
+
+The [change report](https://shahabahreini.github.io/English-Persian-Dictionary/report.html) (source: [`docs/report.html`](docs/report.html)) lists every new, rewritten and corrected entry with the v2.4 text beside the new one, counts per section, and a search box.
 
 ## Frequently asked questions
 
@@ -121,6 +154,7 @@ Yes. 31,189 inflected forms are indexed and open their base entry.
 No. See [Known limits](#known-limits).
 
 ## Known limits
+
 Please read these before relying on the dictionary for anything important.
 
 - **Not verified on every device.** Both Kindle builds were compiled with Amazon's kindlegen and read back to confirm all 164,524 headwords; StarDict and Kobo look-ups were resolved programmatically. Nothing has been checked screen by screen on each e-reader generation, and the RTL build has not been tried on a device. Please [open an issue](https://github.com/shahabahreini/English-Persian-Dictionary/issues/new/choose) if something displays wrongly, with the device model and firmware.
@@ -129,14 +163,16 @@ Please read these before relying on the dictionary for anything important.
 - **Typo correction was limited** to headwords within one edit of a known English word. Further-off misspellings and wrong words that are valid English remain.
 - **No PocketBook `.dic` build.** Use KOReader with the StarDict files on PocketBook.
 
-## Building the Kindle files
-Both compiled `.mobi` files are in `dist/kindle`. To rebuild them, generate the Kindle sources with the pipeline (see [pipeline/README.md](pipeline/README.md)), then compile with Amazon's `kindlegen`, which ships inside [Kindle Previewer](https://kdp.amazon.com/en_US/help/topic/G202131170):
+## Contributing
 
-```bash
-kindlegen dict.opf -c1 -dont_append_source -o English-Persian.Dictionary.v3.1.mobi
-```
+Corrections are welcome. For a wrong or awkward translation, [open a translation correction](https://github.com/shahabahreini/English-Persian-Dictionary/issues/new/choose) with the headword, the current definition and your suggested one. If a dictionary displays wrongly on your device, use the device report form. Fixes can also be sent as pull requests against `data/English-Persian.v3.1.tsv` (the pipeline's inputs live under `pipeline/`).
 
-## Repository layout
+## Under the hood
+
+<details>
+<summary><b>Repository layout, rebuilding the Kindle files, citation, licence</b></summary>
+
+<br>
 
 ```
 dist/       ready-to-install files: Kindle (classic and RTL), Kobo, StarDict
@@ -145,17 +181,19 @@ docs/       GitHub Pages site (generated by pipeline/scripts/build_site.py): Eng
 pipeline/   scripts and editorial data used to produce this revision
 ```
 
-For AI assistants and crawlers: [`llms.txt`](llms.txt) is a concise index, and [`docs/llms-full.txt`](docs/llms-full.txt) has the full facts in one file.
+**Rebuilding.** Both compiled `.mobi` files are in `dist/kindle`. To rebuild them, generate the Kindle sources with the pipeline (see [pipeline/README.md](pipeline/README.md)), then compile with Amazon's `kindlegen`, which ships inside [Kindle Previewer](https://kdp.amazon.com/en_US/help/topic/G202131170):
 
-## Contributing
-Corrections are welcome. For a wrong or awkward translation, [open a translation correction](https://github.com/shahabahreini/English-Persian-Dictionary/issues/new/choose) with the headword, the current definition and your suggested one. Fixes that follow the conventions above can be sent as pull requests against `data/English-Persian.v3.1.tsv` (the pipeline's inputs live under `pipeline/`).
+```bash
+kindlegen dict.opf -c1 -dont_append_source -o English-Persian.Dictionary.v3.1.mobi
+```
 
-## Cite this work
-GitHub's *Cite this repository* button reads [`CITATION.cff`](CITATION.cff). Please also credit the [upstream project](https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary).
+**For AI assistants and crawlers:** [`llms.txt`](llms.txt) is a concise index, and [`docs/llms-full.txt`](docs/llms-full.txt) has the full facts in one file.
 
-## Licence
-[MIT](LICENSE), the same licence as the upstream project. The copyright notice of the original project is retained.
-See [CREDITS.md](CREDITS.md) for the provenance of the word list.
+**Cite.** GitHub's *Cite this repository* button reads [`CITATION.cff`](CITATION.cff). Please also credit the [upstream project](https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary).
+
+**Licence.** [MIT](LICENSE), the same licence as the upstream project, with the original copyright notice retained. See [CREDITS.md](CREDITS.md) for the provenance of the word list.
+
+</details>
 
 ---
 

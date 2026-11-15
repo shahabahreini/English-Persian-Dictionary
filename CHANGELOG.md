@@ -1,7 +1,7 @@
 # Changelog
 
-## 3.1.0
-Subject expansion. See [docs/report.html](docs/report.html) for the report and [data/changelog.tsv](data/changelog.tsv) for the per-entry changes (entries marked `subject-sense-added` or `new-entry` with a v3.1 section).
+## 3.1.0 (2026-11-14)
+[Release v3.1.0](https://github.com/shahabahreini/English-Persian-Dictionary/releases/tag/v3.1.0). Subject expansion. See [docs/report.html](docs/report.html) for the report and [data/changelog.tsv](data/changelog.tsv) for the per-entry changes (entries marked `subject-sense-added` or `new-entry` with a v3.1 section).
 
 - 164,524 entries (v3.0: 154,439): 10,085 new entries and 3,589 subject senses added to existing entries.
 - Twelve new subject sections: Philosophy & logic, Earth & environmental sciences, Statistics, Arts, Literature, History & archaeology, Sociology & anthropology, Education, Agriculture & veterinary science, Transport & logistics, Media & communication, Fashion & textiles.
