@@ -26,16 +26,7 @@ A free, offline **English-to-Persian (Farsi) dictionary** with **164,524 entries
 
 ### Start here: [**open the website, pick your device and download**](https://shahabahreini.github.io/English-Persian-Dictionary/)
 
-The [project website](https://shahabahreini.github.io/English-Persian-Dictionary/) is the easiest place to start: choose your e-reader (Kindle, Kobo, KOReader, Onyx Boox) and it shows the right file with step-by-step install instructions. A Persian version is at [شروع از صفحهٔ فارسی](https://shahabahreini.github.io/English-Persian-Dictionary/fa/).
-
-| Where to click | What you get |
-|---|---|
-| [**Website**](https://shahabahreini.github.io/English-Persian-Dictionary/) | Device picker, install guides, FAQ |
-| [**Release v3.1.0**](https://github.com/shahabahreini/English-Persian-Dictionary/releases/tag/v3.1.0) | Direct downloads of every file |
-| [Change report](https://shahabahreini.github.io/English-Persian-Dictionary/report.html) | Every new and corrected entry, searchable |
-| [صفحهٔ فارسی](https://shahabahreini.github.io/English-Persian-Dictionary/fa/) | Persian site with installation guide |
-
-[Download table](#download) · [FAQ](#frequently-asked-questions) · [فارسی ↓](#فارسی)
+The [project website](https://shahabahreini.github.io/English-Persian-Dictionary/) is the easiest place to start: choose your e-reader (Kindle, Kobo, KOReader, Onyx Boox) and it shows the right file with step-by-step install instructions. Prefer a direct download? Every file is attached to the [v3.1.0 release](https://github.com/shahabahreini/English-Persian-Dictionary/releases/tag/v3.1.0). Persian speakers can start at the [Persian site](https://shahabahreini.github.io/English-Persian-Dictionary/fa/).
 
 > **Read this first:** the new and rewritten Persian wording was produced by AI language models and has **not been reviewed by a human Persian editor**. See [Known limits](#known-limits). Corrections are very welcome.
 

@@ -13,8 +13,8 @@ render() { # name width height
   echo "$OUT/$1.png"
 }
 render hero 1280 560
-render stats 1280 150
-render devices 1280 390
-render entry 1280 470
-render v31 1280 590
-render sections 1280 500
+render stats 1280 175
+render devices 1280 470
+render entry 1280 585
+render v31 1280 635
+render sections 1280 520
