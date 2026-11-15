@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://shahabahreini.github.io/English-Persian-Dictionary/"><img src="docs/assets/github-social-preview.png" alt="English–Persian Dictionary v3.1: 164,524 entries for Kindle, Kobo, KOReader, Onyx Boox and StarDict. Free, offline, MIT licence." width="860"></a>
+  <a href="https://shahabahreini.github.io/English-Persian-Dictionary/"><img src="docs/assets/readme/hero.png" alt="English–Persian Dictionary, version 3.1. 164,524 entries for Kindle, Kobo, KOReader, Onyx Boox and StarDict apps. Free, offline, MIT licence. A dictionary pop-up shows the Persian meaning of the word resilience." width="100%"></a>
 </p>
 
 <p align="center">
@@ -9,11 +9,22 @@
   <a href="LICENSE"><img alt="MIT licence" src="https://img.shields.io/badge/licence-MIT-0b7f86"></a>
 </p>
 
+<p align="center">
+  <a href="https://shahabahreini.github.io/English-Persian-Dictionary/"><b>Website</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/shahabahreini/English-Persian-Dictionary/releases/tag/v3.1.0"><b>Download</b></a> &nbsp;·&nbsp;
+  <a href="#download">Install guide</a> &nbsp;·&nbsp;
+  <a href="https://shahabahreini.github.io/English-Persian-Dictionary/report.html">Change report</a> &nbsp;·&nbsp;
+  <a href="#frequently-asked-questions">FAQ</a> &nbsp;·&nbsp;
+  <a href="#فارسی">فارسی</a>
+</p>
+
+<p align="center"><img src="docs/assets/readme/stats.png" alt="164,524 entries, 31,189 inflected forms indexed, 42 subject sections, 7,016 core words rewritten, 5 install-ready builds." width="100%"></p>
+
 # English–Persian Dictionary for Kindle, Kobo & KOReader
 
 A free, offline **English-to-Persian (Farsi) dictionary** with **164,524 entries** and 31,189 indexed inflected forms, packaged for e-readers: **Kindle** (`.mobi`), **Kobo**, **KOReader**, **Onyx Boox**, GoldenDict and other **StarDict** apps. Long-press a word in a book and read the Persian meaning, with no internet connection.
 
-### 👉 [**Open the website: pick your device and download**](https://shahabahreini.github.io/English-Persian-Dictionary/)
+### Start here: [**open the website, pick your device and download**](https://shahabahreini.github.io/English-Persian-Dictionary/)
 
 The [project website](https://shahabahreini.github.io/English-Persian-Dictionary/) is the easiest place to start: choose your e-reader (Kindle, Kobo, KOReader, Onyx Boox) and it shows the right file with step-by-step install instructions. A Persian version is at [شروع از صفحهٔ فارسی](https://shahabahreini.github.io/English-Persian-Dictionary/fa/).
 
@@ -32,14 +43,15 @@ The [project website](https://shahabahreini.github.io/English-Persian-Dictionary
 
 | | |
 |---|---|
-| **Entries** | 164,524 headwords, 31,189 inflected forms (looking up *walked* opens *walk*) |
 | **Direction** | English → Persian |
 | **Devices** | Kindle, Kobo, KOReader (Kindle, Kobo, PocketBook, Boox, reMarkable, Android), Onyx Boox, GoldenDict, Moon+ Reader, any StarDict app |
-| **Subjects** | General vocabulary plus over 40 subject sections, from computing and medicine to philosophy and fashion |
+| **Coverage** | General vocabulary plus over 40 subject sections, from computing and medicine to philosophy and fashion. Looking up *walked* opens *walk* |
 | **Licence** | MIT, free to use and redistribute |
 | **Based on** | *English-Persian Dictionary v2.4* by H. Yazdani, via [hossein1376/English-Persian-Kindle-Custom-Dictionary](https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary). See [CREDITS.md](CREDITS.md) |
 
 ## Download
+
+<p align="center"><img src="docs/assets/readme/devices.png" alt="Choose your reader: Kindle uses the .mobi file in documents/dictionaries; Kobo uses dicthtml in .kobo/custom-dict; KOReader, Onyx Boox and other StarDict apps use the StarDict zip." width="100%"></p>
 
 Pick your device, download the file (also attached to the [v3.1.0 release](https://github.com/shahabahreini/English-Persian-Dictionary/releases/tag/v3.1.0)) and follow the install step.
 
@@ -56,19 +68,17 @@ Pick your device, download the file (also attached to the [v3.1.0 release](https
 
 > **Upgrading?** If v2.4 or v3.0 is still on the Kindle, delete it once you are happy with v3.1, or leave both and choose in the pop-up.
 
-## What an entry looks like
+## How to read an entry
 
-```
-internet      [رایانه]       اینترنت، شبکهٔ جهانی
-smartphone    [الکترونیک]    گوشی هوشمند، تلفن هوشمند
-walked → walk [v.]           راه رفتن، قدم زدن، گام زدن
-```
+<p align="center"><img src="docs/assets/readme/entry.png" alt="Anatomy of an entry. The entry for colour marks the headword, the part of speech [n.], a cross-reference (= color), equivalents separated by the Persian comma and distinct senses separated by the Persian semicolon. The entry for podcast shows the subject label [computing]. Walked leads to walk." width="100%"></p>
 
 - `[n.]`, `[v.]`, `[adj.]` … part of speech. `[رایانه]`, `[پزشکی]`, `[حقوق]` … subject section.
 - `▪` separates sense groups (plain-text builds use `|`), `،` separates equivalents, `؛` separates distinct senses.
 - `(= colour)` is a cross-reference; `(گذشتهٔ go)`, `(جمعِ child)` mark irregular forms.
 
 ## What's new in v3.1
+
+<p align="center"><img src="docs/assets/readme/v31.png" alt="What is new in v3.1: entries grew from 145,075 in v2.4 and 154,439 in v3.0 to 164,524, with twelve new subject sections from Philosophy and logic (1,181 entries) to Media and communication (376)." width="100%"></p>
 
 Twelve new subject sections and a deeper vocabulary in existing ones, about 13,700 lines of new glossary material.
 
@@ -96,6 +106,8 @@ Full details: [CHANGELOG.md](CHANGELOG.md).
 | Inflected forms indexed | 31,189 |
 | Corrupted numbers fixed | e.g. «¹¹6» → 600 |
 | Unchanged | 25,882 |
+
+<p align="center"><img src="docs/assets/readme/sections.png" alt="Coverage by subject: Engineering 7,110, Computing 5,399, Business and economics 4,335, Sports 4,155, Chemistry 4,010, Law 4,005, and so on down to Music 631. Sections new in v3.1 are highlighted." width="100%"></p>
 
 <details>
 <summary><b>Entries by subject section</b> (v2.4 → v3.0 → v3.1)</summary>
